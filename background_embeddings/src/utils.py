@@ -25,6 +25,7 @@ def probability_distribution(count_table, alpha):
 def numpy_sample(count, probs):
     return np.random.choice(len(probs), count, p=probs)
 
+""" Alias method from https://github.com/guyemerson/sem-func/blob/master/src/core/utils.py"""
 
 def init_alias(prob):
     """

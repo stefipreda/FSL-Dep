@@ -24,9 +24,9 @@ for article_path in article_paths:
         doc = nlp(chunk)
         # Write the dependency pairs to the file.
         for token in doc:
-            if token.text in vocab.keys( ) and token.head.text in vocab.keys() and token.dep_ != 'punct':
+            if token.text in vocab.keys() and token.head.text in vocab.keys() and token.dep_ != 'punct':
                 # don't take into account the dependencies with punctuation                
-		# don't take into account spaces
+                # don't take into account spaces
                 if token.text != " " and token.head.text != " " and "\n" not in token.text and "\n" not in token.head.text:
                     parsed_file.write(token.text + " " + token.head.text + " " + token.dep_ + "\n")
     parsed_file.close()
