@@ -1,0 +1,255 @@
+the receiving gear on the aircraft could match up the its own unique pulse pattern with that sent back by the transponder .
+the ground transmitter radiates a cw signal of 890 mhz to the transponder in the vehicle .
+older racons operate in a slow sweep mode , in which the transponder sweeps across the x - band over 1 or 2 minutes .
+they may also contain an rfid tag , a transponder device and/or a microchip mostly used for business premises access control or electronic payment .
+the transponder can also send encoded information about the aircraft , such as identity and altitude .
+the 5060.194 mhz ( plus doppler ) signal entering the transponder receiver is mixed with a fraction of the retransmitted signal to produce a 60.194 mhz offset frequency .
+the antenna used by the zaslon is actually a multi - channel system comprising two separate electronically controlled arrays , an x - band radar with 1700 emitters and a l - band transponder with 64 emitters brought together into a single antenna .
+it was first broadcast from the crowded transponder 47 on the astra 1c satellite , where it would broadcast for four hours between 4 p.m. and 8 p.m. on weekdays .
+on 8 april 1991 , music channel the power station closed down on bsb 's satellite and sky movies subsequently launched on that transponder .
+the information will typically show an aircraft id , if the transponder code is associated with a known flight plan , the altitude , and speed .
+in são paulo there is also a statewide electronic collection system using a plastic transponder ( e - tag ) attached to the windscreen , named " semparar .
+the two originally shared an analogue transponder on one of the anik satellites , with computer - generated local forecasts airing on one while the video feed of a live forecaster or tv commercials aired on the other .
+transmitters aboard the spacecraft included a 60 w tv channel f at 959.52 mhz , a 60 w tv channel p at 960.05 mhz , and a 3 w transponder channel 8 at 960.58 mhz .
+the ussr originally registered seven locations and transponder frequencies for the us - kmo network with the ittu , stating that they would be occupied between 1984 and 1990 .
+with passengers and crew unconscious from cabin decompression , the plane lost radio contact but remained in transponder contact until it crashed .
+the range to the transponder is found by measuring the phase difference between transmitted and received signal .
+each iff transponder also has a kir or kit cryptography computer associated with it .
+filmnet became the first channel on the satellite when it launched on transponder 11 on february 1 .
+the transponder reflected the signals , which were then received by the two stations .
+starfish television network 's all - digital standard definition signal is broadcast on c - band galaxy 17 transponder 19 slot c as an " in - the - clear " dvb channel .
+the scientific instruments consisted of an ion chamber and geiger - müller tube to measure total radiation flux , a proportional radiation counter telescope to measure high energy radiation , a scintillation counter to monitor low - energy radiation , a vlf receiver for natural radio waves , a transponder to study electron density , and part of the television facsimile system and flux - gate and search coil magnetometers mounted on the instrument platform .
+mode - s interrogators require the sum and difference channels to provide the monopulse capability to measure the off - boresight angle of the transponder reply .
+the rebecca / eureka transponding radar was a transponder system used as a radio homing beacon by means of a " eureka " ground emitter responding to queries from an airborne rebecca interrogator .
+eutelsat hotbird 6 - 13 degrees east , transponder # 89 , vertical lnb polarization ; satellite frequency : 12.597 ghz
+the other transponder continued to operate until june 9 , 1967 , when it too failed to operate normally .
+to promote the sky multichannels package on the astra satellites , a selection of channels were placed on sky 's preview channel on transponder 47 of astra 1c in the clear .
+the basic system used a ground station located down range from the launch site ( at valkaria , florida and eleuthera island , bahamas ) and a transponder on the vehicle .
+their newer line is the ego windshield sticker transponder system , which is a low - cost , batteryless system designed for one - time attachment to a windshield .
+above this limit the transponder avoids overload by limiting the gain of the receiver .
+the fm mode , allowed one station to utilize the entire bandwidth of the spacecraft transponder , and had the tgs shf transmitter operating in fm .
+( e - zpass is a transponder consortium of toll road authorities on the east coast . )
+people will be able to use a transponder unit known as a tolltag attached to a vehicle 's windshield , which communicates with overhead sensors to deduct tolls from the user 's toll account .
+it will be replaced by the microwave 5.8 ghz transponder systems which are currently undergoing testing under the purview of malaysian highway authority ( mha ) .
+the pts transponder and transreader also supplies product information about the two pieces of equipment involved in the transfer to ensure that products are not mixed .
+the type - c transponder uses transistors in all circuitry except for the klystron .
+due to the outcry of satellite dish owners who missed wwor , the station was returned to the satellite on a different transponder by less than a month after aec 's discontinuation .
+it is trivial to transmit a carrier to a geostationary satellite and thus interfere with any other users of the transponder .
+all participants wear a slipover , which functions as the baton and also hosts a transponder that registers the stage times .
+thirty seconds after liftoff the general electric - burroughs guidance system locked onto a radio transponder in the booster to guide the vehicle to orbit .
+when a driver enters the 407 , if he or she does not have a valid transponder in the vehicle , the 407 snaps a picture of the license plate and receives information about the person the plate is registered to , including the name and address , from the ontario ministry of transportation .
+users who do not have a toll tag ( called a " transponder " ) in their vehicle are tracked by automatic number plate recognition , with the toll bill being mailed to the address of the plate on file .
+watertown municipal airport was the site of the first transponder landing system in the united states .
+boston artcc made multiple attempts to talk to flight 11 but got no reply , and at 08:21 , the flight stopped transmitting its mode - c transponder signal .
+the azusa type - c transponder used in the saturn vehicles is a part of the overall automatic frequency control ( afc ) loop in the azusa system .
+the telescope 's data are relayed daily via a 2 ghz transponder providing a 667s downlink to a 70 m deep space network telescope .
+any requirement at the transponder to detect and act upon a p2 pulse 2μs after p1 has been removed from the new and improved tso c74c specification .
+the transponder must be suppressed for a period of 35 ±10 microseconds following receipt of a pulse pair of proper spacing and suppression action must be capable of being reinitiated for the full duration within 2 microseconds after the end of any suppression period .
+the key fob utilizes a radio - frequency transponder to communicate with the door locks , but it uses infrared to communicate with the engine immobilizer system .
+in 1985 a&e moved to its own dedicated transponder to deliver 24 hour programming , and nickelodeon added its nick at nite block .
+using the express lanes as a lone driver without a transponder during charged periods , or crossing the double white lines will result in a large fine placed upon the driver .
+a minute later , the transponder was turned off , but the cleveland controller continued to monitor the flight on primary radar .
+transportation corridor agencies ( tca ) , operators of the orange county toll roads , charges requires a $ 30 deposit for each transponder and a prepayment of $ 45 in tolls .
+each vehicle without a sunpass transponder is photographed and the license plate read .
+use of a radio or transponder is not required , even in imc .
+with data compression and multiplexing , several video ( including digital video ) and audio channels may travel through a single transponder on a single wideband carrier .
+according to the highway 407 act , section 13(1 ) , the 407 can only charge a driver under two conditions : the name of the person whom the plate portion of the vehicle is issued to , or the name of the person whom the transponder unit affixed in the vehicle is issued to .
+since the device is carried by the driver , usually in their wallet or pocket , if the driver leaves the immediate vicinity of the vehicle , so will the transponder , causing the system to assume the vehicle has been hijacked and disable it .
+the coupling between the transponder and the on - board antenna is inductive .
+they then affix that transponder to the machine to be raced .
+footage of the radar screens at the time of the incident reveals that the primary radar lost contact with the legacy altogether , which should have been operating independently of the legacy 's transponder 's operation .
+an acoustic pulse is transmitted by the transceiver and detected by the subsea transponder , which replies with its own acoustic pulse .
+when a vehicle does not have a transponder , its license plate is scanned and the vehicle identified .
+8:21 flight 11 's transponder signal is turned off , but the plane remains on radar screens as a blip without additional information .
+each state charges the other a transaction fee when the out - of - state transponder is used to pay a toll .
+" the player would have to ask the vfr pilot to squawk their transponder , making the vfr craft 's icon bloom on the screen .
+a close alternative is to use ' out - of - parlour - feeders ' , stalls that respond to a transponder around the cow 's neck that is programmed to provide each cow with a supplementary feed , the quantity dependent on her production , stage in lactation , and the benefits of the main ration
+standard avionics include a garmin 530 gps - comm , a 430 gps - comm and a gtx 327 transponder , along with an intercom system and audio control panel .
+for east boston residents , a discount is in effect using a fast lane transponder , costing $ 0.40 .
+to communicate to air traffic control that an aircraft is being hijacked , a pilot under duress should squawk 7500 or vocally , by radio communication , transmit " ( aircraft callsign ) ; transponder seven five zero zero . " this should be done when possible and safe .
+she managed to maintain her daily weblog right up until day 80 when her satellite phone failed , leaving only the movement detected by her positional transponder to indicate that she was still alive .
+many people who have transponder keys are not aware of the fact because the circuit is hidden inside the plastic head of the key .
+in january , 1988 , burlington northern equipped 1,500 taconite ( iron ore pellets ) rail cars in northern minnesota each with a grs and an amtech transponder .
+transponder ( satellite communications ) .
+this means that a 70 cm to 2 m transponder which repeats 432.000 mhz - 432.100 mhz to 146.000 - 146.100 mhz would take a signal at 432.001 mhz and repeat it to 146.099 mhz ; vice versa .
+the transponder consists of five functional systems : superheterodyne receiver , decoder , modulator , transmitter , and power supply .
+as a prepass vehicle approaches an equipped facility , an electronic " reader " on a boom over the freeway interrogates the transponder .
+the first satellite of a new second series , express a-1 , had 12 alcatel - built transponder .
+iff transponder equipment was fitted in the rear fuselage .
+the company uses a transponder on the galaxy 11 satellite.[2][3 ]
+in general , transponder timing is economic only for larger events of more than 1,000 participants .
+each car has an active transponder with a unique i d code .
+later that same year , hbo leased a transponder on satcom 1 and began transmission of television programs via satellite to cable systems .
+in addition , a clearance typically provides a heading or route to follow , altitude , and communication parameters , such as frequencies and transponder codes .
+these include extensive video surveillance and the transponder timing rfid system that monitors electronically when runners arrive at various checkpoints on the course .
+a radio antenna detects when a vehicle with a transponder has entered and exited the highway , calculating the toll rate .
+launched in march 1990 , broadcasting from london , the channel has broadcast for two hours each night from 8 pm ( gmt ) on the lifestyle transponder 5 on the astra 1a satellite in analogue format ( frequency 11.273 mhz , time - sharing with the children 's channel , lifestyle and the lifestyle satellite jukebox ) .
+an adult greater spotted was tagged with a satellite transponder in 1993 in order to track migration .
+additionally fltsatcom 7 and 8 had an experimental ehf transponder built by lincoln laboratory intended to test the milstar ground terminals .
+all tolls are collected using an open road tolling system , with each vehicle required to carry a fastrak rfid transponder ; there are no toll booths to receive cash .
+even with loss of transponder - based secondary radar returns , aircraft can usually be tracked with long range primary radar through the use of repetitive triangulation iterations via multiple radars at precisely known distances , as used in the joint surveillance system .
+the aircraft interrogates the ground transponder with a series of pulse - pairs ( interrogations ) and , after a precise time delay ( typically 50 microseconds ) , the ground station replies with an identical sequence of reply pulse - pairs .
+the satellite communication industry is often broken into four sectors : transponder leasing , subscription satellite services , ground equipment manufacturing , and satellite manufacturing .
+however , an important advantage to using i - pass is that the main toll plazas have been rebuilt to use open road tolling so that i - pass users can drive straight through the toll plaza passing under transponder antennas at normal speeds , while cash customers must pull off to the side of the road and stop at conventional toll booths .
+now he carries a transponder that traces the money via a tracking device concealed inside the satchel to moss 's hideout .
+the cash price is twice the transponder price .
+during this stretch the boat 's transponder was damaged and the marine tracker stopped working .
+this highway allows an optional way of paying called e - zpass , in which tolls are paid electronically through a transponder attached to the car behind its rear - view mirror or attached to the front bumper .
+eight standard definition channels are currently free - to - view — five ( also available free to air on different transponder ) , five usa , five usa + 1 , fiver , fiver+1 , lfc tv , sky3 and viva — plus one high definition channel - channel 4 hd .
+the term may originate from the 5-character uppercase abbreviated notation " nordo " displayed on controllers ' radar scopes when an aircraft transmits the " radio failure " code on its transponder .
+the station was on the vh1 tv channel transponder using the analogue transmission system known as panda .
+pass , which allows frequent users to bypass the toll booths by way of a prepaid transponder placed on the inside of the windshield .
+the spi pulse is turned on by the " identity control " on the transponder in the aircraft cockpit when requested by air traffic control .
+the " video toll " charge will be applied to any vehicle that does not have a transponder .
+a portion of the transponder capacity was to be held by tvnz for its own free to air broadcasts with the remainder being used for the telstrasaturn 's pay television services .
+the missile tracking radar ( mtr ) tracked the missile by way of a transponder , as the missile 's radar signature alone was not sufficient .
+the channel started broadcasting in 1996 as a part of the analogue viasat package , only broadcasting in the morning , sharing one transponder on sirius 1 ( previously marcopolo 1 ) with ztv and one on tv sat 2 shared with 3 + and other danish channels .
+two satellites were also launched : mepsi ( microelectromechanical system - based picosat inspector ) resembles a pair of tethered coffee - cups , and is being tested as a reconnaissance option for disabled satellites ; raft ( radar fence transponder ) is a pair of 5 " cubes built by the u.s. naval academy which will test space radar systems and also act as data relays for mobile ground communications .
+oboe used two stations at different and well - separated locations in england to transmit a signal to a mosquito pathfinder bomber carrying a radio transponder .
+the owner of the car may not even be aware that the transponder is there because there are no buttons to press .
+the " convenience plan " only requires a one - time non - refundable $ 75 per transponder enrollment fee .
+the change in the satellite was to increase the channel offering as nss 6 offered more transponder capacity .
+each crew member is given a radio receiver locked onto a transponder in its particular bmd , allowing each bmd crewman to quickly locate his respective vehicle after the airdrop .
+similarly , the traffic collision avoidance system installed on large aircraft as a last resort safety net needs the altitude information supplied by transponder signals .
+after mason pulls back out of the estate with nikita in his car , roland follows them , using the signal from the transponder in nikita 's necklace .
+when on the track , the transponder works with a hardware beacon and software system that records racers lap times , position , and other data , and feeds it to the race officials software system , which then allows the officials to know in real - time what is happening with the race .
+some agencies , instead of charging periodic account fees , charge a one - time fee between $ 20.00 and $ 30.00 for each new transponder , including the delaware department of transportation and the new hampshire department of transportation .
+following the transponder signature of zoe 's group 's helicopter , wolf follows behind them into the valley with a large force of congolese mercenaries and launches an attack on the neetha tribe .
+as each transponder was passed , the moving vehicle would query and receive an ack , or handshake , from the signpost transmitter .
+pathfinder troop carrier crews and airborne troops were trained with radar transponder systems that were utilized as a navigational aid for incoming troop carrier serials .
+from 1994 it shared a transponder on the astra 1c satellite with the discovery channel , which started its broadcasts at 4 p.m. ( gmt ) .
+a microwave repeater in a communications satellite is called a transponder .
+the position of the vehicle ( transponder ) is determined at the azusa ground stations by measuring range ( " r " ) and two direction cosines ( " l " , " m " ) with respect to the antenna baselines .
+when " bravo " was revamped in 1997 to become a channel targeting a male audience ( marketed as " an altered species of television " ) , it broadcast only during the evenings and nights , with " trouble " occupying its transponder space during the day . " the children 's channel " was closed in 1998 , leaving " trouble " to target teens and young adults .
+it should be noted that even while the dispute is being processed by an arbitrator , once 90 days pass after the notice of failure to pay was sent and the account remains unpaid , the 407 will notify the registrar of motor vehicles to deny plate renewal and issuance of new plates for the name of the person who the plate portion attached to the vehicle incurring the toll is issued to , or the name of the person who the transponder in the vehicle incurring the toll is registered to .
+this led to the 1986 attack on hbo 's transponder on galaxy 1 by captain midnight .
+in this " merger " sky was the dominant force and their system of transponder lease from astra satellites was maintained .
+lifestyle was a british daytime television channel dedicated to women and family , and was broadcast on cable and on the transponder 5 of the astra satellite .
+the signal from the transponder received at the ground stations contains a 2-way doppler shift fd which is extracted by mixing the received signal ( fi = 960 mhz + fd ) with the reference frequency ( fr = 960 mhz ) derived from the transmitter frequency .
+another mode called mode s ( selective ) is designed to help avoiding overinterrogation of the transponder ( having many radars in busy areas ) and to allow automatic collision avoidance .
+the transponder receives coded or single pulse interrogation from ground stations and transmits a single - pulse reply in the same frequency band .
+the aircraft approached " hobart " with its iff transponder switched off , and fired three missiles during two passes .
+a good auto locksmith will be able to cut a new car key , clone the transponder and reproduce a key fob that activates the vehicles central locking system .
+as the cost of transponder tags have declined , the use of disposable tags has become more popular .
+since the system locks on to a single aircraft 's transponder then transmits a signal that is specific to that aircraft 's location , only one aircraft at a time can fly the approach .
+all the aircraft is required to do is set the transponder to the assigned code and tune an ils receiver to the appropriate frequency .
+non - multiplexed radio stations can also travel in single channel per carrier ( scpc ) mode , with multiple carriers ( analog or digital ) per transponder .
+in the same year , the telepass active transponder rfid system was introduced across italy .
+however , the sa-2 was radio - controlled to the target by a ground command link , with the missile carrying a transponder that sent back a signal to the fan song radar to allow tracking .
+the texas instruments digital signature transponder ( dst ) is a cryptographically - enabled radio - frequency identification ( rfid ) device used in a variety of wireless authentication applications .
+moreover , the piper was not equipped with a mode c transponder , which would have indicated its altitude , and lax had not been equipped with automatic warning systems .
+the artwork for " transponder down " was created by mcmanus as well .
+a small ( 13.5 cm l x 4 cm d ) , cylinder shaped transponder is mounted on the scini vehicle .
+each transponder is directly registered to a specific truck , and contains a unique identification .
+near busier airports , and while operating within certain types of airspace , vfr aircraft are required to have a transponder to help identify the aircraft on radar .
+the keys for these vehicles have a minute radio frequency transponder embedded in the plastic head .
+when the car drives on toll roads and passes through toll collection points , an electronic transponder located in an overhead toll gantry reads the sticker and automatically deducts the toll from a prepaid txtag account .
+the secondary radar system ssr750 as part of the joint military civil functionality could interrogate a transponder on board as aircraft for the height .
+it is a phase - coherent , multistation doppler tracking system which measures position of a vehicle equipped with the odop transponder .
+a honeywell spokesperson stated that " honeywell is not aware of any evidence that indicates that its transponder on the embraer legacy was not functioning as designed or that honeywell was responsible for the accident . "
+chuck spots and flashes on a gps transponder fixed to the tawainese attache 's boat , and when he also flashes on a crate kirk is loading onto his own boat , realizes that he 's going to destroy the plates and kill the attache , along with morgan , anna and her parents .
+november six zero zero x - ray lima , atc clearance to eduardo gomes , flight level three seven zero direct poços de caldas , squawk transponder code four five seven four , after take - off perform oren departure .
+starting is achieved by a transponder inside the smart key that does not need batteries to work .
+the atlanta track club experimented in november 2008 at the weather channel atlanta marathon and half marathon with implementation of the chronotrack d - tag transponder system , a disposable tag system .
+satellites in later decades tended to have even higher transponder numbers .
+it could be received either by the satellite bouquet satellite tps ( radio no . 80 ) , or directly via transponder 120 , at 10911 mhz , vertical polarisation verticale , 27500|msymb / s , fec 3/4 , sid 3305 , audio 3335 .
+it comprises aero - thermo structure , internal structure , mission management unit , altitude sensors and inertial measurement unit , s - band transponder with unique belt array antenna embedded to ats , power and electronics packages to support deceleration and flotation system .
+this service is often referred to as transponder leasing .
+citylink uses a dsrc toll system called e - tag , where an electronic transponder is mounted on the inside of the vehicles ' windscreen .
+diplomatic pressure as well as denial of iff ( identify foe or friend ) transponder codes from the united states , however , kept the iaf grounded while coalition air assets and patriot missile batteries supplied by the u.s. and the netherlands sought to deal with the scuds .
+other components include two air data attitude and heading reference systems ( adahrs ) , two data concentrators , two magnetometers , two waas gps receivers , two nav / com radios with a ps engineering audio panel , a transponder and the s - tec intelliflight 1950 integrated digital flight control system ( dfcs ) .
+the aviation transponder was originally developed during world war ii by the british and american military as an " identification friend or foe " ( iff ) system to differentiate friendly from enemy aircraft on radar .
+transponder ( aviation ) .
+cnbc immediately took over fnn 's satellite transponder space , more than doubling its audience at one stroke .
+despite the crew squawking the emergency transponder setting of 7700 , the aeroplane could not be located by air traffic control on their radar screens .
+its main hub consisted of east coast , west coast , and affiliate feeds located on the ku band rca satcom k2 satellite , with one c - band transponder located on rca 's now - defunct satcom 1r.
+a transponder uplink was near 435 mhz , and the downlink was near 145 mhz .
+all member agencies use the same technology , allowing travelers to use the same e - zpass transponder throughout the iag network .
+on the 25th november 2006 , the boat 's sat c transponder stopped transmitting , and the hull has to date not been salvaged .
+these special discounted tolls do not apply if the fastrak transponder is used on other toll roads and bridges in california ; users will be charged the full toll amount on those other facilities .
+other criticism has involved the use of the i - pass transponder system .
+the transponder received coded or single pulse interrogation from ground stations and transmitted a single - pulse reply in the same frequency band ( 5.4 to 5.9 ghz ) .
+the air force requested a version that would not require radar tracking , and sdc responded by placing a transponder in the payload .
+this phase discriminator has higher output gain than the frequency loop discriminator and holds the transponder offset frequency ( 60.194 mhz ) correct to within a fraction of a cycle .
+neither lowe nor bridges were wearing an emergency location transponder , which might have helped rescuers pinpoint their bodies .
+after 08:21 edt , american airlines flight 11 no longer transmitted transponder altitude or identification information .
+prior to being named to head up assa abloy ’s global tech division , mr. grillo worked in the identification technology business unit , combining several disparate rfid and smart card businesses into one organization servicing several vertical markets with security based card , transponder and reader products .
+at 9:28 , faa cleveland center controller john werth heard " sounds of possible screaming " coming from flight 93 and noticed that the plane had descended 700 feet , transponder turned off .
+the channels shared transponder space as well as offices , though they now they have separate offices and each operate multiple channels that no longer share bandwidth .
+instead , the transponder captures electromagnetic energy produced by a near - by exciter and utilizes that energy to emit its unique code .
+the f1 and f2 pulses are framing pulses , and are always transmitted by the aircraft transponder .
+similar considerations determine whether a vfr flight must use a two - way radio and/or a transponder .
+the system involves the installation of a dsrc based radio transponder on the windscreen of a vehicle , and to sign an agreement with one of the toll collection companies in norway .
+the satellite features a very high resolution scanning radiometer ( vhrr ) , for three - band images and a data relay transponder ( drt ) payload .
+this will include an electronic tolling device , or transponder , to be mounted on the vehicle 's windshield .
+an id transponder or microchip , the size of a grain of rice , is placed under the skin by injection .
+communications data passes through a satellite using a signal path known as a transponder .
+along both borders , cbp has implemented the free and secure trade , which utilizes transponder technology and pre - arrival shipment information to process participating trucks as they arrive at the border .
+it is one manufacturer 's implementation of transponder timing .
+posing as id thieves , they gather stolen personal information such as " dumps " ( the raw encoded information contained on a payment or identification card 's magnetic stripe , microchip or transponder ) , bank account numbers and login information , social security numbers , etc .
+the udop used an an / drn-11 transponder installed in the saturn ( rocket family ) launch vehicle for project gemini missions .
+if no reply is received from the iff transponder , the target continues to be an unknown .
+currently , only the type iie transponder is being sold .
+ses used a system of transponder beacons attached to wayside block signals to enforce signal speed .
+the term " passive radar " is sometimes used incorrectly to describe those passive sensors that detect and track aircraft by their rf emissions ( such as radar , communications , or transponder emissions ) .
+there are also passive transponder devices that can be inserted into equipment , but they require specialized search equipment that might only be found near an organized sports area .
+probably further discussion of the standards proposal will lead to a more universally valid glossary or transponder type zoo .
+because switchblade keys are only developed for new car models they are usually equipped with a programmed transponder chip .
+a driver receives a small radio frequency transponder to place on the inside of a vehicle 's windshield .
+long very narrowly avoids having his very long life terminate at an anonymous grave in the trenches of the western front — his " future family " manages to determine the time of his death by the failure of a transponder implanted in long 's body and rescues him at the last moment .
+the transponder is a radio receiver and transmitter which receives on one frequency ( 1030 mhz ) and transmits on another ( 1090 mhz ) .
+the united states accounts for about 32 percent of the world ’s transponder market .
+commission officials have stated that tolls would be collected in the southbound direction with an all - electronic tolling , or " cashless tolling " gantry consisting of e - zpass transponder readers and high - resolution cameras ( no cash toll booths ) constructed on the bridge .
+the odop system is a radar interferometer tracking system which determines the position of a vehicle - borne transponder .
+lesea broadcasting ( " le"ster " s"umrall " e"vangelistic " a"ssociation ) , also known as world harvest television , is an american christian television network with over 40 affiliate stations in a number of u.s. markets , on the fixed service satellite galaxy 16 c band transponder 15 , and on satellite overseas .
+production aircraft will be delivered with a garmin g300 efis installed , as well as a garmin sl40 communications radio , a gtx327 transponder , and a 121.5 mhz elt .
+transponder is an internet radio show for those considering , seeking to begin , or in the process of gender transition , and for those who wish to learn more about , or lend support to the transgender community .
+it was constructed by space systems loral , based on the ls-1300 bus , and carries a single transponder designed to transmit in the nato e f and i bands ( ieee s and x bands ) .
+in december 2008 , the thaicom public company limited , asia 's leading commercial satellite operator and the operator of the ipstar satellite broadband system , announced it has renewed a 10-year contract with the distance learning education via satellite foundation of thailand ( dlf ) for three - quarters of one ku - band transponder on the thaicom 5 satellite to broadcast dltv channels .
+the ais transponder normally works in an autonomous and continuous mode , regardless of whether it is operating in the open seas or coastal or inland areas .
+aircraft can also signal an emergency by setting one of several special transponder codes , such as 7700 .
+the transponder receives the 450 mc signal , doubles and re - transmits at 900 mc .
+this is very similar to transponder timing systems used in human races .
+this system , which became known in civil use as secondary surveillance radar ( ssr ) or in the usa as the air traffic control radar beacon system ( atcrbs ) , relies on a piece of equipment aboard the aircraft known as a " transponder . "
+oboe was a british aerial blind bombing targeting system in world war ii , based on radio transponder technology .
+dialog tv 's third transponder was launched in late april 2007 .
+air traffic control units use the term " squawk " when they are assigning an aircraft a transponder code , e.g. " squawk 7421 " .
+viewership and revenue picked up , but a vandalization of the station 's transponder caused the station to go off the air for several weeks .
+all systems employ a cooperative beacon transponder on the observed target and a ground - based transmitting station with several receiving stations at separate , precisely located sites .
+the primary mission of the airscene system is to track all types of aircraft in the air and on an airport surface and transponder - equipped vehicles to provide a high fidelity , high accuracy , and high update rate air / surface surveillance display .
+lotz traveled to paris in june 1961 for a meeting with his operators ( he was in the meantime transferred to the responsibility of the mossad ) , where he received large amounts of money and a transponder for sending secret messages .
+transponder key .
+as quantico 's airspace intersects the boundary of the adiz , quantico atc has the authority to issue discrete transponder codes .
+good tv 2 also can be viewed in another transponder .
+altitude data transmitted by the aircraft transponder showed the plane did not begin its descent along the precision glide slope until it was above it after passing lewie .
+by 08:56 , the flight was turned around , and the transponder had been disabled .
+addition of the an / apx-111 combined interrogator and transponder , otherwise known as an iff ( identification friend or foe ) .
+g - h - equipped bombers of 218 squadron flew low , in tight circles , dropping " window " ( chaff ) over radar transponder - equipped small ships , in order to deceive the german radars that they were the main invasion fleet .
+in this manner , it operates in a similar manner to the currently employed civilian dme system , with the aircraft following a dme arc procedure on one set , whilst using another set ( tuned to a different transponder as close to 90 degrees apart as geography permits ) to determine the point of bomb release .
+insat-4b augments the high power transponder capacity over india in ku - band and over a wider region in c - band .
+the height of a target with an ssr mode c or mode s transponder can also be provided by decoding the mode c or mode s response directly , which is the normal mode of operation for the civilian vera - ap system .
+once decoded , the iff transponder will execute the message and send back a 3 pulse reply .
+squawk codes are four - digit octal numbers ; the dials on a transponder read from zero to seven inclusive .
+the pilots , including captain , first officer , and flight engineer , set their transponder to broadcast a distress signal to tokyo area control center , which directed the aircraft to descend and gave it heading vectors for an emergency landing .
+it launched on the 1st of may 2001 , taking over the transponder left by the analogue service of mtv uk and ireland when it closed down .
+in case of the customer has no transponder , the camera takes a photo shot of the car license , and a video toll charge will apply .
+modern use of the word parrot refers to a test transponder located at a fixed location off the radar facility .
+the network had also been noted for the number of technical difficulties in the early years when the network and its sister station météomédia shared the same satellite transponder and facilities .
+this caused the onboard internal housekeeping unit ( ihu ) computer to cut power to the transponder payloads .
+transponder leasing services .
+when a key is inserted into the ignition lock cylinder and turned , the car 's computer sends a radio signal to the transponder .
+first called " the terra problem " , there have since been individual faa airworthiness directives issued against various transponder manufacturers in an attempt to repair the operational deficiencies , to enable newer radars and tcas systems to operate .
+i - pass is the illinois tollway ’s electronic transponder toll collection system that allows drivers to pre - pay their tolls .
+the satellite was built by a team at bell telephone laboratories , including john robinson pierce who created the project , rudy kompfner who invented the traveling wave tube transponder used in the satellite , and james m. early who designed the transistors and solar panels for it .
+the first manufacture to introduce transponder timing was " amb identification & timing , " although it was in motorized racing .
+it would not involve satellite location , but drivers who wanted their tolls collected automatically could have a transponder like the e - zpass already used to collect tolls on tunnels and bridges .
+the main combat assaults were preceded at each drop zone by three teams of pathfinders that arrived thirty minutes before the main assault to set up navigation aids , including eureka radar transponder beacons and marker lights , to aid the c-47s in locating the dzs in the dark .
+gtx transponder .
+also on satellite galaxy 4 transponder 16 24 hours a day and on the internet http://www.shepherdschapel.com/index.cfm .
+in an all - electronic system ( such as that used on highway 407 in the canadian province of ontario and the fort bend westpark tollway in the u.s. state of texas ) , no cash toll collection takes place , tolls are usually collected with the use of a transponder mounted on the windshield of each vehicle , which is linked to a customer account which is debited for each use of the toll road .
+during " open " periods , any single passenger vehicle may use the lane regardless of whether or not they have a transponder installed .
+search and rescue transponder .
+in this mode each ground station transmitted a pilot tone which was used to close a control loop so as to adjust each stations transmitted power in order to prevent any one station from “ seizing ” the entire transponder bandwidth .
+the ideal solution to this problem is to replace the dst transponder in these systems with a device provisioned with a more robust cryptographic circuit utilizing a longer key length .
+the simplest version of an atr system is the iff transponder .
+on november 6 , 2006 , the families of ten of the deceased filed a lawsuit for negligence against excelaire and honeywell , alleging that the embraer pilots were flying at an " incorrect altitude " and that the honeywell transponder was not functioning at the time of the collision .

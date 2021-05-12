@@ -1,0 +1,255 @@
+in 1980 , tim berners - lee created enquire , an early hypertext database system somewhat like a wiki .
+it was developed in the 1980s by jay david bolter and michael joyce , who presented it to the first international meeting on hypertext at chapel hill in october 1987
+along with john b. smith and michael joyce , bolter co - created storyspace , a software program for creating , editing , and displaying hypertext fiction .
+the fress hypertext system had enhanced capability and usability if accessed from a pds-1 system ; the user could make hyperlinks with a light pen and create them simply with a couple of keystrokes .
+a crucial difference between hypervideo and hypertext is the element of time .
+the hypertext principle enables the learner to navigate flexibly in a multi - dimensional learning space in which grammar points and exercises are relevantly interlinked .
+visitors could learn more about hypertext , technical details for creating their own webpage , and even an explanation on how to search the web for information .
+in december of that year , engelbart demonstrated a hypertext interface to the public for the first time , in what has come to be known as " the mother of all demos " .
+hypermedia is used as a logical extension of the term hypertext in which graphics , audio , video , plain text and hyperlinks intertwine to create a generally non - linear medium of information .
+after studying together at edinburgh college of art , pope & guthrie completed ma 's in london and began collaborating as artists in 1995 , with their installation " somewhere over the tv " at the collective gallery in edinburgh , followed by their live online travelogue " a hypertext journal " in march 1996 , which was one of the earliest blogs .
+" afternoon " was followed by a series of other " storyspace " hypertext fictions from eastgate systems , including stuart moulthrop 's " victory garden " , " its name was penelope " by judy malloy , ( whose hyperfiction " uncle roger " was published online on artcom electronic network on the well from 1986 - 1987 ) carolyn guyer 's " quibbling " , shelley jackson 's " patchwork girl " and deena larsen 's " marble springs " .
+the nls system was the first to employ the practical use of hypertext links , the mouse ( co - invented by engelbart and colleague bill english ) , raster - scan video monitors , information organized by relevance , screen windowing , presentation programs , and other modern computing concepts .
+nonlinear narrative or disrupted narrative is a narrative technique , sometimes used in literature , film , hypertext websites and other narratives , wherein events are portrayed out of chronological order and are usually dictated by user choices and set parameters within the media .
+stretchtext is a hypertext feature which hasn't gained mass adoption in systems like the www , but which gives more control to the reader in determining what level of detail to read at .
+is a hypertext non - linear narrative that relies upon an algorithm to juxtapose images and text from a large database .
+hypertext caching protocol .
+kussmaul 's online encyclopedic database cross - referenced topics by employing an early example of hypertext .
+some people believe it to be an alternative for the secure sockets layer method for encrypting hypertext transfer protocol ( or " http " ) connections .
+a proto - hypertext system .
+the hypertext fiction tells the story of peter , a recently divorced man who witnessed a car crash that may or may not have involved his ex - wife and their son .
+secure hypertext transfer protocol ( s - http ) is a little - used alternative to the https uri scheme for encrypting web communications carried over http .
+maciej wrote on behalf of apple along with members of the mozilla foundation and opera software in a proposal that the new html working group of the w3c adopt the web hypertext application technology working group ’s html5 as the starting point of its work .
+in july 1990 , folio released folio views 2.0 with 100 new features , including new types of hypertext links , " hyperlinks " , within a single document and across several documents , and links to external applications , graphics , sounds , and animation .
+there hypertext creates different phrases in different frames , and the reader has to make sense of it on their own .
+as we may think " predicted many kinds of technology invented after its publication , including hypertext , personal computers , the internet , the world wide web , speech recognition , and online encyclopedias such as wikipedia .
+hypertext poetry .
+in addition to popular forms of information dissemination , this palette would include hypertext technology , which reflexively questions its own role in disseminating information as the narrative of victory garden progresses .
+” communications between client and server rely on standard web service messaging over hypertext transfer protocol ( http ) .
+the term " hypertext " is often used where the term " hypermedia " might seem appropriate .
+conneally 's projects include hypertext works resulting out of actions initiated by conneally and others via the internet and in the real world .
+he is author of the hypertext fiction works " victory garden " ( 1992 ) , which was on the front - page of the new york times book review in 1993 , " reagan library " ( 1999 ) , and " hegirascope " ( 1995 ) , amongst many others .
+more information on the hypertext and search engine used by " encarta " may be found in the microsoft bookshelf article .
+the concept of " embedding " is also central to much use of multimedia in web pages , which tend to embed video , animation ( including flash animations ) , and audio files within the hypertext markup language ( such as html or xhtml ) or other structural markup language used ( such as xml or sgml ) — possibly , but not necessarily , using a different embedding mechanism than ole ...
+multimedia and the internet : the hypertext beyond convergence .
+when the world wide web began , web developers either generated content themselves , or took existing documents and coded them into hypertext markup language ( html ) .
+fress was a continuation of work done on van dam 's previous hypertext system , hes , developed the previous year .
+few alternatives to codice_1 have enjoyed much popularity , with the possible exception of gnu project 's " codice_3 " system , an early and simple hypertext system .
+invited speakers included angela beesley ( " how and why wikipedia works " ) , doug engelbart and eugene eric kim ( " the augmented wiki " ) , mark bernstein ( " intimate information : organic hypertext structure and incremental formalization for everyone 's everyday tasks " ) , and ward cunningham ( " design principles of wiki : how can so little do so much ? " ) .
+luigi cinque tarantula hypertext orchestra .
+he has developed courses at njit including elements of visual design , hypertext design studio , cybertext , electronic publishing lab , and advanced electronic publishing .
+this remained the mainstream text retrieval system until the advent of cd - rom in 1985 , since which the digital text , the hypertext , and eventually the world wide web and search engines , provided systems for xric .
+mendi also created the minimalist hypertext piece
+the technology behind the world wide web , the hypertext transfer protocol ( http ) , does not actually make any distinction between " deep " links and any other links — all links are functionally equal .
+hypertext and the world wide web .
+http header injection is a general class of web application security vulnerability which occurs when hypertext transfer protocol ( http ) headers are dynamically generated based on user input .
+for the acm hypertext ' 89 conference , david durand reverse - engineered the pds-1 terminal and created an emulator on apple macintosh .
+the web server communicates with the client using a communication protocol known as http , or hypertext transfer protocol .
+it was developed to support hypertext fiction in particular , although it can also be used for organizing and writing fiction and non - fiction intended for print .
+hypertext fiction .
+not only did he invent the hypertext novel -- borges went on to describe a theory of the universe based upon the structure of such a novel . " - wardrip - fruin and montfort
+the recent availability of " hypertext " data - structures and user interfaces - even on small microcomputers and moderately priced workstations - has allowed the design of ibises which are much more " user - friendly " than their predecessors .
+these included : bit - mapped displays , collaboration software , hypertext , and precursors to the graphical user interface including the computer mouse .
+a hypertext encyclopedia also figures into the novel , quite presciently given the 1966 publication .
+the hypertext version of his novel , created in collaboration with multimedia artist , was published by the " iowa review web " in 2005 and included in the .
+wiki developers continue to implement novel features as well as those developed or imagined in the early explorations of hypertext but not included in the original web .
+most clients will display these as hypertext links , and so allow the user to navigate through the gopherspace by following the links .
+ilu also included a self - contained implementation of the world wide web 's hypertext transfer protocol ( http ) , and could thus be used to implement object - oriented web browsers and servers .
+the icon was originally designed to let teachers create and share their own lessonware , using a simple hypertext - based system where pages could either link to other pages or run programs written in " c " .
+charles s. smith , the founder of a company called memex ( named after a hypertext system proposed by vannevar bush ) , hired many of the xanadu programmers and licensed the xanadu technology , though memex soon faced financial difficulties , and the then - unpaid programmers left , taking the computers with them .
+unlike traditional web page hypertext links , hyperdata links expose properties ( attributes or relationships ) and property values associated with the " things " in a page .
+built on the hypertext transport protocol ( http ) , the htc is a general purpose computer .
+presentation of work in this format enables artists to put multimedia and hypertext into installation art .
+in addition to hypertext , indexing and searching of the text , apple guide also offered a system for teaching users how to accomplish tasks in an interactive manner .
+the spectrum of teaching modes in virtual education includes courses based on hypertext , videos , audios , e - mails , video conferencing .
+secure hypertext transfer protocol .
+in 1996 , he introduced the powerful concept of metadata reference link ( mref ) for associating metadata to hypertext that links documents on the web , and described an rdf - based realization in 1998 , long before rdf was adopted as a w3c recommendation .
+by the year 1994 defense review international was transformed from print publication into a cdrom- based directory style publication , employing a groundbreaking hyperlink editing technology , developed by israel 's hypertext pioneer .
+notecards is one of the best known hypertext projects in the research world due to its design being well documented .
+particularly , hypertext features were supported , so it became possible to include hyperlinks in the web version of your documents .
+static hypertext can be used to cross - reference collections of data in documents , software applications , or books on cds .
+although not exclusively about hypertext , the world wide web series of conferences , organized by , include many papers of interest .
+on the other hand , classics such as michael joyce 's afternoon , a story ( 1987 ) are still read and have been republished on cd , while simple html hypertext fictions from the 1990s are still accessible online and can be read in modern browsers .
+this idea directly influenced computer pioneers j.c.r. licklider ( see his 1960 paper " man - computer symbiosis " ) , douglas engelbart ( see his 1962 report " augmenting human intellect " ) , and also led to ted nelson 's groundbreaking work in concepts of hypermedia and hypertext .
+the memex has influenced the development of subsequential hypertext and intellect augmenting computer systems .
+" hyperlexicon " is a portmanteau of the words hypertext , hyperlexia , and lexicon .
+fielding is one of the principal authors of the hypertext transfer protocol ( http ) specification versions 1.0 and 1.1 .
+it can be used to read a work , to browse a text as hypertext , to search for words and phrases just through a simple click of your pen or mouse .
+among the ideas developed were hypertext , the " mouse , " and the concept of computer graphics windows .
+also , the success of traditional scholarly publications in digital guises , such as seen in the " bryn mawr classical review " , and the early adoption of hypertext in high profile projects like the perseus digital library helped to legitimize computing in the study of classics in ways that has not always been the case in other areas of the humanities .
+< abbr title="extensible hypertext markup language" > xhtml</abbr > 1.0 strict document .
+other reference works ( for example dictionaries , encyclopedias ) also developed a precursor to hypertext : the setting of certain words in small capital letters , indicating that an entry existed for that term within the same reference work .
+through the hypertext structure of this piece , both authors are able to reveal their own independent voice , rather than a combination of the two .
+from 1987 to 1992 , danny was software architect at brüel & kjær a / s in nærum , denmark , where he led development of a pioneering network - based distributed hypertext system .
+intermedia was started in 1985 by norman meyrowitz , who had been associated with earlier hypertext research at brown .
+he showed the fundamental nature of social learning processes , whether in market exchanges , in verbal conversations , or in hypertext - based dialogue .
+hypertext .
+when a web page is requested via the hypertext transfer protocol , the server locates a file in its file system based on the requested url .
+it describes a device that can access a large networked database of hypertext information , and use software agents to assist searching for information .
+students at the university of kansas adapted an existing text - only hypertext browser , lynx , to access the web .
+in what was later to be called the mother of all demos , sri researcher douglas englebart in 1968 gave a preview of what would become the staples of daily working life in the 21st century - e - mail , hypertext , word processing , video conferencing , and the mouse .
+dss also have a weak connection to the user interface paradigm of hypertext .
+in some cases , such as the googlebot , web crawling is done on all text contained inside the hypertext content , tags , or text .
+thus , the comments have a tree structure , with one main branch commenting on the " main text , " and other smaller branches taking off from comments in the main branch , forming a hypertext .
+another example is the ajax programming technique , where , for example , clicking a hypertext link may cause javascript code to retrieve the text for a new price quotation to display in place of the current one within the page , without re - loading the whole page .
+in http , the hypertext transfer protocol , upon which the world wide web is based , a successful response from the server is defined as " ok " ( with the numerical code 200 as specified in rfc 2616 ) .
+ironically , " hypertext " was coined by ted nelson who used to object to the wide spectrum of text retrieval or " cross - reference " and subject it mainly to the narrow idea of " transclusion " , or simply quotation , aiming for text patchwork rather than retrieval .
+the journal was a primitive hypertext - based groupware program which can be seen as a predecessor ( if not the direct ancestor ) of all contemporary server software that supports collaborative document creation ( like wikis ) .
+hypertext features not in html .
+while gopher menu items were examples of hypertext , they were not commonly perceived in that way .
+these elements mimic the reading process to a point , but the process of hypertext violates the expected outcome .
+a typed link in a hypertext system is a link to another document or part of a document that includes information about the " character " of the link .
+henrik frystyk nielsen ( born 1 august 1969 in copenhagen , denmark ) is one of the principal authors of the hypertext transfer protocol ( http ) specifications , the soap 1.1 and 1.2 specifications , and a frequently - cited authority on computer network architecture .
+besides the hypertext transfer protocol ( http ) opentracker may also be connected to via user datagram protocol ( udp ) , which creates less than half of the tracker traffic http creates .
+hypertext fiction .
+hypertext .
+information technologies and the hypertext principle underlying the world wide web / relational databases are ideally suited to support a constructivist approach to grammar acquisition .
+today , much of the world wide web is stored as hypertext markup language .
+thus , all earlier hypertext systems were overshadowed by the success of the web , even though it originally lacked many features of those earlier systems , such as an easy way to edit what you were reading , typed links , backlinks , transclusion , and source tracking .
+the hypertext and hypermedia chapter of the book deals primarily with text and media links and their integration into digital poetics .
+rather than remaining static like traditional text , hypertext makes possible a dynamic organization of information through links and connections called hyperlinks .
+hence hypertext has come to describe a text which provides a network of links to other texts that are ' outside , beyond and above itself ' .
+not only did he arguably invent the hypertext novel —
+the team designed and built the first prototype of this protocol in mid-2007 and reported it in hypertext conference in september 2007 .
+michael joyce 's " afternoon , a story " , first presented in 1987 and published by eastgate systems in 1991 , is generally considered one of the first hypertext fictions .
+in 1990 , tim berners - lee ’s proposals for hypertext
+while the internet began with a u.s. government research project in the late 1950s , the web in its present form did not appear on the internet until after tim berners - lee and his colleagues at the european laboratory ( cern ) proposed the concept of linking documents with hypertext .
+contemporary new media art influences on new media art have been the theories developed around hypertext , databases , and networks .
+( the web 's hypertext transfer protocol is an example of this idea . )
+together with ted nelson he contributed to the first hypertext system , hes in the late 1960s .
+the collaborative hypertext of radiology ( or " chorus " ) is a free medical reference database .
+in several web servers ( most commonly apache).htaccess ( " hypertext access " ) is the default name of a directory - level configuration file that allows for decentralized management of web server configuration .
+in the online version , hypertext links led to other characters who are nearby or who have some connection to the current character ; in the print version , the links are partly replaced by a traditional index .
+in 1980 , the englishman tim berners - lee , an independent contractor at the european organization for nuclear research ( cern ) , switzerland , built enquire , as a personal database of people and software models , but also as a way to play with hypertext ; each new page of information in enquire had to be linked to an existing page .
+from this point of view the primary purpose of knowledge environments is to host and support activities of knowledge building , the means including cognitive ergonomics , social software , immediate information access exploiting means of multimedia and hypertext , content contribution functionalities and structured ontologies .
+extensive research was published on these tools by the collaboration software , computer - mediated communication , hypertext , and computer supported cooperative work communities .
+hypertext markup language ( html ) is sometimes allowed but usually its use is discouraged or when allowed it is extensively filtered .
+these websites tracked the references and story elements in the novels through online resources such as google and wikipedia and collated the results , essentially creating hypertext versions of the books .
+wi - fi networks that are unencrypted can be monitored and data ( including personal information ) may be recorded , but may be protected by other means , such as a virtual private network or by secure hypertext transfer protocol ( https ) and transport layer security .
+tuan has had over a dozen works produced , including " last of the suns " , " ajax ( por nobody ) " , " coastline " , " the roaring girle " , and " batch " , one - act plays " some asians " and " manilova , " 9 short plays and a self - scribed hypertext performance as part of en garde arts’ final production , the site specific " secret history of the lower east side " .
+zog started in 1972 as an artificial intelligence research project under the supervision of allen newell , and pioneered the " frame " or " card " model of hypertext .
+the pssm is available as a book , and in hypertext format on the nctm web site .
+conceptually stretchtext is similar to existing hypertext system where a link provides a more descriptive or exhaustive explanation of something , but there is a key difference between a link and a piece of stretchtext .
+an unusual service is the gopher protocol , a hypertext document retrieval protocol which pre - dated the world wide web and was popular in the early 1990s .
+he is author on over 50 peer - reviewed articles on software engineering and hypertext systems , and seven internet standards ( rfc ) documents .
+their principal expertise is building software agents which utilise natural language processing and hypertext links to interact with visitors to commercial websites , providing automated on - line customer service .
+one part defines hypertext transport protocol status code 418 to mean " i 'm a teapot " .
+generally speaking , adaptive hypermedia systems can be useful anywhere where hypertext and hypermedia is used .
+using money from nasa and the u.s. air force , doug engelbart invented the mouse and hypertext - based collaboration tools in the mid-1960s , while at stanford research institute ( now sri international ) .
+the codice_1 scheme , for instance , is generally used for interacting with web resources using hypertext transfer protocol .
+the world wide web is an internet - based hypertext system invented in the late 1980s and early 1990s by tim berners - lee .
+the w3 hypertext model gives the program more power to communicate the options available to the reader , as it can include headings and various forms of list structure .
+after the advent of hypertext , hypergraphics were developed by the lpa historification committee ( lhc ) at the 1st conference on the foundations of psycho - physics with oxford university 's philosophy of physics department , clarendon laboratory and cern .
+furthermore , although hypertext researchers have generally been concerned with information overload , certain researchers , notably douglas engelbart , have been focused on decision makers in particular .
+over the next 3.5 years , as the world wide web 's core technologies of html ( the hypertext markup language ) , http , and web browsers developed , a need to distinguish a string that provided an address for a resource from a string that merely named a resource emerged .
+the hypertext template file ( normally ' folder.htt ' ) is used to control the display of internet explorer .
+the notion of well - formedness as opposed to validity ( which enables parsing without a schema ) was first formalized in xml , although it had been implemented successfully in the electronic book technology " dynatext " software ; the software from the university of waterloo new oxford english dictionary project ; the risp lisp sgml text processor at uniscope , tokyo ; the us army missile command iads hypertext system ; mentor graphics context ; interleaf and xerox publishing system .
+within the text of most pages there are usually a large number of hypertext links to other pages .
+hypertext links in scalable vector graphics can currently be defined as simple xlinks .
+it could also imply a reaction to significant post - war events : the beginning of the cold war , the civil rights movement in the united states , postcolonialism ( postcolonial literature ) , and the rise of the personal computer ( cyberpunk fiction and hypertext fiction ) .
+whatever its literary or technological merits may have been , " elfland catacombs " had little or no influence on the development of hypertext fiction .
+while the web surpassed gopher , in that xric is better than xroc in hypertext , both are as complementary as the two sides of the coin .
+web site content may consist of prose , graphics , pictures , recordings , movies or other digital assets that could be distributed by a hypertext transfer protocol server , and viewed by a web browser .
+from the text retrieval point of view , " hypertext " as a new retrieval paradigm , objecting to xroc or subjecting itself mainly to xric , sounds like a self - defeating misnomer , because " text retrieval " and " cross - reference " well comprise both xroc and xric in themselves .
+he prepared the document that became ansi common lisp , the ( a hypertext conversion of the standard ) , and the document that became iso islisp .
+additionally aeom allowed apple guide to drive the interface , completing tasks for the user if they clicked on the " do it for me " buttons ( or hypertext ) .
+private sözlük collaborative hypertext turkish dictionary and encyclopedia site that shares a similar concept with everything2 or h2g2 .
+andy has mentored a large number of scholars and practitioners in hypertext and computer graphics , including randy pausch .
+star trek : hypertext was part of trekzone before migrating to treknation upon the latter 's founding in 1999 .
+however , in 2004 , the web hypertext application technology working group ( whatwg ) formed , independently of the w3c , to work on advancing ordinary html not based on xhtml .
+this is a special keepsake including three of engelbart 's key papers , artfully edited and produced into book form by yuri rubinsky and christina engelbart to commemorate the presentation of the 1995 softquad web award to doug engelbart at the world wide web conference in boston that december , honoring his early and seminal contribution to the hypertext systems .
+the networking support in silverlight can be used by silverlight applications to communicate using hypertext transfer protocol ( http ) , or at the lower socket level .
+" as we may think " predicted ( to some extent ) many kinds of technology invented after its publication , including hypertext , personal computers , the internet , the world wide web , speech recognition , and online encyclopedias such as wikipedia : " wholly new forms of encyclopedias will appear , ready - made with a mesh of associative trails running through them , ready to be dropped into the memex and there amplified . "
+it has been suggested by some that much of mallarmé 's work influenced the conception of hypertext , with his purposeful use of blank space and careful placement of words on the page , allowing mutiple non - linear readings of the text .
+it inspired douglas engelbart and later ted nelson to develop the modern workstation and hypertext technology .
+in computer tech , students learn how to use spreadsheets , word documents , how to use a computer , keyboarding , and the basics of web pages and html ( hypertext markup language ) , all to prepare them for what teachers will ask them to do in the high school .
+in addition to his software agent work , he has also made significant contributions in the areas of hypertext technology , object - oriented database modeling , and design pattern visualization techniques .
+the uses of hypertext fiction whose content is goal - driven include exploration of the concepts of alternate history , so - called many - worlds interpretation , collaborative fiction and the older idea of the mosaic novel .
+this article presents a timeline of hypertext technology , including " hypermedia " and related human - computer interaction projects and developments from 1945 on .
+his " twilight , a symphony : a hyperfiction " ( 1996 ) was a second hypertext story .
+she also acted in the successful avant - garde version of the classic ulysses named hypertext ulysses by luigi cinque and her verses have been an intro for several editions of the poetry festival in the rome romapoesia .
+last but not least , the invention of hypertext by ted nelson .
+there is no wrong way to read a hypertext interactive novel .
+the w3 data model is similar to the gopher model , except that menus are generalized to hypertext documents .
+much of the research and development in graphics systems , hypertext , and systems programming languages was carried out by undergrads .
+the foundation of visualvision as a software company originated from the development of iper , a comprehensive hypertext authoring tool created as graduation thesis at politecnico di torino in 1996 , and presented to the ed - media ' 97 world conference on educational multimedia , hypermedia , and telecommunications in calgary .
+this meant many legal experts were unable to access legal information made available in hypertext on the world wide web .
+she has led a series of projects investigating analytical work practices and collaborative hypertext , including two system development projects , aquanet ( named after the hairspray ) and viki .
+the problem - oriented medical information system , or promis , was a hypertext system specially designed for maintaining health care records .
+intratext allows to create text collections as a whole hypertext , for example the collected works of an author , corpora , etc .
+it also features approximately 360,000 hypertext links between the various collections within the database , as well as a topical halakhic index for the shulchan aruch and selected responsa .
+given the nature of traditional jewish torah study , which involves extensive citation and cross - referencing among hundreds of texts written over the course of thousands of years , many torah databases also make extensive use of hypertext links .
+operations manager uses open interfaces such as simple network management protocol(snmp ) and hypertext transfer protocol(http ) to remotely poll data from different devices in the ip communications deployment .
+many small self - contained hypertext systems had been created before , such as apple computer 's hypercard .
+an advantage of writing a narrative using hypertext technology is that the meaning of the story can be conveyed through a sense of spatiality and perspective that is arguably unique to digitally networked environments .
+in general , enterprise search engines can not take advantage of the rich link structure as is found on the web 's hypertext content , however , a new breed of enterprise search engines based on a bottom - up web 2.0 technology are providing both a contributory approach and hyperlinking within the enterprise .
+hypertext computer .
+" the book of the war " is a hypertext multi - author novel presented in the form of an encyclopedia of the first 50 years of the war in the faction paradox universe .
+the zog interface consisted of text - only frames , each containing a title , a description , a line with standard zog commands , and a set of selections ( hypertext links ) leading to other frames .
+it also offers much of the functionality of outliner and spatial hypertext / mindmapper tools , in addition to knowledge management , database and agent(persistent search ) tools .
+technologies included the gui element creation library " gadtools " , the software installation scripting language " installer " , and the " amigaguide " hypertext help system .
+she spent the time researching the way in which hypertext affects the construction of digital technologies .
+while an independent contractor at cern from june to december 1980 , berners - lee proposed a project based on the concept of hypertext , to facilitate sharing and updating information among researchers .
+the essay also discusses hypertext fiction in depth as well as works of interactive fiction , such as " adventure " .
+" hyperland " is a 50 minute long documentary film about hypertext and surrounding technologies written by douglas adams and produced by bbc two in 1990 .
+tim berners - lee starts work on a hypertext graphical - user - interface ( gui ) and makes up the name world wide web as the name for the program
+such a collection of useful , related resources , interconnected via hypertext links , is what was dubbed a " web " of information .
+the interactive encyclopedia system , or ties , was a hypertext system developed at the university of maryland , college park by ben shneiderman in 1983 .
+the early 1980s also saw a number of experimental hypertext and hypermedia programs , many of whose features and terminology were later integrated into the web .
+the documentary is centered on adams browsing these media and discovering their interconnectedness , leading him for example from the topic " atlantic ocean " to " literature about the sea " to " the rime of the ancient mariner " by samuel taylor coleridge to the poem " kubla khan " by the same author to " xanadu " and back to the topic of hypertext via ted nelson 's " project xanadu " .
+in the 1990s a version of " neuromancer " was published as one of the voyager company 's " expanded books " series of hypertext - annotated hypercard stacks for the apple macintosh ( specifically the powerbook ) .
+since january 2000 all w3c recommendations for html have been based on xml rather than sgml , using the abbreviation xhtml ( " extensible hypertext markup l'"anguage " ) .
+, two editions are in print , including an annotated hypertext cd - rom version published in 2003 .
+collaborative hypertext of radiology .
+in 1990 , rulifson won the association for computing machinery 's software system award for implementing groundbreaking innovations such as hypertext , outline processors , and video conferencing .
+a prolific usenet poster since 1989 , barger started his robot wisdom site in february 1995 , publishing essays and resources on james joyce , ai , history , internet culture , hypertext design , and technology trends .
+it was included with the think c development environment sold by symantec , and contained a hypertext version of apple computer 's macintosh toolbox api specifications , along with illustrative code samples .
+engholm and klastrup have previously ( 2004 ) edited a danish anthology of case studies of hypertext fiction , mmogs and other new media forms , " digitale verdener " .
+the hypertext display , hyperlinking and search software was created by a team of cd - rom division developers in the late 1980s who designed it as a generalized engine for uses as diverse as interactive help , document management systems and as ambitious as a multimedia encyclopedia .
+it is a text - based protocol , incorporating many elements of the hypertext transfer protocol ( http ) and the simple mail transfer protocol ( smtp ) , allowing for direct inspection by administrators .
+annotation items with links thus have the connotation of being arbitrary cross - references ( a al " see also ... " ) and thus are not seen by users , and more especially agents , as part of the hierarchical structure of the hypertext .
+" the concept borges described in ' the garden of forking paths'--in several layers of the story , but most directly in the combination book and maze of ts'ui pen -- is that of a novel that can be read in multiple ways , a hypertext novel .
+web pages are written in the hypertext mark - up language html .
+hyperpublish works with a document that encapsulates a set of pages and images , instead of working with single html pages / files , so its design is different from traditional html editor programs : the user does not have to manage / memorize single filenames ; with the editor it is possible to revise , browse , and search within the whole hypertext without the need to continuously save and load the information .
+ryman has written and published seven novels , inclusding an early example of a hypertext novel , " 253 , or tube theatre " .
+a dynamic web page is a hypertext document rendered to a world wide web user presenting content that has been customized or actualized for each individual viewing or rendition or that continually updates information as the page is displayed to the user .
+if posting in adobe pdf , accessible html ( hypertext markup language ) or ascii text must also be posted by the web master converting the document .
+in 1996 , with iper , probably for the first time for a web softwarethe author was able to choose the destination page with a click on a visual preview ( a sort of web browser ) , without having to type the actual file name or the url ( e.g. http://en.wikipedia.org/wiki/wysiwyl ) , and without having to be online ( connected to the internet ) while performing the various edit on his / her hypertext document .
+however , according to nelson , the concept of transclusion had already formed part of his 1965 description of hypertext ; he also interprets the notion of " trails " in vannevar bush 's 1945 essay as we may think as describing transclusion rather than hyperlinks .
+the intratext interface applies a cognitive ergonomics model based on lexical hypertext and on the tablet pc or touch screen interface .
+hypertext transfer protocol .
+in order to encourage experimentation in this arena , american quarterly in collaboration with the american studies crossroads project and chnm organized an experiment in hypertext publishing .
+although hes pioneered many modern hypertext concepts , its emphasis was on text formatting and printing .
+it is often discussed along with michael joyce 's " afternoon , a story " as an important work of hypertext fiction .
+his most important works highlight the epistemological modifications which result from the migration between systems of " closed " authorial publication ( such as books ) , to the " open " systems , such as the hypertext and hypermedia .
+h2ptm , or " hypertext hypermedia products tools and methods " , is an international conference on hypermedia .
+large , shared hypertext , and from the very beginning , the system was designed as a true multi - user system .
+some of the notable hypertext fictions created in storyspace include : michael joyce 's " afternoon , a story " , stuart moulthrop 's " victory garden " and shelley jackson 's " patchwork girl " .
+andy 's continued interest in hypertext was crucial to the development of modern markup and browsing technology , and several of his students were instrumental in the origin of xml , xslt , and related web standards .
+a definition would include its use of links using hypertext mark - up .
+he was also the creator of dynamicdocuments ( 1988 ) , the first object oriented , multimedia hypertext system ( built in lisp ) , webbase , the first dynamic web server ( 1995 ) , and webdata ( a database of databases portal ) .
+" elfland catacombs " is one of the earliest examples of hypertext fiction .
+for example , hypertext fiction can be an example of nonlinear narrative , but there are also websites designed to go in a specified , organized manner , following a linear path .
+apart from running text , hypertext may contain tables , images and other presentational devices .
+a web server is a computer program that delivers ( serves ) content , such as web pages , using the hypertext transfer protocol ( http ) , over the world wide web .
+web design is the skill of creating presentations of content ( usually hypertext or hypermedia ) that is delivered to an end - user through the world wide web , by way of a web browser or other web - enabled software like internet television clients , microblogging clients and rss readers .
+project xanadu was the first hypertext project , founded in 1960 by ted nelson ; it is still ongoing .
+in the 1960s to 1980s the idea of a semantic link was developed within hypertext systems as the most basic unit , or edge , in a semantic network .
+using concepts from earlier hypertext systems , british engineer and computer scientist sir tim berners lee , now the director of the world wide web consortium , wrote a proposal in march 1989 for what would eventually become the world wide web .
+some examples of application layer implementations include hypertext transfer protocol ( http ) , file transfer protocol ( ftp ) , simple mail transfer protocol ( smtp ) and x.400 mail ...
+two other influential hypertext projects from the early 1980s were ben shneiderman 's the interactive encyclopedia system ( ties ) at the university of maryland ( 1983 ) and intermedia at brown university ( 1984 ) .
+this example displays as html ; in most browsers , pointing the cursor at the abbreviation should display the title text " hypertext markup language . "
+guide was a hypertext system originally developed by peter j. brown at the university of kent in 1982 .
+today the responsa project cd - rom contains more than 90000 responsa and more than 420000 hypertext li nks between the databases totalling 200 million words .
+it was published by eastgate systems in 1990 and is known as the first hypertext fiction .
+" the evaluation of a hypertext discussion tool for teaching english literature to secondary school students . " journal of educational computing research .
+the following is a list of hypertext transfer protocol ( http ) response status codes .
+the guide system was also the third hypertext system to be sold commercially , after it was taken over by office workstations ltd. ( owl ) in 1984 .
+the same server technologies distribute information , the same browser clients are use to access it , corporate information and application present the same uniform hypertext interface .
+a user following hyperlinks is said to " navigate " or " browse " the hypertext .
+hypervideo is interactive video that is akin to hypertext and allows for non - linear navigation of the video .
+typically , the fragment identifier is appended to the uniform resource locator ( url — a type of uri ) for a hypertext document and is meant to identify a portion of that document .
+net sözlük ( categorized in " collaborative hypertext dictionary " ) is a turkish - language web page that includes humorous descriptions for various words , terms and even sentences .
+this could be viewed as a feminist hypertext project — " if you want to see the whole , " one passage reads , " you will have to piece me together yourself . "
+bookshelf 1.0 used a proprietary hypertext engine that microsoft acquired when it bought the company cytation in 1986 .
+currently , the world wide web is based mainly on documents written in hypertext markup language ( html ) , a markup convention that is used for coding a body of text interspersed with multimedia objects such as images and interactive forms .

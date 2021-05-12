@@ -1,0 +1,255 @@
+a cantenna is a directional waveguide antenna for long - range wi - fi used to increase the range of ( or discover ) a wireless network .
+for example , in german , directional adpositions govern accusative while static ones govern dative .
+as antenna , a directional antenna consisting of 3 guyed masts , each 380 metres tall , is used .
+historically , other interstates were given directional suffixes .
+the directional drilling technique allows the path of the well to be directed to achieve contact with as many potentially producing features as possible .
+prior to adcock 's invention , engineers had been using loop antennas to achieve directional sensitivity .
+today , kfi broadcasts from its burbank , california studios on 640 khz on a 50,000-watt non - directional am transmitter which is located in nearby la mirada at 33° 52 ' 47 " n , 118° 00 ' 47 " w. as a class a signal , kfi can be heard throughout southern california and some distance into nevada , arizona , northwestern mexico , and , at night , in some parts of hawaii and most of the western united states .
+directional signage is similar to that of the united kingdom , but is bilingual .
+systems which guide evacuees during an emergency by the emission of pink noise to the exits are often also called " directional sound " systems .
+is this directional system of an or nan origin ?
+instruments such as the british euphonium or the french saxhorn can not compete with the directional metal - belled catalan shawms ( tenoras and tibles ) , trumpets and trombone in the outdoor village - square setting where the sardana is danced .
+it is equipped with an instrument landing system , vhf omni - directional radio range , distance measuring equipment , airport surveillance radar , approach lights , precision approach angle guidance lights , and more .
+the interface consisted of 32 buttons , eight of which were function keys , three knobs , and a four - key directional pad for navigating the 240x64 display , located in the upper - middle portion of the sampler .
+gecko tape ( with " directional adhesion " ) is a new material still at the development stage .
+vectors as directional derivatives .
+the ssr 's directional antenna is never perfect ; inevitably it will " leak " lower levels of rf energy in off - axis directions .
+directional consistency is the variant of arc , path , and formula_38-consistency tailored for being used by an algorithm that assigns values to variables following a given order of variables .
+a non - directional beacon , 362 khz , ident : bck is on field .
+there are various ways to define the derivative of a function on a differentiable manifold , the most fundamental of which is the directional derivative .
+alfred ritscher , which gave directional names to the eastern , middle and western units of the petermann ranges .
+the reflectance of all kinds of visual displays can be described most comprehensively by the bdrf ( bi - directional reflectance distribution function ) from which a variety of reflectance characteristics can be derived ( e.g. gloss , haze , hemispherical reflectance , etc . ) .
+in mathematics , the directional derivative of a multivariate differentiable function along a given vector v at a given point p intuitively represents the instantaneous rate of change of the function , moving through p , in the direction of v. it therefore generalizes the notion of a partial derivative , in which the direction is always taken parallel to one of the coordinate axes .
+the upgrades to the former naas to achieve status as a full - fledged nas and master jet base included construction of additional new hangars , barracks and administrative support buildings for the air station , heavy attack wing and heavy attack squadrons , precision approach radar / ground controlled approach ( par / gca ) , non - directional beacon ( ndb ) and tactical air navigation ( tacan ) navigational aids , a robust storage and distribution system for jp-5 jet fuel ( which relied on resupply via a railroad spur into the base ) , a navy dispensary , navy exchange complex , base theater , two swimming pools , recreational facilities and separate clubs for officers , chief petty officers and enlisted personnel .
+once again , the chain rule establishes that this is independent of the freedom in selecting γ from the equivalence class , since any curve with the same first order contact will yield the same directional derivative .
+on every other interstate , the directional suffixes were phased out by giving the route a loop or spur designation .
+they wheels were painted white , with blue pinstripes around the outer perimeter , and were shod with goodyear p245/50vr16 uni - directional tires ( the new wheel / tire combo very similar to the corvette 's p255/50zr16 arrangement ) , marking the first appearance of 16-inch wheels on any f - body and a first for pontiac .
+the tread on " scorpions " is asymmetric and directional , as it has proven more efficient during the tests .
+medium directional : these antennas are the ones most often seen on suburban rooftops .
+these properties are consequences of the non - directional and non - polar nature of metallic bonding , in which planes of atoms can slide past one another without disrupting their interactions with the surrounding sea of delocalized electrons . greater strength can be provided by interfering with the dislocations that mediate plastic deformation .
+this ability along with directional exhaust outlets allows kitt to jump from a standstill or at high speed .
+it broadcasts with 5,000 watts of power during the daytime and 3,800 watts during critical hours using a non - directional antenna .
+if an animal explores , in the dark , an environment with no directional cues , the hd alignment tends to drift slowly and randomly over time .
+as the source is brought closer to the directional microphone , the amplitude component of the pressure difference increases and becomes the dominant component at lower frequencies ( recall that the phase component is relatively small at the low frequencies ) .
+on each side on the freeway , there is an ( often multi - lane ) exit ramp , followed by a loop ramp and directional ramp entering the freeway .
+the tangent space of a point consists of the possible directional derivatives at that point , and has the same dimension " n " as the manifold does .
+the signal is directional and can be heard throughout pontiac , west bloomfield , auburn hills and points north .
+ny 17 , its old former alignment ( ny 17 m ) and the erie run generally east - southeast , partly cross - country and partly through small stream valleys , to the end of the freeway , the directional change in ny 17 , and the junction of the erie with its branch to newburgh .
+moreover , they rejected directional change ( i.e. orthogenetic , teleological or progressive change ) .
+tales of rebirth " lets the player assign four skills to the four directions of the directional pad .
+the land was set aside by the federal communications commission in 1958 , as a radio quiet zone ; the area closest to the telescope is free of fixed radio transmitters , and all other fixed radio transmitters including tv and radio towers inside the zone are required to transmit such that interference at the antennas is minimized by methods including limited power and using highly directional antennas .
+combined , these survey tools and bha designs made directional drilling possible , but it was perceived as arcane .
+thus , interpretation of directional adverbs is entirely context - dependent .
+for this reason pitch and yaw directional stability are collectively known as the ' weathercock ' stability of the missile .
+he moved to the united states in 1998 , where he worked at siemens corporate research in princeton , new jersey and where he played a key role in the development of the patented siemens directional hearing aid .
+they are connected by a thin bridge of exoskeleton and they function like a tiny pair of ear drums , but because they are linked , they provide acute directional information .
+is a multi - directional shooter arcade game that was released by namco in 1984 .
+most transmissions consisted of the 600 line pictures , which were telemetered by a directional antenna .
+wbnr signed on in 1959 as a 1,000 watt directional antenna daytime only station .
+inteq carries on the leadership in directional drilling established by the original eastman oilwell survey company .
+bangai - o , the player 's mecha , is maneuvered via eight - way directional controls and fires in eight directions , controlled by the controller 's four face buttons .
+ia technology enables client terminals which have either multiple antennas or self - tracking directional antenna to communicate each other with as high signal - to - interference - and - noise ratio ( sinr ) as possible .
+a bi - directional converter can move power in either direction , which is useful in applications requiring regenerative braking .
+there are a range of different omni - directional units available which can be used for differing scanning applications , ranging from retail type applications with the barcodes read only a few centimetres away from the scanner to industrial conveyor scanning where the unit can be a couple of metres away or more from the code .
+the passenger stock consists of high - floor , bi - directional , single - articulated electrical multiple units .
+however , it continued to share a number of problems with the 112 , notably a lack of directional stability .
+to improve the directional accuracy , lobe - switching was used in the transmitting array .
+they may include a second , lower , tier of lamps , such as clear halogen " takedown " lights towards the front to illuminate the vehicle being stopped , clear side - facing " alley " spotlights , additional amber or red towards the rear for scene protection , or directional traffic advisory arrows .
+two s - band antennas were located on the top and bottom of the spacecraft , providing an omni - directional downlink data rate of 24 kbit / s .
+the mk3 was identified at the front by white directional indicators and by a chrome bar that ran through the radiator grill .
+gameplay involves using arrow keys , directional pad or mouse to move chip about each of the levels in turn , collecting enough chips to open the chip socket at the end of each level , get to the exit , and move on to the next level .
+it originally had a power of 5,000 watts fulltime and used a single directional pattern at all times .
+the bank claimed kerviel " had taken massive fraudulent directional positions in 2007 and 2008 far beyond his limited authority " and that the trades involved european stock index futures .
+while several methods of detecting neutrinos exist , most do not provide directional information , and the ones that do have poor angular resolution , about 1°. to improve the angular resolution , a large array of neutrino detectors may be used .
+since normal vertical drilling is impractical in a dense urban environment – active oil wells are loud , malodorous , and generally make poor neighbors – drilling from the tightly clustered wells in the island is directional , with wells slanting into different parts of the formation , similar to the technique used for drilling offshore fields from oil platforms .
+wilkenson ( 2004 ) notes that overall heterogeneity of a society may provide a meta - explanation for the variance in incarceration rates : there may be a multi - directional causality where close - knit societies are least likely to offend against one another .
+however , unlike taxis , the response to the stimulus provided ( such as gas exposure , light intensity or ambient temperature ) is non - directional .
+it is the world ’s first indoor , all - weather , omni - directional , vehicle - to - vehicle crash test center , built to increase research in safety technologies that will help vehicles withstand real - world traffic accidents .
+typically , fixed wimax networks have a higher - gain directional antenna installed near the client ( customer ) which results in greatly increased range and throughput .
+in this condition , the tires no longer contribute to directional control , and braking action is nil .
+in a directional microphone , sound reflected from surfaces behind the diaphragm is permitted to be incident on the rear side of the diaphragm .
+it is located in the uptown neighborhood at 4620 north broadway in chicago , illinois ( directional coordinates 4600 north , 1100 west ) .
+directional signals for am stations continue to be used to this day .
+extrasensory perception ( esp ) in video games displays contextual information such as the health , name , equipment , position and/or orientation of other participants as navigation / directional markers , which would normally be hidden from game participants .
+the handheld features four lettered buttons ( x , y , a , b ) , a directional pad , and start , select , and power buttons .
+continuing west through industrial areas into anne arundel county , the route encounters the northern terminus of maryland route 10 ( arundel expressway ) at a directional interchange , where maintenance switches to the maryland state highway administration .
+a high - gain directional dish antenna was attached to the bottom of the base .
+kantilal vardichand ( " kanti " ) mardia ( 1935- ) is a statistician specializing in directional statistics , multivariate analysis , geostatistics , statistical bioinformatics and statistical shape analysis .
+for 2d or 3d signals , directional wavelet transforms go further , by using basis functions that are also localized in " orientation " .
+this would have a single bi - directional platform on the single track line .
+many of the 74 minigames featured utilize the capabilities of the ds 's touch screen and microphone , in addition to traditional minigames using the directional pad and control buttons .
+all microphones made by schoeps employ traditional ( i.e. externally polarized , not electret ) condenser transducers , and use small - diaphragm , single - diaphragm capsules , even in microphones which offer two or three different directional patterns .
+this alignment leads to a directional variation of elasticity wavespeed .
+directional carpet linear feeders are developed to orientate components where a step feeder or bowl feeder is not suitable they enable gentle handling of orientated components from bulk to escapement devices creating product accumulation prior to a machine or handling unit .
+the algorithm for multi - directional deposition using geodesic interference level attribute was introduced by rajeev dwivedi and radovan kovacevic in 2005 , at the research center for advanced manufacturing .
+designed to traverse difficult terrain , the bronco has a ground pressure of 60 kpa and is fitted with heavy duty seamless rubber tracks and a running gear system for soft ground conditions and directional stability .
+fixed wireless services typically use a directional radio antenna on each end of the signal ( e.g. , on each building ) .
+in addition , the crew activated the automated directional solidification furnace ( adsf ) , six getaway specials , participated in biomedical experiments , and conducted a laser tracking experiment as part of the strategic defense initiative .
+the players started at the same time and place , and used their points from the first five rounds to buy advantages , such as directional arrows in the rings , completed words at the computer , an easier path in the laser matrix ( one of the two beams would be shut off ) , batons already removed from the response revolve , or ladder pieces already built .
+because of this , directional derivatives are often considered only for unit vectors v.
+the 102.5 license started in 1954 as wcrb - fm , the fm sister station of wcrb ( am ) ( now wrca ) , bringing its classical music format to parts of the boston area which did not get good reception of wcrb ( am ) 's directional signal as well as improved audio quality .
+it is postulated that this area may play an integral role in spatial navigation and the integration of head - directional information ( chrobak & buzsáki , 1994 ; taube , 1995 ) .
+a large tailfin provided directional stability , and the aircraft was controlled by a handlebar system extending over the pilot 's head to the rotor hub .
+this gain depends on factors such as carrier frequency , antenna heights and antenna gain , for example due to directional antennas ; and
+directional constructions .
+though the normal sentence word order is the expected transitive s - v - o - x(- ) and intransitive s - v - x(- ) , there is variation in the form of s - x - v(-o ) , such as where the directional adverbs dhe " there " and ia / ya " here " come before the verb , as happens in all local languages ( this is in common with virtually all verb tense / aspect / mood markers in the language ) .
+wtdy broadcasts at 1670 khz on a non - directional 2 pattern antenna with daytime transmitting power of 10,000 watts reduced to 1,000 watts at sunset .
+directional derivative .
+it is located at 1612 benson avenue ( directional coordinates 1600 north , 800 west ) , in the middle of downtown evanston , and next to the davis street stop of metra 's north line .
+most transmissions consisted of the 600-line pictures , which were telemetered by a directional antenna .
+some popular chain codes include the freeman chain code of eight directions ( fcce ) , vertex chain code ( vcc ) , three orthogonal symbol chain code ( 3ot ) and directional freeman chain code of eight directions ( dfcce ) .
+the station operates with a four - tower directional antenna pattern , and programs a daily format of news talk , sports talk , as well as local news / sports reports .
+these directional color terms were applied both to geographic features and sometimes to populations as well .
+this creates a force which cancels out the main rotor torque and provides directional control .
+directional fragmentation weapons ( such as the m18 claymore ) differ from other types in that they are designed to direct their fragments only in limited arc .
+the directional derivative can be rewritten in differential form ( without a given function formula_53 ) as
+it is most commonly used to simplify expressions for the gradient , divergence , curl , directional derivative , and laplacian .
+instead , the signal in rear of the junction signal is provided with a directional indicator .
+the efforts were aimed primarily at determining the origin of the bursts through precise directional information established by such a network .
+george brown made pioneering developments in directional antennas , much of which was published in the " proceedings of the institute of radio engineers " in the mid thirties , and has been republished in several engineering handbooks .
+the player performs tricks by jumping and then pressing in any direction on the directional pad .
+the company 's divisions include manufacturing , panel , electrical , service & supply , and trucking & directional boring .
+each processing element included an elan chip , a communications co - processor based on the sparc architecture , accessed via a sun mbus interface and providing two 50mb / s bi - directional links .
+since rooftop antennas are directional , two or more can be set up and connected to one receiver .
+the directional text proposed by the leadership won 85.30% of the votes .
+mosaics “ 5 ” , “ fifth ave , ” and the directional signs on each platform , are fully preserved with new tiles encircling around them .
+the station is owned by cumulus media broadcasts on 1390 khz at 5 kilowatts daytime and 106 watts nighttime from a two - tower directional antenna array adjacent to the cumulus cluster complex on pendell road in the town of poughkeepsie .
+dbmoto , hit software ’s database replication product , is software for real - time , bi - directional synchronization and change data capture between heterogeneous databases .
+with a bi - directional star topology , the system connected seven computers deployed over four islands to communicate with the central computer on the oahu island without using phone lines .
+on directional roadsigns along the n1 route , the n1 designation is only used for two relatively short sections : between dublin city centre and whitehall , and between ballymascanlon and the northern irish border .
+the longer tail boom results in more elevator and empennage authority(leverage imparted by the elevator ) , reducing the stall speed to 45 kts and increasing directional stability .
+extensive studies in arthropods , most notably in the desert ant " cataglyphis fortis " , reveal the existence of highly effective path integration mechanisms that depend on determination of directional heading ( by polarizing cues such as the sun ) and distance computations ( by , essentially , “ counting footsteps ” ) .
+many of the remaining stations are so - called " border blasters " , which operate from just inside the republic of ireland , in counties cavan , donegal and monaghan and broadcasting with directional antennas in to northern ireland .
+the station began as a daytime - only operation , operating at a power of 250 watts , non - directional .
+this foreshadowed the abrupt directional changes the band would take in the 1990s , beginning with " achtung baby " and the zoo tv tour .
+more modern aerials employ uni - directional techniques .
+all directional signs in the seoul subway are written in both korean and english .
+it can be built as single- or double directional , with 70 or 100% flow floor .
+an lom is an non - directional beacon ( ndb ) colocated with the outer marker beacon in the ils approach , so that aircraft can navigate directly to the location using the ndb as well as be alerted when they fly over it by the beacon .
+the basic theory : recognition and prediction in bi - directional hierarchies .
+here the directional stimulus is light , and the orientation movement is towards the light .
+directional radio tower .
+the ieee 1284 standard defines the bi - directional version of the port .
+on uk motorways , directional banners are often used , usually followed by the next largest city on the route .
+the x-2 and x-3 variants of the weapon did so by achieving even higher descent speeds into the transonic range without losing directional stability .
+developed by professor cassie deburke , hpgs operate on a similar principal as the kearny - fuchida jump drive , sending a directional radio transmission instantaneously from one station to another over a distance of up to 50 light years .
+from 1977 to 1979 a 358.6 m high guyed mast for conventional directional service was built .
+the m1 and m4 also have peak directional limited - stop services .
+signals will only be installed to permit traffic to flow in one direction on each line , i.e. uni - directional signalling .
+in organisms that maintain a constant shape and have one dimension longer than the other , at least two directional terms can be used .
+the company 's flagship brand has been the autotrak rotary steerable drilling system which was a pioneering directional drilling tool and has been responsible for the company 's relatively strong market share in the past few years .
+the hypothesis gets its name because normal synaptic transmission is directional and proceeds from the presynaptic to the postsynaptic cell .
+gobiodon sp . start life as females , and are bi - directional protogynous hermaphrodites , meaning that when paired up , if necessary , one changes sex to form a breeding pair .
+the tailplane was mounted at the top of the fuselage with bracing underneath and the rudder hinge post carried a water - rudder for directional control at low speeds on the surface .
+skimboards do n't have fins , so the shape of the board is the key factor for directional input .
+curiously , i-170 's three - way semi - directional interchange with i-70 was planned to be partially integrated with i-70 's interchange with hilton parkway ; diagrams of the interchange show that the ramp from eastbound i-70 to eastbound i-170 would have diverged within the latter interchange and run alongside i-70 's eastbound carriageway to the western terminus of i-170 , where it would diverge .
+these usually take the form of a weave or are uni - directional .
+the game gave players immediate access to three directional - based weapons that could all be powered up as they fought strange alien enemies through eight , enormous levels .
+other improvements were made to the public address system , directional signage , and concrete trackbeds .
+talgo iii coaches and locomotives entered service in 1964 , introducing longer cars and easy directional reversibility of the cars .
+power was raised to 1,000 watts in 1949 with the installation of a new 2-tower directional antenna system and the studio were moved to the hotel marysville in 1950 .
+the former car was equipped with directional headlamps , which would became more widespread later .
+transmitters usually have directional devices installed along with the filters that block any reflected power in the event the antenna malfunctions .
+westbrook " referred to the location of the last directional light before the airport in the nearby town of westbrook .
+on every other interstate , these directional suffixes have been phased out by designating the suffixed routes with a loop or spur designation .
+in more recent years , the name has been used for a fin on a surfboard which improves directional stability and to a moveable fin on a kayak which adjusts the boat 's centre of lateral resistance .
+on april 18 , 1996 , up , bnsf , and the chemical manufacturers association entered into an agreement giving bnsf rights over the up line between houston and east st. louis , paralleling the houston - memphis sp line , and allowing bnsf to participate in the up 's plan for directional running , in which each line would serve through trains in only one direction .
+benedict cassen 's work with a directional probe lead to the development of the first imaging with a rectilinear scanner .
+one way to think about tangent vectors is as directional derivatives .
+the section bypassing gorey , opened in 2007 , was the first section in ireland to carry " e 01 " signage , although the route number only appears on route confirmation signs - and on no other directional signage .
+enid to fairmont , oklahoma , is operated by bnsf railway for directional running , in tandem with a parallel line which was formerly part of the frisco ( st. louis - san francisco railway ) .
+indeed , the flight directions could simply reflect a directional response to wind experienced in the loft or by “ other non - odorous factors ” , such as light reflection .
+the silver label is the more fashion forward or directional product and is quite limited in distribution .
+on the largest streets at the intersections there are separate traffic lights and directional arrows for motor vehicles and for bicycles , and separate lanes for those turning and those going straight through , with the traffic signals coordinated to avoid conflicts .
+this was directional debut for baalu mahendra .
+in the back of the car , the tail , directional , and back - up lamps tipped the ends of three stacked chrome tubes per side , emerging from scalloped cut - outs in the rear quarter panels .
+expansion continued in the early 1970s including ils category ii equipment , lengthening existing runway to , installation of a non - directional beacon ( ndb ) , diesel generators , taxiways , etc .
+the " dying state " cells tend to lead to directional movement , so almost every pattern in brian 's brain is a spaceship .
+this explains also why the choice of z - axis for the directional quantization of the angular momentum vector is immaterial : an orbital of given " l " and m ' obtained for another preferred axis z ' can always be represented as a suitable superposition of the various states of different " m " ( but same " l " ) that have been obtained for " z " .
+the route begins at a high - speed directional interchange with i-95 over the middle branch of the patapsco river .
+among neurons in both areas , directional selectivity was found in all the cue , preparatory , and movement - related responses .
+this consists of riding the horse without giving directional cues to the horse , instead students are encouraged to " go with " the horse in larger and larger spaces as the human 's confidence grows in his ability to stay balanced and connected with the horse under various conditions .
+this usually reduces the high - frequency response , since most tweeters are very directional at 15 to 20 khz .
+also , some directional antennas have very narrow , sharp nulls .
+directional - hemispherical reflectance is the reflectance of a surface under direct illumination ( with no diffuse component ) .
+directional signs have not been harmonised under the convention , at least not on ordinary roads .
+each bus is also equipped with bi - directional radio transceiver to allows the driver to give and get updated information regarding traffic jams , road accidents , lost items , etc .
+many of the planes employed wing warping for directional control , which involved re - discovering how to fly them safely .
+the station has two platforms capable of handling trains of 12 coaches , platform 1 is bi - directional .
+the right - to - left mark ( ) is a non - printing character used in the computerized typesetting of bi - directional text containing mixed left - to - right scripts ( such as english and russian ) and right - to - left scripts ( such as arabic and hebrew ) .
+celle air base is equipped with a non - directional beacon ( frequency : 311 mhz , identification : cel ) .
+the game boy has four operation buttons labeled " a " , " b " , " select " , and " start " , as well as a directional pad .
+since the pattern broadcast from the dipoles was highly directional , they would hear the signal grow in strength as the powered antennas " approached " them , the strongest signal being when the powered set was at right angles .
+they also allow the wearer to read road and directional signs placed on high signposts .
+the company services outside plant construction , aerial , buried and underground construction , cable pulling and blowing , splicing , testing and cutover of copper , coax and fiber optics , directional drilling , routine line extension and major plow crews , service wire installation , fiber to the home ( ftth ) technology , telephone and broadband ( catv ) installation , residential / business / urban / rural applications , structured cabling , fiber optic splicing and testing services , copper and coax cable splicing , fiber optic fusion splicing , optical time domain reflectometer ( otdr ) and power meter testing , 24-hour restoration service , underground and aerial fiber optics and ftth applications .
+a new " drum skin " that fits over the bottom half of the ds unit will provide four " pads " for drumming that map to the unit 's directional pad and face buttons ; this design was selected over use of the touch screen due to the inability of the touch screen to recognize near - simultaneous taps , a factor that would have interfered with the drumming experience .
+the pirs is directional and aligned with the efp when the device is aimed .
+wniv broadcasts at a frequency of 970 khz with 5,000 watts of power during daytime hours and 39 watts during nighttime hours both times using a non - directional antenna pattern .
+non - directional beacons .
+an example is shown against a horizontal step - edge image with the directional derivative overlaid with a red arrow .
+scriabin composed color music that was deliberately contrived and based on the circle of fifths , whereas messiaen invented a new method of composition ( the modes of limited transposition ) to specifically render his bi - directional sound - color synesthesia .
+chinese star maps ( chinese : 星圖 ) are usually directional or graphical representations of chinese astronomical alignments .
+the two lsrs are called ldp peers and the exchange of information is bi - directional .
+the škoda 14 t is a five carbody section low - floor uni - directional tram , developed by škoda for the prague tram system .
+a low - noise rf amplifier if fed by a directional antenna to a consumer 900 mhz receiver should improve the transmission range .
+devron was a company specializing in solutions for cross directional optimization of the paper sheet in paper machines .
+raymark chose to operate the station at a more modest daytime directional signal of only 250 watts , with the possibility of upgrades later .
+star power is activated using the " * " ( star ) button on the keypad or the " ok " button in the center of the directional pad .
+the game features two control schemes ; one that uses the directional pad to move an onscreen cursor , while the other uses the wii remote 's pointer function , with the player twisting the remote to rotate the pentominoes .
+straightline hdd , formerly straighline manufacturing , inc. , is an american corporation which designs and builds tooling and equipment for the directional drilling industry .
+this gives a highly sensitive foot - steering response , more rotational than directional in its effect .
+directional control properties ' , sae paper 760713
+directional derivatives .
+before the german reunification , the facility served as a directional radio link between west berlin and west germany .
+the use of strakes also permits the use of a smaller , lower - aspect - ratio wing , which in turn increases roll rates and directional stability , while decreasing aircraft weight .
+with fast connect , it is possible to establish a call with bi - directional media flowing with no more than two messages , like in figure 3 .
+if the destination endpoint is a uni - directional endpoint whose manufacturer 's designated direction does not match the token packet ( e.g. , the manufacturer 's designated direction is in while the token packet is an out packet ) , the token packet will be ignored .
+four chacs are based in the cardinal directions and wear the directional colors .
+for example , the i2c bus protocol ( a bi - directional communication bus protocol often used between devices ) specifies the use of pull - up resistors on the two communication lines .
+more specifically , the spools are part of directional control valves where the spool slides inside a housing to route hydraulic fluid to mechanical components .
+a truly directional board will have a nose that is softer than the tail - this helps with turn initiation and with handling cruddy / choppy snow conditions .
+joseph nelson was the engineer and builder , but the heavy weathered string - course near the base and the blocked and hooded directional - light window show the influence of daniel alexander , who succeeded samuel wyatt as architect to trinity house , and under whom nelson served .
+shusterman ( a ) finds these definitions problematic given art ’s contested value and nature as well as its unpredictable development in the future ; and ( b ) argues that there is a goal for art definitions which is more important than the conceptual coverage : namely a directional / transformational one of “ illuminating the special point and value of art or [ … ] improving art ’s appreciation ” .
+on a organism scale , gravitational forces provide directional cues for plant and fungal growth ( gravitropism ) , orientation cues for animal migrations , and influence the biomechanics and size of animals .
+this hull shape also improves directional stability and fuel economy .
+integrative thinkers : take a broad view of what is salient despite the increase it causes in the complexity of problems , consider multi directional and non - linear causal relationships , keep the entire problem in mind while working on individual segments , and search for creative resolutions rather than accept trade offs .
+the station is only a construction permit at this point , for a class c1 with 100,000 watts at 958 feet directional .
+in 2004 all about eve split again following a directional argument between cousin and regan , although this rift appeared to have been healed as all about eve 's major compilation keepsakes was released with collaboration from both in early 2006 .
+the station 's signal is directional to the southwest since it is short spaced to wnyq 101.7 glens falls , ny and slightly to the southeast to protect wrsy 101.5 in marlboro , vermont .
+research suggests that these unique movements have velocity and directional characteristics that distinguish them from other environmental occurrences such as the blowing of vegetation .
+in 1978 , then - owner tri - borough broadcasting raised a second tower , adopted a directional antenna pattern , and increased its power to 5,000 watts .
+a typical machine works by the transfer of rotational force from a motor to a directional motion on a shaft , which is tipped by a dildo .
+all planar loops are directional antennas with a sharp null , and have a radiation pattern similar to the dipole antenna with e and h fields interchanged .
+both males and females have directional hearing .
+this gives rise to distinct optical phenomena such as inhibition of spontaneous emission , high - reflecting omni - directional mirrors and low - loss - waveguiding , amongst others .
+after wls switched to the top 40 format in 1960 , wjjd could n't compete : wls had a 50,000 watt clear channel signal vs. wjjd 's 50,000 watts with a directional signal that protected ksl in salt lake city ; wls was on 24 hours a day , while wjjd signed on at 4:00 a.m. and off at anywhere from 6:00 p.m. to 10:00 p.m. depending on the local sunset time in salt lake city ; and wls had a better position on the am radio dial ( 890 ) than wjjd ( 1160 ) .
+the reason why the induced width is considered instead of the width is that enforcing directional path consistency may add constraints .
+the existence of the directional charges is related to soft photons .
+when the bridge was rebuilt , the intersection was rebuilt as a semi - directional t interchange .
+schlumberger now supplies the petroleum industry with services such as seismic acquisition and processing , formation evaluation , well testing and directional drilling , well cementing and stimulation , artificial lift , well completions and consulting , and software and information management .
+the nighttime signal was “ directional ” to the east , with 10,000 watts from a brand new transmitter location near baldwin , just west of jacksonville ( the signal was required to be concentrated over the city of jacksonville , with almost no signal to the north , south or west ) .
+wnde broadcasts using 5 kw of power , with a directional antenna for nighttime operations .
+the button layout is the fighting game standard six - buttons ( three punches and three kicks . ) , which produce special moves when combined with various directional commands .
+the pa 56 arnold directional sign is visible as the car in the video travels eastbound over the new ken bridge .
+the xbox controller features two analog sticks , a pressure sensitive directional pad , two analog triggers , a back button , a start button , two accessory slots and six 8-bit analog action buttons ( a / green , b / red , x / blue , y / yellow , and black and white buttons . )
+tracking the interference amongst various layers , in a multi - directional solid freeform fabrication , is extremely important .
+any hydroplaning tire reduces both braking effectiveness and directional control .
+this would leave hydraulic system one non - operational during landing , forcing the shuttle to use pyrotechnics for the deployment of landing gear , and disabling powered steering of the nose wheel - though the vehicle would be controllable on landing through directional braking .
+more recently , kfan experienced severe storm damage in april 2004 at its transmission site , when four out of nine antennas at its directional array in credit river township ( near prior lake , minnesota ) were blown down .
+usually these are ceramic materials whose crystalline structure is extremely directional , allowing it to be easily separated into flakes or fibers .
+the command guidance system did not send a directional signal and was not encrypted which made it susceptible to detection and jamming .
+owned and operated by corus entertainment , it broadcasts on 103.9 mhz using a directional antenna with an average effective radiated power of 11,700 watts and a peak effective radiated power of 39,300 watts ( class c1 ) .
+it had initially been fitted with the twin fins and rudders of the lancaster , but the increased fuselage side area forward of the wing compared to the lancaster necessitated fitting a third central fin to retain adequate control and directional stability .
+a function " f " : " u " ⊂ " v " → " w " is called " gâteaux differentiable " at " x " ∈ " u " if " f " has a directional derivative along all directions at " x " .
+in addition to these issues , the split also serves the quincy adams subway station and burgin parkway , a major route into downtown quincy , through ramps exiting the directional ramps for each roadway .
+directional marketing is a type of marketing , a measurable form of direct response advertising , whose primary role is to point a potential consumer toward the completion of the sales process or service selection .
+that requires a powerful and highly directional projector .
+while motorists going westbound on sr 112 see trailblazer signs for sr 907a ( one noting " jct 907a " and two directional trailblazers a half block from alton road ) , those are the only indications of the mile long stretch of the north – south thoroughfare being a state route .
+there are three non - precision instrument approaches available : a global positioning system ( gps ) approach to runway 33 , a non - directional beacon ( ndb ) approach to runway 21 , and a localizer approach to runway 15 .
+directional selection will always favor those with higher rates of fecundity within a certain population .
+it is located at 1358 west morse avenue in chicago , illinois ( directional coordinates 6900n , 1400w ) .
+however , sonic will quickly stop unless the directional pad is held the way he was going .
+these valves are commonly uni - directional flapper valves which open downwards , such that the flow of wellbore fluids try to push it shut , while pressure from surface pushes it open .
+in 1980 , mims demonstrated bi - directional led voice communication through the air using near - infrared ( 940 nm ) leds and also through a 100-meter section of optical fiber ( 650 nm ) .
+many animals have the ability to sense the geomagnetic field and utilize it as a source of directional ( compass ) information .
+during world war i he established the principles that led to sound - type directional finders .

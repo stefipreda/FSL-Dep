@@ -1,0 +1,255 @@
+piezoelectric mixed oxides , in particular , are extensively used in pressure and strain gauges , microphones , ultrasound transducers , micromanipulators , delay lines , etc ..
+her survey launches are equipped with reson 8101 multibeam transducers .
+acoustic holography is a method used to estimate the sound field near a source by measuring acoustic parameters away from the source via an array of pressure and/or particle velocity transducers .
+piezoelectric sensors especially are used with high frequency sound in ultrasonic transducers for medical imaging and also industrial nondestructive testing ( ndt ) .
+employing janus kinases ( jaks)or and signal transducers and activators of transcription ( stats ) , the pathway transduces the signal carried by these extracellular polypeptides to the cell nucleus , where activated stat proteins modify gene expression .
+stat1 is a member of the signal transducers and activators of transcription family of transcription factors .
+when one group of transducers is triggered , the rotor will be pushed around one step .
+in order to capture sufficient thermoacoustic data to form an accurate 3d map of electromagnetic absorption , it is necessary to surround the anatomy being imaged with a 2d array of transducers .
+his influence continues , largely in the design of transducers used for in ultrasound imaging .
+until the invention of measurement transducers in the 1960s , crusher guns were the only reliable method for estimating chamber pressures .
+heil air motion transducers .
+electronic devices employing saws normally use one or more interdigital transducers ( idts ) to convert acoustic waves to electrical signals and vice versa by exploiting the piezoelectric effect of certain materials ( quartz , lithium niobate , lithium tantalate , lanthanum gallium silicate , etc . ) .
+when the tgfβ ligands bind to tgfβ receptors , they cause the activation of the signal transducers r - smads ( smad2 , smad3 ) .
+apertium is a shallow - transfer machine translation system , which uses finite state transducers for all of its lexical transformations , and hidden markov models for part - of - speech tagging or word category disambiguation .
+orthomode transducers are used in dual - polarised very small aperture terminals vsat , in sparsely populated areas , radar antennas , radiometers , and communications links .
+two models , custom 2 & 3 include multiple transducers in each headphone .
+examples include handheld devices like the ebow , built - in guitar pickups that increase the instrument 's sonic sustain , string drivers mounted on a stand such as the guitar resonator , and sonic transducers mounted on the head of a guitar .
+four trpvs ( trpv1 , trpv2 , trpv3 , and trpv4 ) are expressed in afferent nociceptors , pain sensing neurons , where they act as transducers of thermal and chemical stimuli .
+the data acquisition system receives the signals from electrodes and transducers .
+the mbes transmitting and listening devices are known as transducers .
+the phases run sequentially and constitute a cascade of finite state transducers over annotations .
+another method of measuring surge was implemented by nhc starting in 2005 , with a usgs team deploying pressure transducers along the coastline just ahead of an approaching tropical cyclone .
+modern versions of the net sounder , using multiple element transducers , function more like a sonar than an echo sounder and show slices of the area in front of the net and not merely the vertical view that the initial net sounders used .
+the development of liquid propellant stages for pslv , control systems for slv-3 , aslv , pslv and gslv , satellite propulsion systems including those for insat and irs and production of pressure transducers are done by the lpsc for india .
+various designs for tactile transducers have been presented since the 1960 's , most of which fall under the " shaker " category . shakers create a vigorous vibration by moving a mass ( usually a magnet ) which is bolted to a final mass ( like a chair or couch ) .
+magnetic amplifiers were used by locomotives to detect wheel slip , until replaced by hall effect current transducers .
+for propulsion , it offers propellant tanks , liquid apogee motors , thrust control mechanisms , transducers , etc .
+large transducers were used to generate a very tight " beam " of sound that would not touch the walls of the tube , and care had to be taken to eliminate reflections off the far end of the tubes .
+the electro - ceramics business unit provides ceramic based products for defense and aerospace applications including underwater acoustic transducers and arrays for navigation and communication sonars for the united states navy and its prime contractors , seismic and offshore oil exploration , industrial positioning and actuation , and medical devices .
+( e.g. in phased array transducers ) .
+gib systems are inverted lbl devices where the transducers are replaced by floating buoys , self - positionned by gps .
+some " hybrid " electric - acoustic guitars are equipped with additional microphones or piezoelectric pickups ( transducers ) that sense mechanical vibration from the body .
+transducers .
+history of molecular electronic transducers .
+most micromachines act as transducers ; in other words , they are either sensors or actuators .
+this technique , when used with multiple transducers / hydrophones / projectors , can calculate the relative positions of static and moving objects in water .
+the performance of modern transducers approaches the precision required to distinguish between the torr and the millimeter of mercury .
+in addition to the transducers , an adcp typically has an electronic amplifier , receiver , mixer , oscillator , accurate clock , temperature sensor , compass , pitch and roll sensor , analog - to - digital converters , memory , digital signal processor and instruction set .
+signal run time measurements now yield the distances b - a , b - c and b - d. the resulting target positions are always relative to the location of the baseline transducers .
+the resulting positions are relative to the location of the baseline transducers .
+generally , the electro - acoustic transducers are of the tonpilz type and their design may be optimised to achieve maximum efficiency over the widest bandwidth , in order to optimise performance of the overall system .
+these included sound transducers such as microphones and loudspeakers , and various electronic devices such as the mixing desk , designed for the amplification and modification of electrical sound signals .
+the electrodes and transducers employ sensors that allow the software to communicate with the students to ensure that they are using the correct devices and collecting good data .
+piezoelectric materials have wide applications as transducers - transferring mechanical motion into electricity or electricity into mechanical motion .
+in october 2008 , visualsonics released the world ’s first high frequency linear array transducers in its vevo® 2100 system .
+typically , tonpilz transducers are used in sonar applications .
+both technologies involve transducers that are simply clamped on to the pipe and programmed with the pipe size and schedule and can be used to calculate flow .
+the ivds ' sonar transducers were packaged within a 2 ton fiberglass - enclosed " fish " containing the sonar array and a gyro - compass / sensor package launched by the massive 13v hoist from a stern compartment , located just beneath the main deck , to depths of up to .
+cyclic processes that are not electrical in nature , such as the rotation rate of a shaft , mechanical vibrations , or sound waves , can be converted to a repetitive electronic signal by transducers and the signal applied to a frequency counter .
+accelerometers based upon piezoelectricity are constructed with two piezoelectric transducers .
+transducers .
+in 1975 in the realm of informatics , he worked on a special software for ibm1620 used for composition and arrangement , as well as electroacoustic transducers for musical instruments .
+the acoustic complexity of ribbon microphones is comparable to other types of air coupled transducers .
+such device may be part of a vsat antenna feed orthomode transducers serve either to combine or to separate two microwave signal paths .
+in past decades , ess of california produced a series of hybrid loudspeakers using such tweeters , along with conventional woofers , referring to them as heil transducers after their inventor , oskar heil .
+terfenol - d has the highest room - temperature magnetoresistance of any known material ; this property is employed in transducers , wide - band mechanical resonators , and high - precision liquid fuel injectors .
+carpi , de rossi , kornbluh , pelrine and sommer - larsen " dielectric elastomers as electromechanical transducers .
+this connector is used worldwide for accelerometers , small microphones and various other transducers .
+unlike a typical subwoofer driver , which produces audible vibrations , tactile transducers produce low - frequency vibrations that are designed to be felt by individuals who are touching the transducer or indirectly through a piece of furniture or a wooden floor .
+mint studio uses a texas instrument amplifier and two three inch advanced alloy ( magnesium / aluminum ) cone full range transducers .
+this work builds upon the earlier works of suneson et al . where the researchers implanted high - speed pressure transducers into the brain of pigs and demonstrated that a significant pressure wave reaches the brain of pigs shot in the thigh .
+all grado headphones operate using grado 's vented diaphragm technology , dynamic transducers , open - air , " circled " 40 mm driver - oriented supra - aural earcups , and grado 's gs and ps which deploys a larger earcup ) , an impedance of 32 ohms , and a sensitivity level of 98 db. all grado headphones have a non - resonant air chamber ( with the sr325i having an aluminum version , and the reference and statement headphones having wooden versions each ) , and all grado headphones use high - energy neodymium magnets for each earcup .
+the equilibrium of the activity , localization and timing of tgfβ and bmp transducers , smad4 , fam and of ectodermin should be achieved in order to be able to modulate the gene expression of genes required for germ layer formation .
+allows the user to view and manually manipulate the shapes of small automata and transducers .
+for clamp - on flowmetry , the ultrasonic transducers are mounted ( clamped ) on the outside of the pipe wall .
+in electric - acoustic classical guitars , the transducers and microphones are always used because conventional pickups are not capable of picking up vibrations of non - magnetic materials .
+tactile transducers have recently emerged as a device class , called variously " bass shakers " , " butt shakers " and " throne shakers " .
+in the place of reeds and pipes , hammond introduced a set of rapidly spinning magnetic wheels , called tonewheels , which excited transducers that generated electrical signals of various frequencies that were mixed and fed through an amplifier to a loudspeaker .
+envelope following systems , the most sophisticated being the vocoder , follow the power or amplitude of an audio signial , rather than using pressure transducers .
+the old quarry in the village centre is now an industrial estate - mostly owned by the company ge druck ltd , which makes pressure transducers .
+there are a great many combinations of resonators and transducers that can be used to construct a mechanical filter .
+some electric guitar and electric bass guitar models feature piezoelectric pickups , which function as transducers to provide a sound closer to that of an acoustic guitar with the flip of a switch or knob , rather than switching guitars .
+an object can be equipped with two or more acoustic transducers , which function as speakers and microphones .
+recently , tactile sound transducers have evolved to include higher frequencies and produce higher fidelity .
+acoustic sounds ( such as voices or musical instruments ) are often recorded with transducers ( microphones and pickups ) that produce weak electrical signals .
+this most likely will be done with laser - optical transmitting transducers in ultrasonic testing .
+this feature is of great advantage for making electromechanical transducers .
+shortly after this , harrison filed another patent using the same methodology on telephone transmit and receive transducers .
+it sees application in magnetomechanical sensors , actuators , and acoustic and ultrasonic transducers , eg . in the soundbug device ( its first commercial application by feonic ) .
+enterochromaffin cells are sensory transducers that release 5-ht to activate intrinsic ( via 5-ht1p and 5-ht4 receptors ) and extrinsic ( via 5-ht3 receptors ) primary afferent nerves .
+when piezoelectric transducers are used on upright bass or other acoustic instruments , the signal coming directly from the transducer is often too weak and it does not have the correct impedance for direct connection to an instrument amplifier .
+he had also begun using cheap guitar transducers and a table full of additional wired objects ( pans , metal trays , small tambours and egg - slicers ) .
+heat flux sensors are known under different names , such as heat flux transducers , heat flux gauges , heat flux plates .
+pzt is used to make ultrasound transducers and other sensors and actuators , as well as high - value ceramic capacitors and fram chips .
+commonly , torque sensors or torque transducers use strain gages applied to a rotating shaft or axle .
+short baseline systems use a baseline consisting of three or more individual sonar transducers that are connected by wire to a central control box .
+since the more common carbon microphone used in most telephones does not convert acoustic energy to electrical energy ( it only modulates the supplied electrical current ) it can not be used in sound - powered transducers .
+a virtual - reality generator consists of an image generator to provide the subject with perceptual content from the several sensory modalities , perhaps in the forms of transducers connected directly to afferent nerves by use of neural implants , and a program to handle interaction between the subject 's choices and the virtual environment .
+the " transducers " in most handsets have higher impedances than most small loudspeakers , often hundreds of ohms instead of the 8 ohm of a typical speaker .
+their main disadvantage is the distortion of the flow itself by the structure supporting the transducers , which requires a correction based upon wind tunnel measurements to minimize the effect .
+newer technology transducers use phased array techniques to enable the sonographic machine to change the direction and depth of focus .
+when the alien was meant to be traveling on the far side of the room , " several banks of 1,800-watt - per - channel servo - driven subwoofers " repurposed from the previous attraction , mission to mars and transducers mounted in the seats made pounding vibrations meant to simulate the footsteps of a powerful monster .
+note that this is distinct from the electronically controlled focusing employed in diagnostic ultrasound devices which employ arrays of transducers .
+the medical imaging systems division develops and manufactures portable and mobile ultrasound systems and a variety of transducers .
+there are many other types of input transducers which may be used occasionally , including magnetic pickups used in electric guitars and electric basses , contact microphones used on stringed instruments , and piano and phonograph pickups ( cartridges ) used in record players .
+such piezoelectric materials , or transducers can convert a sound signal into an electrical signal since sound is a pressure wave .
+the platform is also equipped with a digital flight control system , electro - mechanical actuators , and flight control sensor systems such as pitot - static , air data computer , navigation sensor , transducers , temperature , pressure , displacement sensors , etc .
+in other fisheries , where the amount of fish in the net is important , catch sensor transducers are mounted at various positions on the cod - end of the net .
+in electric guitars , transducers known as pickups convert string vibration to an electric signal , which in turn is amplified and fed to speakers , which vibrate the air to produce the sounds we hear .
+astm e1774 - 96 standard guide for electromagnetic acoustic transducers ( emats )
+because nanowires appear in bundles , they may be used as tribological additives to improve friction characteristics and reliability of electronic transducers and actuators .
+the electronic controls are connected by digital transducers to several components providing sensory feedback to players .
+a low - pressure pump delivers nutrient solution via jets or by ultrasonic transducers , which then drips or drains back into the reservoir .
+jape transducers are used within gate to manipulate annotations on text .
+the advantage of tactile transducers used for low frequencies is that they allow a listening environment that is not filled with loud low frequency waves .
+· tree transducer language membership problem for top down finite - state tree transducers
+short baseline systems get their name from the fact that the spacing of the baseline transducers ( on a boat for example ) is usually much less than the distance to the target , such as a robotic vehicle or diver venturing far from the boat as with any acoustic positioning system , a larger baseline yields better positioning accuracy .
+the first electric guitars used in jazz were hollow archtop acoustic guitar bodies with electromagnetic transducers .
+the reeds can be viewed as transducers converting sound to and from an electrical signal .
+from 1976 through 1989 , chrysler equipped many vehicles with their electronic lean burn ( elb ) system , which consisted of a spark control computer and various sensors and transducers .
+as the cod - end fills up these catch sensor transducers are triggered one by one and this information is transmitted acoustically to display monitors on the bridge of the vessel .
+active sonar is also used to measure distance through water between two sonar transducers or a combination of a hydrophone ( underwater acoustic microphone ) and projector ( underwater acoustic speaker ) .
+measurements from pairs of transducers can be combined to yield a measurement of 1- , 2- , or 3-dimensional flow .
+a good mbes will have around one hundred transducers , the output from which can be combined in such a way as to enhance the sound transmitted towards or arriving from a particular direction .
+equalization was also applied to correct the response of the transducers , for example , a particular microphone might be more sensitive to low frequency sounds than to high frequency sounds , so an equalizer would be used to increase the volume of the higher frequencies ( " boost " ) , and reduce the volume of the low frequency sounds ( " cut " ) .
+each of the transducers may be either external or internal .
+nominal impedance " is " used , however , to characterise the transducers of an audio system , such as its microphones and loudspeakers .
+transducers are used for changing energy types .
+there are specific nociceptor transducers that are responsible for how and if the specific nerve ending responds to the thermal stimulus .
+the probes and transducers are mounted on carriages located underneath the inspection car .
+these transducers are aimed such that the sound pulse travels through the water in different , but known directions .
+these changes include database changes , messages , and actions on transducers .
+with eight audio transducers applied directly to the back surface of the walls , chartier 's stark composition modulates and transfers through the surfaces .
+since 1999 , ultrasone ag has been producing headphones that they claim reduce the risk of hearing damage , through the use of more efficient transducers and earcups shielded to reduce electromagnetic radiation , designated as le / ule ( low / ultralow emission ) .
+transducers ’03 .
+for conducted emissions , typical transducers are the lisn ( line impedance stabilisation network ) also sometimes called as the amn ( artificial mains network ) and the rf current probe .
+it was also known that the precompensation schemes placed an added demand on the frequency response of the ultrasonic transducers .
+a linear ( 1d ) array , be it straight or curved , can image a 2d " plane " , but to image a full 3d " volume " requires a 2d array of transducers .
+tml can process data from simple stationary in - situ transducers to high bandwidth dynamic remote devices such as a synthetic aperture radar system .
+he invented the high - energy x - ray collimator used on several orbiting solar observatories , as well as strain - gage transducers used in testing early b-52 bombers .
+almost all piezoelectric transducers are made of ceramic .
+the sense organs are composed of modified epithelial cells that act as sensory transducers for electric currents .
+the sbl navigation system ( figure 3 ) consists of three small , 5 cm diameter sonar baseline transducers ( a , b , c ) that are linked by cable to a control box ( d ) .
+in addition to the normal data gathering methods ( e.g. , balance system , pressure measuring transducers , and temperature sensing thermocouples ) , state - of - the - art , non - intrusive instrumentation ( e.g. , laser velocimeters and shadowgraphs ) are available to help determine flow direction and velocity in and around the lifting surfaces of models or aircraft undergoing investigation .
+this is a result of having a finite number of transducers ( and hence elementary waves ) .
+short baseline systems determine the position of a tracked target such as a rov by measuring the target 's distance from three or more transducers that are , for example , lowered over the side of the surface vessel from which tracking operations take place .
+the principal aim of the journal is to bring together the latest research and development in various fields of science and technology such as computer science , artificial intelligence , pattern recognition , knowledge engineering , process control theory and applications , distributed systems and computer networks , electronics , communications , data transmission , software engineering , energy conversion , electrotechnics , electric machines modeling and design , control of electric drive systems , non - conventional energy conversion , sensors , transducers modeling and design , electro - physics , and nanotechnology .
+at the input and output of the filter there are transducers which convert the electrical signal into , and then back from , a mechanical vibration .
+potentiometers operated by a mechanism can be used as position transducers , for example , in a joystick .
+one liquid hydrogen and two liquid oxygen transducers were replaced upstream in propellant flow system near the 17-inch ( 43 cm ) disconnect area , which is protected by internal screen .
+there are several styles available for torque transducers .
+piezoelectric transducers are often used as contact microphones to amplify sound from acoustic musical instruments , to sense drum hits , for triggering electronic samples , and to record sound in challenging environments , such as underwater under high pressure .
+the bose companion 3 computer speaker system utilizes a bass module and two satellite transducers to deliver the high and mid - end range of sound .
+ideally , however , there would be several transducers in various places to capture a more well rounded sound that is closer to the acoustic ( unamplified ) tone of the instrument .
+kistler group is a swiss company that specializes in the development and manufacture of sensors , transducers and electronics for measuring pressure , force , torque and acceleration .
+infrasound can also be generated by man - made processes such as sonic booms and explosions ( both chemical and nuclear ) , by machinery such as diesel engines and older designs of down tower wind turbines and by specially designed mechanical transducers ( industrial vibration tables ) and large - scale subwoofer loudspeakers .
+the unique properties of the method enable the investigation of specific features of the acoustic field ( e.g. focal point in hifu transducers ) , detection of acoustic beam - profile irregularities ( e.g. due to defects in transducer ) and on - line identification of time - dependent phenomena
+these modifications involved many changes including replacement of magneto - constrictive transducers with piezoelectric ones , and resulted in target acquisition range increased from to without loss of sensitivity with increasing depth .
+nasal and oral airflow can be measured using pressure transducers , and/or a thermocouple , fitted in or near the nostrils ; the pressure transducer is considered the more sensitive .
+the three different types of transducers are subwoofers , compression drivers , and tweeters .
+by using at least 3 transducers , an " ultrasonic anemometer " measures wind speed and direction in open air , with no moving parts .
+acoustic holography is a method that is used to estimate the sound field near a source by measuring acoustic parameters away from the source via an array of pressure and/or particle velocity transducers .
+these two tyrosines engage various signal transducers , thus initiating a whole spectrum of biological activities driven by met , collectively knows as the invasive growth program .
+most loudspeakers are actually very inefficient transducers ; only about 1% of the electrical energy sent by an amplifier to a typical home loudspeaker is converted to acoustic energy .
+unlike normal air microphones , contact mics act as transducers which pick up vibrations and convert them into a voltage which can then be made audible .
+the world 's first 3d thermoacoustic animal scanner ( fig . 8 : left panel ) accomplished this by combining a cylindrical array of 128 transducers ( fig . 8 : center panel ) with rotation of the animal being imaged about the vertical axis .
+if the object is to manoeuvre in three - dimensional space , more than two transducers are needed .
+in - cylinder linear displacement transducers ( ldts ) have been used with limited success in mobile equipment to achieve these goals .
+in addition to the normal data gathering methods ( e.g. , balance system , pressure measuring transducers , and temperature sensing thermocouples ) , state - of - the - art non - intrusive instrumentation ( e.g. , laser velocimeters and shadowgraphs ) are available to help determine flow direction and velocity in and around the lifting surfaces of models or aircraft undergoing investigation .
+it includes algorithms for weighted and unweighted finite - state acceptors and transducers .
+the most common secondary transducers in modern vacuum gauges measure a change in capacitance due to the mechanical deflection .
+the successful completion of this contract led to the development and production of a complete line of innovative , small - size position transducers .
+it has also recently been used as a site to place middle ear implantable hearing aid transducers .
+to amplify instruments with piezo transducers and condenser mics , specialized impedance - matching preamplifiers are often required .
+iepe is the standard for piezoelectric transducers and is also an acronym for " integrated electronics piezo electric . "
+smad proteins are signal transducers and transcriptional modulators that mediate multiple signaling pathways .
+ferroelectric polymers , such as polyvinylidene fluoride , are used are acoustic transducers and electromechanical actuators because of their inherent piezoelectric response , and as heat sensors because of their inherent pyroelectric response .
+ideally , the transducers should occupy the same physical space ; as this is impossible the microphone capsules are placed as close to each other as physically possible , generally with one centered directly above the other .
+combination transducers have both functions -- they both detect and create action .
+the spatial resolution is given by the path length between transducers , which is typically 10 to 20 cm .
+instead it was used as a test bed with silicon rectifiers and transducers , this being the first step towards thyristor control .
+1932 - 1933 : the plant focuses on production of acoustical - electrical transducers — microphones and loudspeakers .
+ultrasonography ( sonography ) uses a probe containing one or more acoustic transducers to send pulses of sound into a material .
+application areas include ( but are not limited to ) : communications , networking , sensors and actuators , radar and sonar , medical imaging , biomedical applications , remote sensing , consumer electronics , computer vision , pattern recognition , robotics , fiber optic sensing / transducers , industrial automation , transportation , stock market and financial analysis , seismography , avionics .
+simultaneous recordings are performed by two separate transducers , one for the measurement of the fetal heart rate and a second one for the uterine contractions .
+vishay has several production centres in israel , china and five other asian countries , europe and the americas where it produces rectifiers , diodes , mosfets , optoelectronic products , selected integrated circuits , resistors , capacitors , inductors , sensors , and transducers .
+in this diagram , the filter is driven by piezoelectric transducers .
+moving iron diaphragm transducers are highly microphonic , and connecting two together with no amplifier makes a usable communications link .
+once an electronic control module has determined that ice has formed , a large current spike is pumped into the transducers to generate a sharp mechanical shock , cracking the ice layer and causing it to be peeled off by the slipstream .
+a large number of individual transducers must be very close together .
+the protein encoded by the brca1 gene combines with other tumor suppressors , dna damage sensors , and signal transducers to form a large multi - subunit protein complex known as the brca1-associated genome surveillance complex ( basc ) .
+this sub - system processes commands related to the propulsion system , controls the thruster valves and performs data acquisition from the various thermistors and pressure transducers .
+relation to transducers .
+there are two different groups : acceptors / recognizers and transducers .
+a large number of transducers allows for more accurate steering .
+transducers .
+the ultrasonic frequencies pulsed into samples by the transducers of acoustic microscopes range from a low of 10 mhz ( rarely , 5 mhz ) to a high of 400 mhz or more .
+like some of the british subs of the same design , the boats were equipped with fessenden transducers , an early form of sonar .
+input transducers .
+ultrasonic transducers that transmit sound waves through air had existed for quite some time , but first saw major commercial use in early television remote controls .
+samson ag develops measurement and control technologies and produces regulators , control valves , and electro - pneumatic transducers , control valves for hvac systems - controllers and sensors for hvac systems .
+the sodar transducers are used to transmit the acoustic signals that produce the bragg scattering of the radar signals , which allows the speed of sound to be measured by the radar .
+the force transducers were incorporated into four custom brackets which replaced the existing brackets used to attach the 5 ft ( 1.5 m ) standard canister to the side wall gas adapter beam .
+d stansfield , " underwater electroacoustic transducers " peninsula publishing , 1991
+one of the few remaining uses of natural crystals is for pressure transducers in deep wells .
+to get a very natural sounding amplified sound , b - band transducers and preamps are used for the electro - acoustic retrofitted guitars .
+load transducers must be capable of measuring forces in the micronewton range and displacement sensors are very frequently capable of sub - nanometer resolution .
+pickups , apart from optical types , are inherently passive transducers .
+large piezoelectric effects allow wide bandgap materials to be used as transducers .
+when the ihcs of part of the basilar membrane are damaged or destroyed , so that they no longer function as transducers , the result is a ‘
+this definition of finite transducer is also called " letter transducer " ( roche and schabes 1997 ) ; alternative definitions are possible , but can all be converted into transducers following this one .
+aside from the uses mentioned above , their strong piezoelectric response is exploited in the design of high - frequency loudspeakers , transducers for sonar , and actuators for atomic force and scanning tunneling microscopes .
+in effect the transducers needed to keep up with what the digital precompensation demanded of them , namely a broader frequency response .
+through the 1970s , 1980s , and 1990s , significantly all u.s. , canadian , and european aerospace companies have used the company 's air data products and position transducers in their research , development , and test activities .
+the majority of transducers and controllers employ pid ( proportional , integral , and derivative ) control which controls the final output element based on the variables response to the control element .
+modern day modal testing systems are composed of transducers ( typically accelerometers and load cells ) , an analog - to - digital converter frontend ( to digitize analog instrumentation signals ) and a host pc(personal computer ) to view the data and analyze it .
+the technique , which is still in its infancy , is accomplished by synchronizing the frequency of piezoelectric transducers .
+since much very low bass is felt , sub - bass can be ' augmented ' using tactile transducers .
+for radiated emission measurement , antennas are used as transducers .
+external rotary and stationary transducers can be used with portable displays ( handheld torque analyzers ) .
+less than five of the transducers from the lfa array were used in the heard island feasibility test , and the sound was detected on the opposite side of the earth .
+this work builds upon the earlier works of suneson et al . where the researchers implanted high - speed pressure transducers into the brain of pigs and demonstrated that a significant pressure wave reaches the brain of pigs shot in the thigh .
+networking infrastructures have evolved from smoke and light signals , telegraphs , telephones , mobile telephony , to internet applications leveraging key advances in electro - mechanical transducers , semiconductor , magnetic data storage , software programmed computers , wireless communication , and algorithms .
+the two stereophonic recording methods , using two channels and coincident microphone techniques ( x - y with bidirectional transducers / blumlein setup + m / s stereophony ) , were developed by blumlein at emi in 1931 and patented in 1933 .
+trms are also known as time reversal mirror arrays , as they are usually arrays of transducers , but they do not have to be arrays .
+the probes and transducers can be utilized on a “ walking stick ” , on a hand pushed trolley , or in a hand held setup .
+bending wave transducers use a diaphragm that is intentionally flexible .
+many types of input transducers can be found in a sound reinforcement system , with microphones being the most commonly used input device .
+( physically large transducers radiate high frequencies in a narrow beam rather than fanning them over a wide area . )
+s. bauer , r. gerhard - multhaupt , and g. m. sessler , ferroelectrets : soft electroactive foams for transducers , physics today vol .
+they measure wind velocity based on the time of flight of sonic pulses between pairs of transducers .
+giant , unattended transducers , powered by cables from land , will be lowered to considerable depths where sound travels best .
+as in etcs level 2 , trains find their position themselves by means of positioning beacons and via sensors ( axle transducers , accelerometer and radar ) and must also be capable of determining train integrity on - board to the very highest degree of reliability .
+technical progresses in both crystal growth and high frequency piezoelectric transducers have brought valuable benefits to acousto - optic components ' improvements .
+for example various electric and pneumatic transducers may fold and glue a cardboard box , fill it with product and then seal it in an automatic packaging machine .
+the term " loudspeaker " may refer to individual transducers ( known as " drivers " ) or to complete speaker systems consisting of an enclosure including one or more drivers .
+initially , electric guitars consisted primarily of hollow archtop acoustic guitar bodies to which electromagnetic transducers had been attached .
+many of these use electro - acoustic transducers such as microphones and loudspeakers .
+the rwth fsa toolkit is a highly efficient c++ library that handles finite state machines ; in particular it deals with weighted finite - state acceptors and transducers .
+focused transducers .
+external linear displacement transducers ( ldts ) eliminate the need for a hollow hydraulic cylinder rod .
+in 1998 the negative effects on thd of an insufficiently broad frequency response of the ultrasonic transducers was quantified with computer simulations by using a precompensation scheme based on berktay 's expression .
+gps intelligent buoy ( gib ) systems may be classified as inverted lbl devices where the transducers are installed on gps equipped sonobuoys that are either drifting or moored .
+advanced stress sensors derived from piezoresistors are wheatstone bridges , transducers , and picture frame sensors .
+wind transducers are usually wired to the cock or head though ' wireless ' versions are becoming steadily more popular due to the reduced installation time required .
+icp ( iepe - type ) piezoelectric transducers measure dynamic pressure , force , strain , and acceleration .
+mineralization of the ultrasonic transducers requires maintenance and potential for component failure .
+as with all transducers , piezoelectric accelerometers convert one form of energy into another and provide an electrical signal in response to a quantity , property , or condition that is being measured .
+it was assumed that the sound would come from the individual transducers and the string , with minimal influence of the sounding board .
+she also has hull mounted transducers that support multi - beam surveys , acoustic doppler current profiling ( adcp ) and shallow water surveying .
+this system , introduced by tyco international 's elo division in 2006 , uses more than two piezoelectric transducers located at some positions of the screen to turn the mechanical energy of a touch ( vibration ) into an electronic signal .
+the first published description of computational morphology using finite state transducers .
+the design also incorporates four separate transducers mounted in various locations on the instrument and uses a special output connector to allow access to these individual signals in addition to the signal from the magnetic pickup .
+older technology transducers focus their beam with physical lenses .
+( 1966 ) " electron bombardment technique for deposition of cds film transducers .
+small transducers are used when the case diameter at the point of measurement is less than 0.35 in .
+he used state - of - the - art equipment such as sunrise soundhole pickups , f.r.a.p. and later , trance audio soundboard transducers .
+in short , senses are transducers from the physical world to the realm of the mind .
+finite - state transducers are often used for phonological and morphological analysis in natural language processing research and applications .
+once the unit is started transducers in the form of accelerometers and strain gauges , convert the mechanical movement of the vehicle into an electrical signal .
+how : here various measuring principles will be compared e.g. using fixed and reversing transducers through a water path ; or direct contact , with manual or automatic calibration , etc . will be compared .
+lightweight sound - sensitive plastic film and fibre optics have been used for hydrophones ( acousto - electric transducers for in - water use ) , while terfenol - d and pmn ( lead magnesium niobate ) have been developed for projectors .
+in addition , transducers ( ie , microphones and loudspeakers ) can also ring .
+some of these waves propagate through the anatomy over some time interval ( " time - of - flight " ) before being detected by one or more of the acoustic transducers .
+various companies make accordion controllers that use pressure transducers on bellows for articulation .

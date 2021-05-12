@@ -1,0 +1,255 @@
+lab - on - a - chip or microfluidic devices , incorporate networks of microchannels that can miniaturize , integrate and automate conventional analytical techniques onto chip - style platforms .
+" navcis " , originally known as compuserve navigator , is a client program which was used to automate connections to the compuserve information service at a time when online use was priced by the minute .
+originally , animation was all hand - drawn by artists , though in the 1980s , beginning with " captain power " , computers began to automate the task of creating repeated images ; by the 1990s , hand - drawn animation became defunct .
+this state - of - the - art operation utilized electronic sensors , computers , and communications relay aircraft in an attempt to automate intelligence collection .
+in july 2009 , the published wireless guidelines for pci dss recommending the use of wireless intrusion prevention system ( wips ) to automate wireless scanning for large organizations .
+the apparently mundane task of converting author names into a standard " surname , initial " format is actually one of the more difficult to automate , due to the wide variety of naming conventions around the world and the possibility that a given name such as davis could be a first name , middle name or surname .
+although ceramic technicians have long understood many of these relationships , the advent of computer software to automate the conversion from batch to formula and analysis has brought this science within the reach of many more people .
+as businesses look to automate the process of filtering out the noise , understanding the conversations , identifying the relevant content and actioning it appropriately , many are now looking to the field of sentiment analysis .
+the network management system should automate the processes of expense management auditing , asset lifecycle management , inventory deployment tracking , cost allocation and invoice processing .
+beginning with the bmt canarsie line ( l ) and the irt flushing line ( 7 ) , the mta has plans to eventually automate a much larger portion , using one person train operation ( opto ) in conjunction with communication - based train control ( cbtc ) .
+the then technical director , charles m. richter , from 1983 to 1987 , played a significant role by revamping the ie methodology as well as designing the ie software product ( user - data ) which helped automate the ie methodology , opening the way to next generation information architecture .
+outlook security manager ( full name security manager 2009 for microsoft outlook ) is a programming tool to disable microsoft outlook security pop - up warnings in add - ins and applications that automate microsoft outlook .
+in 2006 , blue security attempted to automate a dos attack against spammers ; this led to a massive dos attack against blue security which knocked them , their old isp and their dns provider off the internet , destroying their business .
+some versions of calculator have a way to automate long calculations .
+unctad premise was to build a computer system to assist customs authorities ( or their local equivalent ) all over the world to automate and control their core processes and obtain timely , accurate and valuable information to support government projections and planning .
+in addition to the gui interface cpanel also has command line and api based access that allows third party software vendors , web hosting organizations , and developers to automate standard system administration processes .
+enterprise decision management is described as an " emerging important discipline , due to an increasing need to automate high - volume decisions across the enterprise and to impart precision , consistency , and agility in the decision - making process . "
+ikonboard php was adapted to a multi - user system that allowed thousands of individual forums to be created and hosted through a completely php - based service and a converter was created to automate the process of transferring forums that were hosted on the old perl - based myikonboard service .
+simpletest supports mock objects and can be used to automate the regression testing of web applications with a scriptable http client that can parse html pages and simulate things like clicking on links and submitting forms .
+originally etc systems were used to automate toll collection , but more recent innovations have used etc to enforce congestion pricing through cordon zones in city centers and etc lanes .
+numerous depreciation methods available to automate depreciation routines .
+corporate training use lmss to automate record - keeping and employee registration .
+the pursuit of information lifecycle management , hierarchical storage management and tiered storage can all benefit by a system for data classification that helps automate the movement and management of data between primary storage and repositories .
+taking credit card and security issues sounding form of payment(fop ) , record keeping , interline pricing and taxes , interline billing , accruing it help to automate the process and the development cost in automating staff travel .
+the basic interface can be controlled by the many options available , and the user can define personalized key mappings — often called macros — or abbreviations to automate sequences of keystrokes , or even call internal or user defined functions .
+the fsv provides the fire support teams ( fist ) with the capability to automate command and control functions , to perform fire support planning , directing , controlling and cross - functional area coordination , and execution .
+in the early 1980s , the station 's management elected to fully automate waml along with a sister fm station , weez which played easy listening and soft rock until weez was sold in the 1990s .
+the use of internet search engines to automate the process of acquiring large sets of labeled images has been described as a potential way of greatly facilitating computer vision research .
+soon , travel agents began pushing for a system that could automate their side of the process by accessing the various arses directly to make reservations .
+manufacturing most all of his machine parts by hand , ortolano was compelled to automate production to keep apace with sales .
+it involves using technology to organize , automate , and synchronize business processes — principally sales activities , but also those for marketing , customer service , and technical support .
+vulnerability scanners , and more specifically web application scanners , otherwise known as penetration testing tools ( i.e. ethical hacking tools ) have been historically used by security organizations within corporations and security consultants to automate the security testing of http request / responses ; however , this is not a substitute for the need for actual source code review .
+intelligent documents are used to help automate business processes , improve customer service , and reduce costs .
+the objective is to automate the everyday tasks that it teams are faced with so they are able to focus on more important areas .
+the itworx connected learning gateway ( clg ) is the itworx education portfolio of e - learning solutions designed to automate the building of e - learning environments .
+support to italian scientific expeditions with the aim to automate
+the main purpose of the add - ins is to add new functional capabilities into microsoft outlook and automate some routine operations .
+if there are hundreds of files and he knows a suitable programming language ( e.g. perl ) , he might write a program to automate the process , especially if he expects the effort spent on writing a computer program to do the task will be less than that required to categorize the files manually .
+the main purpose of the add - ins is to add new functional capabilities into microsoft outlook and automate some routine operations .
+organizations implement enterprise software solutions in order to automate major functions and large processes as these areas offer the greatest cost savings and return on investment compared to smaller projects .
+one of the earliest examples was a company in texas , time energy , which introduced a device to automate the switching of lights and other equipment to regulate energy use .
+the plantation was struggling financially because they had no equipment to automate the cotton production .
+there is also the potential to automate a number of defect and consistency checks on an integrated behavior tree .
+however , little is done in designing the service logic in a manner that it could be reused to automate multiple business processes .
+satan was designed to help systems administrators automate the process of testing their systems for known vulnerabilities that can be exploited via the network .
+if no such tool exists then it may be possible to automate at the next level in , ie : if an mvc design pattern has been used , the level of the controller .
+▪ wire edm - 2.5 axis and 4 axis cutting operations automate the creation of rough , skim and tab cuts
+administrators have tools to manage the platform and automate the most repetitive tasks .
+organizations use this technology to automate the creation and assembly of high - volume communications delivered across multiple channels , including xml messaging , print , e - mail , web , or sms & mms for mobile devices .
+a legal advice hot line , for example , would be very difficult to automate .
+hand composing draw commands is difficult , so a picture editor was included in the plato system by 1974 to automate this work .
+exari 's use of structured xml templates , and validating xml authoring tools , makes it possible to automate complex contracts and legal documents .
+automate deployment .
+for example , phplens includes a php class library to automate the creation of tables , indexes , and foreign key constraints portably for multiple databases .
+heeds ( hierarchical evolutionary engineering design system ) professional is a software package that interfaces with commercial cae tools in order to automate and improve the search for better product and/or process designs .
+as described above , cebp is much more sophisticated in its ability to automate business process flows ; it is usually event triggered , providing a much stronger roi to many lines of business and vertical industries .
+new york stock exchange president robert w. haack promised : " we are going to automate the stock certificate out of business by substituting a punch card .
+hopes for a much improved and effective delivery of the vote is expected in the next scheduled elections ( may 2010 ) , as the comelec is set to fully automate the vote counting and canvass , as stipulated by law .
+in addition , initial configuration , such as locale settings , account names , etc . can be supplied in " xml answer files " to automate installation .
+vos has a fairly complete command macro language which can be used to create menu systems , automate tasks etc .
+production - level uses of the yawl system include a deployment by first : utility and first : telecom in the uk to automate front - end service processes , and by the australian film television and radio school to coordinate film shooting processes .
+as manufacturing engineering is linked with other disciplines , as seen in mechatronics , multidisciplinary design optimization ( mdo ) is being used with other cae programs to automate and improve the iterative design process .
+spectra logic was the first company to automate advanced intelligent tape ( ait ) magnetic tape in a robotic autoloader ( tape library ) .
+this would have allowed cyberdyne to construct the skynet defense system which would automate all military actions including nuclear warheads .
+some of these applications have been developed to allow users to automate simple tasks , such as weather , chat relay , giving tours and information , complex property management , and more .
+the executing venue , prime brokers , custodian banks , fund administrators , transfer agents and audit now share files electronically and try to automate such processes , raising potential risks related to data management and valuations .
+its products are primarily used to automate software engineering and support processes at large network hardware manufacturers , such as cisco , intel , juniper networks , netapp , qualcomm , and tellabs .
+for example , yacc ( yet another compiler compiler ) takes input in backus - naur form and converts it to a parser in c. though it was originally created for automatic generation of a parser for a compiler , yacc is also often used to automate writing code that needs to be modified each time specifications are changed .
+finally , brazing is easily adapted to mass production and it is easy to automate because the individual process parameters are less sensitive to variation .
+between 1747 and 1750 , he tried to automate bouchon ’s mechanism .
+although this process is error - prone and nearly impossible to automate , it is quite good for building small numbers of units when labor costs are low .
+though qtp is usually used for " ui based " test case automation , it can automate some " non - ui " based test cases .
+enterprise application integration ( eai ) is the process of linking such applications within a single organization together in order to simplify and automate business processes to the greatest extent possible , while at the same time avoiding having to make sweeping changes to the existing applications or data structures .
+clark ’s contribution was to fully automate this process .
+auto installers are a bundle of scripts which automate the installation and update of , web applications such as wordpress , soholaunch , smf , phpbb , drupal , joomla ! , tikiwiki cms / groupware , moodle , whmcs , zamfoo and over 100 others .
+the early close relationship of expect with tcl is largely responsible for the popularity of tcl in prolific areas of use such as in unix testing , where expect was ( and still is today , in 2010 ) employed very successfully to automate telnet , ssh , and serial sessions to perform many repetitive tasks ( i.e. , scripting of formerly interactive - only applications ) .
+vaucanson was trying to automate the french textile industry with punch cards- a technology that , as refined by joseph - marie jacquard more than a half century later , would revolutionize weaving and , in the twentieth century , would be used to input data into computers and store information in binary form .
+consequently , systems to automate some or all of the revision control process have been developed .
+these packages are coordinated with a computer using bar codes , and make it possible to automate pharmacy - side drug delivery : a package labeled by name , dose and expiration is cataloged in a computer , before being placed on a shelf controlled by a robotic arm until it is needed to be given to a patient .
+the language is an internal language for the national financial computer services , inc ( later broadway & seymour ) bancstar application , which is software to automate the operations of a bank branch .
+swsoft ’s virtualization software is predominantly used to automate data center and server management and to consolidate multiple servers onto one windows- or linux - based physical server .
+it is currently used and supported by academia and industry and is intended to open up research opportunities to automate compiler and architecture design and optimization .
+sophisticated software routines automate this computationally intensive process .
+sensors to read the index of a meter were added to further automate the process , removing much of the human error associated with manual bell provers .
+machine learning can be viewed as an attempt to automate parts of the scientific method .
+supporting the methodology , the isf supplies web - based and spreadsheet - based tools to automate these functions .
+concentration evaporators , and several liquid handling and plate management systems including the sciclone alh 3000 liquid handler and twister ii systems to automate drug discovery and development .
+the service , intended for regular web users , attempts to automate certain processes related to data categorization and keyword - association ( tagging ) .
+glider is meant to automate and simplify actions by the user of the software within the " world of warcraft " environment through the use of extensive scripting .
+how about the other case — a small script meant to automate some task ?
+with the internet , many web - based programs have been created to help automate the process of paperless credentialing .
+it was easily possible to graphically design simple petri nets with , but various works made internally at reveal that it was needed to automate such task .
+the program is designed to automate the formatting of action , character name , dialog and other elements associated with writing screenplays using command line completion .
+at the same time , torque is transferred to drive the rotor speed regulator , low pressure " n1 " automate the supply of fuel adt-55a " .
+the dumas method has the advantages of being easy to use and automate .
+energy fm provides its listeners with " local radio " it is sometimes necessary to ' automate ' programmes , so that the team can concentrate on producing local content .
+based on policy evaluation results , universal controls can actively prevent unauthorized or inappropriate data use , educate users in real time about information activities , automate procedures to assist users , and so forth .
+mills developed structured programming concepts for practical use and tested them in a 1969 project to automate the " new york times " morgue index .
+various mechanical tobacco planters were invented throughout the late 19th and early 20th centuries to automate this process , making a hole , fertilizing it , and guiding a plant into the hole with one motion .
+the internet is creating a transparent awareness on the threats and opportunities available to automate intermediaries in many industries - see disintermediation .
+mtmis is a pilot project to be implemented in lahore district first and then relevant components of the system would be deployed in other districts of punjab to automate the whole province .
+this allows users automate input to the command line , and supports simple graphical user interfaces ( menus and forms ) for application specific tools and applications .
+the xps converts the designer 's platform specification into a synthesizeable rtl description ( verilog or vhdl ) , and writes a set of scripts to automate the implementation of the embedded system ( from rtl to the bitstream - file . )
+the identification of errors and generation of error rate statistics is easy to automate .
+fieldata aimed to automate the distribution of battlefield data of any form , ensuring the delivery of reports to the proper recipients regardless of the physical form they were sent or received .
+what 's more , it broke new ground in europe when it adopted optical character recognition for its transfer , inpayment and outpayment transaction documents , making it possible for the first time for utility companies and mail order companies to print their own personalised remittance slips and automate at least part of the complex accounting processes .
+public relations automation ( pra ) software is a type of enterprise software that is designed to automate public - relations - related activities , such as campaign management , real - time media monitoring , and media analysis .
+munroe 's method of making pencils was painstakingly slow , and in the neighbouring town of acton , a pencil mill owner named ebenezer wood set out to automate the process at his own pencil mill located at nashoba brook along the old davis road .
+method advancements since that time primarily automate material handling and final finish measurements ( i.e. , instrument finish rather physical gold product weighing ) .
+the aim of the third - party - funds financed research project is to automate the process of virtualization of herbar specimens and their management to make them digitally accessible to botanists and biologists .
+the major difference in hc8 is the addition of enterprise modules by which hosting service providers ( hsps ) can manage and automate enterprise hosting services such as those listed above ..
+in addition , it is necessary to have the mechanisms to implement best practices ( for example , implement and manage it operations processes in line with it infrastructure library itil ) , increase it personnel effectiveness ( for example , automate repetitive tasks associated with it operations process ) and have the tools to fully report on how the processes are executed in line with established policies and service levels .
+port triggering is a way to automate port forwarding in which outbound traffic on predetermined ports ( ' triggering ports ' ) causes inbound traffic to specific incoming ports to be dynamically forwarded to the initiating host , while the outbound ports are in use .
+in addition to working with html pages , the commercial editions can automate flash , flex , silverlight and java applets by using directscreen and image recognition technology .
+the “ front office ” refers to those parts of the organization that “ touch ” the customer – that are outward - facing rather than inward - facing –. front - office solutions include software and database applications that help automate and manage activities related to marketing , sales , and customer service and support .
+scripting enables the system administrator to automate and schedule backups of files and " system state " , control the rsm to follow a media rotation strategy , reprogram the rsm to work with external hdd and nas as well as tape , send email reminders to prompt users to insert the media and compile backup reports that include logs and remaining capacity .
+garageband has no functions for creating multiple time signatures , though the software does now allow a tempo track to automate tempo changes .
+dynamic business modeling ( " dbm " ) describes the ability to automate business models within an open framework .
+while the powder and minie ball still had to be loaded conventionally , the tape system was designed to automate the placing of the percussion cap and therefore speed up the overall rate of fire of the weapon .
+it is used as a research prototype to investigate how to enable the running of piggy bank javascript scrapers from the command line and thus automate web site scraping .
+collectively , these tools enable sponsors to centralize and automate the data collection as well as study and logistics management of their clinical trials .
+as a web - service - based sales tax management solution , avatax connect runs behind the scenes of many accounting and ecommerce applications to automate the sales tax compliance function for businesses - from jurisdiction research and rate calculation to reporting and returns .
+a number of enhancements can be made to the original method to automate the different steps , to increase the resolution achieved with tlc and to allow more accurate quantitation .
+there are several tools that can automate these attacks once the location of the vulnerability and the target information has been established .
+another example is a project trying to automate the business rules gathering process .
+e - procurement software may make it possible to automate some buying and selling .
+they developed another customized system for syntex , a pharmaceutical vendor , to automate the process of assembling new drug application ( nda ) documents when seeking approval from the u.s. food and drug administration ( fda ) .
+it can provide rss feeds and automate many tasks , including web indexing of static pages .
+starting in 2005 companies like global news intelligence began using java based artificial intelligence to automate the process of coding clipped content for tone and sentiment .
+vba enables developers to build user defined functions , automate processes , and access win32 and other low level functionality through dlls .
+this is because exploitation will work reliably enough to automate an attack with a virtual guarantee of success when it is run .
+at mother dairy , processing of milk is controlled by process automation whereby state - of - the - art microprocessor technology is adopted to integrate and completely automate all functions of the milk processing areas to ensure high product quality/ reliability and safety .
+this allowed pharmacies to automate their most commonly dispensed medications via calibrated cassettes .
+provides some examples of lightweight ontologies . and show how lightweight ontologies can be used to automate important tasks , in particular to favor interoperability among different knowledge organization systems .
+time scheduling saver makes it easy to automate display operation .
+unlike earth military , which strived to automate their instruments of war , the colonists , lacking the necessary technology , instead preferred to simplify them , so that the humans could use them .
+inspired by yet another workflow language ( yawl ) , yawl4film explores the creation of tangible software artifacts that aim to automate many film production imperatives .
+although non - programmer graphical user interfaces to sas exist ( such as the sas enterprise guide ) , most of the time these guis are just a front - end to automate or facilitate generation of sas programs .
+revcube provides tools to automate and increase the relevance of online marketing .
+additionally , there is a large push to completely automate the production of semiconductor chips from beginning to end .
+both machines had optimizing assemblers ( soap for the ibm , pogo for bendix ) that could automate this task .
+commercial design tools such as socrates bitwise by duolog technologies , simplify and automate memory - mapped register specification and code generation for hardware , firmware , hardware verification , testing and documentation .
+automate the schools .
+two multistage " cyclone " air filters were used to automate some of the dust removal process .
+in some case accurate shape detection will require human intervention because methods like segmentation are very difficult to completely automate .
+for stations to automate breaks , a special decoder must be purchased and used .
+recently many teachers have taken to using software to automate the creation of bingo cards , as it is slow and laborious to do it by hand for large numbers of cards .
+google announced in 2008 that it is working with ncmec to help automate and streamline how child protection workers sift through millions of pornographic images to identify victims of abuse .
+this allowed businesses unable to afford leasing of a minicomputer or time - sharing service the opportunity to automate business functions , without ( usually ) hiring a full - time staff to operate the computers .
+these techniques can help automate the model identification process .
+zetadocs is a family of software products that integrates with microsoft office , microsoft dynamics and other crm , erp , accounting and business software to automate the production and delivery of everyday business documents , in a portable document format .
+auto clickers are a type of software or macro that can be used to automate clicking .
+for example , chickenfoot allows to automate certain repetitive tasks such as logging in to websites , filling out forms , or accessing information .
+the kw-37 was designed to automate this process .
+orthopedic implant manufacturer biomet used rfid to automate and improve its surgical - kits consignment inventory process .
+some implementations such as the w3c xforms also use the concept of a dependency graph to automate the updating of views when data in the model changes .
+a package management system is a collection of tools to automate the process of installing , upgrading , configuring , and removing software packages from a computer .
+testing tools can help automate tasks such as product installation , test data creation , gui interaction , problem detection ( consider parsing or polling agents equipped with oracles ) , defect logging , etc .
+the amount of freedom players are given when choosing what to improve also varies by game ; some allow highly detailed and specialized customizations ( known as " builds " ) , while others automate the process almost entirely .
+sales force management systems are information systems used in marketing and management that help automate some sales and sales force management functions .
+transplanters automate the task of transplanting seedlings to the field .
+software can automate the moderator function , but this is rarer .
+autoanalyzers automate repetitive sample analysis steps which would otherwise be done manually by a technician , for such medical tests as the ones mentioned previously .
+although some coin magic depends on the use of a gimmick ( e.g. modified coins , oversized coins or trick coins ) , such gimmicks do not entirely automate a magical effect .
+hydroponic dosers are used by indoor , hydroponic farmers to automate the task of dispesening ph solution and/or nutrient solution as necessary .
+they were in the middle of a project with the " sally jesse raphael show " to automate ticketing , when it was canceled .
+landbots are sometimes used by residents with large real - estate holdings to automate the purchase of available land .
+brunel quickly produced an outline design of a machine that would automate the production of pulley blocks .
+their focus is on providing applications that automate data collection and data management in laboratories in order to reduce errors and improve efficiency .
+the effort to automate map plotting began in the united states in 1969 , with the process complete in the 1970s .
+you can automate the generation of an expect script using a tool called ' autoexpect ' .
+webql is a software platform produced by ql2 software , that is used to automate data integration and collection from unstructured and structured sources including the web , pdf and word documents , spreadsheets , email repositories , corporate data stores and more .
+anglo - saxon institutions , with fewer constraints in hiring additional staff in back - offices , have a less pressing need to automate and develop such interfaces only a few years later .
+the fiatech aex cfixml schemas have been developed to automate information exchange for the design , procurement , delivery , installation , operation and maintenance of engineered equipment .
+by the end of december , 2008 we will be able to automate 100% and run the library affairs ..
+a user is allowed to write scripts in the pascal programming language to automate tasks in hosxp.
+there are a limited number of computer based tools that present the indicators and allow users to enter the assessment judgment and notes in formatted screens , as well as automate the collated assessment result ( i.e. the process attribute ratings ) and creating reports .
+dudhsagar dairy is a technology pioneer in its industry , using information technology to simplify , automate , and improve operational efficiency .
+an article by light , " when computers were women " , discusses an aspect of the history of computers — specifically that women were not credited for their work on the eniac computer , which was america 's first electronic computer to automate ballistics computations during wwii .
+tools to automate repetitive tasks , to simulate , for photorealistic rendering .
+premium version includes additional , commercial modules that automate business processes .
+products include desktop components , screencasting , video streaming , cross - platform encoding software and transcoding applications to automate enterprise - class digital video workflows .
+before the advent of sophisticated flight management systems , the carousel allowed pilots to automate navigation of an aircraft along a series of waypoints that they entered via a control console in the cockpit .
+seetest experitest developed unique visual technology to search and automate graphical user interfaces .
+the " human touch " here meaning to automate so that the machines / systems are designed to aid humans in focusing on what the humans do best .
+to keep track of the large amount of student and school data , the department uses the powerful automate the schools ( ats ) system .
+it consists of a custom built set of processes and tools that automate and control the lifecycle of windows devices .
+a trading strategy can automate all or part of your investment portfolio .
+lawson provides software solutions designed to automate business processes , foster employee collaboration and deliver detailed analyses of results .
+however , there are some tools that have been recently introduced to automate post - silicon system validation .
+he also cooperated with industry , in particular in the branch of optics and concentrated on research in image analysis , participating in a project aiming to automate cancer cell recognition .
+back office solutions refer to the software applications used to manage and automate information and processes related to functions such as accounting , finance , purchasing , manufacturing , distribution , and human resources , among other functions , in organizations .
+utilities that automate testing , compiling and bug reporting help preserve stability and support of software projects that have numerous developers but no managers , quality controller or technical support .
+customers such as choice hotels have deployed the hp clw to automate network analysis and compliance reporting to meet payment card industry data security standard ( pci dss ) regulations .
+this finite data is collected by ups and fedex for tracking purposes , but also to automate the process of charging the appropriate amount to their clients .
+however , natural language labels show their limitations when one tries to automate reasoning over them , for instance for automatic indexing and semantic matching or when dealing with multiple languages .
+since oss projects undergo frequent integration , tools that help automate testing during system integration are used .
+tao applies the best software practices and patterns to automate the delivery of high - performance and real - time qos to distributed applications .
+as a result , converting text from simplified traditional characters is difficult to automate , especially in the case of common characters such as ( behind , empress ) , ( table , clock ) , ( traitor , rape ) and more .
+man - in - the - middle attacks are enhanced by software such as lanjack and airjack , which automate multiple steps of the process .
+computers are affected for an even longer period of time , making it difficult to automate spacecraft after a jump .
+the company states that aie is a software platform that unites core capabilities offered separately by enterprise search , business intelligence , data warehousing , process automation and analytics to deliver complete information to people , automate business processes and enrich user experience .
+another new feature is ' magic imovie ' , which attempts to automate the whole process of video editing , by allowing a common transition to be added between scenes , a music track to be synchronised with the video and a dvd to be created with the accompanying idvd software
+jacquard was not the first man to try to automate the process of weaving .
+secondly , assembly of larger composite engines is labor - intensive and difficult to automate ; off - loading this task on the consumer results in a cost savings .
+to automate costly engineering processes , some eda can take state tables that describe state machines and automatically produce a truth table or a function table for the combinatorial part of a state machine .
+if it is possible to automate the attack , it is recommended to provide a sample in the sample attack code section which is described below .
+these messages were primarily used to automate the payroll functions within an airline , where flight crews were paid different rates depending on the flight phase .
+" this has generated significant volumes of data in support of the operational processes they automate .
+the peripheral situations affect the performance of cybernetic systems ; therefore , though one - shot human - centered automation ( hca ) designs might provide better results than the systems designed based on the " automate it as possible " philosophy ; however , these designs fail to maintain the advantages of the hca designs , when the peripheral situations changes .
+this makes these enriched events visible to others , especially business analysts or marketing directors , and also allows the soa 2.0 system to possibly automate actions to take to address some unique pattern .
+research and development departments of major companies , including ibm and microsoft , are researching text mining techniques and developing programs to further automate the mining and analysis processes .
+zonal ocr helps to automate data extraction from digital images .
+testcomplete is used to create and automate many different software test types .
+there are even programs created which can automate these specialised searches ( eg ) .
+some development systems automate this process .
+the tape primer system used a roll of caps ( the arms could also be primed in the usual way with standard percussion caps if the tape was unavailable ) advanced automatically from a magazine in the lock , and as such , this arm is really the first standard - issue firearm to have an internal magazine ( though only for the priming , not the whole cartridge as came later ) of any sort to automate part of the loading procedure .
+biotek is iso 9001 certified , and their products fall into four categories : read , wash , dispense , automate .
+system administrators use wbadmin in scripts to schedule and automate backup and restore operations , as well as to overcome some of the limitations inherent in complete pc backup and windows server backup .
+google has developed video fingerprinting technology and software to automate the review of some 13 million pornographic images and videos that analysts at the center previously had to review manually .
+these applications can be used to automate audio and video production .
+programmable calculators allow the user to write and store programs in the calculator in order to solve difficult problems or automate an elaborate procedure .
+in a traditional sense , scripting languages are designed to automate frequently used tasks that usually involve calling or passing commands to external programs .
+research has been underway for many years on how to partly automate cars by making smart roads with such things as buried magnets to guide sensor - equipped vehicles , with on - board gps to determine location , direction , and destination .
+in march 2007 , mortgage insurer mortgage guaranty insurance corporation ( mgic ) announced an agreement to use prbc reports with prbc bill payment score ( bps ) to automate their approval decisions for consumers with " thin " or no traditional credit histories .
+small radar units were added in the post - war period to automate even this input , but it was some time before they were fast enough to make the pilots completely happy with them .
+he is also involved in authoring elearning modules for corporations looking to automate their training processes .
+it reduces the time and costs associated with ongoing compliance by combining document management , business process management and customisable reporting capabilities , enabling organisations to document controls and automate end - to - end compliance processes .
+the biggest problem with plastic recycling is that it is difficult to automate the sorting of plastic waste , and so it is labor intensive .
+the goal of miis is to provide organizations with a unified view of a user's / resources identity across the heterogeneous enterprise and provide methods to automate routine tasks .
+they also help to automate the movements to execute in case of attack .
+one of the biggest advantages of having a software - based communications infrastructure is that businesses can embed communications capabilities into existing line - of - business applications and use communications and workflow capabilities to automate business processes , which saves money , saves time , and improves customer service .
+such data files include schematic symbols , parameterized cells ( pcells ) , drc / lvs runsets , parasitic extraction runsets , and scripts to automate the generation and verification of design data .
+the government 's drive to automate manual processes is expected to account for about 70% of demand for software development , but there are also some 15,000 private - sector factories that have software needs .
+there are also tools that automate data entry and budgeting in a spreadsheet , e.g. arixcel accounts - an add - in to microsoft excel .
+irgs were intended to speed up and automate these pre - existing informal processes by resolving the relevance paradox the transmission of tacit knowledge and the synchronization of language across different specialties , disciplines , organisations , and departments ; something central media and purely hierarchical organizations it was argued can not readily do .
+there he developed algorithms to automate the extraction of physical parameters from galactic rotation curves , paving the way for the analysis of much larger samples .
+the growth of this industry is being pushed by large businesses wishing to sell products and services to their customers and to automate business workflow .
+some issues exist with the custom quantization matrices used in tools such as autogk that automate encoding with xvid .
+as concept demonstrators , these pioneering systems showed that computer and communications technologies could be profitably converged and that artificial intelligence , ai , could be employed to automate the process of retrieving data that was stored magnetically in many very different formats .
+scripting of test cases to automate , test procedures / scripts , drivers , test results , bugreports .
+the thesis dealt with applying program flow analysis and program slicing techniques to automate the program debugging process for programs written in imperative languages .
+in return for guaranteed jobs for the printers then working , the publishers were free to computerize ( or automate ) the setting of type , thus gaining labor savings and faster composing of the page contents for each edition .
+paystream advisors , an industry analyst , has defined accounts payable automation as the solutions and services which automate the people and paper - based processing invoices for approval and posting into the accounting system .
+similar solutions and products have been developed for pharmaceuticals , for example to automate and manage chemical compound experiments , and in financial services , for example to deliver integrated market reports for risk and performance analysis .
+control panels are often confused with management tools , but these control panels are actually web based automation tools created to help automate the process of web site creation and server management .
+a hyper - heuristic is a heuristic search method that seeks to automate , often by the incorporation of machine learning techniques , the process of selecting , combining , generating or adapting several simpler heuristics ( or components of such heuristics ) to efficiently solve computational search problems .
+increasingly , large firms are using specialized accounts payable automation to automate the paper and manual elements of processing an organization 's invoices .
+presumably , it could be used to automate some of the sound operations , like envelope control .
+this can be done manually by using a shell command such as ren , or by using batch renaming software that can automate the renaming process .
+several categories of technology have evolved to automate marketing processes ( see “ technology or marketing automation ” below ) .
+it also allows the user to combine these commands into macros to automate work .
+it is clearly difficult to automate these processes .
+large agri - business organizations are now using sap ag erp software solutions to automate their business processes .
+it is also used by legal departments to automate contract drafting for large global companies and government agencies , originally in australia and more recently in the united states .

@@ -1,0 +1,255 @@
+the number , type , features and performance of autofocus point array systems is likely to continue to evolve .
+like all autofocus minolta cameras since 1984/1985 , it used the minolta ' a - series ' bayonet lens mounting system .
+the active autofocus system used a near - infrared emitting diode and a pin photo diode to determine the subject position by triangulation in a manner similar to a coincident - image rangefinder .
+to autofocus , the af function had to be switched on on both the me f and 35mm-70 mm af zoom lens .
+high end cameras have extremely fast autofocus systems with good tracking performance .
+rather than displaying a typical rangefinder focusing patch and brightlines , the first g1 had a zooming viewfinder with a focus confirmation light activated by the autofocus system if manual focus was required .
+though eventually replaced in the market with newer compact autofocus cameras , many of these older rangefinders continue to operate , having outlived most of their newer ( and less well - constructed ) successors .
+to make matters worse , most autofocus lenses with a focus ring ( such as those on most consumer and prosumer camcorders ) are not " true " manual focus lenses , meaning that turning the ring does not directly adjust the elements inside the lens but rather actuates the electronics inside the camera which predict how the focus should go depending on how fast or far the ring was turned .
+the autofocus system has only 1 cross - type sensor instead of 9 like the d2h , d2hs , d2x and d2xs , though it has the same number of 11 focus points .
+autofocus or through - the - lens focusing systems are basically unheard - of in subminiature cameras , due to their size , weight and mechanical complexity .
+mobile phones often have features extending beyond sending text messages and making voice calls , including call registers , gps navigation , music ( mp3 ) and video ( mp4 ) playback , rds radio receiver , alarms , memo and document recording , personal organiser and personal digital assistant functions , ability to watch streaming video or download video for later viewing , video calling , built - in cameras ( 1.0 + mpx ) and camcorders ( video recording ) , with autofocus and flash , ringtones , games , ptt , memory card reader ( sd ) , usb ( 2.0 ) , infrared , bluetooth ( 2.0 ) and wifi connectivity , instant messaging , internet e - mail and browsing and serving as a wireless modem for a pc , and soon will also serve as a console of sorts to online games and other high quality games .
+it competes primarily with the nikon f series and its successors , as well as autofocus slr systems from olympus corporation , pentax , sony / minolta , and panasonic / leica .
+one - button live view mode features subject tracking and face detection autofocus modes .
+many autofocus cameras also use a servomechanism to accurately move the lens , and thus adjust the focus .
+in photography , a focus error is an aberration of the autofocus ( thus , the camera focuses a subject but the lens is not aligned correctly , causing a blurry image ) .
+it marked a significant milestone in photography as it was the first camera to feature both integrated autofocus ( af ) and motorised film advance , the standard configuration for later amateur and professional single lens reflex cameras .
+the autofocus capabilities of this camera were identical to canon 's much more expensive elan 7 with six single - line cmos sensors surrounding a central cross - type sensor .
+as most still cameras are autofocus these days , this is not a problem .
+it was pentax 's second autofocus 35 mm slr after the pentax me f. it was the world 's first af slr with built - in auto flash .
+this excludes all of canon 's ef bayonet mount autofocus lenses ( introduced 1987 ) .
+slr camera service operations were handed over to sony starting on march 31 , 2006 and sony has continued development of cameras that are compatible with minolta autofocus lenses .
+its high frame rate , quicker than average autofocus system , weather resistant sealing , and fully mechanical aesthetics ( including the shutter speed dial and manual rewind lever ) make this a desirable film camera .
+this new flagship model also has newly developed 77 multi - zones metering system and updated version of autofocus module , safox viii+ .
+in autofocus mode , a central indicator in the viewfinder
+the only aspects of these manufacturers ' lenses that have changed are the addition of electronic contacts , autofocus abilities and , in some cases , the elimination of the external aperture ring for electronic control ( i.e. , nikon 's ' g - type ' auto - nikkors , which can not be used on a mechanical slr camera body ) .
+autofocus systems rely on one or more sensors to determine correct focus .
+this system was common with manual focus slrs but had since fallen out of use in the autofocus era .
+autofocus compact cameras had been introduced in the late 1970s .
+the autofocus revolution .
+when a non - autofocus lens was used , the camera provided focus assistance in exactly the same manner as the al-1 .
+if the camera is mounted to an autofocus lens , focus can be obtained on a bright planet or even a star .
+the phone features a 3.2-inch lcd capacitive touch screen , a 3.2 megapixel autofocus camera , and a digital compass .
+the canon eos 300v was a 24x36 mm auto - focus slr camera , introduced by canon in 2002 to upgrade canon 's eos rebel series of autofocus consumer slr cameras .
+it also comes with a 2.0 megapixel camera featuring autofocus and an fm / rds radio .
+on most dslrs , a disadvantage when using live preview is that the phase detection autofocus system does not work and the slower contrast system used in non dslrs must be used .
+also in lower quality filters , problems with autofocus and image degradation have been noted .
+other fd - mount lenses could also be used , but without autofocus capabilities .
+along with recording adr and other sound effects , peter had also performed voice - over work in numerous films and tv shows that include : " i was a sixth grade alien " , " picture claire " , " ararat " , " autofocus " .
+minolta ( sony after 2006 ) phased out its bayonet - mount mc and md rokkor lenses for a modified bayonet mount ( supporting autofocus ) in 1985 .
+with a normal lens there are lights in the view finder to help aid the user with focusing , a special autofocus lens was also available at the time but is now very rare .
+the second model in the elph line , it featured a large circular flip - up lens cover with a built - in electronic flash and the same hybrid autofocus system used in the first elph .
+autofocus is not supported with af - i and af - s lenses , and vibration reduction ( vr ) is not available regardless of the lens .
+nikon already had a camera with integrated motor drive on the market , the n2000 ( f-301 in uk ) , but its autofocus counterpart , the n2020 ( f-501 in uk ) , appeared after the maxxum / dynax .
+however , even with panoman , the autofocus red light can not be turned off .
+one limitation however is that it ca n't autofocus continuously during the recording .
+when pentax and nikon entered the autofocus segment , both utilized a similar passive array af system as minolta , but decided to retain compatibility with their existing manual - focus k and f mounts respectively .
+another notable feature inherited from konica minolta is eyestart , which provides for automatic autofocus activation by detecting the presence of the photographer 's eye on the viewfinder , thus quickening camera response .
+for canon 's electrical autofocus lens mount introduced in the eos series , see canon ef lens mount . "
+to achieve autofocus outside the " wide focus area " covered by these 3 sensors , the manual instructs the user to center the subject , engage focus lock , then move the camera to place the subject where desired on the frame .
+for example , the tokina at - x pro 12 - 24 mm ii comes with built - in silent focusing motor , while the pentax version has screwdrive autofocus .
+however , in some cases autofocus and/or ttl metering is not supported .
+mtv school of cinematography is a type of cinematography that utilizes snap zooms ( zooming in or out rapidly without acceleration / deceleration at the beginning and end of the zoom , and zooming too far in ) , quick tilt & pan ( moving the point of view of the camera to a point of action very quickly , often overshooting the point , and needing to pan / tilt back to the correct point ) & focus cycling ( leaving the camera in autofocus mode , or attempting to focus on a subject several times ) .
+note that the autofocus light is switched off automatically when the battery is below three bars .
+the f-501 used a through - the - lens ( ttl ) " passive " phase - detection autofocus method for establishing focus .
+the mb - d10 is an optional accessory battery pack that provides a vertical grip as well as additional shutter release and autofocus buttons , command dials and focus point selection control .
+autofocus stop buttons : these buttons are found on some super telephoto ef lenses , evenly spaced around the front collar of the lens .
+however , the dimage 7 ( including the dimage a1 , a2 , and a200 ) and similar bridge cameras were not really adequate substitutes for professional slr cameras , and initially there were many reports of slow autofocus speed and various malfunctions ( this surfaced when a sony - designed ccd chip would malfunction , rendering the camera useless .
+the 50d features two new autofocus modes in liveview and an hdmi port .
+however , as autofocus slrs became available from minolta and others in the mid-1980s , nikon 's line of manual - focus cameras began to seem out of date .
+the t650 features a 3.2 megapixel camera ( with autofocus & flash ) and a secondary vga camera located on the front which can be used for 3 g video conferencing .
+specifying metering range ( ray 2000 , 318 ) or autofocus sensitivity .
+the sony ericsson w800 was replaced by the sony ericsson w700 in april 2006 replacing the size of the memory stick with a 256 mb and eliminating the camera 's autofocus function thus reducing the cost of the handset .
+passive autofocus ( not needing lasers or infrared beams ) systems can not always adjust quickly enough to sudden changes .
+focus can be set with an active - infrared autofocus or by manual adjustment .
+the minolta maxxum 7000 , released in 1985 , was the first 35 mm slr with integrated autofocus and motorized film - advance winder , which became the standard configuration for slr cameras from then on .
+the af - s nikkor , af - i nikkor , af nikkor d and af nikkor autofocus lenses are also ai types .
+nearly 5 frames per second ( frame / s ) was uncommon for its day , coupled with the 4 sensor autofocus system that could continuously track not only horizontally , but vertically and diagonally and even when an object came towards the camera .
+minolta af 50 f1.7 is a discontinued lens with autofocus that was produced by minolta for the company 's a - mount from 1985 through 2006 .
+the nikon f401 ( n4004 in north america ) was an autofocus , 35 mm , single - lens reflex ( slr ) film camera built by nikon and introduced in 1987 .
+canon took their existing , successful 4 lens and added a box above the lens which housed a self - contained autofocus mechanism , canon 's sst ( solid state triangulation ) system , as used in the af35ml compact camera earlier that year .
+a camera with a smaller sensor can be preferable to using a teleconverter , because the latter affects the focal ratio of the lens , which can degrade the performance of the autofocus .
+minolta purchased the patent rights to autofocus lens technology from leica camera in the 1970s .
+also listed is the autofocus and image stabilization functionality .
+its focus motor is ring usm , resulting in quick and quiet autofocus operation ; this motor also allows the lens to offer full - time manual focusing .
+the 2 megapixel digital camera featured autofocus and white balance akin to sony 's lineup of cyber - shot cameras .
+for example , " digital photography review " , among many others , noted the loss of the screw - drive autofocus motor and the top lcd panel .
+like its predecessor , the f60 , it was aimed at the lower end of the amateur autofocus slr market .
+the minolta 9000 was introduced in 1985 and was both minolta 's and the world 's first professional autofocus slr .
+a range of high - precision ultrasonic motor ( usm ) ef autofocus lenses were also developed successfully for the 650 .
+( however , an autofocus assist beam of usually infrared light is required when there is not enough light to take passive measurements . )
+in 1985 , minolta introduced a new line of autofocus ( af ) slr cameras .
+focus can be adjusted manually by the photographer or automatically by an autofocus system .
+a few upgrades have been put in place such as improved lcd size and quality , image sharpness and low light autofocus , the new camera acts as a definite upgrade to its predecessor .
+the e variant had the addition of eye - controlled autofocus , and partial metering , while the qd variant had a date and time imprint function on the film door .
+the autofocus lenses contained a motor , and electrical contacts in the lens mount connected this motor to the camera 's circuits .
+it was targeted at a new and lower price - point than the f65 ( previously nikon 's cheapest autofocus slr ) .
+however , the α 700 uses a pentaprism viewfinder instead of a pentamirror , has a higher burst speed ( 5 frame / s vs 2.5 frame / s ) , has a higher resolution lcd screen , magnesium alloy body , twin control dials , better environmental seals , dual flash media slots ( cf and ms - duo ) , a pc sync socket , more autofocus points and a stronger af motor , and hdmi output .
+other camera manufacturers also introduced functionally successful autofocus slr 's but these cameras were not as successful .
+there ’s a front mounted vga camera for video calling and a 3mp autofocus rear mounted camera .
+the eos ix features canon 's multi - basis ttl phase detection autofocus system with three focusing points .
+in the 1980 's and 1990 's membership again declined , a trend attributable to camera automation ( for example autofocus and programmed exposure , which reduced the need for camera instruction ) , consumer video , home entertainment and other factors .
+the term " point - and - shoot " is also used for some camcorders , particularly inexpensive digital models based on minidv or dvd media , to describe fully automatic operation ( autofocus , automatic gain control and white balance , etc ) with minimal operator interaction except for zoom control and recording buttons .
+with the exception of how they interact with some autofocus and metering mechanisms , they have exactly the same effect photographically .
+it is based on a nikon f80 ( n80 in the u.s. ) viewfinder , shutter , mirror - box and autofocus modules surrounded by a fujifilm body that includes its own proprietary ccd image sensor and electronics , and a vertical grip shutter release .
+the success of the f-801 led to an updated version of this camera in 1990 , which was designated the f-801s / n8008s. it had improved autofocus performance and incorporated a spot meter , but retained the original model 's reputation for reliability .
+the second generation of autofocus cameras from pentax .
+the canon t80 , introduced in april 1985 and discontinued in june 1986 , was canon 's first autofocus 35 mm single - lens reflex camera .
+accuracy of active autofocus systems is often considerably less than that of passive systems .
+this camera has a few specific features ranging in having an autofocus feature , a flash , and the ability to do video recording .
+autofocus assist beam .
+the samsung omnia has a 5.0 megapixel camera with autofocus and real flash .
+some autofocus models were also made which were designated as " impulse af " and feature higher quality 3-element lenses .
+there was one other canon fd autofocus lens , the 4 af .
+older f - mount lenses designed for film cameras will work on modern slr or dslr cameras with some limitations , typically not providing autofocus or automatic aperture setting .
+the z5fd 's autofocus system is quicker than one expects from a camera of this price and range .
+both digital cameras and film cameras have a small delay between when the shutter button is pressed and when the picture is taken – this is the time necessary to autofocus the lens and compute and set the exposure .
+autofocus .
+it was introduced in 1985 at the launch of the minolta maxxum / dynax / alpha 7000 camera ( the first widely successful autofocus slr ) and remained in production for many years .
+it was part of the t series of fd mount cameras , and is not compatible with canon 's later eos system and its autofocus ef - mount lenses .
+other functions , especially autofocus and speed , support this , causing photographyblog to conclude : “ hand - held photography anytime , anywhere , without flash ” .
+almost all digital cameras , and most later film cameras , measure distance using electroacoustic or electronic means and focus automatically ( autofocus ) ; however , it is not customary to speak of this functionality as a rangefinder .
+sigma makes autofocus lenses for the sigma sa , canon ef , nikon f , minolta / sony α , pentax k and four thirds lens mounts .
+before the advent of autofocus , all cameras had manually adjusted focusing ; thus , the term is a retronym .
+to avoid any further damage , the camera electronics totally disables the autofocus system and refuses to take any still image .
+the f601 featured an improved , second generation autofocus system , motor drive for automatic film - advance , a built - in pop - up electronic flash , a top shutter speed of 1/2000 of a second , and a new " matrix " evaluative multi - zone metering program .
+differences included faster and more accurate autofocus and shutter speed adjustments in thirds of a stop versus the full - stop increments of the f90 .
+autofocus speed on the d1 series bodies is extremely fast , even with " screw - driven " af lenses .
+the minolta 5000i ( also known as the maxxum 5000i in north america , the dynax 5000i in europe , and the α-5700i in japan ) is a 35 mm single - lens reflex camera belonging to the second generation of bodies in minolta 's autofocus slr system , fitting between the cheaper 3000i and the more expensive , semi - pro 7000i ,
+this shaft driven autofocus design has several benefits such as allowing for smaller and lighter lenses and also keeps the cost of lenses down because there are no internal focusing motors or digital interfaces built into the lens .
+pentax safox i ( sensor ability fortifying optical compensating system ) autofocus module was integrated to these series .
+the lens offers a 35 film equivalent focal length range of 27 - 300 mm , with a compact silent wave autofocus motor featuring full time manual override and internal focusing .
+the nikon f100 , an autofocus 35 mm slr camera .
+this was similar in many ways to nikon 's 1983 f3af ( and to many of nikon 's more recent autofocus lenses ) , although other manufacturers including contax ( with its g series of interchangeable - lens 35 mm rangefinder cameras ) and olympus ( with its four thirds system ) have since embraced this type of direct drive system .
+it is used for limiting the focusing distance range of the lens when using it in autofocus mode .
+as minolta 's autofocus maxxums were proving successful , minolta invested fewer resources in its manual focus line as time progressed .
+in addition , almost all lenses with the pentax k - af and k - af2 autofocus lens mounts ( introduced 1987 and 1991 , respectively ) would also work in manual focus mode .
+autofocus ( af ) point , distance to subject , areas in focus or out of focus , colours / hues of the scene , and backlighting .
+it has a 2 megapixel built - in digital camera with autofocus , 20× digital zoom , integrated flash , macro mode and the ability to record high quality video ( 352×288 mpeg-4 video with aac - lc audio ) .
+the eos-3 introduced the 45-point autofocus system later used in the eos-1v , eos-1d and subsequent canon professional slrs .
+its rugged construction also appealed to professional photographers and traditionalist amateurs liked its lack of autofocus .
+many current autofocus f - mount lenses can be used on the original nikon f , and the earliest manual - focus f - mount lenses of the 1960s and early 1970s can , with some modification , still be used to their fullest on all professional - class nikon cameras .
+the lenses can be converted for the canon eos mount , retaining autofocus .
+the f6 uses the same multi - cam 2000 autofocus module as the d2x professional - level digital slr which was designed for the aps - c frame size of 23.7 x 15.7 mm .
+maybe the most famous mechatronics systems are the well known camera autofocus system or camera anti - shake systems .
+autofocus is accomplished via a contrast - detect process using the main imager , again similar to digital compact cameras .
+the proximate cause for its introduction was the advent of autofocus , and the key innovation was placing the focusing motor in the lens , rather than in the body , requiring no mechanical linkages between the lens and the body , only electrical ones .
+dslrs have faster performance than other cameras in many areas ( for example , start - up time , shutter lag , continuous mode , autofocus ) ; this is not a feature of the dslr type , but simply improved functionality of more expensive camera models .
+the autofocus system could focus at light levels of -1ev and up to 19ev ( at iso 100 ) .
+a variation of autofocus is called an electronic rangefinder , a system in which focus data are provided to the operator , but adjustment of the optical system is still performed manually .
+the mx is all manual : it does not feature autofocus or autoexposure modes such as aperture - priority , shutter - speed priority , or full program .
+manual focusing is done by wire : this lens does not have a direct mechanical connection to the focusing ring , but instead detects the rotation of the focusing ring and uses the autofocus motor to drive the lens elements .
+the lens does not support autofocus on the d40 , d40x , d60 , d3000 , and d5000 as it does not have a built in focus motor .
+the me f had its autofocus sensor inside the bottom of the mirror box .
+other potential problems include smaller maximum aperture and poorer autofocus performance .
+the lumix dmc - l10 features a second - generation live view function that allows autofocus with live view turned on , and without the mirror moving up and down , although only with certain lenses .
+the 30d uses the same number of autofocus points as the 20d ( nine ) , but has improved algorithms .
+the chinon ce-5 was a 35 mm slr camera produced by chinon , and was revolutionary in the regard it was one of the first cameras to have autofocus - capable lenses produced for it .
+for the fifth and final generation of autofocus film cameras , also known as the " single digit series " is where minolta introduced a then new easy - to - use , compact , and feature - packed camera using concepts with core technologies from the groundbreaking and unique minolta alpha / dynax / maxxum 7 .
+the f60 features autofocus , two forms of ttl light metering and various " programs " ( ranging from manual operation to a highly - automated point and shoot mode ) .
+the minolta / dynax 800si has the legend of being of a higher quality camera in the ranking of other consumer 35 mm film autofocus single - lens reflex cameras .
+autofocus .
+the nikon ai - p versions enable full compatibility ( except for autofocus ) with all nikon af slrs , similar to the ai - p manual - focus lenses nikon has produced in the past .
+it is used for setting the lens to either autofocus mode , or manual focus .
+the camera did the rest , including adjusting the exposure settings , taking care of focusing ( sonar autofocus models only ) , utilizing a flash if necessary ( 600 series and up ) , and ejecting the film , which developed without intervention from the photographer .
+the eos 50e variant introduced an enhanced version of the 3-zone eye - controlled autofocus system that was first seen on the eos 5 camera .
+active autofocus .
+these , and other experiments in autofocus from other manufacturers , had limited success .
+autofocus speed of any used ef lens is also affected .
+some cameras allow the user to link or unlink the autofocus and metering , and allow the option of locking exposure once af confirmation is achieved , " ael " , ( auto - exposure lock ) .
+between 1960 and 1973 , leitz ( leica ) patented an array of autofocus and corresponding sensor technologies .
+autofocus , manual focus , snap , infinity ( af supplemental light also available )
+fast phase - detection autofocus .
+part of canon 's long - running elph series , it was sold in japan as the ixy 20 and in europe as the ixus af - s. the elph 10 af had a 24 mm f/6.7 lens , active autofocus , a built - in electronic flash , and a simple automatic exposure system which selected between two shutter speeds .
+for kenko teleconverters and lens extension rings see list of nikon compatible lenses with integrated autofocus - motor .
+another disadvantage of moving the sensor instead of the lens is that only the main imaging sensor is moved , but the autofocus sensor is not moved .
+when used with somewhat slow lenses they may reduce the effective aperture enough that the camera 's autofocus system will no longer work ; depending on the camera system , this may range from f/5.6 to f/8 .
+the canon eos 50 ( also known as the elan ii in america and the eos 55 in japan ) is an autofocus , autoexposure 35 mm slr camera .
+honeywell never introduced the camera to the market , but successfully sued other camera manufacturers who did so for infringement of peterson 's autofocus and light metering patents .
+its spartan nature , without the " extras " like autoexposure or autofocus , ensured that there was nothing to interfere with a photographer 's contemplation of the subject , settings and slr operation .
+in most cases , single - lens reflex cameras can not be made as small or as light as other camera designs — such as rangefinder cameras , autofocus compact cameras and digital cameras with electronic viewfinders ( evf ) — owing to the mirror box and pentaprism / pentamirror .
+this means that camera shake can lower the performance of the autofocus system in bad light .
+the f-601 m is a simplified version of the f-601 , with no autofocus capability and no built - in flash .
+this maxxum offered the maximum shutter speed of 1/8000 , a maximum frame rate of 4 frames / second , autofocus control with a 16-bit cpu coupled with a 14-segment honeycomb - pattern metering and the support of minolta 's adi ( advanced distance integration ) with its " d " series lenses .
+the canon eos ( electro - optical system ) autofocus 35 mm film and digital slr camera system was introduced in 1987 with the canon eos 650 and is still in production as canon 's current dslr system .
+the most common type of focusing screen in non - autofocus 35 mm slr cameras is the split screen and microprism ring variation that aids focusing and became standard in the 1980s .
+there were many models including ones with sonar autofocus .
+it features an upgraded camera module ( 3.2 megapixels with autofocus ) .
+the device has a 3.2mp autofocus rear mounted camera with flash , and a front - facing vga camera for video calls .
+list of nikon compatible lenses with integrated autofocus - motor .
+autofocus .
+hasselblad moved away from the traditional 6×6 format to 6×4.5 cm , and included autofocus lenses .
+in addition , since the me f was compatible with only one autofocus lens , its flexibility as an interchangeable lens camera was almost negated .
+the newer ef 85 mm 1.2l ii usm version , which is the same optically and aesthetically as the ef 85 mm 1.2l usm , is updated with a newer cpu , 1.8 times faster autofocus , and upgraded anti - reflective lens coatings to reduce ghost / flare problems when used with digital eos bodies .
+there is a self timer , flash , autofocus , iso range , and film rewind .
+notably , the al-1 marked canon 's first public foray into autofocus technology .
+this makes the d50 the lightest nikon dslr to have the autofocus motor .
+most use focus free lenses or autofocus for focusing , automatic systems for setting the exposure options , and have flash units built in .
+in the mid-1980s , canon did , however , manufacture four unusual autofocus lenses for the fd mount standard .
+when used with the 2× extender , autofocus speed is reduced to a quarter .
+the autofocus system was triggered by a button on the side of the lens , and involved no communication with the camera body .
+the 7000 had ttl phase - detection focusing and metering , autoexposure , and predictive autofocus .
+in 1985 minolta introduced the maxxum 7000 ( dynax 7000 in europe and asia ) , the world 's first body - integrated autofocus slr .
+now that we have mega pixel digital cameras sporting the finest of zeiss lenses and super - fine - grained emulsion films being used in state - of - the - art autofocus cameras , we have achieved the clarity and exactness of detail that talbot and his contemporaries could only have dreamed of .
+it replaced the f50 and was aimed at the lower - end of the amateur autofocus slr market .
+additionally , many users found that even a minor shock to the camera caused damage to the autofocus geartrain , resulting in costly repairs .
+the cpu of sl ⅱ lenses enables full compatibility ( except for autofocus ) with the full range of af nikon slr cameras .
+they are used for temporarily stopping the autofocus feature of the lens .
+the new handset supports 3 g and hsdpa , and makes various changes to the hardware , including a 3.2 inch f - wvga display with 854×480 resolution and a 3.2-megapixel camera with autofocus and flash .
+most minolta maxxum / dynax compatible lenses , whether built by minolta or one of the aftermarket lens manufacturers , are focused " externally " by a shaft connecting the autofocus computer " and " motor inside the camera body that mechanically connects to the internal focusing gears inside of the lens body .
+autofocus multi or spot , manual focus , snap , infinity ( af supplemental light also available )
+it is based on the nikon d200 body , and benefits from its improvements : 11-point autofocus , i - ttl flash , a bigger 2.5 inch lcd and a lithium - ion battery .
+the g series was a unique 35 mm autofocus rangefinder system with interchangeable lenses .
+autofocus accuracy within 1/3 of the depth of field ( dof ) at the widest aperture of the lens is not uncommon in professional af slr cameras .
+the af - s nikkor , af - i nikkor , af nikkor d and af nikkor autofocus lenses are also ai types .
+the device features a built - in 3.2 megapixel camera located on back which features a flash , autofocus , and has video recording capabilities with a maximum resolution of 480 x 352 pixels .
+some enlargers , such as leica 's " autofocus " enlargers , perform this automatically .
+the autofocus system in modern slrs use a sensor in the mirrorbox to measure contrast .
+on february 20 , 2010 the list is supposed to be complete , including 136 past and present lenses with 24 compatible teleconverters as well as 3 lens extension tubes with support for integrated autofocus - motors .
+also unusual for its time was a dual autofocus system ( using both passive phase detection and an infrared sensor ) , and the inclusion of a " slow flash sync " mode that allowed for better balancing of ambient and flash light .
+multi - point autofocus system .
+the alpha / dynax / maxxum 9 was released in 1998 , and was minolta 's last professional film body which started the 5th and final generation of their 35 mm autofocus camera line .
+the ef - m was in essence a canon eos 1000 without an autofocus system , a built - in flash , or a top - deck lcd .
+the camera now has a digital autofocus to overcome the fixed focal length lens , explaining why the taking lens has been downgraded to 4.9 mm with f2.8 aperture .
+the phone incorporates a 3.2 megapixel camera without flash or autofocus and video is recorded at qvga resolution .
+the ka2 is identical to kaf , but lacks the autofocus drive shaft .
+unlike the earlier f-801/s , the f90/x supports autofocus with the af - i / af - s series lenses with built in motors .
+listed here are nearly all recent autofocus - lenses , because all manufacturers except tokina have included focus - motors in their nikon - compatible lenses for years .
+teleconverters need a fast lens for fast , reliable autofocus .
+the af - s nikkor , af - i nikkor , af nikkor d and af nikkor autofocus lenses are also ai - s types .
+nikon claims improved ultra - high image sensor sensitivity with up to iso 102400 , hd movie capability for extremely low - lit situations , image sensor cleaning , optimized workflow speed , improved autofocus and metering , enhanced built - in raw processor , quiet shutter - release mode , up to 4200 frames per battery charge and other changes compared with the d3 .
+keeping the autofocus motors inside the camera body and as far away from the lens glass as possible , reduces vibration , an additional benefit .
+the " l " designation , and the famous red ring around the lens front , have continued in the current eos autofocus lenses .
+although the me f was an interchangeable lens camera ( the photographer could remove and exchange its lens for another ) , its af function required the unique smc pentax af 35mm-70 mm f/2.8 zoom lens autofocus lens using a special pentax k - f lens mount .
+some manufacturers discarded their existing lens systems to compete with other manufacturer 's autofocus capability in their new cameras .
+fixed focus can be an inexpensive alternative to autofocus , which requires electronics , moving parts , and power .
+the autofocus system in the t80 worked in the same manner as the focus assist system built into the earlier al-1 .
+as a kit , the f601 shipped with a 35-to-70 mm autofocus nikkor zoom lens .
+autofocus .
+the range of the products produced at nikon thailand include plastic molding , optical parts , painting , printing , metal processing , plating , spherical lens process , aspherical lens process , prism process , electrical and electronic mounting process , silent wave motor and autofocus unit production .
+the newer af - s nikkor , af - i nikkor , af nikkor d and af nikkor autofocus lenses are also ai types .
+like all other autofocus minolta cameras , it used the same lenses initially offered in the mid-1980s .
+all models had a fixed zoom , motorized stepless autofocus , autoexposure , a built - in pop - up flash , motorized film transport , and automatic ( dx ) film sensing .
+unlike the standard autofocus lens mounting technology of the time , which used a motor in the camera body to drive the mechanics of the focus helicoid in the lens by using a transfer gear , the ef series used a motor inside the lens itself for focusing .
+autofocus .
+the zoom lens moves slowly compared to modern 35 mm cameras , and the autofocus is slower and less reliable .
+these autofocus lenses were rather heavy and depended upon their own large , lens - mounted motors .
+most significant of the issues is the autofocus ( af ) issue .
+although it was overtaken by the autofocus revolution and canon 's new , incompatible eos ( electro - optical system ) after only a year in production , the t90 pioneered many concepts seen in high - end canon cameras up to the present day , particularly the user interface , industrial design , and the high level of automation .
+it replaces the d300 as nikon 's dx format flagship dslr adding hd video recording ( with autofocus ) .
+focus mode switch : this switch is found on most ef lenses that have an autofocus feature .
+many autofocus lenses have smaller distance and dof scales and fewer
+this is the order of first introduction of 35 mm slrs , by brand , with a computer programmed autoexposure mode , before the rise of autofocus ( see next section ) : 1978 , canon a-1 ( plus ae-1 program , 1981 and t50 , 1983 ) ; 1980 , fujica ax-5 ; 1980 , leica r4 ; 1981 , mamiya ze - x ; 1982 , konica fp-1 ; 1982 , minolta x-700 ; 1982 , nikon fg ( plus fa , 1983 ) ; 1983 , pentax super program ( plus program plus , 1984 and a3000 , 1985 ) ; 1983 , chinon cp-5 twin program ( also first with two program modes ) ; 1984 , ricoh xr - p ( tied with canon t70 as first with three program modes ) ; 1985 , olympus om-2s program ; 1985 , contax 159mm ; 1985 , yashica fx-103 .
+autofocus slrs .
+a new interchangeable - lens system , micro four thirds , exclusively uses contrast measurement autofocus , and is said to offer performance comparable to phase detect systems .
+the af - s nikkor , af - i nikkor , af nikkor d and af nikkor autofocus lenses will work for manual focus only .
+unfortunately for minolta , its autofocus design was found to infringe on the patents of honeywell , a u.s. corporation .
+autofocus , off - the - film metering , auto - film - advance and built - in self - quenching electronic flash : all were featured on the “ project beehive ” camera developed by peterson and his team of engineers and introduced by honeywell at photokina in 1972 .
+the sonar onestep models were the first autofocus slrs available to consumers .
+and f - number from the scales on an autofocus lens may be more
+the mark ii has an increased number of autofocus modes , and retains an option for manual focusing .
+yashica eventually introduced its own autofocus 35 mm slr camera line that was overpriced and poorly marketed in comparison to its competition .
+the me f required four 1.5 volt s76 or sr44 silver oxide batteries ( two more than the me super ; alkaline not recommended ; 3 volt lithium not compatible ) to power its electronically controlled shutter and autofocus system .
+other features include a rear - mounted 3.2mp autofocus camera .
+all nikon nikkor - lenses designated with af - s ( introduced 1998 ) and the older af - i ( introduced 1992 ) fully autofocus on these cameras .
+the f-301 was identical to the nikon f501 ( sold in north america as the n2020 ) in almost every way , except it lacked autofocus .

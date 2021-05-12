@@ -1,0 +1,255 @@
+part 12 encompasses both enclosures for cabling and bus ducts , as well as inherently fire - resistive cables , such as mineral insulated cables .
+since the propulsive force and the resistive force are not likely to be equal on the first iteration , the " solution algorithm " has the responsibility of adjusting the input parameters and balancing the forces until it produces the maximum possible speed at each true wind angle .
+in regards to printing a thermal transfer printer has a print - head containing many small resistive heating pins that on contact , depending on the type of thermal transfer printer , melt wax - based ink onto ordinary paper or burn dots onto special coated paper .
+by adding another element in series which has a reactive impedance of + j 217.94 , the impedance is 50 ohms ( resistive )
+if , for any reason , the wire becomes resistive , i.e. loses superconductivity , a condition known as a " quench " , the liquid helium evaporates , instantly raising pressure within the vessel .
+the resistive sensors use a polymer membrane which changes conductivity according to absorbed water .
+however , in applications where heating is an unwanted by - product of current use ( e.g. , load losses in electrical transformers ) the diversion of energy is often referred to as " resistive losses " .
+in addition there are usually resistive losses .
+the first technology used resistive heating coils which heated iron hotplates , on top of which the pots were placed .
+resistance thermometers , also called resistance temperature detectors or resistive thermal devices ( rtds ) , are temperature sensors that exploit the predictable change in electrical resistance of some materials with changing temperature .
+though a speaker is " not " purely resistive , these equations are often used to approximate power measurements for such a system .
+a 230 v distribution system will use less conductor material to deliver a given amount of power as current , and consequently resistive loss , is lower .
+one disadvantage of inductive charging is its lower efficiency and increased ohmic ( resistive ) heating in comparison to direct contact .
+joule arrived at this result experimentally in 1841 , using a calorimeter to measure heat , and a galvanometer to measure current , with a variety of resistive circuits .
+in normal operation , with a resistive load , this varying current will result in varying ( ac ) voltage measured at the anode .
+any voltage is a difference in electric potential between two points - for example , the separation of positive and negative electric charges on opposite sides of a resistive barrier .
+for example resistive heat has a cop = 1 .
+the resistive sides of each are separated by an air gap of two - thousandths of an inch , or about the width of two human hairs .
+lydia , betty and john were considered the right age to be useful as slaves and hostages ( not so young as to be a trouble in flight , and not so old as to be resistive ) and so they were taken as captives and carried away to the north .
+a dedicated pulse width modulation ( pwm ) block makes it possible for the cpu to control power converters , resistive loads , motors , etc . , without using lots of cpu resources in tight timer loops .
+instead of having the necessary resistive termination located on the motherboard , the termination is located inside the semiconductor chips – technique called odt ,
+it can readily be seen that to achieve this the non - resistive components of the filter must be scaled as ;
+a light bulb is an example of a useful resistive circuit .
+electrical current flowing through the soil generates heat ( through electro - resistive heating ) , causing contaminants to volatilize .
+there was also some resistive quality to human spit that gave the oscillator some weird overtones too . "
+the network usually comprises a capacitor , a diode and a resistive element , but it can also employ an independent dc supply to introduce an additional voltage shift .
+this application of ohm 's law is illustrated with examples in " how to analyze resistive circuits
+at the time the maximum field strength with a resistive magnet was about 0.1t. with a cryogenic magnet , 1.0 t was easily achieved .
+joule heating is referred to as " ohmic heating " or " resistive heating " because of its relationship to ohm 's law .
+usually fabricated out of doped single crystal silicon or polysilicon as a complex compliant member , the increase in temperature can be achieved internally by electrical resistive heating or externally by a heat source capable of locally introducing heat .
+it is based upon sub - dermal resistive heating , using rf , delivered with a metal needle that has an insulating sleeve covering all but the tip of the needle .
+it was a 50-ohm resistive load used by radio amateurs .
+nist subsequently expanded its research in areas of high - priority need such as prevention of progressive collapse , fire resistance design and retrofit of structures , and fire resistive coatings for structural steel .
+in the case of delay sections , there are no resistive components used in the design .
+both derivations depend on " voltage and current being proportional " ( i.e. , the load , " r " , is purely resistive ) .
+it features a resistive touchscreen video , photo , and audio multimedia , and internet browsing .
+this effect is opposite to resistive division and inductive division .
+ohm 's law holds for circuits containing only resistive elements ( no capacitances or inductances ) for all forms of driving voltage or current , regardless of whether the driving voltage or current is constant ( dc ) or time - varying such as ac .
+because of its rarity , rhodium is usually alloyed with platinum or palladium and applied in high - temperature and corrosion - resistive coatings .
+many hospitals are installing internal radiator - mounted resistive load banks directly and permanently into the generator enclosures .
+this is because the impedance of the dipole is resistive pure at about this length .
+the purpose of making the power factor as close to unity ( 1 ) as possible is to make the load circuitry that is power factor corrected appear purely resistive ( apparent power equal to real power ) .
+this layer serves as low - resistive metallic " interconnects . "
+because the two parts of resistive wire are connected in parallel , the total resistance is half of the value of resistors made in common technology ( with the same dimensions ) .
+epa turned off the electrical resistive heating remedy during april 2008 and permanently transferred vapor treatment over to carbon during june 2008 .
+a resistive mat is placed in front of or directly behind the loudspeaker driver ( usually mounted on the rear deck of the car in order to use the trunk as an enclosure ) .
+the resistive element is made from a mixture of finely ground ( powdered ) carbon and an insulating material ( usually ceramic ) .
+the purpose is to counteract inductive loading from devices like electric motors and transmission lines to make the load appear to be mostly resistive .
+set amplifiers typically show poor measurements for distortion with a resistive load , have low output power , are inefficient , have poor damping factors and high measured harmonic distortion .
+the typical digital propagation delay of a resistive wire is about half of r times c ; since both r and c are proportional to wire length , the delay scales as the square of wire length .
+chu used resistive tin oxide as the buffer layer and then thinned the cds from several micrometres to under half a micrometre in thickness .
+this site chronicles a series of regimented scientific experiments testing , amongst others , the insulative , electrically resistive , radioactive , and gravitational properties of the " standard twinkie " .
+therefore , in order to bind the particles , the kinetic energy gained due to the attraction must be dissipated ( by resistive force ) .
+with a poly - diffusion antifuse , the high current density creates heat , which melts a thin insulating layer between polysilicon and diffusion electrodes , creating a permanent resistive silicon link .
+to identify muons and measure their momenta , cms uses three types of detector : drift tubes ( dt ) , cathode strip chambers ( csc ) and resistive plate chambers ( rpc ) .
+the three most common types of load banks are resistive , inductive , and capacitive .
+the impedance reaches a minimum value ( " z"min ) at some frequency where the behaviour is fairly ( but not perfectly ) resistive over some range .
+if a purely resistive load is connected to a power supply , current and voltage will change polarity in step , the power factor will be unity ( 1 ) , and the electrical energy flows in a single direction across the network in each cycle .
+the contraction of the diaphragm muscles cause a pressure variation , which is equal to the pressures caused by elastic , resistive and inertial components of the respiratory system .
+using the thrust lever , pilots can start an astafan in fine pitch ( for minimal resistive torque ) , select takeoff ( coarse ) pitch , feather the fan , or even reverse the fan pitch in flight ( with the fan providing reverse thrust in lieu of conventional reversers ) .
+stray electric field effect could not be the driving factor because the metal plate staid immobile for high resistive devices even under a large applied potential .
+if the load is purely resistive , the two quantities reverse their polarity at the same time .
+the reduced resistive force at the calving front is then propagated up glacier via longitudinal extension because of the backforce reduction .
+the thermal cycling ( tc ) unit is a 250-nanoliter reaction chamber with integrated resistive temperature detector , microvalves , and a surface heater .
+an additional form of power consumption became significant in the 1990s as wires on chip became narrower and the long wires became more resistive .
+this places greater stress on the remaining insulation , leading to further growth of the damaged region , resistive heating along the tree , and further charring ( sometimes called " tracking " ) .
+resistive touchscreens typically have high resolution ( 4096 x 4096 dpi or higher ) , providing accurate touch control .
+the front of the phone is dominated by a 3.5-inch , 16:9 ratio 360x640 tft resistive touchscreen .
+in the most popular techniques , the capacitive or resistive approach , there are typically four layers ;
+a new proposal to stabilize resistive wall modes by a flowing liquid lithium wall needs further
+resistive divider .
+furthermore both lanthanum hexaboride and tungsten thermionic sources must be heated in order to achieve thermionic emission , this can be achieved by the use of a small resistive strip .
+this can cut the electricity consumption to as little as 20% of that used by resistive heating and thus reduce the environmental impact .
+generally mhd computer simulations are at least somewhat resistive because their computational grid introduces a numerical resistivity .
+the term refers to the angle in a complex plane between the resistive ( lossy ) component of an electromagnetic field and its reactive ( lossless ) component .
+in the re - amped " dummy load " approach , the tube power amp drives a mostly resistive dummy load rather than a guitar speaker .
+if the source is totally inductive ( capacitive ) , then a totally capacitive ( inductive ) load , in the absence of resistive losses , would receive 100% of the energy from the source but send it back after a quarter cycle .
+resistive touchscreen technology can also support multi - touch input .
+the rogue ships with a 3.1 inch ( 7.874 centimeters ) resistive amoled touchscreen .
+the input source has to be low - resistive enough ( < 800 ω ) so that the flowing current to create a negligible voltage drop ( < 0.8 v ) across it .
+rise time values in a resistive circuit are primarily due to stray capacitance and inductance in the circuit .
+the tube was resistive , and its ends were connected to enough voltage to create repeated cascades of electrons .
+the functional principles of the two encoders are similar : a multichannel magneto - resistive sensor scans a target wheel with 256 teeth , generating sine and cosine signals .
+man - made sources of spikes are usually caused by electromagnetic induction when switching on or off inductive loads ( such as electric motors or electromagnets ) , or by switching heavy resistive ac loads when zero - crossing circuitry is not used - anywhere a large change of current takes place .
+by increasing the resistive load on an irradiated cell continuously from zero ( a " short circuit " ) to a very high value ( an " open circuit " ) one can determine the maximum - power point , the point that maximizes v×i ; that is , the load for which the cell can deliver maximum electrical power at that level of irradiation .
+the theorem also applies where the source and/or load are not totally resistive .
+the factor limiting the strength of electromagnets is the inability to dissipate the enormous waste heat , so higher fields , up to 90 t , have been obtained from resistive magnets by pulsing them .
+an advantage is silent operation , with none of the fan noise of current resistive grid designs .
+for single - turn pots , this wiper typically travels just under one revolution around the contact . " multiturn " potentiometers also exist , where the resistor element may be helical and the wiper may move 10 , 20 , or more complete revolutions , though multiturn pots are usually constructed of a conventional resistive element wiped via a worm gear .
+the reason cited by horace luke , htc 's chief innovation officer , was that the resistive touch screen is better for asian character recognition .
+elastic and flow resistive properties of the lung do not change during nrem sleep .
+in theory , the output voltage remains constant , but in reality it never does — not least due to resistive losses in the cabling from the power supply to the gain stage .
+resistive touchscreen technology works well with fingertip input .
+these are heated through electro - resistive ( ohmic ) methods , opened with a can - opener , and the food inside consumed directly .
+some x10 controllers may not work well or at all with low power devices ( below 50 watts ) or devices like fluorescent bulbs that do not present resistive loads .
+the power lost in the resistive ballast is also reduced because a smaller portion of the overall power is dropped in the ballast compared to what might be required with a fixed resistor .
+an antenna coupling network is a passive network ( which may be any combination of a resistive , inductive or capacitive circuit(s ) ) for transmitting the signal energy between the active antenna and a source ( or receiver ) of such signal energy .
+the phone features a 3.2 inch resistive screen , which is operated by holding a stylus pen .
+ultracapacitors ( or " supercapacitors " ) are used in some plug - in hybrids , such as afs trinity 's concept prototype , to store rapidly available energy with their high power density , in order to keep batteries within safe resistive heating limits and extend battery life .
+the load , or burden , in a ct metering circuit is the ( largely resistive ) impedance presented to its secondary winding .
+almost all digital circuits use resistive impedance matching which is usually built into the structure of the switching element .
+power factor is the ratio of resistive ( or real power ) to volt - amperes .
+the input impedance can be designed to be purely resistive by setting
+this reactance cancels the reactive component of the antenna input impedance causing the input impedance to appear resistive at the feed point .
+the facility houses several world - record magnets , including the 45 tesla hybrid magnet , which combines resistive and superconducting magnets to create the strongest steady magnetic field available anywhere .
+engine block heaters ( electric resistive heaters in the engine block ) connected to the utility grid are often used when an engine is turned off for extended periods ( more than an hour ) in cold weather to reduce startup time and engine wear .
+resistive counters .
+inductive dividers split dc input according to resistive divider rules above .
+in physics , a resistive force is a force that acts on a body due to its motion relative to other bodies with which it is in contact , whose direction is opposite to the velocity of the body ( or in static friction , opposite to the sum of the other forces ) .
+the constructal way of distributing the system 's imperfection is to put the more resistive regime at the smallest scale of the system .
+resistive impedance matches are easiest to design .
+ncp and cern are involved in the development , testing and fabrication of 432 resistive plate chambers ( rpc ) required for the cms muon detector at cern .
+resistive trypanophobia occurs when the underlying fear involves not simply needles or injections but also being controlled
+if the plasma rotation needed to stabilize the resistive wall
+the unifying feature of this area is the use of molecular building blocks for the fabrication of electronic components , both passive ( e.g. resistive wires ) and active ( e.g. transistors ) .
+this is a particular difficulty for the end sections of the filter which are often working into resistive terminations which can not be matched exactly by an image impedance .
+in the case of purely resistive circuits , the two concepts are identical .
+however when the switch is flicked the resistance must pass through a state where briefly a quarter ( or worse if the load is not purely resistive ) of the load 's rated power is dropped in the switch .
+the network must have capacitor , a diode , and a resistive element , but it also employs an independent dc supply to introduce an additional shift .
+resistive network .
+note that for a time varying voltage and current , the above applies only to the resistive component of the power , not the reactive component .
+in delta - connected windings , half voltage is applied across the windings adjacent to the undriven lead ( compared to the winding directly between the driven leads ) , increasing resistive losses .
+the relation formula_5 is actually more generally applicable than either joule 's law or ohm 's law , as it represents the instantaneous power being applied to circuit with voltage " v " across it and current " i " into it , whether the circuit is resistive or not .
+some engines use resistive grid heaters in the intake manifold to warm the inlet air until the engine reaches operating temperature .
+in the most common resistive system , a membrane stretched over the surface deforms under pressure to make contact with a conducting backplate .
+this sequence allows the computer to align the touch surface with the display ; however , it has the disadvantage of having tiny fiber - sized " dead spots " in the resistive touch surface where the light sensors are present .
+since this ' resistive - drain ' approach uses only a single type of transistor , it can be fabricated at low cost .
+resistive touchscreen .
+resistive - capacitive delay , or rc delay , hinders the further increasing of speed in microelectronic integrated circuits .
+glass reinforced polymers are strongest and most resistive to deforming forces when the polymers fibers are parallel to the force being exerted , and are weakest when the fibers are perpendicular .
+the idealized waveforms shown above are seen for both voltage and current when the load on the bridge is resistive .
+as a result , no resistive mask is needed in laser engraving .
+bscco , ybco or magnesium diboride may also be used for current leads , conducting high currents from room temperature into the cold magnet without an accompanying large heat leak from resistive leads .
+in the case of purely resistive impedances ( no reactive components ) , the two types of impedance matching are identical .
+the magnitude of the reflection will be smaller than the magnitude of the incident wave if the terminating impedance is wholly or partly resistive since some of the energy of the incident wave will be absorbed in the resistance .
+the rsic-1 product is the " only " noise control product classified by underwriters laboratories ( ul ) for both fire and sound ; and rsic-1 is ul classified for use in over 75 fire resistive design assemblies .
+a nickel - chromium or other resistive alloy is another possibility listed in the application , but is unlikely to have been used .
+for example , if we applied 120vac rms to a resistive heating element it would heat up by exactly the same amount as if we had applied 120v dc .
+the touch diamond2 utilizes a 3.2 " wide resistive touchscreen , with a capacitive zoom bar below the screen to replace the larger capacitive area and navigational pad found on the htc diamond and touch pro .
+on - chip inductors suffer large resistive losses , so that the q of the resulting tank circuit is generally less than 10 .
+the phone features a three - inch resistive touchscreen overlaying a keypad which emerges when the user slides the touchscreen face upward , much as in the htc tytn ii , although the x1 's touchscreen slides out in an arc .
+dcc used a magneto - resistive ( mr ) head , which was fixed to the mechanism of the player / recorder , unlike rotary heads that are used in helical scan systems such as dat or vhs to increase head - to - tape speed .
+in low - frequency or dc systems , or in systems with purely resistive sources and loads , the reactances are zero , or small enough to be ignored .
+an fgmos can be fabricated by electrically isolating the gate of a standard mos transistor , so that there are no resistive connections to its gate .
+if the generator is connected to a linear strictly resistive load , it will deliver power as soon as voltage is induced in the generator .
+other types of eifs may also include plastic edge trim , water - resistive barriers , a drainage cavity , and other accessories .
+j.e.evetts and dr b.a. glowacki by which ceramic bi2sr2cacu2o8+x superconductor with induced microstructural texture can be used for high current applications such as current leads or resistive fault current limiter .
+design & technology : resistive materials ( & product design ) ,
+in a purely resistive ac circuit , voltage and current waveforms are in step ( or in phase ) , changing polarity at the same instant in each cycle .
+in both cases , the charge transfer must be primarily regulated by the non - resistive load .
+in essence , the vendors make a model of the fuel assembly but power it with resistive heaters .
+the most widespread use of ground - based geophysics is electromagnetic geophysics which detects conductive minerals such as sulfide minerals within more resistive host rocks .
+resistive instabilities .
+a purely resistive load ( such as a filament lamp , heater or kettle ) exhibits a power factor of 1 .
+resistive random - access memory ( rram ) is a new non - volatile memory type being developed by many companies .
+resistive .
+for a resistive load , usually ( but not always ) the voltage across the amplifier 's output devices is maximum when the load current is minimum ( and the voltage is minimum across the load ) and vice - versa , and as a result the power dissipation in those devices is least .
+like a common viscous damper , the eddy current damper produces a resistive force proportional to velocity .
+during operation , the magnet windings must be cooled below their critical temperature ; the temperature at which the winding material changes from the normal resistive state and becomes a superconductor .
+for audio lines , it is invariably necessary to combine l / c filter components with resistive attenuator components in the same filter section .
+this refers to a system with a resistive load formula_9 between each phase and neutral .
+because the touchscreen senses input from contact with nearly any object ( finger , stylus / pen , palm ) resistive touchscreens are a type of " passive " technology .
+this model attributes the resistive component of the circuit to the resistance of extracellular and intracellular fluids , and the reactive component to the capacitive effects of cell membranes .
+thin resistive sheets spaced by foam or aerogel may be suitable for space craft .
+the material to be vaporized is typically heated until its vapor pressure is high enough to produce a flux of several angstroms per second by using an electrically resistive heater or bombardment by a high voltage beam .
+again , the thermostat controlled resistive loads will react differently , but it is clear that it will cost a customer more to turn on that incandescent reading lamp with higher voltage than it would at a lower voltage .
+a 50-ohm resistive terminator is required at each end of the cable .
+the heating caused by the induced current is called ohmic ( or resistive ) heating ; it is the same kind of heating that occurs in an electric light bulb or in an electric heater .
+the resistive wall mode has been a long - standing issue for the rfp , and has more recently been observed in tokamak experiments .
+if electrodes are in electrically resistive zones resulting in cold spots , the power to the electrodes can be increased in these areas to uniformly heat the formation .
+the high intensity of the laser pulse incident at the target allows the deposition of high melting point materials , without having to try to evaporate the material using extremely high temperature resistive or electron bombardment heating .
+the power generated by a descending train 's braking action was fed back to the overhead lines and either used by other trains requiring power in the same block of line , or dissipated as heat in resistive loads at the electrical sub - stations .
+since valves are designed to operate with much higher resistive loads than solid state devices , the most common anode circuit is a tuned lc circuit where the anodes are connected at a voltage node .
+the impedance of a loudspeaker is partly resistive .
+resistive circuit .
+additionally , water circulates through holes in the plates as a coolant , since resistive heating also increases with the square of the magnetic field strength .
+on april 17 , 2009 digitimes reported that nokia had planned to release the nokia 5800 with an induction display instead of a resistive one , which is used in the original model .
+one of the goals of antenna design is to minimize the reactance of the device so that it appears as a resistive load .
+this allowed for the insert jack to serve as a standard - wired mono line input that would bypass the mic preamp ( and likely a resistive pad , as well as other circuitry , depending on the design ) , and thus improve sound quality .
+formula_11 also varies with frequency and is also partly reactive ; both these features will be the cause of reflections from a resistive line termination .
+voltages are distributed to the dynodes by a resistive voltage divider , although variations such as active designs ( with transistors or diodes ) are possible .
+2.8 " resistive ( capacitive on newer models ) tft touchscreen of qvga resolution
+many factors influence the electrical power output , including spectral distribution , spatial distribution of power , temperature , and resistive load applied to the cell .
+the second approach is to attempt to provide charge to the capacitive loads through paths that are not predominantly resistive .
+the original guitar amp power attenuator , the altair attenuator , was primarily resistive , using a toaster coil with low inductance windings .
+these ants are very resistive and can resist over heavy blows as as well .
+the activity of ions at the electrode surface changes when there is current flow , and there are additional overpotential and resistive loss terms which contribute to the measured potential .
+( an alternative approach commonly used in spacecraft is to divert surplus pv power into a resistive load , allowing the array to operate continuously at its peak power point . )
+if an eifs with drainage , or water - managed eifs is installed , a water resistive barrier ( aka a wrb ) is first installed over the substrate ( generally densglas gold , exterior - grade gypsum sheathing , osb or plywood ) .
+otpor awarded him a certificate , acknowledging him as " the most resistive professor . "
+with the proper choice of two floats , resistive chain level sensors can also be used to monitor for the presence of an interface between two immiscible liquids whose specific gravities are more than 0.6 , but differ by as little as 0.1 unit .
+chiao was the inadvertent developer of the procedure to use the ired ( interim resistive exercise device ) to excite the solar arrays of the iss .
+this ripple current can cause damaging heat to be generated within the capacitor due to the current flow across resistive imperfections in the materials used within the capacitor , more commonly referred to as equivalent series resistance ( esr ) .
+superconducting fault current limiters are described as being in one of two major categories : resistive or inductive .
+magneto - resistive heads do n't use iron so they do n't build up residual magnetism .
+it is this resistive beauty that inspires soccer commentators and visitors alike .
+resistive .
+even though it has a very similar impedance to telephone cable , the nominal impedance is rated at 100 ω. this is because the lan data is in a higher frequency band where the characteristic impedance is substantially flat and mostly resistive .
+the use of a grid permits a higher resolution than resistive technology and also allows multi - touch operation .
+electric - resistance methods such as induced polarisation methods can be useful for directly detecting sulphide bodies , coal and resistive rocks such as salt and carbonates .
+magneto - resistive stationary heads .
+in other words , active and resistive forces must balance out in the forward direction in order that formula_9 .
+unlike in a conventional resistive electric circuit , where currents are best thought of as arising as a response to an applied voltage , currents in the magnetosphere are better seen as caused by the structure and motion of the plasma in its associated magnetic field .
+this is what lends fire - resistive characteristics to basic , or " old " building materials , like gypsum , concrete or plaster .
+one assumption made by fleischmann and pons is the efficiency of electrolysis is nearly 100% , meaning they assumed nearly all the electricity applied to the cell resulted in electrolysis of water , with negligible resistive heating and substantially all the electrolysis product leaving the cell unchanged .
+sea bed logging is an alternative name for the technique of controlled source electro - magnetic ( csem ) to determine the presence of resistive bodies beneath the waters of the continental shelf .
+the commercial street was moved one block as new buildings sprang up , this time of fire resistive masonry construction .
+some important examples that are common to many magnetic configurations are ideal kink modes , resistive wall modes , and neoclassical tearing modes .
+air attacks increased in intensity beginning 6 april as this force of the 5th fleet sought to protect the okinawa invasion force against a fanatically resistive enemy .
+even some resistive loads provide only short - term benefits .
+a conductor of a given material and volume ( length × cross - sectional area ) has no real limit to the current it can carry without being destroyed as long as the heat generated by the resistive loss is removed and the conductor can withstand the radial forces .
+this makes them ideal for situations that are not sensitive to such changes , such as the resistive heating elements in electric stoves and kilns .
+the pitch was determined by the amount of resistive wire chosen by the performer ( allowing vibrato , quarter - tones , and portamento ) .
+in metallic conductor systems , radiation losses , resistive losses in the conductor as well as losses in the surrounding dielectric all reduce the power .
+these inputs are only capacitively connected to the fg , since the fg is completely surrounded by highly resistive material .
+its chief advantage is that it rather better at matching in to resistive end terminations than the k - type or m - type .
+the pointing stick operates by sensing applied force ( hence it is also known as an isometric joystick ) , by using a pair of resistive strain gauges .
+pulse generators are also used to drive devices such as switches , lasers and optical components , modulators , intensifiers as well as resistive loads .
+with loading coils of exactly the right inductance , neither capacitance nor inductance dominate : the response is flat , waveforms are undistorted and the characteristic impedance is resistive up to the cutoff frequency .
+joule heating , also known as ohmic heating and resistive heating , is the process by which the passage of an electric current through a conductor releases heat .
+resistive random - access memory .
+these devices are being used as front - end electronics for resistive plate chambers ( rpc ) , a gaseous
+the resistive screen may also reduce costs .
+this oscillation will die away at a rate determined by the " q " factor , mainly due to resistive and radiative losses .
+however , in an actual circuit realization of the kish scheme , non - ideal features such as inaccuracies and stray resistive elements can be exploited to extract a fraction of the transmitted key bits .
+the system can then be transformed by the mathematics into a series network of 199.9 ω resistive and + j 409.82 ω. the mathematics required for this step are very closely related to the above mathematics .
+the channel is tapered when " vd > 0 " because the voltage drop due to the current in the resistive channel reduces the oxide field supporting the channel as the drain is approached .
+the north american state of the art is ul1724 standard for tests of thermal barrier systems for electrical system components as well as its cousin , ul2196 standard for tests of fire resistive cables .
+heating is often achieved electrically , by passing an electrical current ( supplied through an electrical cord or battery cables ) through the resistive material of a heating element .
+the imaginary term " j " has also canceled out , making " z0 " a real expression , and so is purely resistive with a magnitude of formula_16 .
+esr is properly the real resistive component of the complex impedance " z"(ω ) = " r " + " j " " x"(ω ) of the device ; this complex impedance can involve several relatively minor resistances , inductances and capacitances .
+a quench is an abnormal termination of magnet operation that occurs when part of the superconducting coil enters the normal ( resistive ) state .
+superconducting magnets have a number of advantages over resistive electromagnets .
+an ideal transmission line will have no loss , which implies that the resistive elements are zero .
+this thermal effect implies that measurements of current and voltage that are taken over sufficiently short periods of time will yield ratios of v / i that fluctuate from the value of r implied by the time average or ensemble average of the measured current ; ohm 's law remains correct for the average current , in the case of ordinary resistive materials .
+for resistive networks , this will always be a simple real number or an expression which boils down to a real number .
+a resistive counter is associated with an in - river structure , such as a crump weir .
+by charging the transmission line and then discharging it into a resistive load , a rectangular pulse equal in length to twice the electrical length of the line can be obtained , although with half the voltage .
+depending on the external magnetic field , as the squid operates in the resistive mode , the effective inductance of the tank circuit changes , thus changing the resonant frequency of the tank circuit .
+even silicon dioxide has been shown to exhibit resistive switching as early as 1967 , and has recently been revisited .
+the resistive element , with a terminal at one or both ends , is flat or angled , and is commonly made of graphite , although other materials may be used .
+a layer of a leuco dye is applied on a resistive strip to indicate its heating , thus gauging the amount of current the battery is able to supply .
+electric current assisted sintering , also known as spark plasma sintering ( sps ) , has been shown to utilize fast application of resistive heating and pressure to consolidate powders close to their maximum theoretical densities , without the undesired grain growth effect , thereby retaining close to original grain size and achieving improved mechanical properties in the final product .
+resistive instabilities are an issue for all magnetic configurations , since
+in a simple resistive circuit , a reduction in the voltage across the resistance will result in a reduction in the power dissipated by the circuit .
+if the system is purely resistive , then the opposition to ac or direct current ( dc ) is simply resistance .
+resistive ballooning mode .
+there are also political dimensions to the ideology , and the history of western influence and control after the fall of the ottoman empire in 1918 , is the common stated reason used within the ideology to justify and explain its use of violence as resistive and retributive against western influences .
+also , even with a β<1 , resistive diffusion will cause the fuel core to collapse almost immediately unless β«1 , which would require an even larger magnetic field .
+an rx meter is used to measure the separate resistive and reactive components of reactive parallel z network .
+persistent current is a perpetual electrical current , not requiring an external power source , that flows naturally through resistive metal .
+and with this new agreement pakistan started construction of the resistive plate chambers required for the cms muon system .
+resistive networks are represented by a system of simultaneous algebraic equations .
+there are also significant resistive losses .
+an important property of three - phase power is that the power available to a resistive load , formula_10 , is constant at all times .

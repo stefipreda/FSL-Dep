@@ -1,0 +1,255 @@
+the second type of excitation corresponds to a collective motion of the system as a whole .
+if the gain is increased until it is greater than 1 for some frequency , then it will be equal to 1 at a nearby frequency , and the system will start to oscillate at that frequency at the merest input excitation , that is to say : sound will be produced without anyone actually playing .
+in fourier analysis theory , such an impulse comprises equal portions of all possible excitation frequencies , which makes it a convenient test probe .
+the transformation of excitation energy into harmless heat occurs via a photochemical process called internal conversion .
+this is in contrast with skeletal muscle , which requires either conscious or reflex nervous stimuli for excitation .
+parametric excitation differs from forcing since the action appears as a time varying modification on a system parameter .
+although it is likely that the slope represents the less pronounced downward spread of excitation , rather than accurate thresholds for those frequencies with non - functioning hair cells .
+ground - state energy and excitation spectrum of a system of interacting bosons ( with n. hugenholtz ) .
+in some actinide nuclei , quantum - mechanical states can exist in which the distribution of protons and neutrons is significantly non - spherical , so much so that de - excitation to the nuclear ground state is strongly hindered .
+likewise , sp is known to bind to n - methyl - d - aspartate ( nmda ) receptors by eliciting excitation with calcium ion influx , which further releases nitric oxide .
+the excitation temperature ( formula_1 ) ( often called the spin temperature for the 21 cm line ) is defined for a population of particles via the boltzmann factor .
+” direct excitation of the mouth cavity of a dog produces an “ unconditional ” reflex secretion of the saliva .
+a helicon discharge is an excitation of plasma by helicon waves induced through radio frequency heating .
+there is a wide range of untested applications in which impulse excitation techniques ( iet ) could be used .
+nucca practitioners believe that scientific investigation has demonstrated that a misalignment ( subluxation ) of the c1 area results in over - excitation of an area of the brainstem that controls tone of postural musculature .
+if the energy during the period of aerodynamic excitation is larger than the natural damping of the system , the level of vibration will increase , resulting in self - exciting oscillation .
+in 2006 , as part of their study of the use of uranium targets in superheavy element synthesis , the lbnl team led by ken gregorich studied the excitation functions for the 4n and 5n channels in this new reaction .
+at large density of excitation , the cooperative quenching
+initially , much of the cell - space , the universe of the cellular automaton , is " blank , " consisting of cells in the ground state u. when given an input excitation from a neighboring ordinary- or special transmission state , the cell in the ground state becomes " sensitised , " transitioning through a series of states before finally " resting " at a quiescent transmission or confluent state .
+alexa fluor dyes are generally more stable , brighter , and less ph - sensitive than common dyes ( e.g. fluorescein , rhodamine ) of comparable excitation and emission , and to some extent the newer cyanine series .
+the radio signal from the antenna is tuned and passed through the excitation coil , the other end of which is connected to ground .
+they attempted to measure the 1n excitation function in 2002 but suffered from a failure of the zn-70 beam .
+the gsi team continued in 2001 with the measurement of the 3n excitation function .
+excitation mechanism .
+the possibility to introduce epi - illumination with uv light , although useful for several applications , had not been a motive for a new technological development at leitz , since they had already excellent transmitted dark field uv excitation available .
+the individual members of the family are numbered according roughly to their excitation maxima ( in nm ) .
+multiple excitation states have been observed for 80y and 97y. while most of yttrium 's isomers are expected to be less stable than their ground state , 78my , 84my , 85my , 96my , 98m1y , 100my , and 102my have longer half - lives than their ground states , as these isomers decay by beta decay rather than isomeric transition .
+the inclusion of all " n " levels of excitation for the " n "- electron system gives the exact solution of the schrödinger equation within the given basis set , within the born –
+photoluminescence excitation .
+however , an ac machine must match both the amplitude and the timing of the network voltage , which requires both speed and excitation to be systematically and closely controlled for synchronization .
+in june 2006 , basler acquired the cutler - hammer excitation control product line .
+excitation purity .
+the table below provides cross - sections and excitation energies for hot fusion reactions producing rutherfordium isotopes directly .
+he is best known for his 1943 research paper on high - excitation line emission from the centers of some spiral galaxies , which are named " seyfert galaxies " after him .
+the table below provides cross - sections and excitation energies for cold fusion reactions producing nobelium isotopes directly .
+for the description of the inelastic scattering processes due to the excitation of vibrational modes of adsorbates different approaches exist .
+the laser light initiates polymerization , but only at the focal point as a result of the nonlinear nature of the excitation .
+the area is constant , being equal to the cross - sectional area of the transformer core , whereas the magnetic field varies with time according to the excitation of the primary .
+the longer wavelength , low energy ( typically infra - red ) excitation lasers of multiphoton microscopes are well - suited to use in imaging live cells as they cause less damage than short - wavelength lasers , so cells may be observed for longer periods with fewer toxic effects .
+these are processes which create compound nuclei at low excitation energy ( ~10 - 20 mev , hence " cold " ) , leading to a higher probability of survival from fission .
+the vacuum energy is then the sum over all possible excitation modes
+modal analysis is the study of the dynamic properties of structures under vibrational excitation .
+another main improvement is the use of transform coding ( transform coded excitation - tcx ) additionally to acelp .
+since an nts is a composite object , it has to demonstrate properties different from those of a single particle , e.g. evaporation emission , excitation levels , scattering form - factor .
+not this structure alone , but a combination of several favorable factors ( previous knowledge , easy production and excitation , etc . ) which determined the popularity of the n - v− center .
+the data acquisition portion of the shm process involves selecting the excitation methods , the sensor types , number and locations , and the data acquisition / storage / transmittal hardware .
+doubly - fed " electric machines " ( i.e. , electric motors or electric generators ) belong to a category of electric machines that incorporate two multiphase winding sets of similar power rating that have independent means of excitation .
+some of these toxins act by binding to the nicotinic acetylcholine receptors in the postsynaptic membrane of skeletal muscles and prevent the binding of acetylcholine , thereby blocking the excitation of muscles .
+the observed fluorescence intensity , formula_1 , is the product of the excitation probability per unit time , formula_2 , and the probability of measuring an emitted photon per unit time , formula_3 .
+charge exchange excitation .
+the hypothetical excitation of the m cone alone would correspond to an imaginary color greener than any physical green , corresponding to a spectral power distribution with positive power in the green ( medium ) wavelengths and ( non - physical ) negative power in the red and blue ( long and short ) wavelengths .
+these are processes which create compound nuclei at low excitation energy ( ~10 - 20 mev , hence " cold " ) , leading to a higher probability of survival from fission .
+in reality , many more than four energy levels may be involved in the laser process , with complex excitation and relaxation processes involved between these levels .
+data in bold represent maxima derived from excitation function measurements .
+self - excitation .
+the downward transition across the relatively large energy gap , 62s-52p , acts as a bottleneck for the electron de - excitation process , which generally proceeds faster for closely spaced levels .
+singly - fed electric machines have an effective constant torque speed range up to synchronous speed for a given excitation frequency .
+t - tubules are the major sites for the coupling of excitation and contraction , which is the process whereby the spreading depolarization is converted into force production by muscle fibers .
+the electromagnetic theory relies upon the excitation of localized surface plasmons , while the chemical theory rationalizes the effect through the formation of charge - transfer complexes .
+even the fact that the above - mentioned alkaline gases show bosonic , rather than fermionic behaviour , as solid state physicists or chemists would expect , is based on a subtle interplay of electronic and nuclear spins : at ultralow temperatures and corresponding excitation energies , the half - integer ( in units of formula_49 ) total spin of the electronic shell and the also half - integer total spin of the nucleus of the atom are " coupled " by the ( very weak ) hyperfine interaction to the integer ( ! ) total spin of the atom .
+intracellular mg concentration has also been shown to be effective in modulating insulin action ( mainly oxidative glucose metabolism ) , offset calcium - related excitation - contraction coupling , and decrease smooth cell responsiveness to depolarizing stimuli .
+the electrons are formed by collision with nitrogen because nitrogen exhibits a low excitation energy , so it is easy to remove electron from nitrogen molecule .
+avouris studied in detail the mechanisms of photo- and current - induced excitation of these one - dimensional systems and opened up the possibility of a unified electronic and optoelectronic technology based on the same carbon materials .
+photoluminescence is an important technique for measuring the purity and crystalline quality of semiconductors such as gaas and inp. several variations of photoluminescence exist , including photoluminescence excitation ( ple ) .
+the excitation is generated with gain scaled vq .
+the term " hoosier daddy " was used during the tenure of coach bobby knight at indiana university throughout the midwest as a means of fan excitation .
+such calculations are based on the fact that the linear response function – that is , how the electron density changes when the external potential changes – has poles at the exact excitation energies of a system .
+this is due to thermal excitation — some of the electrons get enough energy to jump the band gap in one go .
+after an upgrade of their facilities , they repeated the reaction in 1994 with much higher sensitivity and detected some 1100 atoms of 257rf and 1900 atoms of 256rf along with 255rf in the measurement of the 1n,2n and 3n excitation functions .
+the table below provides cross - sections and excitation energies for cold fusion reactions producing roentgenium isotopes directly .
+at each mach number and altitude , stability estimations of the wing were made using accelerometer measurements in response to the piezoelectric actuator excitation .
+the most discussed types of polaritons are phonon - polaritons , resulting from coupling of an infrared photon with an optic phonon ; exciton - polaritons , resulting from coupling of visible light with an exciton ; intersubband - polaritons , resulting from coupling of an infrared or terahertz photon with an intersubband excitation ; and surface plasmon - polaritons , resulting from coupling of surface plasmons with light ( the wavelength depends on the substance and its geometry ) .
+crystal field excitation .
+the ionization and excitation energy of dioxygenyl cations , which they observed , is 18 electronvolts .
+to correct this , a beam splitter can be applied after the excitation monochromator or filter to direct a portion of the light to a reference detector .
+the scattering angle ( that is , the amount that the electron 's path is deflected ) can also be measured , giving information about the dispersion relation of whatever material excitation caused the inelastic scattering .
+the fate of such excitation can be a return to the ground state or another electronic state of the same molecule .
+in the design of floor systems in buildings vibrations caused by walking , dancing , mechanical equipment or other rhythmic excitation may cause an annoyance to the occupants or impede the function of sensitive equipment .
+charge injection from excited cds into swcnts was documented upon excitation of cds nanoparticles .
+the results indicated that nuclei of element 120 were produced at high ( ~70 mev ) excitation energy which underwent fission with measurable half - lives > 10−18s .
+the resolution of a confocal scanning microscope is limited to the spot size to which the excitation spot can be focused .
+thus one can adjust the chemistry and ion bombardment in the deposition by changing the frequency of excitation , or by using a mixture of low- and high - frequency signals in a dual - frequency reactor .
+the strength of the magnetic field of the permanent magnets at the iron band must be of the same order of magnitude as the strength of the field generated by the radio frequency excitation coil , allowing the radio frequency signal to significantly contribute to the total the magnetic field .
+most of the intrinsic fluorescence emissions of a folded protein are due to excitation of tryptophan residues , with some emissions due to tyrosine and phenylalanine ; but disulfide bonds also have appreciable absorption in this wavelength range .
+in solid - state laser materials , the linewidth is several orders of magnitude larger so the spectra of emission and absorption are determined by distribution of excitation among sublevels rather than by the shape of the spectral line of each individual transition between sublevels .
+fusion reactions utilizing 48ca nuclei usually produce compound nuclei with intermediate excitation energies ( ~30 - 35 mev ) and are sometimes referred to as " warm " fusion reactions .
+on average , but not in every case , the bandwidth measured using a mode scrambler is lower than that produced by excitation of a partial mode volume , such as occurs with directly - coupled laser diodes .
+a roton is an elementary excitation , or quasiparticle , in superfluid helium-4 .
+symptoms begin to appear about 1 - 6 hours after ingestion , beginning with gastrointestinal ailments , such as diarrhea , vomiting , and stomach pain , followed by nervous system excitation , seizures , loss of consciousness , and respiratory paralysis , which is the ultimate cause of death .
+it is believed that planetesimals in the main asteroid belt evolved much like the rest of the solar nebula until jupiter neared its current mass , at which point excitation from orbital resonances with jupiter ejected over 99% of planetesimals in the belt .
+data in bold represents maxima derived from excitation function measurements .
+excitation of this receptor protein results in the formation of cyclic adenosine monophosphate ( camp ) as a second messenger .
+thus , the concept of autogynephilia — like that of heterosexuality , homosexuality , or pedophilia — refers to a " potential " for sexual excitation " [ emphasis in original ] .
+salter believed in releasing personal " inhibitions " by practicing techniques leading to what he called " excitation " which results in " disinhibition " , a state which he described as akin to being slightly drunk .
+in contrast to 2dnmr nonlinear two - dimensional infrared spectroscopy also involve the excitation to overtones .
+the bending of the stereocilia towards the basal body of the ohc causes excitation of the hair cell .
+the wavelength of the excitation light could thus be easily and rapidly changed .
+the generic flash technique emerges as a gradient echo sequence which combines a low - flip angle radio - frequency excitation of the nmr signal ( recorded as a spatially encoded gradient echo ) with a rapid repetition of the basic sequence .
+collisional excitation is a process in which the translational energy of a collision partner is converted into the internal energy of a reactant species .
+transmitted - light excitation with uv light used to cause such a strong auto - fluorescence of elastic fibres in the skin , so that visualization of the fluorescent antibody was severely hindered .
+optical filters then separate excitation light from emitted fluorescence , to be detected by eye , or with a ( ccd ) camera or other light detectors ( photomultiplier tubes , spectrographs , etc ) .
+electron excitation is the movement of an electron to a higher energy state .
+schemas cause the activation of behaviors ; the greater the excitation of the activity the more easily it is to achieve the subgoals and complete the schema .
+the laser emission is due to the ( excitation and subsequent ) relaxation of a quantum system ( atom , molecule , ion , etc ) between an excited state ( higher in energy ) and a lower one .
+over - excitation involves the momentary application of a higher - than - nominal voltage to achieve a faster response time .
+nonradiative decay is itself an inefficiency ( in a perfect laser every downward transition would be a stimulated emission event ) , whilst the excitation of the energy - receiving ion can result in heating of the gain medium .
+excitation : formula_1
+the note is fretted as usual , but instead of striking the string the excitation energy required to sound the note is achieved by tapping at a harmonic nodal point .
+the conceptual difficulty with this model is that , at the very low frequencies that tesla said that he employed ( 1–50 khz ) , earth - ionosphere waveguide excitation , now well understood , would seem to be impossible with the either the colorado springs or the long island apparatus ( at least with the apparatus that is visible in the photographs of these facilities ) .
+in 2008 , a team at ganil , france , published results indicating that nuclei of element 124 had been produced at very high excitation energy , which underwent fission with measurable lifetimes .
+ca2 + ions can damage cells if they enter in excessive numbers ( for example in the case of excitotoxicity , or over - excitation of neural circuits , which can occur in neurodegenerative diseases or after insults such as brain trauma or stroke ) .
+the main reasons for such long lifetimes of atoms with excitation energy of several ev are the lack of spatial overlap between the excited circular orbital and low orbitals close to the atom , and the forbidden nature of transitions from high orbitals to low orbitals since the strong selection rule δ"l " = -1 is operative in a dipole transition .
+the excitation of atoms is not essential for the quantum reflection but it allows the efficient trapping and cooling using optical frequencies .
+in astronomy , collisional excitation gives rise to spectral lines in the spectra of astronomical objects such as planetary nebulae and h ii regions .
+149dy has two excitation states , the second of which , 149m2dy , has a half - life of 28 ns .
+in the femtosecond time regime ( for femtosecond excitation laser pulses ) the plasma expansion happens on a timescale smaller than the rate of energy transfer to the lattice , and thermal damages are reduced or eliminated .
+the russian scientists were able to measure decay data for 288114,287114 and the new isotope 286114 from the measurement of the 2n , 3n , and 4n excitation functions .
+it appears in green sulfur bacteria and mediates the excitation energy transfer from the light - harvesting chlorosomes to the membrane embedded bacterial reaction center ( brc ) .
+in dark field imaging ( also termed diffraction contrast imaging ) researchers adjust the excitation of the objective lens so as to produce an image of the diffraction pattern in the middle of the beam separator and choose a desired spot intensity to image using a contrast aperture inserted there .
+the theoretical explanations for these types of effects can be explained by several different theories ; social cognitive theory , excitation transfer theory , priming effect and the general aggression model .
+fret ( förster resonance energy transfer ) is a property in which the energy of the excited electron of one fluorphore , called the donor , is passed on to a nearby acceptor dye , either a dark quencher or another fluorophore , which has an excitation spectrum which overlaps with the emission spectrum of the donor dye resulting in a reduced fluorescence .
+although the skin of an imperial bass drum allows the excitation of a considerable number of high - frequency modes , their duration in time is not normally appreciable by the listener , apart from the timbric contribution to the attack phase of the sound .
+then as the frequency increases above " ω0 " , the induced local field response lags further until it is completely out of phase with the excitation field .
+separate excitation .
+with a large number of transitions sensitive to a wide range of excitation conditions , nh3 has been widely astronomically detected - its detection has been reported in hundreds of journal articles .
+this size depends on system parameters , but is typically approximately the wavelength of the excitation beam .
+since most rvdt signal conditioning systems measure signal as a function of the transformation ratio ( tr ) , excitation voltage drift beyond 7.5% typically has no effect on sensor accuracy and strict voltage regulation is not typically necessary .
+these are processes which create compound nuclei at high excitation energy ( ~40 - 50 mev , hence " hot " ) , leading to a reduced probability of survival from fission and quasi - fission .
+one such filter is the rumble filter often built in to receivers or amplifiers designed to be used with lp records because of undesired lf rumble from the mechanical parts of the turntable , or from the strong subsonic excitation caused by warped vinyl discs .
+stapp envisages consciousness as exercising top - level control over neural excitation in the brain .
+data in bold represents maxima derived from excitation function measurements .
+prior to recombination , electrons and holes are separated either as a result of doping of the material to form a p - n junction ( in semiconductor electroluminescent devices such as leds ) , or through excitation by impact of high - energy electrons accelerated by a strong electric field ( as with the phosphors in electroluminescent displays ) .
+in some conditions , excitation of pain fibers becomes greater as the pain stimulus continues , leading to a condition called hyperalgesia .
+the disorder is caused by mutations in a gene responsible for shutting off electrical excitation in the muscles , causing muscle fiber membranes to have an unusually exaggerated response to stimulation ( hyperexcitability ) .
+its excitation peak is 514 nm and its emission peak is 527 nm .
+normally , excitation and inhibition are balanced .
+if two spin orbitals differ it is a double excitation determinant and so on .
+symptoms are summarized by the mnemonic device red danes : rage , erythema ( redness of skin ) , dilated pupils , delusions , amnesia , nystagmus ( oscillation of the eyeball when moving laterally ) , excitation , and skin dryness .
+the table below provides cross - sections and excitation energies for hot fusion reactions producing copernicium isotopes directly .
+of excitation and inhibition from impulses in motor axon collaterals . j.neurophysiol .
+the stator consists of a primary excitation coil and a pair of secondary output coils .
+the cardiac action potential is propagated down the bundle of his to purkinje fibres which rapidly causes coordinated depolarisation , and excitation - contraction coupling from the apex of the heart up .
+also , y - components to the excitation and fluorescence sine waves will be modulated , and lifetime can be determined from the modulation ratio of these y - components .
+the table below provides cross - sections and excitation energies for cold fusion reactions producing dubnium isotopes directly .
+in response theory , the quality of an excited system is related to the number of excitation frequencies to which it can respond .
+triads form the anatomical basis of excitation - contraction coupling , whereby a stimulus excites the muscle and causes it to contract .
+he also works on josephson effects in high - temperature superconductors and the application of these effects in squid systems and magnetometers as well as on the application of hilbert transform spectroscopy in examining the excitation of solids , liquids and gases on the gigahertz and terahertz scale .
+" a high luminosity in soft x - rays poses an additional problem of understanding why the spectrum is of only modest excitation .
+new biological evidence brought this activity to a peak in the 1970s , where theorists formalized various approximations in the theory , such as the use of firing frequency instead of potential in determining neuron excitation , and the assumption of ideal and , more importantly , linear synaptic integration of signals .
+variations in the phase and magnitude of these eddy currents can be monitored using a second ' search ' coil , or by measuring changes to the current flowing in the primary ' excitation ' coil .
+to explore these properties , excitation states of the nuclei require to be measured .
+the types of state - to - state transitions available to electrons during an auger event are dependent on several factors , ranging from initial excitation energy to relative interaction rates , yet are often dominated by a few characteristic transitions .
+voiced sounds ( e.g. , vowels ) have ( at least ) a source due to ( mostly ) periodic glottal excitation , which can be approximated by an impulse train in the time domain and by harmonics in the frequency domain , and a filter that depends on , e.g. , tongue position and lip protrusion .
+in fluorescence microscopy , shortpass filters are frequently employed in dichromatic mirrors and excitation filters .
+an australian company has been actively developing a novel process for uranium enrichment , separation of isotopes by laser excitation ( silex ) .
+in 1971 , the company developed a 100,000 g high - shock , icp * quartz accelerometer ; impulse hammers for structural excitation were developed in 1972 ; and in 1973 , the first rugged , industrial - grade icp * accelerometer was introduced to serve the emerging machinery health monitoring market .
+where formula_3 is the rate of energy transfer , formula_4 the radiative decay rate and the formula_5 are the rate constants of any other de - excitation pathway .
+nbd - tma has an excitation maximum at 458 nm and an emission maximum at 530 nm .
+" separation of isotopes by laser excitation " is an australian development that also uses uf6 .
+the melpe or enhanced - melp ( mixed excitation linear prediction ) is a united states department of defense speech coding standard used mainly in military applications and satellite communications , secure voice , and secure radio devices .
+a dc generator can be connected to a power network by adjusting its open - circuit terminal voltage to match the network voltage by either adjusting its speed or its field excitation ; the exact engine speed is not critical .
+unlike coronene , dicoronylene has symmetrical fluorescence excitation and emission spectra .
+these are processes which create compound nuclei at high excitation energy ( ~40 - 50 mev , hence " hot " ) , leading to a reduced probability of survival from fission .
+cold fission or " cold nuclear fission " is defined as involving fission events for which fission fragments have so low excitation energy that no neutrons or gammas are emitted .
+calcein , also known as fluorexon , fluorescein complex , is a fluorescent dye with an excitation and emission wavelengths of 495/515 nm , respectively .
+the stimulation of the trigeminal nerve by contraction of the pterygoid muscles of jaw results in the excitation of the branch of the oculomotor nerve that innervates the levator palpebrae superioris ipsilaterally ( on the same side of the face ) .
+the main classes of filters used in epi - illumination fluorescence microscopy were defined in ( 1 ) the primary excitation filters lp ( long pass ) and sp ( short pass ) – in the german literature known as kp filter – and ( 2 ) the secondary filters such as barrier filters and emission filters .
+excitation of rhodopsin in mammalian photoreceptors leads to the hyperpolarization of the receptor membrane but not to depolarization like in the insect eye .
+dual and multi - photon excitation techniques take advantage of the fact that fluorophores can be excited not just by a single photon of the correct energy but also by multiple photons , which together provide the correct energy .
+graphene can be saturated readily under strong excitation over the visible to near - infrared region , due to the universal optical absorption and zero band gap .
+the 3d images are created by intersecting lasers in appropriately - doped plastic , which may induce a chemical reaction via heat or photonic excitation , resulting in the formation of an air bubble or of plastic with a different index of refraction .
+a typical retinal ganglion cell presents a centre region with either excitation or inhibition and a surround region with the opposite sign .
+for example a multiple degree of freedom system can be created by imposing a base excitation on a cantilever beam .
+a neurotransmitter receptor is a membrane receptor that can be activated by a neurotransmitter . interactions between neurotransmitters and neurotransmitter receptors can evoke a wide range of differing responses from the cell receiving the signal , including excitation , inhibition , and various types of modulation .
+if the epsp is dominant , the threshold of excitation in the postynaptic neuron may be reached , resulting in the generation and propagation of an action potential in the postynaptic neuron .
+this term is used for the membrane potential of non - excitable cells , but also for the membrane potential of excitable cells in the absence of excitation .
+among these effects are : phonon excitation ( heat ) , cathodoluminescence ( visible light fluorescence ) , continuum x - ray radiation ( bremsstrahlung ) , characteristic x - ray radiation , secondary electrons ( plasmon production ) , backscattered electron production , and auger electron production .
+it is sometimes called " radiationless de - excitation " , because no photons are emitted .
+jerk may be considered when the excitation of vibrations is a concern .
+as mentioned before , the fluorescence is most often measured at a 90° angle relative to the excitation light .
+ex ( nm ) : excitation wavelength in nanometers
+he and his group achieved stimulated emission in the ultra - violet(uv)region with optical excitation from gan at room - temperature in 1990 < ref name = doi10.1143/jjap.29.l205>hiroshi amano , tsunemori asahi and isamu akasaki , " stimulated emission near ultraviolet at room temperature from a gan film grown on sapphire by movpe using an aln buffer layer " , jpn .
+stimulated emission depletion microscopy , or sted microscopy , is a technique that uses the non - linear de - excitation of fluorescent dyes to overcome the resolution limit imposed by diffraction with standard confocal laser scanning microscopes and conventional far - field optical microscopes .
+in 1978 first theoretical ideas have been developed to break this barrier by using a 4pi microscope as a confocal laser scanning fluorescence microscope where the light is focused ideally from all sides to a common focus which is used to scan the object by ' point - by - point ' excitation combined with ' point - by - point ' detection .
+however , at low enough energies above the fermi surface , this lifetime becomes very long , such that the product of excitation energy ( expressed in frequency ) and lifetime is much larger than one .
+when it associates with rna , the excitation maximum shifts to 460 nm ( blue ) and the emission maximum shifts to 650 nm ( red ) .
+while earlier version of fiber - based laser traps exclusively used single mode beams , m. kreysing and colleagues recently showed that the careful excitation of further optical modes in a short piece of optical fiber allows the realization of non - trivial trapping geometries .
+under changing light conditions , the reversible phosphorylation of light harvesting chlorophyll a / b binding proteins ( lhcii ) represents a system for balancing the excitation energy between the two photosystems .
+they measured the 1n excitation function and determined that the change of a ti-50 projectile to a ti-48 one significantly reduced the yield , in agreement with predictions .
+raman microscope begins with a standard optical microscope , and adds an excitation laser , a monochromator , and a optical sensitive detector such as a charge - coupled device ( ccd ) , or photomultiplier tube , ( pmt ) ) , and has been implemented for raman spectroscopy in direct chemical imaging , the whole field of view on 3d sample .
+then pl is measured , scanning both the excitation and emission energies and thereby producing a pl map .
+neither gain nor refractive index depend on a particular way of excitation .
+upon optical pumping , the atom is said to be " oriented " in a particular formula_1 sublevel , however due to the cyclic nature of optical pumping the bound electron will actually be undergoing repeated excitation and decay between upper and lower state sublevels .
+the light is generated and sustained by incorporating laser excitation in the path of the light .
+all consequent improvements known as improved multi - band excitation ( imbe ) , ambe , ambe+ and ambe+2 are based on this mbe method .
+no widely used engine configuration is perfectly balanced for secondary excitation .
+with over - excitation , the in - rush voltage is momentary .
+they were able to identify 259sg and 258sg in their measurement of the 1n excitation function .
+his name is related to " ōðr " , meaning " fury , excitation , " besides " mind , " or " poetry . "
+when optimally designed for a given active current ( i.e. , torque current ) , voltage , pole - pair number , excitation frequency ( i.e. , synchronous speed ) , and core flux density , all categories of electric motors or generators will exhibit virtually the same maximum continuous shaft torque ( i.e. , operating torque ) within a given physical size of electromagnetic core .
+a small proportion of light scattering from atoms or molecules may undergo raman scattering , wherein the frequency changes due to excitation of the atoms and molecules .
+the excited state in this situation is therefore a good candidate to be metastable if there are no other states of intermediate spin with excitation energies less than that of the metastable state .
+excitation is limited to formula_61
+the study of multi - photon excitation of nuclear targets .
+however , a small fraction of the scattered light ( approximately 1 in 10 million photons ) is scattered by an excitation , with the scattered photons having a frequency different from , and usually lower than , the frequency of the incident photons .
+it also has a smaller local excitation maximum around 343 nm .
+particles which are too large allow the excitation of multipoles , which are nonradiative .
+seeking to describe " regenerative self - excitation " by a nonlinear positive - feedback membrane voltage and recovery by a linear negative - feedback gate voltage , they developed the model described by
+they also manufacture solid - state and multifunction digital protective relays , generator controls , and static excitation systems .
+the turbogenerator contains also a smaller generator producing direct current excitation power for the rotor coil .
+glutamate receptors are responsible for the glutamate - mediated post - synaptic excitation of neural cells , and are important for neural communication , memory formation , learning , and regulation .
+siemens power generation division ( kwu ) supplied the generator stators and bearing , and the excitation equipment .
+a quencher is a substance that absorbs excitation energy from a fluorophore ; a typical ( fluorescent ) quencher re - emits much of this energy as light ; a dark quencher dissipates the energy as heat .
+in the past a hammer survey , using a fixed accelerometer and a roving hammer as excitation , gave a miso analysis , which is mathematically identical to simo , due to the principle of reciprocity .
+pre - excitation syndrome is a condition where the ventricles of the heart become depolarized too early , which leads to their partial premature contraction .
+the load regulator is essentially a large potentiometer that controls the main generator power output by varying its field excitation and hence the degree of loading applied to the engine .
+for example the dye could be fluorescent only after binding to calcium , or its excitation and emission spectra could be modified by the binding .
+inelastic scattering is useful for probing such electron excitation , but not in determining the distribution of atoms within the crystal .
+over - excitation is used to achieve a faster response time .
+selecting 390 nm led lighting may seem to make economic sense , but if the material ’s excitation wavelength is at 365 nm , this can be a poor choice .
+it may be easiest to imagine that the energy loss is for example due to an excitation of an electron from an atomic k - shell to the m - shell .
+as eccles , ito , and szentágothai wrote , " this elimination in the design of all possibility of reverberatory chains of neuronal excitation is undoubtedly a great advantage in the performance of the cerebellum as a computer , because what the rest of the nervous system requires from the cerebellum is presumably not some output expressing the operation of complex reverberatory circuits in the cerebellum , but rather a quick and clear response to the input of any particular set of information . "
+parametric excitation differs from forcing since the action appears as a time varying modification on a system parameter .
+at some conditions , a moving vortex with the shape excitation can have less energy than the same vortex without it .
+in resonant excitation , the core electron is promoted to a bound state in the conduction band .
+the impulse excitation technique is a nondestructive test method that uses natural frequency , dimensions and mass of a test - piece to determine young 's modulus , shear modulus , poisson 's ratio and damping coefficient .
+thus , this experiment must be repeated many times to gather the full range of delays between excitation and emission of a photon .
+in two series of experiments , the team has measured partial excitation functions of the 3n,4n and 5n evaporation channels .
+where ' iperpendicular ' signifies the peak intensity with excitation and raman analysis polarisers orientated perpendicular to one another . "
+neuronal circuits that are epileptic are known for being hyperexcitable and for lacking the normal balance of glutamatergic neurons ( those that usually increase excitation ) and gabaergic ones ( those that decrease it ) .
+data in bold represents maxima derived from excitation function measurements .
+t - tubules play critical role in excitation - contraction coupling ( ecc ) .
+once the over excitation is no longer required the power supply to the clutch or brake would return to its normal operating voltage .
+note that sdws are distinct from spin waves , which are an excitation mode of ferromagnets and antiferromagnets .
+" a high luminosity in soft x - rays poses an additional problem of understanding why the spectrum is of only modest excitation .
+a few curies ( 1 curie equals 37 gigabecquerels , 1 ci = 37 gbq ) of 210po emit a blue glow which is caused by excitation of surrounding air .
+formula_5 is the excitation of the target " p "- th receptor from sensory transduction
+the magnitude of armature current varies with excitation .
+advanced multi - band excitation ( ambe ) is a proprietary speech coding standard developed by digital voice systems , inc.
+intensity variations can occur on timescales from days to years indicating limits on maser size and excitation scheme .
+the proper selection of filters requires familiarity with the emission spectrum and the excitation spectrum .
+the electrons from the oxidized water molecules replace electrons in the p680 component of photosystem ii , which have been removed into an electron transport chain via light - dependent excitation and resonance energy transfer onto plastoquinone .
+long - term predicted excitation coding .
+in particle physics , a ghost condensate is a speculative proposal in which a ghost , an excitation of a field with a wrong sign of the kinetic term , acquires a vacuum expectation value .
+second , it more uniformly distributes the optical power among the all the fiber 's modes , effectively averaging the differential mode delays and reducing excitation variability caused by minor misalignment between source and fiber .
+the excitation of nuclei can be done with either pion or real photon scattering on the nucleon .
+the concept of two - photon excitation is based on the idea that two photons of low energy can excite a fluorophore in a quantum event , resulting in the emission of a fluorescence photon , typically at a higher energy than either of the two excitatory photons .
+: in late 1950s and 1960s osipyan worked on the extended effects of interaction of electrons with solid matter and discovered the effect of optical excitation of plastic properties in semiconductors .
+raman spectroscopy measures the excitation of bond vibrations in an indirect manner .
+upon reorientation of the head relative to gravity , the cupula is weighted down by the dense particles thereby inducing an immediate and maintained excitation of semicircular canal afferent nerves .
+absorption of a photon by a molecule can lead to electronic excitation when the energy of the captured photon matches that of an electronic transition .
+it has a large activation energy of.35 -.85 ev. the vibrational excitation of the hydrogen molecule promotes dissociation on low index surfaces of copper .
+excitation by electron impact .
+therefore , if either electron transfer chain is activated , molecule c ’s excitation produces a valid/ output emission .
+perception is sensation caused by a present affection of the external extremities of the nerves ; memory is sensation caused , in the absence of present excitation , by dispositions of the nerves which are the result of past experiences ; judgment is the perception of relations between sensations , and is itself a species of sensation , because if we are aware of the sensations we must be aware also of the relations between them ; will he identifies with the feeling of desire , and therefore includes it as a variety of sensation .

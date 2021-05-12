@@ -1,0 +1,255 @@
+note that fixing the first argument of hom naturally gives rise to a covariant functor and fixing the second argument naturally gives a contravariant functor .
+these automorphisms are called general covariant transformations .
+it is also proposed that the decoupling of initial e(nd ) and e(hf ) from its typical covariant behaviour was related to the formation of continental crust , perhaps by widespread formation of ttg magmas .
+thus , depending on the method by which they are built , for a general curvilinear coordinate system there are two sets of basis vectors for every point : is the covariant basis , and is the contravariant basis .
+" v'n"ft the ( covariant ) components of the covector field " a"[f ' " ] = [ " a"1[f ' " ] " a"2[f ' " ] … " a'n"f where
+note that " geometric accelerations " ( due to the connection term in the coordinate system 's covariant derivative below ) act on " every ounce of our being " , while proper - accelerations are usually caused by an external force .
+, the criterion has nevertheless been generalized into a covariant form .
+hence , the total number of elements a tensor possesses equals 4"r " , where r is the sum of the numbers of covariant and contravariant indices on the tensor ( a number called the rank of the tensor ) .
+if there are " m " copies of " v " and " n " copies of " v " * in our product , the tensor is said to be of type ( " m " , " n " ) and contravariant of order " m " and covariant order " n " and total order " m " + " n " .
+let formula_54 and formula_55 be symmetric covariant 2-tensors .
+because of this , the coulomb gauge is not used in covariant perturbation theory , which has become standard for the treatment of relativistic quantum field theories such as quantum electrodynamics .
+this is a covariant right exact functor ; it is exact if and only if " t " is flat .
+covariant transformation .
+the covariant derivative of a covector field along a vector field v is again a covector field .
+this is the link between the gauge - invariant perturbation theory and the gauge - invariant covariant perturbation theory .
+a theorem by steven weinberg and edward witten shows that this is not possible in lorentz covariant theories : massless particles with spin greater than one are forbidden .
+with this understanding , a left " r "- module is nothing but a ( covariant ) additive functor from " r " to the category ab of abelian groups .
+alternatively , a solution to the field equations is local if the underlying equations are either lorentz invariant or , more generally , generally covariant or locally lorentz invariant .
+this means that they have both covariant and contravariant components , or both vector and dual vector components .
+in recent years , there has been renewed interest in covariant classical field theory .
+it is common to define simplicial sets as a covariant functor from the opposite category , as
+this is called the manifestly covariant form of equations .
+here formula_2 are the components of the pseudotensor in the new and old bases , respectively , formula_3 is the transition matrix for the contravariant indices , formula_4 is the transition matrix for the covariant indices , and formula_5 .
+this condition is expressed in covariant form .
+the covariant derivative of a product is
+in covariant notation .
+here formula_104is the vierbein and formula_105 is the covariant derivative for fermion fields , defined as follows
+on the other hand , the non - covariant derivative formula_15 would not preserve the lagrangian 's gauge symmetry , since
+early attempts to merge quantum mechanics with special relativity involved the replacement of the schrödinger equation with a covariant equation such as the klein - gordon equation or the dirac equation .
+and the covariant derivative of " g " , the determinant of the metric tensor , is always zero
+covariant basis .
+note that , like the product , this functor is " covariant " .
+and if the tensor field is of type ( 0,2 ) then its covariant derivative is
+induced by an ehresmann connection is a covariant derivative on γ("e " ) in the sense that
+formula_45 is the covariant derivative and formula_46 is the christoffel symbol which is the gravitational force field .
+in a general setting , classical fields are described by sections of fiber bundles and their dynamics is formulated in the terms of jet manifolds ( covariant classical field theory ) .
+tangent and cotangent bundles : the map which sends every differentiable manifold to its tangent bundle and every smooth map to its derivative is a covariant functor from the category of differentiable manifolds to the category of vector bundles .
+unfortunately an incoherent attack has been identified which performs better than a simple phase - covariant cloning machine , and sarg04 has been found to be particularly vulnerable in single - photon implementations when q > = 14.9% .
+the vector is called " covariant " or " contravariant " depending on how the transformation of the vector 's components is related to the transformation of coordinates .
+for a more comprehensive presentation of these topics , see covariant formulation of classical electromagnetism .
+vectors ( sometimes referred to as contravariant vectors ) are defined as elements of the tangent space and covectors ( sometimes termed covariant vectors , but more commonly dual vectors or one - forms ) are elements of the cotangent space .
+vector bundles and covariant derivatives .
+the covariant derivative ( formula_17 ) is represented by a circle around the tensor(s ) to be differentiated and a line joined from the circle pointing downwards to represent the lower index of the derivative .
+where formula_12 and formula_13 ( formula_14 is the covariant derivative defined with respect to the spatial metric formula_7 ) .
+in quantum chromodynamics , the gauge covariant derivative is
+now there arise two kinds of covariant differentiation : formula_13 differentiation based on formula_2 ( is denoted by semicolon ( ;) ) , 3- differentiation based on formula_1 ( denoted by a d ) , ordinary partial derivatives are denoted by comma ( , ) .
+if formula_1 is a tensorial " k "- form on " p " , then its exterior covariant derivative is defined by
+lower and upper indices indicate always covariant and contravariant coordinates , respectively .
+in this language , an affine connection is simply a covariant derivative or ( linear ) connection on the tangent bundle .
+where formula_19 is the stress - energy tensor for all matter and non - gravitational fields , and where formula_20 is the covariant derivative with respect to the metric .
+this could be conveniently done under the formalism of relativistic ( or covariant ) classical field theory .
+the transformation that describes the new basis " vectors " in terms of the old basis , is defined as a covariant transformation .
+this defines a covariant functor from the category of topological spaces to the category of δ-sets .
+it turns out that such inconsistencies arise from relativistic wavefunctions having a probabilistic interpretation in position space , as probability conservation is not a relativistically covariant concept .
+covariant derivative .
+covariant classical field theory .
+the covariant derivative of a type ( 2,0 ) tensor field formula_35 is
+the explanation in geometric terms is that a general tensor will have contravariant indices as well as covariant indices , because it has parts that live in the tangent bundle as well as the cotangent bundle .
+newtonian - like equations emerge from perturbative general relativity with the choice of the newtonian gauge ; the newtonian gauge provides the direct link between the variables typically used in the gauge - invariant perturbation theory and those arising from the more general gauge - invariant covariant perturbation theory .
+here the semicolon indicates covariant differentiation .
+these tensors are usually the riemann tensor , the weyl tensor , the ricci tensor and tensors formed from these by the operations of taking duals , contractions and covariant differentiations .
+here , " a " is the vector potential and " d " represents the gauge - covariant derivative , and " f " the field strength or curvature form on the fiber bundle .
+a sic - povm formula_28 is said to be " group covariant " if there exists a group formula_29 with a formula_8-dimensional unitary representation such that
+all derivatives are partial derivatives — if one replaced them with covariant derivatives , the extra terms thereby introduced would cancel out .
+in other words , the hom functors give rise to a full and faithful embedding of the category " c " into the functor category set"c " ( covariant or contravariant depending on which hom functor is used ) .
+in the abelian case , the determinant for covariant gauges does not depend on a , so the ghosts do not contribute to the connected diagrams .
+furthermore , many of the features of the covariant derivative still remain : parallel transport , curvature , and holonomy .
+similar remarks apply to the colimit functor ( which is covariant ) .
+then the principal " g "- connection " α " on " q " induces a covariant derivative on v , which is a first order linear differential operator
+let vect be the category of finite - dimensional real vector spaces whose morphisms consist of all linear mappings , and let " f " be a covariant functor that maps vect to itself .
+the blob points formula_11 and scales formula_12 are also defined from an operational differential geometric definitions that leads to blob descriptors that are covariant with translations , rotations and rescalings in the image domain .
+lorentz 's 1904 paper includes the covariant formulation of electrodynamics , in which electrodynamic phenomena in different reference frames are described by identical equations with well defined transformation properties .
+the relativistic maxwell 's equations can be written in covariant form as
+this illustrates the rule of thumb that ' partial derivatives go to covariant derivatives ' .
+this means that there is no need to distinguish covariant and contravariant components , and furthermore there is no need to distinguish tensors and tensor densities .
+alternatively , if we are using a torsion - free connection , then ∇ could also mean the covariant derivative .
+koszul 's definition was subsequently adopted by most of the differential geometry community , since it effectively converted the " analytic " correspondence between covariant differentiation and parallel translation to an " algebraic " one .
+the approach is local and both covariant as well as gauge invariant but can be non - linear because the approach is built around the local comoving observer frame ( see frame bundle ) which is used to thread the entire space - time .
+sometimes these ranks are referred to as " covariant " and " contravariant " ranks , signifying tangent and cotangent ranks , respectively .
+we 'll favor writing quantities with respect to the covariant basis .
+also define the purely covariant version by
+the most popular approach is probably the definition motivated by covariant derivatives .
+when the manifold is equipped with a metric , covariant and contravariant indices become very closely related to one - another .
+equivalently , θ = dθ , where " d " is the exterior covariant derivative determined by the connection .
+note that the transition between " upper " ( " contravariant " ) and " lower " ( " covariant " ) vector or tensor components is trivial for " a " indexes ( e.g. formula_11 ) , whereas for μ and ν it is nontrivial , corresponding e.g. to the usual lorentz signature , formula_12 .
+more precisely , in order to define the covariant derivative of formula_11 it is necessary first to extend formula_11 to a continuously differentiable vector field in an open set .
+the argument type of s1 → s2 is said to be contravariant because the subtyping relation is reversed for it , whereas the return type is covariant .
+where formula_17 denotes the orthogonal projection of covariant derivative formula_18 onto the normal bundle .
+christoffel symbols , covariant derivative .
+this creates problems in some situations , where argument types should be covariant to model real - life requirements .
+( basically , what we are doing is replacing the highest order covariant derivatives formula_15 by vector fields formula_14 . )
+the second is the codazzi - mainardi equation which expresses the covariant derivatives of the second fundamental form in terms of the normal connection .
+the commutativity of the above diagram implies that hom(–,– ) is a bifunctor from " c " × " c " to set which is contravariant in the first argument and covariant in the second .
+pullback of ( covariant ) tensor fields .
+qed involves a covariant and gauge invariant prescription for the calculation of observable quantities .
+he maintained that the non - covariant energy momentum pseudotensor was in fact the best description of the energy momentum distribution in a gravitational field .
+skrotskii realized that electromagnetic field equations in a curved spacetime can be written in a non - covariant form formally equivalent to maxwell 's equations in a macroscopic medium in flat spacetime .
+a sheaf , however , is more naturally a covariant object , since it has a pushforward , called the direct image of a sheaf .
+his doctoral work ( " covariant approach to massless field theory in the radiation gauge " ) on theoretical particle physics was supervised by sidney coleman .
+a killing vector field is uniquely determined by specifying the values of the vector field and its first covariant derivative ( equivalently , specifying formula_3 and formula_20 ) at any point ( for every connected component ) of formula_1 .
+in supersymmetry , projective superspace is one way of dealing with formula_1 supersymmetric theories , i.e. with 8 real susy generators , in a manifestly covariant manner .
+this is a functor which is contravariant in the first and covariant in the second argument , i.e. it is a functor abop × ab → ab ( where ab denotes the category of abelian groups with group homomorphisms ) .
+one nice thing is that if formula_51 , then formula_52 where d is the covariant derivative
+if a local frame is chosen ( a local basis of sections ) , then this covariant derivative is represented by the connection form " a " , a lie algebra - valued 1-form which is called the gauge potential in physics .
+where the fact that the normalized covariant and contravariant bases are equal has been used .
+in general relativity , the partial derivatives used in special relativity are replaced by covariant derivatives .
+note that the antisymmetrized covariant derivative ∇u"v " − ∇v"u " , and the lie derivative " l"u"v " differ by the torsion of the connection , so that if a connection is symmetric , then its antisymmetrization " is " the lie derivative .
+from this perspective , a one - form has a covariant transformation law on passing from one coordinate system to another .
+where " d " is the exterior covariant derivative .
+where formula_55 is the covariant derivative .
+in particular , it means that arguments to member functions can only be contravariant and return types can only be covariant , as explained in previous section .
+where " d " is the covariant derivative and " v " is the potential .
+in fluid dynamics , the gauge covariant derivative of a fluid may be defined as
+from the covariant ( tangent ) vectors , the index is placed on top .
+and for a rank 3 covariant tensor t ,
+given a function formula_8 , the covariant derivative formula_9 coincides with the normal differentiation of a real function in the direction of the vector v , usually denoted by formula_10 and by formula_11 .
+the covariant functor " db " : rep("g " ) → mod"f " defined by
+because of this , it is common to blur the distinction between the two concepts using the notion of covariant and contravariant vectors .
+however , general relativity is a fully covariant theory –
+so that under the alternative sign convention for the metric the covariant gamma matrices are defined by
+the bethe – salpeter equation describes the bound states of a two - body ( particles ) quantum mechanical system in a relativisticly covariant formalism .
+may be rewritten in terms of the covariant derivative as
+using ideas from lie algebra cohomology , koszul successfully converted many of the analytic features of covariant differentiation into algebraic ones .
+in their construction one specifies the transformation law of the christoffel symbols — which is not covariant — and then general covariance of the " derivative " follows as a result .
+the bound is closely associated with black hole thermodynamics , the holographic principle and the covariant entropy bound of quantum gravity , and can be derived from a conjectured strong form of the latter .
+and so , the covariant derivative of xa is gauge invariant .
+however , this can lead to surprises if subclasses with such covariant parameter types are operated upon presuming they were a more general class ( polymorphism ) , leading to the possibility of compiler errors .
+notice that the determinant under the square root sign is applied to the matrix of components of the covariant metric tensor formula_72 , and formula_113 is its inverse .
+" d " denotes the exterior covariant derivative
+the symbol formula_96 denotes partial derivative , while formula_97 denotes covariant derivative .
+this the same form of the wave equation as in flat spacetime , except that the derivatives are replaced by covariant derivatives and there is an additional term proportional to the curvature .
+rosen attended and gave a talk in which he computed the " einstein pseudotensor " and " landau - lifschitz pseudotensor " ( two alternative , non - covariant , descriptions of the energy carried by a " gravitational " field , a notion which is notoriously difficult to pin down in general relativity ) .
+i.e. the curvature tensor measures " noncommutativity of the covariant derivative " .
+thus a dyadic is a covariant tensor of order two .
+we recall from the article affine differential geometry that the affine shape operator " s " is a type ( 1,1)-tensor field on " m " , and is given by formula_16 , where " d " is the covariant derivative on real ( " n " + 1)-space ( for those well read : it is the usual flat and torsion free connexion ) .
+covariant derivative .
+mathematically , spacetime is represented by a 4-dimensional differentiable manifold " m " and the metric is given as a covariant , second - rank , symmetric tensor on " m " , conventionally denoted by " g " .
+if one transforms from a ( locally inertial ) coordinate system where the metric is the minkowski metric , diag ( −1 , + 1 , + 1 , + 1 ) , to an arbitrary coordinate system , the absolute value of the jacobian determinant will be equal to the square - root of the negative of the determinant of the ( covariant ) metric , i.e. , formula_5 where formula_6 is the determinant of the metric tensor , which is negative .
+alternatively , the covariant derivative is a way of introducing and working with a connection on a manifold by means of a differential operator , to be contrasted with the approach given by a principal connection on the frame bundle –
+for example in the differential form " a'i'dx'j " the " components " " a'i " are a covariant vector .
+furthermore , if " d'x " is linear in " x " , then the ehresmann connection is linear in the secondary vector bundle structure , and " d'x " coincides with its linear covariant derivative if and only if the torsion of the connection vanishes .
+the covariant derivative of the electromagnetic field is
+no " i"s or " g"s ! ) where the second term is a formal shorthand for pretending the lie bracket is a commutator , " d " is the covariant derivative
+the action of the einstein æther theory is generally taken to consist of the sum of the einstein - hilbert action with a lagrange multiplier λ that ensures that the time vector is a unit vector and also with all of the covariant terms involving the time vector " u " but having at most two derivatives .
+a refinement of weyl 's asymptotic formula obtained by pleijel and minakshisundaram produces a series of local spectral invariants involving covariant differentiations of the curvature tensor , which can be used to establish spectral rigidity for a special class of manifolds .
+harmonic superspace describes n=2 d=4 , n=1 d=5 , and n=(1,0 ) d=6 susy in a manifestly covariant manner .
+note that one can also define a contravariant functor as a " covariant " functor on the dual category formula_19 .
+affine connection is the basis for " parallel transport " of vectors from one space - time point to another ; eddington assumed the affine connection to be symmetric in its covariant indices , because it seemed plausible that the result of parallel - transporting one infinitesimal vector along another should produce the same result as transporting the second along the first .
+it is not gauge covariant , though , so pauli – villars regularization can not be used in qcd calculations .
+covariant and contravariant bases .
+where indices following a semicolon indicate covariant differentiation .
+the usual derivation is to insert a complete set of single - particle momentum states between the fields with lorentz covariant normalization , then show that the formula_65 functions providing the causal time ordering may be obtained by a contour integral along the energy axis if the integrand is as above ( hence the infinitesimal imaginary part , to move the pole off the real line ) .
+under simple expansions and contractions of the coordinates , the reciprocity is exact ; under affine transformations the components of a vector intermingle on going between covariant and contravariant expression .
+where formula_5 is the covariant derivative and " g " is the metric tensor .
+if there are " m " copies of " v " and " n " copies of " v " * in our product , the tensor is said to be of type ( " m " , " n " ) and covariant of order " m " and contravariant order " n " and total order " m+n " .
+there is a covariant and a contravariant functoriality of the group of algebraic cycles .
+then the covariant and contravariant basis vectors are
+because the levi - civita connection is metric - compatible , the covariant derivatives of metrics vanish ,
+throughout this section , " m " is assumed to be a differentiable manifold , and ∇ a covariant derivative on the tangent bundle of " m " unless otherwise noted .
+the commonly cited kugo - ojima paper : t. kugo , i. ojima , " local covariant operator formalism of non - abelian gauge theories and quark confinement problem " , suppl .
+from the mathematical viewpoint , classical fields are described by sections of fiber bundles ( covariant classical field theory ) .
+note that for ( static ) overload resolution , the opposite rule applies : types used for compile - time method selection ( i.e. parameter types ) are contravariant ; types not used to select the method are covariant .
+as mentioned above , the covariant exterior derivative " d"∇ need not square to zero when acting on " e "- valued forms .
+the claim that the transformation rules for e and b take this particular form is equivalent to the claim that the electromagnetic tensor ( defined below ) is a covariant tensor .
+to obtain the non - covariant form of the generalisation we first substitute formula_42 in to the above and then performing the differentiation as follows ( for brevity i have omitted the constants from the calculation below ) ;
+and formula_14 in the qed lagrangian is therefore gauge invariant , and the gauge covariant derivative is thus named aptly .
+it may be regarded as a contravariant tensor density of weight + 1 or as a covariant tensor density of weight -1 .
+it is designed to find the variables that are most covariant with all of the other variables being studied , relative to clustering .
+general covariant transformations are sufficient in order to
+an example of a covariant equation is the lorentz force equation of motion of a charged particle in an electromagnetic field ( a generalization of the second newton 's law )
+similarly one may define covariant derivatives on superspace
+the equivalence of the more traditional general relativistic formulation using the covariant derivative with the differential form formulation can be seen as follows .
+covariant form of the inhomogeneous wave equation .
+in mathematics , the nonmetricity tensor in differential geometry is the covariant derivative of the metric tensor .
+once again this shows that the covariant derivative of a vector field is not just simply obtained by differentiating to the coordinates formula_76 , but also depends on the vector v itself through formula_77 .
+for any scalar field , but in general the covariant derivatives of higher order tensor fields do not commute ( see curvature tensor ) .
+despite the dominant usage of " covariant " , it is more accurate to say that the klein - gordon and dirac equations are invariant , and that the schrödinger equation is not invariant .
+thus a one - form is an order 1 covariant tensor field .
+generally , the covariant metric tensor , contracted with a tensor of type ( " m","n " ) , yields a tensor of type formula_3 , whereas its contravariant inverse , contracted with a tensor of type formula_4 , yields a tensor of type formula_5 .
+in particular , on any associated vector bundle the principal connection induces a covariant derivative , an operator that can differentiate sections of that bundle along tangent directions in the base manifold .
+the inverse of the covariant transformation is called the contravariant transformation .
+cartan connections induce covariant derivatives and other differential operators on certain associated bundles , hence a notion of parallel transport .
+the ( covariant ) functor " k"0 goes from the category of rings to the category of groups , taking " a " to the grothendieck group of the set of isomorphism classes of its finitely generated projective modules , regarded as a monoid under direct sum .
+contravariant indices can be turned into covariant indices by contracting with the metric tensor .
+superscripts are used instead of subscripts to distinguish covariant from contravariant entities , see covariance and contravariance of vectors , particularly in the theory of general relativity and the classical treatment of tensors .
+let one express newtonian mechanics four - dimensionally in the form of generally covariant equations and one will surely be convinced that the principle of relativity excludes this theory from the practical , though not the theoretical , viewpoint . "
+suppose we are given a covariant left exact functor " f " : a → b between two abelian categories a and b. if
+more generally , if the acceleration of our observers is nonzero , formula_23 , we can replace the covariant derivatives
+where formula_20 denotes covariant differentiation with respect to the metric formula_8 , while formula_22 , formula_23 , and formula_24 are the self - interaction potentials associated with the scalar fields .
+in other words , a contravariant functor is a covariant functor from the opposite category " c"op to " d " .
+doing these constructions pointwise gives covariant and contravariant functors from the category of pointed differentiable manifolds to the category of real vector spaces .
+consider , for example , a rank-2 covariant tensor
+in contrast , a gradient of 1 k / m becomes 0.001 k / mm – a covariant change in value .
+in another widely used convention , formula_8 is rescaled so that the coefficient of the kinetic term is 1/4 and formula_6 appears in the covariant derivative .
+the lichnerowicz laplacian is defined on symmetric tensors by taking formula_13 to be the symmetrized covariant derivative .
+invariance of the form of an equation under an arbitrary coordinate transformation is customarily referred to as general covariance and equations with this property are referred to as written in the covariant form .
+the tensor whose components in an orthonormal basis are given by the levi - civita symbol ( a tensor of covariant rank n ) is sometimes called the permutation tensor .
+thus the covariant derivative of a supermultiplet is another supermultiplet .
+the covariant derivative formula_10 is defined on an invariant section ξ by the formula
+a covariant vector is defined as
+for that , the wightman axioms have position dependent operators called " quantum fields " which form covariant representations of the poincaré group .
+covariant and contravariant components of a vector .
+if " e " is equipped with a connection ∇ then there is a unique covariant exterior derivative
+in special relativity , in order to more clearly express the fact that maxwell 's equations in " vacuum " take the same form in any inertial coordinate system , maxwell 's equations are written in terms of four - vectors and tensors in the " manifestly covariant " form .
+the starting point of a quantum field theory is much like that of its continuum analog : a gauge - covariant action integral which characterizes " allowable " physical situations according to the principle of least action .
+indeed , since the covariant derivatives of all four basis vectors ( taken with respect to formula_1 ) vanish identically , our new frame is a " nonspinning inertial frame " .
+spacetime curvature is also expressed with respect to a covariant derivative , formula_43 , in the form of the einstein tensor — formula_44 .
+by considering a coordinate transformation on a manifold as a map from the manifold to itself , the transformation of covariant indices of a tensor are given by a pullback , and the transformation properties of the contravariant indices is given by a pushforward .
+together with the preceding remark , it gives a criterion for a ( covariant ) functor " f " : " c " → " d " between triangulated categories satisfying certain technical conditions to have a right adjoint functor .
+in the second line we used the previously obtained result for the variation of the ricci curvature and the metric compatibility of the covariant derivative , formula_23 .
+the valence or type of a tensor is number of variant and covariant terms .
+is one way of dealing with supersymmetric theories with 8 real susy generators in a manifestly covariant manner .
+preservation of limits and colimits is a concept that only applies to " covariant " functors .
+these differ from the special relativity form in that the christoffel symbols make their presence in the equations via the covariant derivative .
+by a widely followed convention , covariant indices are written as lower indices , whereas contravariant indices are upper indices .
+on 5 june 1905 poincaré also showed that lorentz equations of electrodynamics were not fully lorentz covariant .
+recall that the second covariant derivative of " t " is defined as
+c++ supports covariant return types in overridden virtual functions .
+where semicolon " ; " indicates covariant differentiation and comma " , " indicates partial differentiation .
+where " d " denotes the covariant derivative with respect to the levi - civita connection , " r " the riemann curvature tensor , and formula_8 and " t " is the parameter of the geodesic .
+what happens to the covariant derivative under a gauge transformation .
+the covariant derivative of the basis vectors ( the christoffel symbols ) serve to express this change .
+maxwell 's equations have a close relation to special relativity : not only were maxwell 's equations a crucial part of the historical development of special relativity , but also , special relativity has motivated a compact mathematical formulation of maxwell 's equations , in terms of covariant tensors .
+the indices of covariant coordinates , vectors , and tensors are subscripts .
+need for covariant argument types ?
+this " universal lift " then immediately induces lifts to vector bundles associated with " e " and hence allows the covariant derivative , and its generalisation to forms , to be recovered .
+the covariant derivative can in turn be recovered from parallel transport .
+covariant derivatives of tensors .
+a contraction between two tensors is represented by the repetition of an index label , where one label is contravariant ( an " upper index " corresponding to a tensor in " v " ) and one label is covariant ( a " lower index " corresponding to a tensor in " v " * ) .
+however , besides being explicitly covariant , stueckelberg 's methods avoid vacuum bubbles .
+the covariant functor which assigns " m'g " to " m " is isomorphic to the functor which sends " m " to formula_23 , where formula_24 is endowed with the trivial " g "- action .
+we can define the covariant derivatives formula_11 with the property that they supercommute with the susy transformations , and formula_12 where " f " is any function of the harmonic variables .
+the tensor product formula_19 is a new tensor , which , if it has at least one covariant and one contravariant index , can be contracted .
+the generalized homology groups formula_163 are covariant in formula_162 , and the generalized cohomology groups formula_165 are contravariant in formula_162 .
+this new " derivative " is called a covariant derivative and takes the form
+the worksheet provides some of the geometric structure to the covariant formalism of first - order classical field theories .
+the statement that all derivatives are covariant exterior derivatives boils down to the fact that the affine connection is a law of parallel translation for points in the affine fiber space x , and not a law of parallel translation for tangent vectors to the base manifold m.
+in this case , we have to use a more general continuity equation which incorporates the covariant derivative
+the first term in this formula is responsible for " twisting " the coordinate system with respect to the covariant derivative and the second for changes of components of the vector field " u " .
+it is also proposed that the decoupling of initial e(nd ) and e(hf ) from its typical covariant behaviour was related to the formation of continental crust , perhaps by widespread formation of ttg magmas . "
+equivalently , " β " is a totally antisymmetric covariant tensor field of rank " k " .
+on the conceptual side , from the point of view of physics , this shows that the second and third maxwell equations should be grouped together , be called the homogeneous ones , and be seen as geometric " identities " expressing nothing else than : the " field " f derives from a more " fundamental " " potential " a. while the first and last one should be seen as the dynamical " equations of motion " , obtained via the lagrangian principle of least action , from the " interaction term " a j ( introduced through gauge covariant derivatives ) , coupling the field to matter .
+the covariant derivative of an even tensor density is defined as
+in the first case ( axis - collinear ) , basis vectors transform like covariant vectors while in the second case ( normal to coordinate surfaces ) , basis vectors transform like contravariant vectors .
+then the covariant derivative of " f " with respect to the connection is a smooth linear map δ"f " from the tangent bundle " tm " to " v " which preserves the base point .
+the covariant derivative on " e " is then given by
+which indeed is the same as the covariant transformation for the derivative of a function .
+however , castagna showed that all depends on the correct method fetching algorithm : types used for runtime selection of the right method are covariant ; types not used for runtime selection of the method are contravariant .
+( see classical electromagnetism and its covariant formulation of classical electromagnetism )
+covariant return type .
+the electromagnetic wave equation is modified from the equation in flat spacetime in two ways , the derivative is replaced with the covariant derivative and a new term that depends on the curvature appears .
+some basic properties of blobs defined from scale - space maxima of the normalized laplacian operator are that the responses are covariant with translations , rotations and rescalings in the image domain .
+the acceleration vector of each observer is given by the covariant derivative
+incidentally , this particular expression is equal to zero , because the covariant derivative of a function solely of the metric is always zero .
+it has been recently argued that although this discontinuity survives in many particular realizations of the situation , it may disappear if the theory becomes fully covariant .

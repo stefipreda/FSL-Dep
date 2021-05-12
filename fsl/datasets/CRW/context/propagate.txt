@@ -1,0 +1,255 @@
+newer bots can automatically scan their environment and propagate themselves using vulnerabilities and weak passwords .
+particles interact in every way available ; in fact , intermediate virtual particles are allowed to propagate faster than light .
+annual and biennial poppies are considered a good choice to cultivate from seed as they are not difficult to propagate by this method , and can be put directly in the ground in january .
+on each clock cycle of the system , before the clock is applied to the flip flops , there must have been enough time since the last clock for all flip flop outputs to be at a stable 0 or 1 level , and for all the signals derived from these levels to propagate through the gating to form stable electrical levels at the data input of all flip flops in the system .
+this is accomplished by using a carefully designed balance of update frequency , and update extent in order to propagate link state information optimally .
+supported clients propagate the fact that they have mse / pe enabled through pex and dht .
+jewish characters , such as fagin and shylock , in popular works of literature , served to propagate many jewish stereotypes .
+in a dispersive medium , the phase velocity varies with frequency and is not necessarily the same as the group velocity of the wave , which is the rate that changes in amplitude ( known as the " envelope " of the wave ) will propagate .
+the mount diablo manzanita has no basal burl for regrowth and must propagate by seed .
+the retina , before birth , contains special mechanisms that cause it to generate waves of activity that originate spontaneously at some point and then propagate slowly across the retinal layer .
+however , if changes in the value of a take longer to propagate to the second input than the first when a changes from false to true , a brief period will ensue during which both inputs are true , and so the gate 's output will also be true .
+the formalism of diffraction can also describe the way in which waves of finite extent propagate in free space .
+some promotional kombucha sources propagate the legend that the history of this tea - based beverage originated in ancient china or japan , though in both cases centuries prior to knowledge of leaf - based teas ( see history of tea in china and history of tea in japan ) .
+thus the door of tzu chi was opened for them to propagate the ideals and values of humanitarian work .
+chou has sought in his music not simply to propagate varèsian concepts , but to move beyond his teacher 's shadow .
+because of the nanoscale dimensions , electrons propagate only along the tube 's axis and electron transport involves many quantum effects .
+though the applied voltage and current will propagate at nearly the speed of light , the movement of the conductors themselves is almost negligible .
+although it was probably intended to prove that linux can be infected , it does not propagate very effectively because of the structure of linux 's user privilege system .
+these equations show that electromagnetic waves propagate in a vacuum at the speed of light .
+ii ) atmospheric tides propagate in an atmosphere where density varies significantly with height .
+similarly to classical mechanics , we can only propagate for small slices of time ; otherwise the green 's function is inaccurate .
+this along with all of the other factors are important for activating nodal genes that propagate normal dorsoventral development .
+the freedom to practice and propagate religion is guaranteed under the article 11 of the constitution of malaysia and this is generally respected .
+. proposed a method that can generate longitudinal electromagnetic ( light ) wave in free space , and this wave can propagate without divergence for a few wavelengths .
+the application is to determine which electromagnetic wave modes can stand or propagate within conducting enclosures such as waveguides or resonators .
+it is also possible to propagate " mimosa tenuiflora " via cuttings .
+surface plasmons , also known as surface plasmon polaritons , are surface electromagnetic waves that propagate in a direction parallel to the metal / dielectric ( or metal / vacuum ) interface .
+when applied to the mode i opening of a crack , griffiths ' theory predicts that the critical stress ( formula_1 ) needed to propagate the crack is given by
+it occurs due to the short distance in which the diffracted waves propagate , which results in a fresnel number greater than 1 ( formula_1 ) .
+another significant campaign at that time was the " people 's memorandum " in 2001 , which was an attempt to propagate the basic socialist demands among public .
+religious leaders like maulana maudoodi did not prefer a single nation over two or vice versa , but sought to propagate the religion and create an islamic republic in india .
+or internal tides may propagate away from the topography into the open ocean .
+part of its mission is to propagate and promote the brass band through recordings and commissioning new works and arrangements .
+all religion got equal opportunities to propagate according to their belief .
+theoretical studies have shown that mode iii cracks are limited to the shear wave velocity but that mode ii cracks can propagate between the s and p - wave velocities and this may explain why supershear earthquakes have not been observed on dip - slip faults .
+he pointed out that likelihood of death at various times of life , as judged by life tables , was an indirect measure of fitness , that is , the capacity of an organism to propagate its genes .
+they must not be seen as random collections of old tales , but as highly selective and crafted expositions and presentations of worldviews and soteriologies , compiled by particular groups of brahmins to propagate a particular vision , whether it be focused on , or , or , indeed , any number of deities .
+in such electromagnetic analyses , the parameters permittivity " ε " , permeability " μ " , and conductivity " σ " represent the properties of the media through which the waves propagate .
+action potentials can not propagate through the membrane in myelinated segments of the axon .
+corn will not flame / explode / propagate unless properly stirred .
+vasai boomed as a seat of knowledge where students and scholars from as far as europe came to learn and also propagate their philosophy .
+a user can programmatically map an elastic ip address to any virtual machine instance without a network administrator 's help and without having to wait for dns to propagate the new binding .
+c1 world dialogue is an initiative , whose mission is to “ support and promote , propagate and preserve , peace harmony and friendship between the western and islamic worlds ” .
+the hydroperoxide can then split into two new free radicals , ( ro * ) + ( * oh ) , which will continue to propagate the reaction to other polymer molecules . the process can therefore accelerate depending on how easy it is to remove the hydrogen from the polymer chain .
+they propagate by spreading and forming new plantlets , called keikis , from the base of mature leaves .
+in 2008 , an initiative was undertaken to propagate the technology as an industry standard .
+also , the initial conditions may contain errors ( which in a worse case propagate ) , and the output is only available for discrete points in space ( horizontal as well as vertical ) and time .
+the purpose of utilizing the military format is not to propagate war .
+this work made possible the production of vaccines against chicken pox , smallpox , yellow fever , typhus , rocky mountain spotted fever and other diseases caused by agents that only propagate in living cells .
+as a result , undiscovered faults may result in failures at runtime , and even allowing the system to propagate corrupted output because the failure was not detected .
+the ramayana centre was founded in 2001 by an act passed in the national assembly of the republic of mauritius to promote and propagate the ramayana and the spiritual , social and cultural values flowing therefrom .
+for example , many worm , a trojan horse and a computer virus exploit multiple techniques to attack and propagate .
+davie and bateman describe it as : " pyroshock is the response of a structure to high frequency ( thousands of hertz ) , high - magnitude stress waves that propagate throughout the structure as a result of an explosive event such as an explosive charge to separate two stages of a multistage rocket . " it is of particular relevance to the defense and aerospace industries in that they utilize many vehicles and/or components that use explosive devices to accomplish mission tasks .
+the main aim of the " champu " writing was to propagate jain tenets and ethics .
+for a long time sir muhammad iqbal wanted a journal to propagate his ideas and the aims and objective of muslim league .
+in his thesis , he proposed an equation of state based on the atomic vibrations ( phonons ) that propagate through it .
+earthquake swarm data have been used to analyze how well lōihi 's rocks propagate seismic waves and to investigate the relationship between earthquakes and eruptions .
+22(b ) states that " everyone shall have the right to advocate what is right , and propagate what is good , and warn against what is wrong and evil according to the norms of islamic shari’ah . "
+one of the most popular songs of the 19th century , ' le roi d'yvetot ' , written by the famous béranger , helped propagate the legend of an independent state within the duchy of normandy and the kingdom of france .
+the college was started by " sree narayana mission " coimbatore , which is the leading organization tamil nadu state to propagate messages
+such groups often use guerilla and viral marketing techniques to propagate ideas , rather than products .
+capacitors are sometimes used as shunts to redirect high - frequency noise to ground before it can propagate to the load or other circuit components .
+the brain consists of a " bundle of semi - independent agencies " ; when " content - fixation " takes place in one of these , its effects may propagate so that it leads to the utterance of one of the sentences that make up the story in which the central character is one 's " self " .
+in simpler terms , there is a maximum angle from the fiber axis at which light may enter the fiber so that it will propagate , or travel , in the core of the fiber .
+however he continued to propagate his views .
+to ensure a regular supply of plants all year round , the complex has its own nursery to propagate seeding .
+the smaller the grain size , the smaller the repulsion stress felt by a grain boundary dislocation and the higher the applied stress needed to propagate dislocations through the material .
+the charge , according to " time " magazine , was " conspiring to propagate communism on the pacific coast , causing mr. cox to lose his job . "
+an extension of this idea is a single - polarization fiber in which only a single polarization state is allowed to propagate along the fiber ( the other polarization is not guided and escapes ) .
+in a ring network , such as token ring , ring latency is the time required for a signal to propagate once around the ring .
+a myth some casinos propagate is that card counting is illegal in the united states .
+octopus employs pseudopotentials and real - space numerical grids to propagate the kohn – sham orbitals in real time under the influence of time - varying electromagnetic fields .
+lateral undulation closely resembles the simple undulatory motion observed in many other animals such as in lizards , eels and fish , in which waves of lateral bending propagate down the snakes body .
+in fact the errors in the observations propagate and are ' magnified ' when combined .
+seismic vibrators , commonly known by their trademark name vibroseis , propagate energy signals into the earth over an extended period of time as opposed to the near instantaneous energy provided by impulsive sources .
+special efforts are invested in teaching the language to the willing younger generations , in an effort to propagate the survival of the assyrian identity in canada .
+he sees the brazilian government as an example of an oppressive state using theatre to propagate its oppressive system .
+the " hepatitis d virus " ( hdv ) or hepatitis delta agent is similar to a viroid as it can only propagate in the presence of the hepatitis b virus .
+ion beams can not be perfectly directed nor the collision cascade controlled once im effects propagate , which can result in leaking , electron diffraction , radiation enhanced diffusion ( red ) , chemical migration and mismatch .
+while the specific tacticity can be controlled by altering the type of catalyst used , creating a block copolymer requires that the polymerization be terminated , the catalyst destroyed , and that the chain re - propagate using another catalyst that produces the desired stereochemistry .
+in 1869 late bhagavati charan das started ' utkal subhakari ' to propagate brahmo faith .
+at first waves propagate through the atmosphere without affecting its mean velocity .
+it was , however , reserved to saint jean eudes ( d. 1681 ) to propagate the devotion , to make it public , and to have a feast celebrated in honor of the heart of mary , first at autun in 1648 and afterwards in a number of french dioceses .
+these photons would propagate at less than the speed of light defined by special relativity and have three directions of polarization .
+radio waves at different frequencies propagate in different ways .
+laser beams spread out as they propagate , but slowly .
+mission development was therefore financed out of " el fondo piadoso de las californias " ( " the pious fund of the californias , " which had its origin in 1697 and consisted of voluntary donations made by individuals and religious bodies in mexico to members of the society of jesus ) to enable the missionaries to propagate the catholic faith in the area then known as california .
+structural studies of arf1 and arf6 have revealed that although these proteins feature the switch 1 and 2 conformational changes , they depart from other small gtp - binding proteins in that they use an additional , unique switch to propagate structural information from one side of the protein to the other .
+eeg 's can detect changes within a millisecond timeframe , excellent considering an action potential takes approximately 0.5 - 130 milliseconds to propagate across a single neuron , depending on the type of neuron .
+the addition operation in rbr is carry - free , which means that the carry does not have to propagate through all the width of the addition unit .
+however , there are arguments from quantum field theory suggesting that even if tachyons existed , they could not be used to transmit information faster than light at all , either because disturbances in the quantum field for a tachyon would not actually propagate faster than light , or because the tachyon is impossible to localize .
+as the first chief editor of sf magazine , he endeavoured to propagate science fiction in japan .
+the name " bent " refers to the shallow roots , which bend just below the surface of the soil to propagate laterally .
+his wide range of efforts in the field of mridangam and music have helped propagate the art around the globe .
+explaining his results by interference of the waves emanating from the two different slits , he deduced that light must propagate as waves .
+in hudson county a unique situation exists where many latinos from different nations elope and propagate .
+the action of allowing the beads to " fall " in our physical example has allowed the larger values from the higher rows to propagate to the lower rows .
+steady rains before the harvest can cause the berries to swell with water which dilutes the flavors as well as causing cracking in the skin that creates openings for spoilage causing microorganism to propagate .
+religious practices that consistently enhance survival and procreation of the practitioners will propagate the physiological controls that favor the acquisition of the practices during single lifetimes . "
+since entering into a coalition with " tēvzemei un brīvībai " the party increasingly sought to propagate a particularly ' latvian ' vision for latvia as highlighted by a series of controversial adverts encouraging the consumption of latvian goods , and warning of the dangers of non - latvians
+as a result , nationalists could propagate the catalan identity provided that it coincided with the industrialists’ pro - spanish stance .
+evidence of this can be seen in its concerted effort to promote and propagate literature through seminars , workshops , forums , dialogues , courses etc .
+because of his name recognition and liberal track record , jackson is besieged with public speaking requests , television appearance request , and requests for political commentary on issues of current affairs and liberal causes , and although he declines many , he recognizes his roles is to propagate his liberal message .
+along " unmyelinated " fibers , impulses move continuously as waves , but , in myelinated fibers , they hop or " propagate by saltation . "
+vaikundar seems to have chosen these disciples to be his close associates and to propagate his teaching and ideals to the people .
+action potentials propagate along the surface of the muscle fiber from the point of synaptic contact with a motor neuron .
+additionally with many mesh based programs you are able to edit the mesh at different levels of detail and have the changes at one level propagate to higher and lower levels of model detail .
+early advances in this field showed the existence of a liquid outer core ( where shear waves were not able to propagate ) and a dense solid inner core .
+with unflagging zeal he continued to propagate the american cause .
+a socialist , spry cofounded the league for social reconstruction ( lsr ) , contributed to the writing of the regina manifesto , and purchased both the " farmer 's sun " ( publication of the united farmers of ontario ) , renamed the " new commonwealth " , and the " canadian forum " to propagate the lsr 's views .
+in his harari award talk , koltko - rivera laid out a plan to propagate a more humanistic orientation throughout psychological science and practice .
+in effect , all of the chemical energy is harnessed to propagate the shock wave forward .
+they were proficient singers and composers and extensively made use of classical music and the kannada language as a medium to propagate the teachings and philosophy of the dvaita school .
+during 1989 the present archbishop emeritus of the anglican province of christ the king , robert s. morse , as president of the american church union that promotes devotion to and use of the anglican missal , authorized and encouraged bishop victor manuel cruz blanco to translate , propagate and implant application of the anglican missal in latin america .
+that is to say , when an experience was sufficiently powerful or transformative for an individual , they felt compelled to make the experience part of their own life story , and thereby propagate the story of the experience as part of their own ( and now more exciting ) identity .
+for example , in ac power lines , the waves of electromagnetic energy propagate through the space between the wires , moving from a source to a distant load , even though the electrons in the wires only move back and forth over a tiny distance .
+the subjective intent of hoax perpetrators varies , with the intent determining the content the perpetrator chooses and/or the content affecting the perpetrator 's intent regarding whom to deceive : a person seeking to deceive the public as a whole may propagate a hoax consisting entirely of objectively credible claims , often bolstering it by including claims that are true or have a basis in fact .
+according to the earliest indian sutra 's pindola bharadvaja was one of four arhats asked by the buddha to remain in the world to propagate buddhist law ( dharma ) .
+senor don jose prieto y tovar committed him self to propagate the rituals of honoring the st. joseph know in spanish as " senor san jose " across america with the blessings of the archbishop senor don geronimo antonio de obregon .
+sree narayana dharma sangham , an organization of saint - disciples of sree narayana guru and is established by the guru to propagate his concept of ‘ one caste , one religion , one god ' .
+in deep water , longer period waves propagate faster and transport their energy faster .
+because waves at different frequencies propagate at differing phase velocities in dispersive media , for a large frequency range ( a narrow envelope in space ) the observed pulse would change shape while traveling , making group velocity an unclear or useless quantity .
+however , news servers communicate with one another as peers to propagate usenet news articles over the entire group of network servers .
+it is not uncommon for the sound of a train 's whistle to propagate for miles ; yet operators of vehicles still have a difficult time hearing the warning signal due to the vehicle 's soundproofing and ambient noise within the cab ( such as engine , road , radio , and conversation noises ) .
+a slow wave threshold must be reached before a slow wave potential can propagate .
+propagate by seed in spring ( clean seed coat in a glass containing 10% bleach 90% warm water for 2 - 3min ; after wash seed and soak in warm water for 24h ) .
+a program 's control flow graph ( cfg ) is used to determine those parts of a program to which a particular value assigned to a variable might propagate .
+after the emergence of pakistan , the chief objective before ( the journal ) tolu - e - islam was to propagate the implementation of the principle which had inspired the demand for separate muslim state that is , to help transform the live force of islamic ideology into the constitution of pakistan " ..
+this view is most clearly set out in his books " the selfish gene " ( 1976 ) , where he notes that " all life evolves by the differential survival of replicating entities " , and " the extended phenotype " ( 1982 ) , in which he describes natural selection as " the process whereby replicators out - propagate each other " .
+it then uses the timer events from the clock to propagate data along the pipeline .
+the " bundahishn " , a zoroastrian view of creation finished in the 11th or 12th century ce , states that the great fires had existed since creation and had been brought forth on the back of the ox " srishok " to propagate the faith , dispel doubt , and to protect all humankind .
+it does not require direct feeding , and is very difficult to propagate .
+thus the arabs had royal patronage to practice and propagate islam in malabar area .
+kokugaku scholars thus traced their ideas on identity to these earliest chronicles , which recount the revolt of the mononobe ( 物部 ) and nakatomi ( 中臣 ) clans against the foreign - descended soga ( 蘇我 ) clan , which had sponsored the introduction of buddhist metaphysics and chinese statecraft into japan in the sixth century c.e. medieval buddhism in turn developed original sectarian positions which show a vigorous inclination to ‘ japanify’ and propagate native versions of that universal faith , and the form this reaction takes shows a heightened awareness of a unique national mission and identity .
+before he died , pema karpo promised that he would have two incarnations to propagate the spiritual teachings .
+they did not propagate nor trust the combined philosophical concept of confucianism and taoism as zealously as their rivals in the south .
+it is quite easy to propagate from cuttings and many island gardens now boast a fine ebony bush .
+the aesthetic foundation of electronic music began to propagate from the post - world war ii studios of europe .
+mani 's inherent desire to propagate the highly sophisticated structure of south indian rhythm and present innovative rhythmic ideologies led him to set up the sruthi laya percussion ensemble .
+the cutoff of the wave means that the wave does not propagate and therefore the longitudinal wave number formula_9 equals zero .
+as to the continuo , if he did not introduce it to france , he was the first to print a separate partbook and thus did much to propagate its use .
+the wholesalers pay a fee to the patent or trademark holders for each plant sold ; the patented plants are labeled with " it is unlawful to propagate this plant " or a similar phrase .
+this practice is detrimental to salmon populations because it does not leave any fish to propagate the salmon species .
+at the above distance , light or radio waves , both of which are forms of electromagnetic radiation and propagate at 299,792.5 kilometers per second ( the speed of light ) , take over 14.6 hours to reach the earth from voyager 1 .
+the reason of this seems to be that , when christianity succeeded in gaining the upper hand over paganism , a kind of tacit compromise was arrived at , by means of which the bard , and the fili ( i.e. , poet ) , and the representative of the old pagan learning were permitted by the sympathetic clerics to propagate their stories , tales , poems , and genealogies , at the price of tacking on to them a little christian admixture , just as the vessels of some feudatory nations are compelled to fly at the masthead the flag of the suzerain power .
+thus disturbances emanating from the western pacific ocean ( such as el niño ) may propagate across the basin on time scales of weeks compared to years for corresponding basin - wide propagation at higher latitudes .
+the alpha 21264 ( ev6 ) , for instance , had two copies of the integer register file , and took an extra cycle to propagate data between the two .
+on culture , ramkhamhaeng requested the monks from sri thamnakorn to propagate the theravada religion in sukhothai .
+" araiostegia " species can be grown in moist organically rich soil in a sheltered shady spot . propagate from spores or by divisions .
+the combined effect of the two operators is therefore to propagate the rotated spin to a new position , which is a hint that the correct eigenstate is a spin wave , namely a superposition of states with one reduced spin .
+in cold or barren countries no animals can live to the age of maturity , but those who have strong constitutions ; the weak and the unhealthy do not live to propagate their infirmities .
+some 500,000 years earlier , the heechee were active in discovering the galaxy , including an australopithecine - inhabited earth ( where a sampling of the creatures were extracted and left to propagate to modern time on a heechee station ) .
+in 2002 , his open relay , along with 24 others , was used by a computer worm to propagate .
+kamalashila 's role was to ordain tibetans as buddhist monks and propagate buddhist philosophy as it had flourished in india .
+then cause it to propagate outward in a ring .
+optical fibers intended for " light transport " need to propagate as much light as possible within the core ; in contrast , optical fibers intended for " light distribution " are designed to let part of the light leak through their cladding .
+soon after the constitution was adopted on 26 january 1950 , efforts were made to propagate hindi for official usage .
+lamb waves propagate in solid media .
+waves propagate through a medium with velocity formula_6 , where formula_7 is the frequency and formula_8 is the wavelength of the electromagnetic waves .
+why sue chose to show and propagate that reason is always on the side of evil , that only rodin is so crafty , capable to think , adapting to changing situations ( even capable to make an surgical operation on himself ! ) and is thus in full control of an action all the time , and all those so called " good characters , " weak and pitiful as they are , are so easy pray to him , as if they would be just simple children , though most of them are adults ?
+there are two ways to propagate coleus .
+surface gravity waves , moving under the forcing by gravity , propagate faster for increasing wavelength .
+the novel was yet another vehicle for wells to propagate the so - called ' wellsian utopia ' , his ideas of a possible better future society , which he has described in several other works , notably in his " a modern utopia " ( 1905 ) .
+furthermore , the trees are easy to propagate from seed .
+sister ephrem was asked to propagate , she then turned to monsignor paul f. leibold .
+he accepted islam at mecca prior to the " hijra " and returned to his native yemen to propagate the faith .
+updates or changes can propagate from the server to the client at any time ( comet ) , while ajax is used to send messages or events the other way around .
+to date , all such agents that have been discovered propagate by transmitting a mis - folded protein state ; as with viruses the protein itself does not self - replicate , rather it induces existing polypeptides in the host organism to take on the rogue form .
+as an editor of the religious magazine ' kalyan ' , he is known for his untiring efforts to propagate and disseminate hindu religion across the world .
+grissom realizes that this theory could be true , and notes that people with this pathology often become vocal towards the institutions they feel propagate the triggers .
+acoustic problems always require allowing compressibility , since sound waves are compression waves involving changes in pressure and density of the medium through which they propagate .
+these receptors detect ligands and propagate signals via the tyrosine kinase of their intracellular domains .
+in fact , a remote transmitter hundreds , even thousands of miles away belonging to a separate agency , can activate a minitor ( and also block it ) unknowingly if the atmospheric conditions let the signal propagate that far .
+a clone is the only way to propagate the exact genetic makeup that makes a strain unique , however , how the plant is grown greatly affects the final consumable product .
+fortunately , tainted wentals can not propagate , but are eternally enraged by everything around them .
+he convinced rhodes that a commercial nursery was needed to propagate new varieties of fruit trees for the industry .
+chorioalloantoic membranes from developing chicken eggs are routinely used in biological and biomedical research to investigate development , angiogenesis , tumors , and to propagate and investigate viruses or helminths .
+this plant is easy to propagate from seed or by dividing existing plants .
+the remaining frequencies ( or wavelengths ) are free to propagate ( or be transmitted ) .
+organized in his memory , samahang plaridel is a fellowship of journalists and other communicators that aims to propagate marcelo h. del pilar ’s ideals .
+according to trungpa , it was his intention to propagate the kingdom of shambala that provided the necessary inspiration to leave his homeland and make the arduous journey to india and the west .
+disturbances of the electric field due to a charge propagate at the speed of light .
+while a backpropagating action potential can presumably cause changes in the weight of the presynaptic connections , there is no simple mechanism for an error signal to propagate through multiple layers of neurons , as in the computer backpropagation algorithm .
+the or plaintext cipher - block chaining mode was designed to cause small changes in the ciphertext to propagate indefinitely when decrypting , as well as when encrypting .
+in a single generation , a cell can only influence its nearest neighbours , and so the speed of light ( by analogy with the speed of light in physics ) is the maximum rate at which information can propagate .
+frequencies below approximately 10 mhz ( wavelengths longer than 30 meters ) , including broadcasts in the mediumwave and shortwave bands ( and to some extent longwave ) , propagate most efficiently by skywave at night .
+propagate from fresh seed or cuttings .
+these served to propagate the buddhist teachings to the community .
+although the back - arc basin continues to propagate to the southwest , with the south wanganui basin forming an initial back - arc basin , volcanic activity has not yet begun in this region .
+intercourse can prevent dialectical fragmentation by suppressing linguistic innovations ; it can also propagate innovations throughout an area encompassing different populations .
+he also wrote to his son - in - law charles fleetwood complaining that the members " being of different judgements , and of each sort most seeking to propagate their own , that spirit of kindness that is to them , is hardly accepted of any " .
+he would wear placards with slogans on harijan upliftment and propagate the cause .
+the idea is thus to first construct small surface patches from stereo points , then to progressively propagate only reliable patches in their neighborhood from images into the whole surface using a best - first strategy .
+there are four main strengthening mechanisms for metals , however the key concept to remember about strengthening of metallic materials is that it is all about preventing dislocation motion and propagation ; you are making it energetically unfavorable for the dislocation to move or propagate .
+this type of thinking helps to further propagate the bubble whereby everyone is investing with the intent of finding a greater fool .
+ford created the ford microelectronics facility in colorado springs in 1982 to propagate the eec - iv family , develop other custom circuits for use in automobiles , and to explore the gallium arsenide integrated circuit market .
+not easy to propagate , this plant can be found in sand savannas , open woods and glades , prairies and rocky soils .
+according to the drafted constitution , the aims of amcosa were to gradually bring all the old students of the college under one roof , to promote fraternity and fellowship , to promote good will for its multifaceted development , to propagate the achievements of the teachers and alumni of our college as an inspiration to the younger generation and to come together once a year , to greet each other and relive the student days .
+as stated in its declaration at the time of its inception , the objective of navajivan trust was to propagate peaceful means for the attainment of " hind swaraj " ( swaraj for india ) by educating the people through cultivated and enlightened workers and to serve india in this pure manner .
+la révellière lépeaux seized the opportunity to propagate his religion .
+numerous plants which were previously considered difficult , or impossible , to propagate from cuttings could now be replicated simply from a single stem cutting .
+propagate from seed or cuttings .
+vibrations in this field propagate and are governed by the appropriate wave equation for the particular field in question .
+the second bit is calculated by xoring the propagate in second box from the right ( a " 0 " ) with c0 ( a " 0 " ) , producing a " 0 " .
+an increase in intracellular calcium concentration can propagate outwards through this syncytium .
+in fluids such as air and water , sound waves propagate as disturbances in the ambient pressure level .
+the macedonians took advantage of the vagueness and hesitancy of statement in some of the early fathers to justify and propagate their error .
+as with conventional ip routing , careful filtering of who is and is not allowed to propagate route announcements is crucial to prevent man - in - the - middle or blackhole attacks .
+moggaliputta later made arrangements arising from the council to send monks outside of the mauryan empire to propagate buddhism , and arranged for a bodhi tree sapling to be sent to sri lanka .
+the constitution provides for the right to profess , practice , or propagate any religion ; however , proselytism was discouraged .
+as more dislocations propagate to this boundary , dislocation ' pile up ' occurs as a cluster of dislocations are unable to move past the boundary .
+this includes first of all organising lectures , seminars and conferences to promote legal scholarship , propagate legal knowledge , bridge the distance between law and society , and also channelise the legal process as an effective means of social reform and evolution .
+at the least , they needed to gain permission from local rulers to propagate catholicism within their domains .
+he [ lothar popp ] was replaced by the inactive senior stoker artelt , a personally honest man , who lost influence rapidly however , when he started to propagate spartakistic ideas . "
+bhagatsinghthind.com to propagate the philosophy for which dr. bhagat singh thind spent his entire life in the us .
+many of their saints and devotees have visited united states , united kingdom , canada , and other parts of the world to propagate preaching and teaching of sahajanand swami and also to monitor construction and expansion of smvs swaminarayan temples as well as other related religious and cultural activities such as functioning of medical centers , old age homes , hospitals , and other charities .
+this form of interference can occur whenever a wave can propagate from a source to a destination by two or more paths of different length .
+a drawback occurs because the tectonic plate on one side of the fault sinks suddenly during the earthquake , causing the overlaying water to propagate outwards with the trough of the wave at its front .
+shah - e - ata had already taken out the shijra(the chain depicting the name of all the sufis in the order ) and signed the khilafatnama ( a certificate giving ijazah(permission ) to the disciple to propagate the order further ) to be given to him .
+siddhanta monastics used the influence of royal patrons to propagate the teachings in neighboring kingdoms , particularly in south india .
+for many plants , the rhizome is used by farmers and gardeners to propagate the plants by a process known as vegetative reproduction .
+in addition , younus algohar also considers it a responsibility of the organization to propagate various images of jesus christ , our lady mother virgin mary , durgha maa and ra gohar shahi which he claims have become prominent on sacred , earthly and celestial locations as signs from god .
+he received the highest honor for young scientists in the ussr , the komsomol prize , for his discovery of thermomagnetic and galvanomagnetic waves , which can propagate in metals his work in collaboration with i.f. scgegolev and others , led to understanding of the meissner effect in high - tc superconductors through the surface barrier effect , also known as bean - livingston barrier .
+in a vacuum , the components of the electric field propagate at the speed of light , so that the phase of the wave varies in space and time while the polarization state does not .
+traditional polymers decompose under heat and produce combustible products ; thus , they are able to originate and easily propagate fire ( as shown in figure 1 ) .
+parthenocarpy ( or stenospermocarpy ) occasionally occurs as a mutation in nature , but if it affects every flower , then the plant can no longer sexually reproduce but might be able to propagate by vegetative means .
+they believed that the proper role of the news media is to expose , investigate , and articulate issues of concern to average citizens and wished to propagate these ideals across the globe .
+in these , they note the failure of early attempts to propagate the species in england , the seeds sent from the swan river colony mostly failed to germinate , or the plant did not reach maturity .
+in the late 1970s hasse walli was active in elmu , a society established in 1978 to propagate live music in a time when disco and recorded music were worryingly diminishing the working opportunities of musicians playing live .
+not only were their rights attacked , but several of the tzars allowed the imperial government to propagate and to instigate a series of murderous pogroms against the jewish people of the realm .
+the first to be held is the ' war campaign ' , a period fully dedicated to destruction to propagate fear .
+a second shock wave , the reverse shock , may propagate back into the ejected matter .
+he and his brother , ludwig von gerlach , formed the " christian germanic " circle to propagate the ideas of the swiss jurist karl ludwig von haller .
+however , to make this interaction physical and not completely arbitrary , the mediator " a"("x " ) needs to propagate in space .
+in colleges and universities , societies are organizations founded and ran by students to practice and propagate a certain professional hobby or cause , or to promote professional development .
+the addition of two 1-digit inputs a and b is said to " propagate " if the addition will carry whenever there is an input carry ( equivalently , when the next less significant digit in the sum carries ) .
+rejecting the concept of organized religion in his teens , wharnsby 's music , writings , performances and numerous interviews consistently propagate an opinion that the development of spirituality should be intimate , personal and free of institutionalization .
+in 1883 , kautsky founded the monthly " die neue zeit " ( " the new times " ) in stuttgart , which became a weekly in 1890 , and was its editor until september 1917 , which gave him a steady income and allowed him to propagate marxism .
+they are easy to propagate from cuttings , which will root in a glass of water , or from divisions .
+in response to this situation , several of the remaining students banded together in order to continue the legacy of mang ben and to promote and propagate their beloved style .
+other problems , such as harmonics , arise within the customer ’s own installation and may or may not propagate onto the network and so affect other customers .
+the institute carry out botanical , horticultural and chemical research for plant improvement and utilization ; and offer facilities for the improvements of ornamental plants and to propagate them in the larger context of establishment of nursery and flower trade .
+due to the wide range of signal properties and media they propagate through , specialized equipment may be required instead of the usual microphone , such as a hydrophone ( for underwater sounds ) , an ultrasound detector ( very high - frequency sounds ) , or a laser vibrometer ( substrate - borne vibrational signals ) .
+for example when a violin string is displaced , longitudinal waves propagate out to where the string is held in place at the bridge and the " nut " , whereupon the waves are reflected back .
+figs plants are easy to propagate through several methods .
+the academia mexicana de la historia ( " mexican academy of history " , also known by the acronym amh ) is a national academy in mexico , whose purpose is to promote and propagate historical studies within mexico , conduct research into all aspects of the history of mexico , and to contribute towards the preservation of the national cultural heritage .
+the zero would then propagate recursively down the chain and force " p'm " to be zero at formula_14 , which ca n't happen since " p'm " is a non - zero constant .
+during the 80s , the university however continued to back requests for change of kosovo 's status and spread ideology of enver hoxha and maoism , and propagate creation of greater albania , mostly due to albanian professors from tirana .
+there have been many formulations of the purposes and aims of acyoa , but the acyoa constitution lays out four aims : to propagate the armenian orthodox christian faith among the youth of the church , to promote the appreciation of armenian culture , to strengthen the armenian community , and to promote among its members loyalty to the united states constitution .
+the surface plasmons propagate over the glass surface and are intercepted by the silicon strips at the edges .
+kadizade in his sermons " used the grand pupil of aya sofya to propagate a kind of " fundamentalist " ethic , a set of doctrinal positions intended to rid islam of beliefs and practices that had accumulated since the era of the prophet muhammad ’s medina . "
+the mathas work to propagate the dvaita philosophy .
+after four years of lecturing and technical journalism , he became in 1912 the acting secretary of the garton foundation , newly established to propagate norman angell 's ideas on international relations .
+his son , ananda shankar 's wife tanushree shankar also continues to teach and perform , his style of indian modern dance , under ' tanushree shankar dance company ' also based in the city .. years after , his school at almora was disbanded , his followers and associates continued to propagate his innovative style of dancing and his aesthetic through their own work .
+yugoslav nationalists who propagate for the creation of a greater yugoslavia advocate for the inclusion of bulgaria into the federation .

@@ -1,0 +1,255 @@
+if the cardinality limit codice_82 is codice_91 , it can be omitted with the preceding ' codice_71 ' .
+formally , a cardinal number κ is λ-unfoldable if and only if for every transitive model " m " of cardinality κ of zfc - minus - power set such that κ is in " m " and " m " contains all its sequences of length less than κ , there is a non - trivial elementary embedding " j " of " m " into a transitive model with the critical point of " j " being κ and " j"(κ ) ≥
+the last inequality implies that the cofinality of the cardinality of the continuum must be uncountable .
+initial segment of one well - ordering will be isomorphic to the other , so one set will have cardinality smaller than that of the other .
+the löwenheim – skolem theorem ( 1919 ) showed that if a set of sentences in a countable first - order language has an infinite model then it has at least one model of each infinite cardinality .
+schoof 's insight exploits the fact that , by hasse 's theorem , there is a finite range of possible values for the cardinality of formula_1 .
+a set is infinite if and only if for every natural number the set has a subset whose cardinality is that natural number .
+as a consequence of zorn 's lemma , " every " hilbert space admits an orthonormal basis ; furthermore , any two orthonormal bases of the same space have the same cardinality , called the hilbert dimension of the space .
+a jónsson algebra is an algebra with no proper subalgebras of the same cardinality .
+has cardinality formula_4 .
+the cardinality of a finite set is a natural number – the number of elements in the set .
+the height or rank " r(v ) " of " v " is defined to be the cardinality of the set of proper isolated subgroups of " v " .
+the cardinality of 1679 was chosen because it is a semiprime ( the product of two prime numbers ) , to be arranged rectangularly as 73 rows by 23 columns .
+the task is then to find a minimum cardinality subset of left - vertices which covers all of the right - vertices .
+( here , ' |"x"| ' denotes the cardinality of " x " , and ' < ∞ ' means ' finite ' . )
+a set of payoffs can be considered a set of n - tuples , where " n " is the number of players in the game , and the cardinality of the set is equal to the total number of possible outcomes when the strategies of the players are varied .
+one benefit of the latter approach is that it simplifies the definition of homomorphism between cabas of different cardinality . )
+for our purposes , without loss of generality , we can replace feature set formula_42 with a single aggregate variable formula_43 that has cardinality formula_44 , and adopts a unique value formula_45 corresponding to each feature combination in the cartesian product formula_46 .
+a given graph formula_1 has a perfect matching if and only if for every subset formula_2 of formula_3 the number of connected components with an odd number of vertices in the subgraph induced by formula_4 is less than or equal to the cardinality of formula_2 .
+a second application of the compactness theorem shows that any theory that has arbitrarily large finite models , or a single infinite model , has models of arbitrary large cardinality ( this is the upward löwenheim – skolem theorem ) .
+find the cardinality ( denoted by " a'k"("m " ) ) of the largest subset of [ 0 , 1 , ... , " m " − 1 ] which contains no progression of " k " distinct terms .
+if κ is an infinite cardinal number , then cf(κ ) is the least cardinal such that there is an unbounded function from it to κ ; and cf(κ ) = the cardinality of the smallest collection of sets of strictly smaller cardinals such that their sum is κ ; more precisely
+the normalized valuation of " f " is the surjective function " v " : " f " → z ∪ defined by sending a non - zero " a " to the unique integer " n " such that " a " = ϖ"n'u " with " u " a unit , and by sending 0 to ∞. if " q " is the cardinality of the residue field , the absolute value on " f " induced by its structure as a local field is given by
+the density of a topological space " x " is the least cardinality of a dense subset of " x " .
+the stirling number " s"("n " , " k " ) is the number of ways to partition a set of cardinality " n " into exactly " k " nonempty subsets .
+because a bijection between a set a and a set b is needed to prove that a and b have the same cardinality , space - filling curves are not a direct proof that a square ( or cube or hypercube ) has as many points as its side .
+the metric dimension of " g " is the minimum cardinality of a resolving set for " g " .
+it can informally be considered to say that all cardinals less than the cardinality of the continuum , formula_1 , behave roughly like formula_2 .
+therefore , we can ask if there is a set whose cardinality is " between " that of the integers and that of the reals .
+it is possible to prove that this operation does n't reduce the cardinality of the minimum cut , but that it might increase it .
+the latter cardinal number is also often denoted by formula_7 ; it is the cardinality of the continuum ( the set of real numbers ) .
+take for example the measurement of temperature : because of its cardinality , it provides two " degrees of freedom " - the choice of unit and the zero .
+above , " cardinality " was defined functionally .
+this is a generalization of the continuum hypothesis since the continuum has the same cardinality as the power set of the integers .
+this problem is also known as edge - weighted k - cardinality tree ( kct ) .
+low - cardinality refers to columns with few unique values .
+cardinality - based feature models .
+additionally , they appear to understand that adding or subtracting one from a set will change the quantity of that set , though the generality of this knowledge is difficult to assess without the ability to label sets of arbitrary cardinality using number words . "
+there are two approaches to cardinality – one which compares sets directly using bijections and injections , and another which uses cardinal numbers .
+for any complete theory " t " in a language we write i("t " , α ) for the number of models of " t " ( up to isomorphism ) of cardinality α. the spectrum problem is to describe the possible behaviors of i("t " , α ) as a function of α. it has been almost completely solved for the case of a countable theory " t " .
+low - cardinality column values are typically status flags , boolean values , or major classifications such as gender .
+to see this , we show that there is a function " f " from the cantor set " c " to the closed interval [ 0,1 ] that is surjective ( i.e. " f " maps from " c " onto [ 0,1 ] ) so that the cardinality of " c " is no less than that of [ 0,1 ] .
+cardinality estimation in turn depends on estimates of the selection factor of predicates in the query .
+it is not unusual to have situations in which most cases ( in terms of cardinality ) are pathological , but the pathological cases will not arise in practice unless constructed deliberately .
+for high - cardinality columns , it is useful to bin the values , where each bin covers multiple values and build the bitmaps to represent the values in each bin .
+it is abelian , and isomorphic to the dihedral group of order ( cardinality ) 4 .
+implicitly , this is the universe that georg cantor was using when he first developed modern naive set theory and cardinality in the 1870s and 1880s in applications to real analysis .
+the study of cardinality is often called equinumerosity ( " equalness - of - number " ) .
+high - cardinality refers to columns with values that are very uncommon or unique .
+in mathematics , in the field of group theory , an fc - group is a group in which every conjugacy class of elements has finite cardinality .
+each ordinal has an associated cardinal , its cardinality , obtained by simply forgetting the order .
+extended morley 's theorem to uncountable languages : if the language has cardinality κ and a theory is categorical in some uncountable cardinal greater than or equal to κ then it is categorical in all cardinalities greater than κ.
+for example , the ordinal exponentiation 2ω = ω , but the cardinal exponentiation formula_15 is the cardinality of the continuum which is much larger than formula_16 .
+" tarski tried to publish his theorem [ the equivalence between ac and ' every infinite set " a " has the same cardinality as " a"x"a , see above ] in comptes rendus , but fréchet and lebesgue refused to present it .
+an example where this cardinality - based convention appears not to have been used yet is " x " ! to denote the set of all permutations of a set " x " .
+the smallest possible cardinality of a base is called the weight of the topological space .
+since " c " is a subset of [ 0,1 ] , its cardinality is also no greater , so the two cardinalities must in fact be equal , by the cantor – bernstein – schroeder theorem .
+for λ-stable theories , saturated models of cardinality λ exist .
+formula_14 sublevels of an energy level ) is the cardinality of formula_59 , i.e. , the number of elements ( or valid " n "- tuples ) in formula_59 .
+this algorithm , sometimes referred to as the naive approach , has a running time of " o"("nd " ) where " n " is the cardinality of " s " and " d " is the dimensionality of " s " .
+which of these an rdbms selects may depend on whether an index exists , what type it is , and its cardinality .
+in other words , given a secret " s " , and " n " shares , any set of " t " shares is a set with the smallest cardinality from which the secret can be recovered , in the sense that any set of " t-1 " shares is not enough to give " s " .
+in set theory , a mathematical discipline , an ω-jónsson function , named for bjarni jónsson , for a set of ordinals " x " is a function from formula_1 to " x " such that for any subset " y " of " x " with the same cardinality as " x " , " f " restricted to formula_2 maps onto " x " .
+for example , aleph - null is the cardinality of the infinite set of natural numbers , and aleph - one is the next greatest cardinal number .
+cardinality .
+it is easy to establish a bijection between these two , thereby showing that they have the same cardinality .
+in mathematics , the lyusternik – schnirelmann category ( or , lusternik – schnirelmann category , ls - category , or simply , category ) of a topological space formula_1 is the topological invariant defined to be the smallest cardinality of an index set formula_2 such that there is an open covering formula_3 of formula_1 with the property that for each formula_5 , the inclusion map formula_6 is nullhomotopic .
+where formula_8 is the cardinality of the message space " m " .
+through this proof by contradiction we have proven that the cardinality of n and p(n ) can not be equal .
+a cardinal κ is α-inaccessible , for α any ordinal , if and only if κ is inaccessible and for every ordinal β < α , the set of β-inaccessibles less than κ is unbounded in κ ( and thus of cardinality κ , since κ is regular ) .
+specifically , it is defined as the largest cardinality of an algebraically independent subset of " l " over " k " .
+this coincides with the ordinal successor operation for finite cardinals , but in the infinite case they diverge because every infinite ordinal and its successor have the same cardinality ( a bijection can be set up between the two by simply sending the last element of the successor to 0 , 0 to 1 , etc . , and fixing ω and all the elements above ; in the style of hilbert 's hotel infinity ) .
+the cardinality concept of size requires that there exists a bijection between these two subsets .
+note that cardinality does not imply direct measurability , which jevons did not believe in .
+in the mathematical subject of group theory , the rank of a group " g " , denoted rank("g " ) , can refer to the smallest cardinality of a generating set for " g " , that is
+the cardinality |formula_216| is one type higher than the cardinals formula_228 , so the correct definition of the infinite product of cardinals is formula_229 ( because the inverse of t is not total , it is possible that this may not exist ) .
+a first countable , separable hausdorff space ( in particular , a separable metric space ) has at most the continuum cardinality " c " .
+whether this constitutes passage of " infinite " time depends on whether cardinality or measure is being considered .
+the minimum cardinality among all " k "- dominating and " k "- tuple dominating sets are the " k "- domination number and the " k "- tuple domination number , respectively .
+in mathematical logic , the löwenheim – skolem theorem states that if a countable first - order theory has an infinite model , then for every infinite cardinal number κ it has a model of size κ. the result implies that first - order theories are unable to control the cardinality of their infinite models , and that no first - order theory with an infinite model can have exactly one model up to isomorphism .
+an example of a data table column with normal - cardinality would be a customer table with a column named last_name , containing the last names of customers .
+up to isomorphism , this symmetric group only depends on the cardinality of the set , so the nature of elements of " s " is irrelevant for the structure of the group .
+the cardinality of formula_1 is denoted by formula_3 or by the symbol formula_4 ( a lowercase fraktur letter c ) .
+since the parents of each node are all connected to each other , the maximal cliques are composed of a node ( the maximal node of the clique in a max - cardinality ordering ) and all its parents .
+we can show that c = 20 ; this also being the cardinality of the set of all subsets of the natural numbers .
+in particular , every uncountable polish space has the cardinality of the continuum .
+clones on larger sets do not admit a simple classification ; there are continuum clones on a finite set of size at least three , and 22κ clones on an infinite set of cardinality κ.
+it is reasonable to assume that we also have a countable infinity of levels of thought , and that therefore we can think of a countable infinity of things using a countable infinity of thought levels , giving us the cardinality of the continuum of thoughts .
+cardinality .
+this is done in such a way that if " i " is an ideal of " o'k " , the ring of integers of the number field " k " , n("i " ) is the number of residue classes in " o'k"/"i " - i.e. the cardinality of this finite ring .
+the total number of elements in a multiset , including repeated memberships , is the cardinality of the multiset .
+this conflicts with cantor 's theorem that the power set of any set ( whether infinite or not ) always has strictly higher cardinality than the set itself .
+an example of a data table column with high - cardinality would be a users table with a column named user_id .
+to say that the domain has countable cardinality , use the sentence that says that there is a bijection between every two infinite subsets of the domain .
+all differential fields ( of bounded cardinality ) embed into a large differentially closed field .
+see below for more details on the cardinality of the continuum .
+there is a unique set with no members and zero cardinality , which is called the " empty set " ( or the " null set " ) and is denoted by the symbol ∅ ( other notations are used ; see empty set ) .
+ϝ however is not a complete field ; if we take its completion , we end up with a field κ of larger cardinality .
+for all real ( or complex ) numbers " x"1 ... , " x'n " , " y"1 ... , " y'n " and where n is the cardinality of s ( the number of elements in s ) .
+the counterexamples can have any cardinality greater than or equal to ℵ2 .
+although jevons predated the debate about ordinality or cardinality of utility , his mathematics required the use of cardinal utility functions .
+the given examples can have any cardinality greater than or equal to ℵ2 .
+any well - ordered set having that ordinal as its order - type has the same cardinality .
+the semilattice conc fv(ω ) does not satisfy wurp , for any set ω of cardinality at least ℵ2 and any non - distributive variety v of lattices .
+in general , a set " a " has even cardinality if a partition of " a " into disjoint sets " b " and " c " exists where and thus the empty set can be partitioned trivially as which immediately shows that is even .
+relationships may be given cardinality constraints and role names .
+( even without the continuum hypothesis we have that if the cardinality of the continuum is
+in particular , it follows from the last axiom that if " u " is non - empty , it must contain all of its finite subsets and a subset of each finite cardinality .
+in fact , by choosing a hilbert basis , one sees that all hilbert spaces are isometric to ℓ2("e " ) , where " e " is a set with an appropriate cardinality .
+for example , the set of natural numbers can be seen as the set of " cardinalities " of finite sets ( and any two sets with the same cardinality are isomorphic ) .
+cardinality .
+peano was motivated by georg cantor 's earlier counterintuitive result that the infinite number of points in a unit interval is the same cardinality as the infinite number of points in any finite - dimensional manifold , such as the unit square .
+two sets are said to have the same " cardinality " or " cardinal number " if there exists a bijection ( a one - to - one correspondence ) between them .
+cardinality of the domain of a surjection .
+the rank formula_77 of a hypergraph formula_5 is the maximum cardinality of any of the edges in the hypergraph .
+in the sense of cardinality , " most " members of the cantor set are not endpoints of deleted intervals .
+these addition and multiplication properties are also enjoyed by cardinality of sets .
+cardinality is studied for its own sake as part of set theory .
+such spaces are classified by their cardinality .
+ramification , generally speaking , describes a geometric phenomenon that can occur with finite - to - one maps ( that is , maps " f " : " x " → " y " such that the preimages of all points " y " in " y " consist only of finitely many points ) : the cardinality of the fibers " f"−1("y " ) will generally have the same number of points , but it occurs that , in special points " y " , this number drops .
+cardinality .
+more precisely , the łoś – vaught test states that if a theory has no finite models and is categorical in some infinite cardinal κ at least equal to the cardinality of its language , then the theory is complete .
+the set of modal companions of any " l " is either countable , or it has the cardinality of the continuum .
+a maximum antichain is an antichain that has cardinality at least as large as every other antichain .
+[ r : q ] = formula_1 ( the cardinality of the continuum ) , so this extension is infinite .
+in other words , x is an unbounded sequence in f. the cofinality of f is the size of the smallest cofinal set , which is to say , the size of the smallest cardinality giving an unbounded sequence .
+the notion of cardinality , as now understood , was formulated by georg cantor , the originator of set theory , in 1874–1884 .
+there is also a notion of stationary subset of formula_27 , for formula_28 a cardinal and formula_29 a set such that formula_30 , where formula_27 is the set of subsets of formula_29 of cardinality formula_28 : formula_34 .
+which is the logarithm of the cardinality of " x " , sometimes called the hartley entropy of " x " .
+the cardinality of ω is denoted formula_7 ( aleph - one ) .
+if the axiom of choice holds ( so that any cardinal number can be well - ordered ) , an infinite cardinal κ is regular if and only if it can not be expressed as the cardinal sum of a set of cardinality less than κ , the elements of which are cardinals less than κ.
+the key difference is that subnets can use the same point in the net multiple times and the indexing set of the subnet can have much larger cardinality .
+this result is extended to semilattices of cardinality at most ℵ1 in 2000 by wehrung , by keeping only the regularity of " r " ( the ring constructed by the proof is not locally matricial ) .
+hilbert spaces can be completely classified : there is a unique hilbert space up to isomorphism for every cardinality of the base .
+the " order " |"g"| ( or o("g " ) ) of a group is the cardinality of " g " .
+a language " l"κ,κ is said to satisfy the weak compactness theorem if whenever σ is a set of sentences of cardinality at most κ and every subset with less than κ elements has a model , then σ has a model .
+on the other hand , there is an essentially unique " ordered " set of any given finite cardinality : if one writes formula_3 and formula_4 , then the only order - preserving isomorphism maps 1 to " a , " 2 to " b , " and 3 to " c. "
+in set theory , the concept of cardinality is significantly developable without recourse to actually defining cardinal numbers as objects in theory itself ( this is in fact a viewpoint taken by frege ; frege cardinals are basically equivalence classes on the entire universe of sets which are equinumerous ) .
+formula_187 is the cardinality of the reals .
+in er notation , the conceptual model is described with an er diagram in which entities represent concepts , cardinality and optionality represent relationships between concepts .
+it derives a symbol for a set " s " from an expression for the set 's cardinality , or size , |"s"| .
+the lower the cardinality , the more duplicated elements in a column .
+there are several ways to modify this idea to make it work ; for example , one can restrict the compact hausdorff spaces " c " to have underlying set " p"("p"("x " ) ) ( the power set of the power set of " x " ) , which is sufficiently large that it has cardinality at least equal to that of every compact hausdorff set to which " x " can be mapped with dense image .
+the blahut - arimoto three - line algorithm is seen to converge rapidly , often in tens of iterations , and by varying formula_69 , formula_88 and formula_25 and the cardinality of the clusters , various levels of focus on data features can be achieved .
+furthermore , any two bases of formula_1 have the same cardinality .
+a binary set is a set with ( exactly ) two distinct elements , or , equivalently , a set whose cardinality is two .
+in contrast , one of the basic theorems in algebraic number theory asserts that the class group of the ring of integers of a number field is finite ; its cardinality is called the class number and it is an important and rather mysterious invariant , notwithstanding the hard work of many leading mathematicians from gauss to the present day .
+one can also show that the von neumann universes formula_14 have cardinality formula_15 .
+the ring of " p "- adic integers is the inverse limit of the finite rings z/"p'k"z , but is nonetheless uncountable , and has the cardinality of the continuum .
+represent cycles of even and odd length , and sets of even and odd cardinality .
+the choices are between arrow heads , inverted arrow heads ( crow 's feet ) , or numerical representation of the cardinality .
+by using forcing to collapse cardinals , the brouwer fixed point theorem can be generalized to arbitrary cardinality : if " l " is a compact , connected order topology , then any continuous function from " l'n " to itself has a fixed point .
+hence , a triangular set is finite , and has cardinality at most " n " .
+the third property means that if " c " can not shatter any set of cardinality " n " then it can not shatter sets of larger cardinalities .
+cantor was the first to formulate what later came to be known as the continuum hypothesis or ch : there exists no set whose power is greater than that of the naturals and less than that of the reals ( or equivalently , the cardinality of the reals is " exactly " aleph - one , rather than just " at least " aleph - one ) .
+for the power set formula_5 of a set " s " , the inclusion partial order is ( up to an order isomorphism ) the cartesian product of " k " = |"s"| ( the cardinality of " s " ) copies of the partial order on for which 0 < 1 .
+in set theory , the hebrew aleph glyph is used as the symbol to denote the aleph numbers , which represent the cardinality of infinite sets .
+if it does appear , then by removing " n " once , one is left with a multiset of cardinality " k " − 1 of elements from [ " n " ] , and every such multiset can arise , which gives a total of
+the shortlex ( or radix , or length - plus - lexicographic ) order is an ordering for ordered sets of objects , where the sequences are primarily sorted by cardinality ( length ) with the shortest sequences first , and sequences of the same length are sorted into lexicographical order .
+while the plaza is arranged along the skewed cardinality characteristic of montreal , macdonald looks west - northwest , under a canopy created by trades , at the vast expanse awaiting the command coming from montreal .
+of course , such a node can not be attached to the dynkin diagram in just any location , but for each simple lie algebra there exists a number of possible attachments equal to the cardinality of the group of outer automorphisms of the lie algebra .
+the oldest definition of the cardinality of a set " x " ( implicit in cantor and explicit in frege and principia mathematica ) is as the set of all sets which are equinumerous with " x " : this does not work in zfc or other related systems of axiomatic set theory because this collection is too large to be a set , but it does work in type theory and in new foundations and related systems .
+vc dimension of a model formula_1 is formula_7 where formula_7 is the maximum formula_9 such that some data point set of cardinality formula_9 can be shattered by formula_1 .
+let formula_257 be the smallest set of cardinals which contains formula_192 ( the cardinality of the set of natural numbers ) , contains the cardinal formula_253 whenever it contains formula_64 , and which is closed under suprema of sets of cardinals .
+fields of " characteristic zero " have the most familiar properties ; for practical purposes they resemble subfields of the complex numbers ( unless they have very large cardinality , that is ) .
+the set of all integer sequences is uncountable ( with cardinality equal to that of the continuum ) ; thus , almost all integer sequences are uncomputable and can not be defined .
+there are several styles for representing data structure diagrams , with the notable difference in the manner of defining cardinality .
+if x is finite ( with cardinality n ) , then use n×n instead of ω×ω and ( n , e ) instead of ( ω,e ) .
+the main purpose of the invariant basis number condition is that free modules over an ibn ring satisfy an analogue of the dimension theorem for vector spaces : any two bases for a free module over an ibn ring have the same cardinality .
+it could also be said that a set contains " nothing " if and only if it is the empty set , in which case its cardinality ( or size ) is zero .
+now we just encode the sequences in the typical set , and usual methods in source coding show that the cardinality of this set is smaller than formula_53 .
+all these cardinals are greater or equal than formula_1 , the smallest uncountable cardinal , and they are bounded above by formula_2 , the cardinality of the continuum .
+all bases of a vector space have the same cardinality ( number of elements ) , called the dimension of the vector space .
+a further example , the description logic formula_17 is the logic formula_6 plus extended cardinality restrictions , and transitive and inverse roles .
+all the points in the plane can thus be classed into orbits , of which there are an infinite number with the cardinality of the continuum .
+its cardinality is written formula_47 .
+where the sum runs over all finite subsets " i " of the imaginary simple roots which are pairwise orthogonal and orthogonal to the highest weight λ , and |i| is the cardinality of i and σ"i " is the sum of the elements of " i " .
+similarly , we can define the " height " of a partial order to be the maximum cardinality of a chain .
+the resulting hecke ring is isomorphic to the hecke algebra of the affine weyl group of " g " , or the affine hecke algebra , where the indeterminate " q " has been specialized to the cardinality of the residue field of " k " .
+cardinality .
+the continuum hypothesis is sometimes stated by saying that no cardinality lies between that of the continuum and that of the natural numbers , formula_2 .
+cardinality of the continuum .
+h(λ ) consists of all sets whose transitive closure has cardinality less than λ.
+an internal set " h " of internal cardinality " g " ∈ * n ( the hypernaturals ) is hyperfinite if and only if there exists an internal bijection between " g " = and " h " .
+it says that the cardinality of the intersection between the two sets equals 3 .
+ℵ - cardinality of infinite sets
+hence no such injection can exist , and the product is strictly larger in cardinality than the sum .
+if , in the probabilistic version of the inclusion – exclusion principle , the probability of the intersection " ai " only depends on the cardinality of " i " , meaning that for every " k " in there is an " ak " such that
+then , according to abouabdillah 's theorem , there exists an antichain of cardinality " n " in " e"2"n " that contains " x " if and only if 2"n " < 3"k " + 1"c " .
+his proofs , however , give no indication of the extent to which the cardinality of the natural numbers is less than that of the real numbers .
+it happens that it does n't ; by considering the above example we can see that if some object " one greater than infinity " exists , then it must have the same cardinality as the infinite set we started out with .
+a basis of this cardinality may be formed by removing from " l " one of the leaves associated with each vertex in " k " .
+thus , the bookcase analogy is flawed as it fails to distinguish between set inclusion and cardinality ; claiming that there are as many green books as there are red and green books together is a consistent if somewhat counterintuitive position , once the notion of " as many " has been adjusted to tolerate infinite quantities .
+for example , cardinality equals variety dictates that a three member diatonic subset of the c major scale , c - d - e transposed to all scale degrees gives three interval patterns : m2-m2 , m2-m2 , m2-m2 .
+indeed , infinite sets are characterized as sets that have proper subsets of the same cardinality .
+when the column cardinality is low , each leaf node of the b - tree would contain long list of rids .
+the property of separability does not in and of itself give any limitations on the cardinality of a topological space : any set endowed with the trivial topology is separable , as well as second countable , quasi - compact , and connected .
+for example , a well - studied invariant is the smallest cardinality of a collection of meagre sets of reals whose union is the entire real line .
+when this series for the tangent function is expressed in a form in which the denominators are the corresponding factorials , and the numerators , called the " tangent numbers " , have a combinatorial interpretation : they enumerate alternating permutations of finite sets of odd cardinality .
+all bases of a vector space have equal cardinality ( see dimension theorem for vector spaces ) and so the dimension of a vector space is uniquely defined .
+these are indexed by the cartesian product " a " × " b " , which by definition has cardinality equal to the product of the cardinalities of " a " and " b " .
+here card(formula_12 ) denotes the cardinality of a set formula_12
+if for any " n " there is a set of cardinality " n " which can be shattered by " c " , then formula_12 for all " n " and the vc dimension of this class " c " is infinite .
+in set theory , jensen 's covering theorem states that if does not exist then every uncountable set of ordinals is contained in a constructible set of the same cardinality .
+cardinality ( sql statements ) .
+then the set " u(κ ) " of all sets strictly of type κ is a grothendieck universe of cardinality κ. the proof of this fact is long , so for details , we again refer to bourbaki 's article , listed in the references .
+normal - cardinality column values are typically names , street addresses , or vehicle types .
+note that in both representations the empty product has cardinality 1 .
+more generally , if κ is a cardinal then a boolean algebra is called κ-complete if every subset of cardinality less than κ has a supremum .
+given certain set - theoretic assumptions , saturated models ( albeit of very large cardinality ) exist for arbitrary theories .
+it is clear , for instance , that some sort of cardinality restriction for the members of formula_53 is required .
+among other things , this implies that the set of all square - free integers has the same cardinality as the set of all integers .
+in mathematics , the cardinality of a set is a measure of the " number of elements of the set " .
+the idea behind the nm is that the nearness of sets in a perceptual system is based on the cardinality of tolerance classes that they share .
+on the edge of each line arrows indicate the cardinality .
+every distributive ( ∨,0)-semilattice of cardinality at most ℵ1 satisfies schmidt 's condition .
+like the other axioms of countability , separability is a " limitation on size " , not necessarily in terms of cardinality ( though , in the presence of the hausdorff axiom , this does turn out to be the case ; see below ) but in a more subtle topological sense .
+cardinality of the continuum .
+if the goal is reached , we define the cost of the walk as the sum of the costs of all of the edges traversed , with cardinality .
+equivalently , a set is " countable " if it has the same cardinality as some subset of the set of natural numbers .
+the last implies a weak form of the continuum hypothesis ( namely , that every uncountable set of reals has the same cardinality as the full set of reals ) .
+similarly , when the cardinality of the union of finite sets " a"1 ... ,
+sql databases use cardinality to help determine the optimal query plan for a given query .
+the concept goes back to georg cantor , who defined the notion of cardinality and realized that infinite sets can have different cardinalities .
+each agent has a single variable whose associated domain is of cardinality formula_30 ( there is one domain value for each possible color ) .
+further , all the maximal algebraically independent subsets have the same cardinality , known as the transcendence degree of the extension .
+similarly , the question of whether there exists a set whose cardinality is between |"s"| and |"p"("s")| for some infinite " s " leads to the generalized continuum hypothesis .
+it is also possible for a proper subset of an infinite set to have the same cardinality as the original set , something that can not happen with proper subsets of finite sets .
+now formula_1 is the cardinality of the set of countable ordinals , and this is merely a special and the simplest way of generating a higher cardinal .
+in fact , a standard probability space formula_59 is countably separated if and only if the cardinality of formula_135 does not exceed continuum ( see ) .
+given a bipartite graph " g " = ( " x"∪"y " , " e " ) , we are to find a maximum cardinality matching in " g " , that is a matching that contains the largest possible number of edges .
+let us assume a set of entities each having the same formula_36 features , i.e. , feature set formula_2 , with each feature variable having cardinality formula_38 .
+thus , by lagrange 's theorem , finding a unique formula_51 lying in this interval and satisfying formula_52 , results in finding the cardinality of formula_1 .
+since cardinality is such a common concept in mathematics , a variety of names are in use .
+poor cardinality estimates and uncaught correlation are one of the main reasons why query optimizers pick poor query plans .
+for instance , since " ℓ"2("b " ) has an orthonormal basis indexed by " b " , its hilbert dimension is the cardinality of " b " ( which may be a finite integer , or a countable or uncountable cardinal number ) .
+are of equal cardinality ( using the same restrictions as before on " i " and " n " ) .
+indexed by infinite cardinals whose elements fix all but a certain cardinality of elements of the set .
+where a is some set with cardinality formula_170 .
+the cardinality of a set " a " is usually denoted | " a " | , with a vertical bar on each side ; this is the same notation as absolute value and the meaning depends on context .
+a set is a singleton if and only if its cardinality is .
+we conclude that [ 0,1 ] and [ 0,1]×[0,1 ] have the same cardinality .
+morley proved that if i(t,ℵ0 ) is infinite then it must be ℵ0 or ℵ1 or the cardinality of the continuum .
+be the cardinality of any countably infinite set ; for concreteness , take the set formula_5 of natural numbers to be a typical case .
+for instance , the set of real numbers has greater cardinality than the set of natural numbers .
+an example is deciding if an " n "- vertex graph contains an independent set of cardinality " k " .
+the rank of a finitely generated group " g " can be equivalently defined as the smallest cardinality of a set " x " such that there exists an onto homomorphism " f"("x " ) → " g " , where " f"("x " ) is the free group with free basis " x " .
+moreover , if mapping goes from one set to a set of the same cardinality , it should be bijective .
+the cardinality of the set formula_6 is formula_7 .
+as cantor realized , this collection could not itself have a cardinality , as this would lead to a paradox of the burali - forti type .
+this implies that the quadratic irrationals have the same cardinality as ordered quadruples of integers , and are therefore countable .
+y. girard to model linear logic [ 3 ] ) , while chu spaces over " k " realize any category of vector spaces over a field whose cardinality is at most that of " k " .
+in his defense , cantor himself pointed out that bolzano worked in a time when the concept of the cardinality of a set was absent .
+examples of his results in applications to algebra include the finding that under the weak continuum hypothesis there is no universal object in the class of uncountable locally finite groups ( answering a question of macintyre and shelah ) ; with shelah , showing that there is a jump in cardinality of the abelian group extp("g " , " z " ) at the first singular strong limit cardinal ; and , with shelah , eliminating the use of the diamond in the proof of existence theorem for complete universal locally finite groups in several cardinalities .
+one of cantor 's most important results was that the cardinality of the continuum ( c ) is greater than that of the natural numbers ( 0 ) ; that is , there are more real numbers r than whole numbers n.

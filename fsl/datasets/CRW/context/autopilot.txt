@@ -1,0 +1,255 @@
+at this point the pilot , or autopilot , turns the plane to achieve alignment to this line .
+at approximately 11:15 a.m. , while flying over salisbury , maryland , the boeing 737 - 2b7 experienced an unintended wheel deflection while on autopilot and cruising at about 260 knots .
+striker 's courage rekindles elaine 's love for him , and the two share a kiss while otto takes off in the evacuated plane after inflating a female autopilot doll .
+the digital flight control ( fly - by - wire ) cockpit is fitted with modern navigation systems such as satellite navigation ( gps ) , fms , autopilot and weather radar .
+he then activates the autopilot and escapes with a parachute .
+the new york band settled out of court in 2002 , and changed their name to autopilot off .
+according to the icao , the autopilot was not operating in the ins mode for one of two reasons .
+in radio - controlled modelling ( especially rc aircraft and helicopters ) , an autopilot is usualy a set of extra hardware and software that deals with pre - programming the model 's flight .
+the autopilot disengaged automatically , and the aircraft climbed under manual control .
+the ntsb had issued a safety alert about the use of autopilot in icy conditions in december 2008 .
+the aircraft was fitted with a reinforced wing box , an active rudder , a nose video camera , a vega digital control / data link , and a lear sieglar digital proportional autopilot .
+the reference bug settings also control the autopilot and flight director .
+the block ii agc also has the mysterious and poorly documented codice_72 instruction ( the name may be a contraction of " ed 's interrupt " , after ed smally , the programmer who requested it ) which is used a total of once in the apollo software : in the digital autopilot of the lunar module .
+in the first incident , an air france a340 - 300 ( f - glzl ) , en route from tokyo , japan to paris , france , experienced an event at in which the airspeed was incorrectly reported and the autopilot automatically disengaged .
+the final report , released on 25 march 2008 , concluded that the pilots lost control of the aircraft after they became preoccupied with troubleshooting the inertial reference system and inadvertently disconnected the autopilot .
+their every need and comfort is provided by a " machine , " in this case an interstellar cruise ship , which is controlled by an autopilot .
+with guidance algorithms , the autopilot uses data from the seeker and tracker to determine when to transition the missile from one phase of flight to another .
+the icao released their report december 2 , 1983 , which concluded that the violation of soviet airspace was accidental : one of two explanations for the aircraft 's deviation was that the autopilot had remained in heading hold instead of ins mode after departing anchorage .
+the advantages of this mechanism over a magnetic compass are that the reading is in electronic form and can be digitised and transmitted easily , displayed remotely , and used by an electronic autopilot for course correction .
+not all of the passenger aircraft flying today have an autopilot system .
+in december 2003 mbda and saab bofors dynamics signed an enabling contract worth sek485 m covering programme management , system level participation , participation in the development of seeker , guidance , and autopilot algorithms , development of missile software , development of test equipment , system proving activities , and the tbus .
+the ec155 is also equipped with a four - axis digital autopilot , coupled to the engine fadecs for full - envelope protection , and is offered with a health and usage monitoring system ( hums ) .
+the failure to maintain straight and level flight during the recalibration caused the autopilot to completely disengage and cease compensating for the plane 's tendency to roll to the right at around 1 degree per second , which caused the nose of the plane to dip .
+the investigation came to the conclusion that this was due to the autopilot disengaging , probably due to a servo reaching its torque limit .
+investigation into the aircraft 's autopilot showed that the force required to switch to cws mode was different between the a and b channels ( 15 vs 20 pounds respectively ) .
+the embraer jet , despite serious damage to the left horizontal stabilizer and left winglet , was able to continue flying , though its autopilot disengaged and it required an unusual amount of force on the yoke to keep the wings level .
+the larynx was an early cruise missile in the form of a small monoplane aircraft that could be launched from a warship and flown under autopilot ; it was tested between 1927 and 1929 by the royal navy .
+the autopilot was also in control of speed and angle of attack and it is believed that this vital part was malfunctioning .
+however , multiple problems with the autopilot required that repairs be made in lengthy stopovers in lisbon and the canary islands ; then further stops were made in cape town , hobart and auckland .
+the apollo guidance computer used as an autopilot for the csm and lem had a mass of around a hundred pounds and consumed a significant amount of power , so computer controlled flight was out of the question .
+the control module contains the autopilot , which collects steering data from the guidance section and converts the information into signals that move the wing control surfaces to change the weapon 's flight path .
+at 17:45 , flight 254 took off from marabá , and the autopilot started a long 158° curve to port , instead of the reasonable 41 degrees heading correction to starboard that should be expected during a normal flight to belém .
+sanford said " cage performs as if he 's on autopilot , moore looks more miserable than she did as the suicidal housewife in " the hours " , and biel seems fully aware she was hired only to provide a few glimpses of cheesecake . "
+suddenly , seeker locks the rover 's autopilot on a homing signal that he thinks will lead the guests to the iguanodon .
+the rocket engines for the international space station are controlled by autopilot .
+the bqm-74c incorporates a microprocessor - based autopilot that allows it to be programmed for much more sophisticated flight operations .
+aids such as radar , echo - sounding and autopilot are common .
+in 1917 , several n-9s were provided to the sperry gyroscope company for conversion to the hewitt - sperry automatic airplane configuration , flight testing the new autopilot components intended to be used in pilotless " aerial torpedoes " .
+during these tests the sound barrier was broken , for the first time by a vertical take - off aircraft , but on 14 september 1964 a defect in the autopilot caused a crash .
+he orders shan to set the autopilot while he and commander ford take out their launch keys and arm the nuclear warheads .
+a properly equipped aircraft , like the f-106 delta dart , could feed the sage directions into the autopilot and fly " hands off " to the interception .
+investigators believe the autopilot switched modes when the captain accidentally leaned against the yoke while turning to speak to the flight engineer , who was sitting behind and to the right of him .
+there was an attempt to use them in the b-25 mitchell to replace the much more complex norden , but the " lotfe " 7 interacted badly with the si-1 autopilot and the problems were never fixed .
+they then set up a trap in which they steal a bug fighter , and using the ship 's autopilot they enter the yeerk pool .
+autopilot systems combine mechanical rudders with navigation systems .
+early production la-17ms did n't have an autopilot , so were quickly replaced by the la-17ma , which did .
+he performed stability analyses for the deployment of the hubble space telescope , designed flight control upgrades for the space shuttle autopilot , and worked on the attitude control system for space station freedom .
+at this time the cockpit voice recorder ( cvr ) recorded the autopilot disengaging .
+in particular the autopilot could get confused and fly some very unusual re - entry trajectories .
+fortunately the captain is able to engage the autopilot and the altitude hold switch to keep the aircraft in the air before losing consciousness .
+later , the low - altitude safety and targeting enhancement ( laste ) upgrade provided computerized weapon - aiming equipment , an autopilot , and ground - collision warning system .
+marney is in great pain and réal initiates autopilot before leaving the pilot 's seat to tend to him .
+the autopilot in a modern large aircraft typically reads its position and the aircraft 's attitude from an inertial guidance system .
+the first aircraft autopilot was developed by sperry corporation in 1912 .
+" slick shoes / cooter split " is a split ep from slick shoes and autopilot off ( then known as " cooter " ) .
+the aircraft did not bank after the disengagement of the autopilot , but neither would it respond to steering inputs from either controller due to control cable damage caused by the bomb 's explosive energy which made the plane 's skin expand rapidly .
+during the mission the crew deployed the morelos - b , aussatt ii , and satcom k-2 communications satellites , conducted two six - hour spacewalks to demonstrate space station construction techniques with the ease / access experiments , operated the continuous flow electrophoresis ( crfes ) experiment for mcdonell douglas and a getaway special ( gas ) container for telesat , canada , conducted several mexican payload specialists experiments for the mexican government , and tested the orbiter experiments digital autopilot ( oex dap ) .
+on june 6 , 1994 , this aircraft , a tupolev tu-154 m , broke up in - flight and crashed as a result of an autopilot malfunction which caused violent shaking and overstressed the airframe .
+holly runs most of " red dwarfs systems , although in several episodes such as " quarantine " , holly is shown to not have complete control of " red dwarf " , and in holly 's absence in series vi and vii , a computer is mentioned by the crew , and is seen to control autopilot .
+the first officer disengaged the autopilot for pitch , while retaining it for roll .
+it receives commands from the missile autopilot and positions the fins .
+this system provided a voice for most warnings , including fire , altitude , cabin altitude , stall , overspeed , autopilot disconnect and so on .
+with all the weapons armed and the autopilot locked , the " seaquest " begins to plunge into the lava well .
+however , if a person logs into their gmail account and goes under the settings tab they will notice that there is no autopilot tab .
+it is desirable that when the pitch angle and angle of attack of an aircraft are disturbed ( by , for example turbulence ) that the aircraft returns to its original trimmed pitch angle and angle of attack without a pilot or autopilot changing the control surface deflection .
+in the liner notes to " nirvana " , " rolling stone " writer david fricke erroneously states that the song had gone under the previous titles of " autopilot " and " on a mountain . "
+this in turn made the innovative terrain clearance and autopilot system feasible .
+however , a separate investigation into the cause of the crash showed that the autopilot system malfunctioned at the same time that a passenger 's cell phone on board the plane received an sms message and another received a call .
+however , autopilot off 's record label fastmusic , took the lawsuit all the way to federal court and lost to the mississippi band .
+during the flight and continuing through the plane 's landing approach , the crew had been flying on autopilot .
+a few seconds before the captain called for the autopilot to be engaged , the airplane ’s pitch began increasing and airspeed began decreasing .
+he allows amelia to parachute to safety , and with his last strength , he overrides the plane 's autopilot and flies the plane into the games building , home of the network .
+when " cooter " became autopilot off , the name of this cd was changed and it was re - released to reflect the new name .
+the autopilot for this aircraft type was then reprogrammed so that it would never ignore a manual override .
+in 2004 , under their new name autopilot off , they released their major debut album , " make a sound " .
+famed aviator wiley post twice used the field for record - breaking ' round - the - world flights , and developed or adapted technology ( such as the sperry autopilot ) there to aid him .
+thinking this was wrong he disconnected the autopilot and re - trimmed the aircraft slightly nose - up .
+shaeffer programs the autopilot in a thrust pattern that allows him to reach the center of mass of the ship in effective freefall , though he nearly fails to do so .
+atchison began an emergency descent , re - engaged the temporarily disabled autopilot , and broadcast a distress call .
+an autopilot onboard as well as an ins / gps navigation system allows the missile to perform its mission autonomously ; a data link enables intervention and target validation .
+the submarine 's autopilot ( which aboard " collins " was nicknamed ' sven ' ) was found to be better at depth keeping during snorting than many of the operators .
+it is also known that drivers do not drive vehicles manually , but instead let the autopilot drive them to their destinations .
+just surrender has toured with autopilot off , bayside , my american heart , thestart , cartel , hawthorne heights , matchbook romance , the early november , armor for sleep , the classic crime , the audition , all time low , mayday parade , every avenue , set your goals , powerspace , bowling for soup , we the kings , metro station .
+the missile 's autopilot is programmed to fly the most efficient path to the target and can receive course corrections from the ground .
+as the plane circled , the freezing rain formed a ridge of ice on the upper surface of its wings , eventually causing the aircraft 's autopilot to suddenly disconnect and the pilots to lose control .
+the stabilizer was also normally attached to the aircraft 's autopilot , allowing it to direct the aircraft back to the same level point as the sight head .
+veteran hip - hop producer keith shocklee , best known for his work with public enemy , recorded and produced the conshafter song " autopilot . "
+the standard redstone 's st-80 inertial guidance system was replaced in the mercury - redstone with the simpler lev-3 autopilot .
+the gdu 1043 has autopilot / flight director keys for all gfc 700 modes except vnav .
+it also has a programmable autopilot system and gps system .
+eddie albert portrayed the captain , and in an early role , lane smith portrayed the hospitalized and barely alive surviving flight engineer who alerts tobias to a computer ' mismatch ' in the autopilot .
+other test articles were equipped with extra solid motors for launch and autopilot tests .
+often this part of the display shows not only the current heading , but also the current track ( actual path over the ground ) , current heading setting on the autopilot , and other indicators .
+the airplane 's autopilot system lands the plane at boston 's logan airport , where various federal agencies create a task force to investigate what occurred during the flight .
+for an aircraft to return towards its trimmed attitude , without input from a pilot or autopilot , it must have positive longitudinal static stability .
+the autopilot disconnected and the crew received an alert indicating a problem with adiru number 1 .
+software and hardware in an autopilot is tightly controlled , and extensive test procedures are put in place .
+the flight was uneventful until the scheduled mid - air refueling from a kc-135 stratotanker , which had to be conducted manually because of an error with the b-52 g 's autopilot .
+preston and steve 's contract 's with radio one expired on february 24 , 2005 , and the live djs stopped broadcasting in the early afternoon , leaving the broadcast on autopilot for the rest of the day .
+after banking as much as 90 degrees , the remaining functions of the autopilot tried to correct the plane 's altitude by putting the plane in an almost vertical ascent , nearly stalling the plane .
+before leaving for turo , hämsterviel locks jumba , pleakley and stitch in pleakley 's g.a.c.c. space vehicle , with its autopilot set to send the ship into a black hole .
+the previous evening , the autopilot yaw - channel had been erroneously connected to the bank control , and the bank - channel to the yaw controls .
+uaps20 unmanned autopilot system .
+nmea 0183 ( or nmea for short ) is a combined electrical and data specification for communication between marine electronic devices such as echo sounder , sonars , anemometer ( wind speed and direction ) , gyrocompass , autopilot , gps receivers and many other types of instruments .
+he then controlled the lateral flight path manually while monitoring the autopilot ’s continued control of the vertical flight path – ready to completely disengage it at the first sign of any deviation .
+the first aircraft autopilot was invented by lawrence sperry in 1912 .
+boeing has since issued a bulletin to remind pilots of all 737 series and bbj aircraft of the importance of monitoring airspeed and altitude , advising against the use of autopilot or autothrottle while landing in cases of radio altimeter discrepancies .
+while on final approach , the autopilot automatically disconnected .
+the player may turn on autopilot during these long transit periods but must still stay alert for enemy contact .
+the integrated control panel ( icp ) is the primary means for manual pilot entry of communications , navigation , and autopilot data .
+it had a precision - navigation autopilot system , a reconnaissance payload , a self - destruct system to ensure that none of its sensitive gear fell into enemy hands , and was to carry electronic countermeasures to further improve its survivability .
+the craft used an ins ( inertial navigation system ) autopilot and could also be flown manually through activation of the rcs system .
+captain alfred c. haynes and his flight crew ( first officer william records , who was flying , and second officer dudley dvorak , flight engineer ) felt a jolt going through the aircraft , and warning lights showed that the autopilot had disengaged , and the tail - mounted number two engine was malfunctioning .
+the white star can orbit the station on autopilot .
+the autopilot stopped responding to reyes 's commands and flew past okinawa .
+in addition to nofx , performers include alkaline trio , descendents , flogging molly , the epoxies , rx bandits , the offspring , rise against , pennywise , anti - flag , against me ! , ministry , green day , sum 41 , inferno friendship society , arghoslent , autopilot off , no doubt , the lawrence arms and toby keith .
+autopilot equipment was added later .
+the player , through various means , activates an ancient oil tanker and engages its autopilot , thus allowing him to reach the enclave 's main base on an offshore oil rig .
+the autopilot was also slaved to the radar control to obtain better precision firing the cannon .
+the basic concept of autoland flows from the fact that an autopilot could be set up to track an artificial signal such as an ils beam more accurately than a human pilot could – not least because of the inadequacies of the electro - mechanical flight instruments of the time .
+the captain appeared surprised when the autopilot was engaged , which he immediately switched off again .
+the aircraft was being flown on autopilot with altitude - hold engaged , and the pilot , capt .
+for a landing - without - decision aid , a fail - operational autopilot is needed .
+in response to the preliminary conclusions , boeing issued a bulletin , multi - operator message ( mom ) 09 - 0063 - 01b , to remind pilots of all 737 series and bbj aircraft of the importance of monitoring airspeed and altitude ( the " primary flight instruments " ) , advising against the use of autopilot or autothrottle while landing in cases of radio altimeter discrepancies .
+after that , an autopilot had to be installed so a non - stop autonomous flight for 24 hours could be ahieved .
+as a result of the incident , the united states altered tracking procedures for aircraft departing alaska , while the interface of the autopilot used on airliners was redesigned to make it more failsafe .
+it is shown as being able to travel from new york to siberia in a matter of minutes on autopilot , and can be summoned from reed 's palm top computer .
+the autopilot disconnected at and the aircraft landed on the grass approximately short of runway 27l. during the impact and short ground roll , the nose gear collapsed , the right main gear separated from the aircraft penetrating the central fuel tank and cabin space , and the left main gear was pushed up through the wing .
+the mig-29 has hydraulic controls and a sau-451 three - axis autopilot but , unlike the su-27 , no fly - by - wire control system .
+however , the bus 's autopilot malfunctions , causing the bus to fly off , breaking ms. frizzle 's tether line and stranding her in the asteroid belt .
+in aviation , a mode control panel ( mcp ) , is an instrument panel that controls an advanced autopilot and related systems , such as an automated flight - director system ( afds ) .
+most famous of these are the v-1 flying bomb and v-2 , both of which used a simple mechanical autopilot to keep the missile flying along a pre - chosen route .
+at this time , the autopilot disconnected and the crew received an alert indicating a problem with adiru number 1 .
+during the mission the crew deployed the morelos - b , aussatt ii , and satcom k-2 communications satellites , conducted 2 six hour spacewalks to demonstrate space station construction techniques with the access experiments , operated the continuous flow electrophoresis ( crfes ) experiment for mcdonnell douglas and a getaway special ( gas ) container for telesat , canada , conducted several mexican payload specialists experiments for the mexican government , and tested the orbiter experiments digital autopilot ( oex dap ) .
+" make a sound " is autopilot off 's major label debut album and the final album of their career , before a hiatus in 2005 .
+navigational instruments , such as an autopilot and gps , are used for manoeuvering the vessel in harbour and at sea .
+the song is ironically heard , sung by bender , over a montage depicting bender and the planet express autopilot ( which looks similar to hal ) falling in love .
+it was recognized by the fai as a double world record flight for its duration and straight line distance of 3,030 km using an autopilot .
+during the flight from new york to schiphol , three issues were noted : fluctuations in the autopilot speed regulation , problems with the shortwave radio , and fluctuations in the voltage of engine number three .
+unfortunately , the " seaquest " met her ultimate demise at the end of its tour of duty when captain bridger ordered all hands to abandon ship and locked the ship 's autopilot into a direct course with a lava well that threatened to raise ocean temperatures and melt the polar ice caps . detonating the ship 's nuclear weapons .
+the ato is the autopilot that drives the trains after a predefined schedule , insures that the train stop at stations and operates the doors .
+this resulted in the plane being flown at a large sideslip angle while still under autopilot control , by means of the rudder trim mechanism .
+they set the autopilot to climb at 500 ft / min to fl410 .
+other features of the expansion include further graphics updates as started in the trinity expansion ; the ability for players to group their vessels ' weapons for easier interaction ; changes to autopilot routes and avoidance of player - defined solar systems .
+it had transponders linking it to the semi - automatic ground environment ( sage ) system , allowing ground controllers to steer the aircraft towards its targets by making adjustments through the plane 's autopilot .
+if there is no proper inside steering position , you may still find engine controls by the chart table together with an autopilot joystick instead of a wheel .
+the hardware of an autopilot varies from implementation to implementation , but is generally designed with redundancy and reliability as foremost considerations .
+in the 26th century , the transport ship " hunter - gratzner " , its crew and passengers in cryo - stasis chambers , passes through a comet 's tail while on autopilot ; debris from the comet ruptures the hull and kills some of its crew , including the captain .
+this signal would then be used as an input to a simple autopilot , by continually turning toward the telescope optical axis , the missile was guided toward the target using what is known as a pure pursuit .
+the autopilot system allows full autonomous modes or remote control mode from the ocs station .
+the schwartz design did not have a terminal guidance system - it used an autopilot to maintain a straight course .
+lateral navigation ( lnav ) refers to navigating over a ground track with guidance from an electronic device which gives the pilot ( or autopilot ) error indications in the lateral direction only and not in the vertical direction .
+after the jet was cleared to land at runway 05l , the autopilot was disengaged , and the pilots then attempted a manual go - around .
+it was initially released under their original name cooter , and is the only cd by the band that was not re - released under their final name , " autopilot off " .
+however , combat surveillance uavs usually use the autopilot to get to the operating area , with the aircraft then operating by radio control to find targets of opportunity .
+during the sustain phase the missile carried out a series of pre - programmed manoeuvres , under autopilot control , representative of the mid - course and endgame phases of an engagement .
+mission control then had the aircraft guided by radio to a point in front and above the bombers , where the pilot would turn off the autopilot , and push over for a gliding attack .
+most importantly , the to / ga switch disables the autopilot so it does not follow the ils glideslope anymore , and it does override any autothrottle mode which would keep the aircraft in landing configuration .
+the press release speculated that the pilot might have fallen unconscious while the autopilot was still engaged , even falsely claiming that " the pilot reported over the emergency frequency that he was experiencing oxygen difficulties . "
+it is frequently interconnected with an autopilot with altitude hold and the capability of following the glide slope all the way to the decision height and beyond .
+the engineer warned the captain who then saw that the autopilot was trimming the aircraft nose - down .
+one retrospectively interesting aspect of this pilot episode is that the airliner has been hijacked ( via remote control of the plane 's autopilot ) and , by the end , both byers and his father have boarded the plane to try to stop the hijacking .
+macintalk 's ' ralph ' voice serves as the voice of the computerized autopilot , " auto " , in the 2008 disney / pixar film " wall - e " .
+these pitch , airspeed and bank angle deviations indicated that the captain directed his attention away from monitoring the attitude indications during and after the autopilot disengagement process .
+the pilots were not aware of the partial disconnection of the autopilot , which occurred with no audible alarm , and did not regain control of the aircraft .
+most people understand an autopilot to refer specifically to aircraft , but self - steering gear for ships , boats , space craft and missiles are sometimes also called by this term .
+the pilots concluded that both asis were malfunctioning and disconnected the autopilot , which had received the captain 's faulty asi readings .
+a navigation system , autopilot or engine may have thousands of pages of procedures , inspections and rigging instructions .
+the autopilot follows the course within an accuracy of up to 1 degree .
+suddenly a strange noise was heard from the whole plane , followed by an uncommanded roll excursion , which disengaged the autopilot .
+this information can also be fed into autopilot systems .
+the pilots recovered the aircraft with the autopilot disengaged and requested a return to perth .
+the stooge consisted of two - stage propulsion , an autopilot , radio control equipment with additional ground unit , and a warhead .
+key modifications and updates to the model 31a cockpit and avionics include ; a bendix king ( now honeywell after the merger with allied signal ) electronic flight information system 50 , with universal 1 m , 1b and 1c flight management system , a dual kfc 3100 two - axis autopilot and flight director with yaw damper , and dual bendix king ( radios sold to chelton avionics when allied signal combined with honeywell ) vcs-40a com units , vn-411b series iii navigation receivers .
+most people understand an autopilot to refer specifically to aircraft , but self - steering gear for ships , boats , space craft and missiles is sometimes also called by this term .
+while the plane was climbing to , the captain 's asi indicated 350 knots , which triggered an autopilot reaction , increasing the pitch - up attitude and reducing power to lower the plane 's airspeed .
+morris points out , " an autopilot would n't have made any difference in this case .
+in addition , the pfd gives autopilot mode information , abbreviated engine parameters , glide slope and localizer information and winds aloft .
+controlled by the inertial autopilot system and radio altimeter , the missile flies at a cruising speed of mach 0.9 , and the cruise altitude is reduced to 10 - 20 metres ( depending on the sea state ) from the original 20 - 30 metres of the c-801/yj-81 .
+other information displayed on the pfd includes navigational marker information , bugs ( to control the autopilot ) , ils glideslope indicators , course deviation indicators , altitude indicator qfe settings , and much more .
+one of east anglian 's engagements at the time included a one - off round - trip to cyprus carrying a party of schoolboys , which was operated by a miles aerovan lacking radio equipment and an autopilot .
+because this rule is used by single pilots with many other tasks to perform , often in a basic aircraft without the aid of an autopilot , it must be a simple process that can be performed in their heads .
+some sources suggest that the sinking was caused by the captain being drunk or that the crew went below deck to drink beer , to celebrate christmas / new year , leaving the vessel on autopilot .
+planned flight - deck technology was extremely advanced , with a quadruplicated automatic flight control system ( a " super autopilot " ) intended to enable fully - automatic zero - visibility landings .
+one model 147s took a picture of an sa-2 streaking past , followed by a picture of the missile exploding , and then due to an autopilot programming error the drone skirted a ridgeline , just missing the treetops .
+the other machine was sent to lwental in july 1940 and had undergone trials with autopilot controls .
+fail - operational autopilot : in case of a failure below alert height , the approach , flare and landing can still be completed automatically .
+on february 15 , more information on the crash was released by the ntsb saying it appeared the plane had been on autopilot when it went down .
+the localizer signal of the ils may be used for lateral control even after touchdown until the pilot disengages the autopilot .
+it is said that the captain disconnected the autopilot and let the plane crash deliberately .
+we 've decided to take an indefinite break from autopilot off .
+" a minute later , the autopilot was disengaged , immediately followed by the first officer again saying , " i rely on god . " three seconds later , the throttle for both engines was reduced to zero , and both elevators were moved three degrees , nose down .
+janet then flips through the book and finds the instructions for the autopilot , so they can fly back to the asteroid belt and rescue ms. frizzle .
+autopilot off was a punk rock band from orange county , new york composed of chris hughes ( guitar ) , chris johnson ( guitar / vocals ) , phil robinson ( drums ) and rob kucharek ( bass ) .
+the pilots noticed the control wheel turn to the left , and quickly realized that the autopilot was turning the wheel to counteract rudder movement despite the rudder pedals having not been touched .
+the earliest experimental autopilot - controlled landings in commercial service were not in fact full auto landings but were termed “ auto - flare ” .
+the ntsb investigation discovered that the autopilot had been inadvertently switched from altitude hold to cws ( control wheel steering ) mode in pitch .
+the result of all this is to create a spectrum of low visibility equipment , in which an aircraft ’s “ autoland ” autopilot is just one component .
+autopilot off then signed with their major label , island records shortly afterwards .
+the plane had flown on autopilot and crashed 50 to 75 yards from a residential area .
+the modular midcourse package ( mmp ) , which is located in the forward portion of the warhead section , consists of the navigational electronics and a missile - borne computer that computes the guidance and autopilot algorithms and provides steering commands according to a resident computer program .
+the evas can also be controlled by an autopilot system , the dummy plugs , which are based on the thought patterns of either rei ayanami or kaworu nagisa .
+furthermore , the interface of the autopilot used on large airlines was modified to make it more obvious whether it is operating in heading mode or ins mode .
+sas , autopilot , and manual control inputs would fight the yawing , but often the extreme off - angle would reduce airflow in the opposite engine and cause it to begin " sympathetic stalls . "
+the vehicle is put in a stable glide on autopilot , the hatch is blown , and the crew slides out a pole to clear the orbiter 's left wing .
+it also possessed c.o.r.a. ( computer , oral response activated ) , a sultry female voice activated computer which doubled as an autopilot .
+before bailing out last , the captain set a turning course over to the open ocean using the autopilot .
+the airliner is on autopilot .
+the penultimate expansion , " apocrypha " , was released on march 10 , 2009 and introduced features such as further graphics updates as started in the trinity expansion ; the ability for players to group their vessels ' weapons for easier interaction ; changes to autopilot routes and avoidance of player - defined star systems .
+he then set the plane to autopilot and parachuted out .
+while the autopilot is keeping the aircraft in level flight , it is inoperable for turns .
+the fd is generally used in direct connection with the autopilot , where the fd commands the ap to put the aircraft in the attitude necessary to follow a trajectory .
+he too goes into his stasis pod after putting the ship on autopilot .
+once the bombsight was readied and the aircraft was on final approach , the system was turned on and took control of the aircraft 's autopilot .
+a 1954 shanghai jiaotong university graduate , professor zhu was in charge of some of the tests of type 091 submarine , the first chinese nuclear submarine in the 1960 ’s , and had successfully developed some subsystems used on the ssn , such as the underwater autopilot , reverse thruster controlling system , and resistance measuring system .
+a pitch - only autopilot then maintained the bomb at the 2 m probe length until striking the target .
+the autopilot is now part of the electronic controller .
+other major improvements included a broad - chord metal - skinned rudder , douglas dc-6 wheels and brakes , an auxiliary power unit , autopilot and additional fuel tanks inside the wing and the addition of wingtip fuel tanks .
+autopilot off ( ep ) .
+the ato is the autopilot that drives the trains after a predefined schedule , insures that the train stop at stations and operates the doors .
+when the autopilot finally engaged , the aircraft started to ascend to 2000 ft .
+beyond the hardware of home cockpits , most flight simulator software can simulate modern aircraft systems to a very high standard in addition to the basic flight dynamics , providing accurate recreations of , among others , the fmc ( flight management computer ) , autopilot and engine management systems .
+at 08:54 , flight 77 began to deviate from its normal , assigned flight path and turned south , and then hijackers set the flight 's autopilot heading for washington , d.c. passenger barbara olson called her husband , united states solicitor general ted olson , and reported that the plane had been hijacked and that the assailants had box cutters and knives .
+elaine contacts the chicago control tower for help , and is instructed by tower supervisor steve mccroskey to activate the plane 's autopilot , a large blow - up doll named " otto " , which will get them to chicago but will not be able to land the plane .
+the sm-2 incorporates a new autopilot giving it inertial guidance in all phases of flight except for the terminal intercept where semi - active radar homing is still used .
+an autopilot is designed to perform some of the tasks of the pilot .
+they are directed by an autopilot system with rc backup .
+in the case of the single - seat ar 234 the bombsight was difficult to access , so for operation the autopilot was engaged first , allowing the pilot to remove the control yoke and access the bombsight .
+the controls may allow full or partial automation of flight , such as an autopilot , a wing leveler , or a flight management system .
+these incidents often started with the autopilot disengaging and sending adiru failure messages .
+eighteen commands could be issued by radio to the autopilot with 6 further commands for operation of other onboard equipment .
+thuvia , maid of mars , is notable in that john carter 's son , cathoris , invents an apparent precursor of the autopilot ( decades before an actual device was created ) .
+some time into the flight , while cruising at 37,000 ft , a failure in the no.1 adiru led to the autopilot automatically disengaging followed by two sudden uncommanded pitch down manoeuvres , according to the australian transport safety bureau ( atsb ) .
+the conflicting control signals from the pilots and autopilot then resulted in the aircraft stalling and crashing .
+this system also can be coupled to the aircraft 's autopilot to provide " hands off " terrain - following capability .
+on april fools ' day 2009 google introduced a service called gmail autopilot by cadie .
+in futurama comics , bender accidentally deactivates the autopilot of the planet express ship , causing the ship to fly out of control , knock the silver surfer off his board , then enter a space invaders video game style battle .
+next is the autopilot ( eop ) , altimeter , gyro and radar receiver and a battery .
+a key feature of this approach allowed for the components of the vector cross product ( v , xdv , /dt ) to be used as the basic autopilot rate signals — a technique that became known as " cross - product steering " .
+only ( cat i ) , and similarly no autopilot was suitable for or approved for use below this altitude .
+it is shown as being able to travel from new york to siberia in a matter of minutes on autopilot , and can be summoned from reed 's palm top computer .
+immediately after take off the autopilot was engaged and it controlled the aircraft during its climb to flight level 220 .
+development would concentrate on the seeker head , autopilot , resistance to jamming and a steering system with 3d thrust vector control ( tvc ) .
+during first - stage flight , the vehicle was guided by a gyro - controlled autopilot controlling both air - vanes and jet vanes on the first stage by means of servos .
+the beechjet added a fast jet to the line - up , with a glass cockpit , gps , an autopilot and a working weather radar using the new weather engine .
+in addition the autopilot may not have been working correctly , or the crew may not have been fully aware of how to use it .
+in this mode once the pilot releases pressure on the yoke the autopilot will maintain the pitch attitude selected by the pilot until he moves the yoke again .
+a key feature of this approach allowed for the components of the vector cross product ( v , xdv,/dt ) to be used as the basic autopilot rate signals - a technique that became known as " cross - product steering . "
+during the trip across the atlantic the side - scan sonar was deployed the autopilot and engine speed set in an attempt to set a record for the longest survey line .
+unlike these other theories , however , sdt does not include any sort of " autopilot " for achievement , but instead requires active encouragement from the environment .
+while similar to the first aircraft , it had a number of differences , including the addition of an autopilot .
+immediately after the explosion , the aircraft banked hard to the right , but the autopilot quickly corrected the bank .
+the ato is the autopilot that drives the trains after a predefined schedule , insures that the train stop at stations and operates the doors .
+the aircraft featured a larger main rotor than its predecessors , a fibreglass tail rotor , and an autopilot .
+the aircraft will be offered in three different trim and avionics configurations , with higher end models offering the dynon d100 glass cockpit and autopilot .

@@ -1,0 +1,255 @@
+type inference refers to the ability to deduce automatically , either partially or fully , the type of a value derived from the eventual evaluation of an expression .
+the california clapper rail has been observed to forage in or near relatively disturbed areas , leading one to deduce the importance of protecting even ruderal marsh areas ; for example this species was seen foraging in a small mudflat area within seal slough in san mateo , three miles from the nearest known breeding area in belmont .
+an important goal of active listening is to enable a group member or a child to understand his or her own problems and to deduce solutions independently .
+it was the remark heard by green at the undertaker ’s that helped holmes deduce the truth .
+while trying to deduce the origin of the brain rewiring responsible for patrick 's mysterious gift of music , house and his team must stop the deadly bleeding that is quickly threatening his life .
+friar odoric was dispatched to the east , where a remarkable extension of missionary action was then taking place , about 1316 - 1318 , and did not return till the end of 1329 or beginning of 1330 ; but , as regards intermediate dates , all that we can deduce from his narrative or other evidence is that he was in western india soon after 1321 ( pretty certainly in 1322 ) and that he spent three years in china between the opening of 1323 and the close of 1328 .
+this fact can be exploited to deduce many properties of the eigenstate spectrum .
+however , this did not put a stop to social discrimination and their lower living standards , because japanese family registration ( koseki ) was fixed to ancestral home address until recently , which allowed people to deduce their burakumin membership .
+from this we deduce that ζ"g"("s " ) can be expressed in terms of the riemann zeta function as
+therefore , we can deduce the relation , assuming the thermal state .
+paleoclimatologists employ a wide variety of techniques to deduce ancient climates .
+we can deduce from these court orders , that someone decided to make an issue out of their living arrangements , which ultimately led to their marriage .
+therefore , an expression profile allows one to deduce a cell 's type , state , environment , and so forth .
+thus , even though most deduction systems studied in propositional logic are able to deduce formula_117 , this one is too weak to prove such a proposition .
+some efficiency - minded compilers employ a hybrid approach in which the activation records for a function are allocated from the stack if the compiler is able to deduce , through static program analysis , that the function creates no upwards funargs .
+the pandya transformation , which involves angular momentum re - coupling coefficients , can be used to deduce one - particle one - hole ( ph ) matrix elements .
+there are two cases : in the trivial case , one of the three prisoners wears the single off - colour hat , and thus the other two can easily deduce the colour of theirs .
+bruno and buffalmacco steal a pig from calandrino , and induce him to deduce its recovery by means of pills of ginger and vernaccia wine .
+another example , the verb " to praise " has the parts " laudō - laudāre - laudāvī - laudātus " . " laudō " and " laudāre " , the present active indicative first person singular and the present active infinitive are needed to deduce the present stem .
+taylor , who lived to the age of 77 , was a master of a parallel art to kremlinology , he could deduce the performance of soviet military equipment from blurred photographs .
+the theorem can also be used to deduce that the domain of a non - constant elliptic function " f " can not be c. suppose it was .
+the perfect stem " portāvī " ( " i carried " ) and the supine stem " portātus " ( required for the perfect passive participle ) are both needed to deduce all the forms of the perfect tense .
+this is not to say that we can not deduce useful information about the visual world from perception .
+ishida and usagi then deduce that hayate 's daughter may have been the one responsible for the three murders and could be after the samurai natto , due to his closeness to the deceased merchant .
+although games can simulate many activities from vehicles to sports , players usually deduce the kind of simulation from the title of the game .
+one debate among 20th - century linguists revolved around the question of whether small children learn all verb forms as separate pieces of vocabulary or whether they deduce froms by the application of rules .
+greenough considered that fossils had been very over - rated in their usefulness , as fossil species were different from modern species , so fossils could not be used to ' theorise ' about or deduce the relative age and the conditions of deposition of the rocks .
+from these texts we can safely deduce that during the hellenistic times , the term " tarantines " bore no geographical significance anymore .
+from the first three digits ( with some exceptions ) , one can deduce the state .
+during their voyages , sea - faring hawaiians noticed differences in erosion , soil formation , and vegetation , allowing them to deduce that the islands to the northwest ( niihau and kauai ) were older than those to the southeast ( maui and hawaii ) .
+in contrast the akhbari believe that the sole sources of law are the qur'an and the hadith , in particular the four books accepted by the shia : everything in these sources is in principle reliable , and outside them there was no authority competent to enact or deduce further legal rules .
+from the theorem , one can deduce a significant general structure theorem .
+after creating a molded gelatin replica of the body , they deduce that the victim was killed by the pieces of an 18-wheeler tire that exploded next to him during a race .
+by applying the ideas of quantum mechanics to strings it is possible to deduce the different vibrational modes of strings , and that each vibrational state appears to be a different particle .
+this means we can apply the well - ordering principle , and deduce that " s " contains a " least " nonnegative integer " r " .
+to illustrate this , he would often pick a stranger and , by observing him , deduce his occupation and recent activities .
+by measuring the period drop as a function of temperature , and total loading of the film from the empty cell value , one can deduce the fraction of the film that has entered the superfluid state .
+rotblat was able to deduce that the bomb had three stages and showed that the fission phase at the end of the explosion increased the amount of radioactivity by a thousand - fold .
+one might deduce that his martyrdom probably saw him with sword in hand , the kingdom of powys reclaiming much of ' lloeger ' ( england ) briefly during his day .
+behram shah ( 1240 - 42 ) appointed malik jalaluddin as the hakim of amroha in 1242 a.d. ghiyasuddin balban ( 1266 - 87 ) crushed a rebellion in this region , and so ruthless was his repression that the territory of badaun and amroha remained peaceful till the region of jalaludding khilji ( 1290 - 96).during the region of kaiqubad ( 1287 - 90 ) ambar sultan build a mosque at amroha in 1287 a.d. from this we can deduce that sultani held a position of responsibility there .
+( 2 ) evidence , which may itself be true and verifiable , used to deduce a conclusion which does not follow from it , usually by generalizing from an insufficient amount of evidence .
+this causes many to wrongly deduce that the transliteration was not properly done .
+the package also includes sensitive on - board accelerometers used to deduce the " in situ " atmospheric density of mars during aerobraking .
+in two - player games , this means that the players can now deduce from the initial letter distribution the exact tiles on each other 's racks .
+chargaff 's research would later help watson and crick to deduce the double helical structure of dna .
+for complex natural logarithms to deduce that log |"f"("z")| is a harmonic function .
+eventually , they return to usc , where connor and theresa are able to deduce that eddie had been set up by the japanese who had edited the tapes .
+pierre - simon laplace ( 1774 ) made the first attempt to deduce a rule for the combination of observations from the principles of the theory of probabilities .
+one of the first things he accomplishes is to deduce the nature of the explosion , which has eluded his aides and the police — it was caused by a three - inch shell .
+hemlock goes back into training and eventually climbs the mountain with the team that he believes includes his would - be victim — whose identity he will have to deduce on the mountain itself .
+we can similarly deduce the much more general fact
+from the exact wavelengths of these missing parts of the spectrum , or absorption lines , we can deduce which elements are present in the sun .
+he informs kirk that the singularity is in the process of forming an event horizon and becoming a hawking black hole prior to its self - destruction ; in the alternate reality which is now " his " reality , spock 's observations made it clear from the beginning that the singularity would shortly destroy itself , though he was unable to deduce its cause .
+conversely , we can deduce that a minority of the helots were laconian , thus making this the one and only revolt of their history .
+the moties deduce that humans use the drive because " macarthur " and " lenin " appear at the " crazy eddie point " , the local origin of their tramline .
+loco is intelligent and wise , often being able to deduce problems quickly others find difficult or simply unsolvable .
+for studying these stars high - resolution spectroscopy is used , together with doppler imaging which uses the rotation to deduce a map of the stellar surface .
+they try throughout to deduce what is causing these strange occurrences , prevent each other from dying , and find a mysterious product called ubik , which is advertised in every time period they enter .
+however , the word " lamanite " is used in a much more cultural context , and since it is usually an antonym of " nephite " , we can usually deduce from its usage characteristics of the nephites .
+iolaus manages to deduce that the hind 's blood is hidden inside one of xena 's pendants and enlists the help of the alternate ares and aphrodite .
+exact spear lengths are hard to deduce as few spear shafts survive archaeologically but 6 ft - 8 ft ( 1.8 m - 2.5 m ) would seem to be the norm .
+there can only be two suspects per room , helping players to deduce where each suspect was .
+after dr. cox and dr. kelso quickly deduce the patients have syphilis , the patients inspire carla by explaining sex is revitalizing .
+although the time code only includes two digits of year , it is possible to deduce two bits of century using the day of week .
+with a weak principle of translation ( e.g. , " a proposition in language a is the same as a semantically identical proposition in language b " [ note that a proposition is not the same as a sentence ] ) , we can now deduce that pierre believes that london is pretty .
+he had vainly tried to deduce a proof of some sort out of a heap of " possibilities " and numberless insinuations .
+stephanie wonders how the cool rider knew about the talent show but fails to deduce it could be a rydell high school student since only they knew about the show .
+the energy and momentum are properties of matter , and it is impossible to deduce that they form a four - vector just from the two basic postulates of special relativity by themselves , because these do n't talk about matter , they only talk about space and time .
+in warner bros. long - running " looney tunes " cartoon show , daffy duck did a turn as " dorlock holmes " in the episode " deduce , you say " , first shown in 1956 .
+after helping kenny to fight off another horde of enemies , the boys deduce that the one responsible for the mayhem can only be an evil supervillain : professor chaos .
+since a number of fel d 1 alleles are known and documented whereas it is presently impossible to deduce allergenicity from their dna or protein sequence alone , the alleged mutant cats could in fact exist , but their hypoallergenicity can not be considered proven for the time being .
+certain conditions on chains of subgroups , parallel to the notion of noetherian and artinian rings , allow to deduce further properties .
+based on the salamanda 's knowledge of their movements , matt and richard deduce that there is a traitor in the nexus tipping him off .
+hipparcos was able to deduce the period during which timocharis made his observations based upon the records of earlier lunar eclipses .
+from all this we may deduce the extremely probable fact that the position of the river was shown to some stockrider by a native , who also confided the aboriginal name , and so it gradually worked the knowledge of its identity into general belief .
+within one year , he is able to deduce batman 's secret identity .
+since the fourier coefficients of the product of two quantities is the convolution of the fourier coefficients of each one separately , the correspondence with fourier series allowed heisenberg to deduce the rule by which
+one can deduce some simple consequences from the above description .
+he also observed the constancy of the angle of contact of a liquid surface with a solid , and showed how from these two principles to deduce the phenomena of capillary action .
+they deduce that during a two - week period in which robbie was supposedly on vacation , he was actually being held in this room and subjected to psychological stresses that amounted to torture as they specifically targeted his phobias .
+adeline tries to deduce a suitable match for juan , but intentionally omits mention of the 16 y / o and enticing aurora raby , a catholic .
+a contig in this sense can be used to deduce the original dna sequence of the source .
+comparison of these two strains can be used to deduce which factors may contribute to more serious malaria infections in humans .
+the reason for the correctness of this claim is as follows : if the first equality holds for " a " , we can deduce that " a " and " n " are coprime .
+for instance , instead of checking the system version to deduce what version of the sound manager might be present , there is a separate gestalt selector for directly querying the capabilities of the sound manager .
+many game magazines published a cheat code that only works in a work - in - progress version ; this , along with some published pokes , allowed to deduce that the game was leaked to pirates some 6 months before the release .
+from the data within buchan 's novels , it is possible to deduce that arbuthnot was born 1882 , as the second son of edward ( " billy " ) cospatrick arbuthnot , 15th baron clanroyden ( educated harrow ) .
+in his exegetical writings he frequently alludes to the variant readings , but his habit of making rough citations in his dictation , the verification being left to the scribes , renders it impossible to deduce his text from his commentaries .
+it is important to deduce beforehand whether the user would be able to repeat the vital information throughout time " t " , as this has a negative impact on the working memory if they can not .
+darwaza was very critical of other modern interpreters who used certain verses of the qur'an to deduce and support scientific theories .
+however , from the prime number theorem one can also deduce an upper bound on the length of prime gaps : for every ε > 0 , there is a number " n " such that " g'n " < ε"p'n " for all " n " > " n " .
+this has led to a circular problem , as researchers state their needs based on the context that they deduce from the archives , and as the archives create an artificial context based on researchers’ stated needs . “
+however , unlike charles davenant and the other radical whig authors ( including daniel defoe ) , it also did not begin with a desired outcome and work backward to deduce policy .
+thus , one might deduce that little instrumental music " per se " was written in the renaissance , with the chief repertoire of instruments consisting of borrowed vocal music .
+thus most such names have a self - evident immediate origin : even non - speakers of french can deduce them with a minimum of geographical knowledge .
+the ability to deduce a single solution to a problem ; rule - following or problem - solving .
+norman uses his new knowledge of the layout of the facility he inhabits to escape , and then correlates several seemingly - unrelated facts to ( correctly ) deduce not only that there must be soviet spies living in town , but who they are ; he makes his way to the agents , hoping that they will help him reach the canadian border and escape the us army .
+while lying pipeline they meet a half - wit who they deduce to be willy stafford .
+one may deduce from the prussian state handbooks that the order of the black eagle ( as well as , by statute , the other prussian orders , as mentioned above ) was conferred upon all male members of the royal family on their tenth birthdays ; these men the collar of the order on their eighteenth birthdays .
+it is this connection that they start to use to deduce dracula 's movements .
+this is most often used against public key algorithms such as rsa in order to deduce the on - chip private key , although some implementations of symmetric ciphers can be vulnerable to timing or power attacks as well .
+we can immediately deduce two important properties of phonons .
+avogadro 's law allowed him to deduce the diatomic nature of numerous gases by studying the volumes at which they reacted .
+they then find out that phoenix was given several terrorist based skills , and deduce that he was given the desire to kill friendly .
+so it is natural to hope that a suitable notion of convergence in arbitrary spaces will lead to a compactness criterion generalizing sequential compactness in metrizable spcaces that will be as easily applied to deduce the compactness of products .
+baron helmut zemo , sucked into the vacuum , wakes into medieval germany ( 1503 ) , witnessing harbin zemo 's death and his succession , while in the present an academic called wendell volker and reed richards deduce that helmut has traveled in time .
+most proof systems provide ways to deduce one sequent from another .
+the first nine mysteries typically involve some sort of competition between the guests ( in which case readers must deduce who won ) , a guest attempting to murder another guest , or some sort of rare treasure of mr. boddy 's that has been stolen .
+after an analysis of the religious consciousness , which yields the doctrine of an absolute personal and spiritual god , rothe proceeds to deduce from his idea of god the process and history of creative development , which is eternally proceeding and bringing forth , as its unending purpose , worlds of spirits , partially self - creative and sharing the absolute personality of the creator .
+when they get to the lake , george acts visibly nervous when he rents a boat from a man who seems to deduce that george gave him a false name ; the man 's suspicions are aroused more when george asks him whether any other boaters are on the lake ( none are ) .
+m.c. bishop , however , has argued that we need to examine the way in which the various troop types were armed and deduce from this what their battle roles were , rather than trying to consider who - wore - what .
+merging black hole binaries should lead to some of the strongest gravitational wave signals reaching detectors here on earth , and the phase directly before the merger ( " chirp " ) could be used as a " standard candle " to deduce the distance to the merger events – and hence serve as a probe of cosmic expansion at large distances .
+the winning moves ' version of this game is much more like the original game , where the goal is to deduce based on clues you gain throughout the game .
+his ability to ask the right questions when programming complex problems also helped him deduce the probable identities of the kidnappers when the kdatlyno touch scuptor lloobee was kidnapped from the " argos " as it was about to enter gummidgy system .
+morabito was able to deduce that the observation was a plume erupting from the surface of io , and volcanic in origin .
+they then deduce the route of the original kzin ship , and head off to the father sun , the star of the kzin homeworld .
+one can deduce their orientation as the frame length is a little shorter than its width .
+one of the many types of chess puzzles is to deduce the location of invisible pieces based on information about how many times certain squares are attacked .
+eventually they deduce that this is a time paradox , and they need to figure out how to signal the ship in the future so they can be rescued .
+when solar irradiance is measured on the outer surface of earth 's atmosphere , the measurements can be adjusted using the inverse square law to infer the magnitude of solar irradiance at one au and deduce the solar constant .
+as many as ten thousand households of the city have been investigated to deduce true class character of different classes of people .
+from this we may deduce that the meydan already existed at least 500 years before the arrival of the ottomans .
+in m. kazarian , building on preceding work of several people , gave a unified way to deduce most known results
+such pseudosciences , in particular anthropometry , were used to deduce behaviours and psychological characteristics from outward , physical appearances .
+during the northern campaign , she comes to respect undine , whose true nature she manages to deduce .
+they deduce that since its victims thought it was the devil / demons , that it must have absorbed that concept .
+the detective had not told tillman that the victim had been punched ; however he had shown him a picture of the girl after her attack from which he could reasonably deduce that fact .
+they might adopt the characterization and formulate their own hypothesis , or they might adopt the hypothesis and deduce their own predictions .
+when several partial references and tellings survive , scholars can deduce the underlying tale .
+as one might deduce from these antics , buñuel was famous for his atheism .
+the disquotation principle allows us to deduce that peter believes the proposition that paderewski had no musical talent .
+with too many motives and no physical evidence , dalgliesh is left to deduce which among the small pool of suspects is the killer , who decides to claim a second victim .
+in some such games , it is possible for the principal to deduce the agent 's type based on the actions the agent takes ( in the form of a signal sent to the principal ) in what is known as a " separating equilibrium " .
+in order to deduce what the metabolic network suggests , recent research has centered on two approaches ; namely extreme pathways and elementary mode analysis ( papin , stelling , price , klamt , schuster , and palsson 2004 ) .
+interestingly , in both the françois ravaillac and the damiens cases , court papers refer to the offenders as a patricide , rather than as regicide , which lets one deduce that , through divine right , the king was also regarded as " father of the country " .
+this enables an experienced shooter to deduce ( as opposed to guess or estimate ) the range within an acceptable error limit .
+chains of reasoning can be used in larger more complex models to deduce ways of improving a system that are either not obvious , or are even counter intuitive .
+she seems to be able to deduce the feelings and emotions of those she kisses , noting niobe 's love for morpheus , and ghost 's unrequited love for trinity .
+this paid off in the spring of 1942 when rochefort 's team , though unable to break jn-25 , the main japanese naval operational code , was able to deduce important information from it , largely through traffic analysis , in time to help win the battle of midway .
+the examination [ of the legislative history ] does not uncover anything useful ( i.e. , anything that tempts us to alter the meaning we deduce from the text anyway ) , but that is the usual consequence of these inquiries ( and a good thing , too ) . "
+ibn taymiyyah was asked whether bukhari was qualified to deduce his own conditions in jurisprudence , not blindly following any of the imams , or was he a blind follower .
+krug challenged hegel to deduce his quill , or pen , from german idealism 's philosophy of nature .
+it is often used to deduce facts about varieties embedded in well - behaved spaces such as projective space or to prove theorems by induction .
+by the large number of churches built there and from other descriptions one can deduce that stemnitsa was a significant village .
+trying to deduce from the symptoms whether or not date rape drugs have been used can cause false positives .
+several techniques have been used to deduce the ancient climate of gondwana in the early cretaceous .
+the pka values for the conjugate acids of the carbanions formed from monomers can be used to deduce the reactivity of the monomer .
+however , from , we can correctly deduce , where .
+the doctor performs the procedure at a side cart with a technology called " intellisense " to deduce forces applied .
+from his dispute with wilhelm adolph scribonius of marburg on the legality of the ordeal by water in witch trials , one can deduce that goclenius was convinced on the existence of witchcraft and adhered to the " hexenhammer " .
+since the fact that " x " = 2 is known , it is then possible to deduce that " y " = 3 by either of the original two equations ( by using " 2 " instead of " x " ) the full solution to this problem is then
+soon , however , it became popular among young listeners who were able to deduce timothy 's fate from the lyrics .
+the function of " naturphilosophie " is to exhibit the ideal as springing from the real , not to deduce the real from the ideal .
+a solver must deduce not only the answers to individual clues , but how to fit together partially built - up clumps of answers into larger clumps with properly - set shaded squares .
+from these one can quickly deduce the theorem schema " p"→"p " ( see propositional calculus ) .
+provided the message is of reasonable length ( see below ) , the cryptanalyst can deduce the probable meaning of the most common symbols by analyzing the frequency distribution of the ciphertext — frequency analysis .
+the town sheriff and mayor quickly deduce it must be harry warden , who was returned to the institution , though their attempts to confirm warden 's status are hindered .
+lelouch is quick to deduce facts from simple clues .
+studies show that women who consume cannabis while they are pregnant may also be likely to consume alcohol , tobacco , caffeine , or other illicit drugs , which makes it difficult to deduce scientific facts about just marijuana use from statistical results .
+they made it possible to deduce the existence of " exotic " smooth structures - certain topological four - manifolds could carry an infinite family of different smooth structures .
+substituting stirling 's approximation in this expression ( both for " k " ! and ( 2"k " ) ! ) one can deduce ( after a short calculation ) that " pk " converges to π/2 as " k " → ∞.
+with some reasonable guesswork it is possible to deduce sources not identified as such ( e.g. , genealogies ) .
+the solver must deduce white 's last move .
+this principle he endeavoured to deduce from his knowledge of geology , in contrast to lorenz oken , who developed the same theory on biological grounds .
+after drake and carling deduce stanley 's guilt , she and hunt pretend to arrest donna , successfully coercing a confession out of stanley .
+when river is on his ship , she is able to deduce that he is / was a sadist , who tortured his neighbors ' pets , cleaning up afterward , " shined and polished , " as river says .
+they deduce that brown and edwardes had been on a ski trip together ( the lines in white are ski tracks ) and that edwardes had somehow died there .
+essen and gordon correctly deduce batman 's true identity , but are unable ( and in gordon 's case , unwilling ) to prove it .
+the primary structure of a biological polymer to a large extent determines the three - dimensional shape known as the tertiary structure , but nucleic acid and protein folding are so complex that knowing the primary structure often does n't help either to deduce the shape or to predict localized secondary structure , such as the formation of loops or helices .
+in the inborn impulse to rebel , on the other hand , we can deduce values that enable us to determine that murder and oppression are illegitimate and conclude with " hope for a new creation . "
+from this contradiction we deduce that " e " is irrational .
+perry and his students ( who formed the kettering group along with some other volunteers worldwide ) continued their satellite tracking work for a number of years , using only inexpensive shortwave radio equipment and painstakingly using the doppler effect to deduce the satellites ' orbits .
+the cops go through brent 's background to discover that gretchen was n't his first wife , that he was previously married before and he 's a " classic abuser " isolating the women from family and friends , stating that 8 months after he was married his wife filed a restraining order , because he was stalking her , the police deduce that he may be involved in gretchen 's death .
+miss sayer comes through on dopejack 's computer screen and helps unlock information stored there , which leads the dark fractal society to deduce that georgie horn 's information packet is the joker , and that adam jagger ( aka mr millions ) is the real name of frank scenario .
+back at the station , quark discovers eris ' collar is a fake , and they deduce that she is a spy for the dominion .
+another method used to deduce the climate of the time is to use the types of plants found in the fossil record .
+he and anita deduce that there must have been a werehyena in the park , but before they can finish the call , williams explains that police officers are at the door .
+by various means the hunters deduce and uncover dracula 's path , hopefully overcoming whatever obstacles he has placed along the way ( including wolves , rats , bats , armed minions , fledgling vampires , fog , storms and plagues ) and gathering weapons and equipment ( such as rifles , stakes , garlic and holy wafers ) for the eventual showdown .
+some authors debate the conclusions we might deduce from aua 's words , because the angakkuq was under the influence of missionaries , and later he even converted to christianity — converted people often see the ideas in polarisation and contrasts , the authors say .
+life - occasion as we deduce it from the poem ; it is only an error when
+using the earlier example as heathrow airport , if one knows that the icao code for heathrow is egll , then one can deduce that the airport egnh is somewhere in the uk ( it is blackpool international airport ) .
+seeing the burnt human corpses and finding the liquid supplements , they deduce that the visitors are experimenting on humans .
+in celestial mechanics , he found improved methods to deduce a planetary orbit from observations , and analysed the mathematics of perturbations in planetary motions .
+from this we can deduce that there are ( up to isomorphism ) only countably many finitely generated recursively presented groups .
+briefly , the akhbari believed that the sole sources of law were the qur'an and the hadith , in particular the four books accepted by the shia : everything in these sources was in principle reliable , and outside them there was no authority competent to enact or deduce further legal rules .
+the object of the game is for the other players to deduce what the original homophone pair is .
+four conclusions result from these premisses : ( 1 ) mind or spirit is the efficient cause in nature ; ( 2 ) we should investigate the final causes or purposes of things ; ( 3 ) we should study the history of nature and make observations and experiments in order to draw useful general conclusions ; ( 4 ) we should observe the phenomena that we see in order to discover general laws of nature in order to deduce other phenomena from them .
+you can deduce that the route has this function because the turnouts in the stations are unusually long .
+for this reason , one can not always apply log to both sides of an identity " e'z " = " e'w " to deduce " z " = " w " .
+linus pauling 's book on " the nature of the chemical bond " used the principles of quantum mechanics to deduce bond angles in ever - more complicated molecules .
+even then , it is left to the viewer to deduce what algernon exactly is .
+the method is often quantitative , in that one can often deduce a lower bound on the probability that the random variable is larger than some constant times its expectation .
+however , in order to reproduce the next stage of the argument , which eliminates the penultimate day of the week , the prisoner must argue that his ability to deduce , from statement ( a ) , that the hanging will not occur on the last day , implies that a penultimate - day hanging " would not be surprising " .
+in the middle of the fight prof manages to deduce that chronos is in fact ray palmer and the fight ends .
+showed how to deduce the duistermaat – heckman formula from a localization theorem for equivariant cohomology .
+it is from this definition that i deduce the principles of logic by mathematical reasoning , and by mathematical reasoning that , i aver , will support criticism of weierstrassian severity , and that is perfectly evident .
+when someone else is found strangled to death , the remaining guests deduce that their unseen " host " is determined to murder them one at a time for their past misdeeds .
+later , the detectives deduce that unit counselor kurt plumm is planning to have lowe killed ; goren and logan attempt to escort her to safety but the prison goes into lockdown , trapping all three inside .
+the artist 's responsibility is to confront the appearance of nature , deduce its essence and retell or explain that essence in the work of art .
+it is not always easy to deduce the spin of a composite particle from first principles ; for example , even though we know that the proton is a spin-1/2 particle , the question of how this spin is distributed among the three internal valence quarks and the surrounding sea quarks and gluons is an active area of research .
+cosmologists can use x - ray observations to deduce that the universe is not split into regions of matter and antimatter , but rather is predominantly made of matter .
+suppose one is given a set of premises γ and one wants to deduce a proposition " z " from them .
+place names are often used to try to deduce the existence of pictish use in scotland .
+it is played in a similar fashion to rock , paper , scissors , in which one must correctly guess or deduce the opponent 's next action and respond appropriately .
+but from " m1 " and " f1 " , we can deduce neither " m " ( the fact that thomas believes the relationship can not continue ) nor " not m " .
+a c compiler may have similar freedom in cases where codice_92 ( bitwise and ) and codice_93 ( bitwise or ) are used in place of codice_4 ( logical and ) and codice_5 ( logical or ) , but it must then also be able to deduce that the boolean result is the sole purpose of the expression and therefore that the bitwise value is of no importance , and so can be discarded .
+although it was developed mainly to pilot the ship , it has developed an amazing ability to deduce and solve mysteries , such as the incident in which tagon 's toughs were recently framed , such to the point that even petey of the fleetmind was impressed .
+they are descendants of shropshire slasher and his mom from the looney tunes episode " deduce , you say " .
+we can deduce this from the 400 cavalry accompanying 3,000 foot in campaign in 218 bc .
+the key is that prisoner b , after allowing an appropriate interval , and knowing what c would do , can deduce that if c says nothing the hats on a and b must be different .
+it is difficult to try to discern or deduce future trends of library training from a knowledge gained through the study of educational progress in vocations long since self - organized and accepted as professions ”
+it is possible to deduce that jeffrey hudson must have been affected by congenital hypopituitarism , as few known conditions other than growth hormone deficiency result in such proportional extreme smallness .
+then you should be able to deduce what factors match the occurrence of the phenomenon in one list and do n't occur in the other list , and also what factors change in accordance with the way the data had been ranked .
+thirdly , it is objected that in order to deduce the conditioned , cousin makes his absolute a relative ; for he makes it an absolute cause , i.e. a cause existing absolutely under relation .
+seismometers of usarray transportable array record the passage of numerous seismic waves through a given point near the earth ’s surface , and classically these seismograms are analyzed to deduce properties of the earth ’s structure and the seismic source .
+with the disquotational principle , we can deduce that pierre believes the proposition that paderewski had musical talent .
+analysis of the microstructures and crystal sizes of these frits has allowed hatton , shortland , and tite to deduce the connection among the three materials .
+the scoobies deduce the plot when buffy and jenny calendar intercept one of the pieces .
+from this definition , one can deduce that any element of " n " is equivalent to the zero vector ; in other words all the vectors in " n " get mapped into the equivalence class of the zero vector .
+we can all deduce actions occurring in a sequence whether they involve multiple actions or just one and this is an argument for language of thought .
+though the seat of the administration was established at karlovy vary ( carlsbad ) the entity was officially named " regierungsbezirk eger " in order to deduce territorial claims .
+however , under the a - twist one can deduce that the surfaces are parametrized by pseudoholomorphic curves , and so the path integrals reduce to integrals over moduli spaces of pseudoholomorphic curves ( or rather stable maps ) , which are finite - dimensional .
+although a stem - branch can not be used to deduce the actual day in historical events , it can assist in converting chinese dates to other calendars more accurately .
+the gemara employed to deduce that the term " yamim " ( literally “ days ” ) sometimes means “ a year , ” and rab hisda thus interpreted the word " yamim " in to mean “ a year . ”
+he described himself as " eighty years of age " in his 1615 manuscript , leading many to deduce that he was born in the year 1535 , after the 1532 spanish conquest of peru .
+especially , it also shows that the notion of normal forms in lambda calculus matches prawitz 's notion of normal deduction in natural deduction , from what we deduce , among others , that the algorithms for the type inhabitation problem can be turned into algorithms for deciding intuitionistic provability .
+attempts to deduce the original flow of the rubicon can be done only by studying written documents and other archaeological evidence such as roman milestones which indicate the distance between the ancient river and the nearest roman towns .
+from the theorem we can deduce the following form of the prime number theorem for arithmetic progressions :
+from above we can deduce that the eigenvalues of each σ"i " are ±1 .
+he resumes training his gang and in the process mai and ran separately deduce his true nature .
+in a more recent study released in 2009 , historical weather station data was combined with satellite measurements to deduce past temperatures over large regions of the continent , and these temperatures indicate an overall warming trend .
+if one applies this metafunction to itself , one then may deduce
+as the third sign was to find a " writing " at the ruins and follow their instructions , they deduce that they have to go under the ruined city to find rilian .
+it is notable that no example of a haplogroup ij * y - chromosome has been found among any modern human population ; the existence of the haplogroup ij node has been inferred from the fact that certain mutations are shared in common among all y - chromosomes belonging to the descendant haplogroups i and j. the lack of any examples of haplogroup ij * belonging to neither haplogroup i nor haplogroup j complicates any attempt to deduce the geographical location where haplogroup ij first appeared ; however , the fact that both haplogroup i and haplogroup j are found among modern populations of the caucasus , anatolia , and southwest asia tends to support the hypothesis that haplogroup ij derived from haplogroup ijk in the vicinity of west asia or the middle east and subsequently spread throughout western eurasia .
+based on the arguments irenaeus made in support of only four authentic gospels , some interpreters deduce that the " fourfold gospel " must have still been a novelty in irenaeus ' time . "
+he was particularly noted for his ability to intuitively model a physical system and then deduce an analytical solution .
+in particular , the discovery of the seismic shadow zone ( illustrated at right ) allowed scientists to deduce the presence of earth 's molten core .
+in addition , newton 's third law can sometimes be used to deduce the forces acting on a particle : if it is known that particle a exerts a force f on another particle b , it follows that b must exert an equal and opposite " reaction force " , −f , on a. the strong form of newton 's third law requires that f and −f act along the line connecting a and b , while the weak form does not .
+the runaways deduce that after the witchbreaker tortured and trained nico , nico 's magical abilities have been severely augmented .
+anita and larry eventually deduce that her death was probably voluntary , and learn that ellie 's boyfriend andy recently disappeared .
+unexpected changes in the orbit of uranus led alexis bouvard to deduce that its orbit was subject to gravitational perturbation by an unknown planet .
+his ability to deduce the secret identities of superheroes on his own has been used to underscore his skill .
+the children , frank , jackie and sam all deduce that due to steve 's removal of the gold pieces , the rainbow has been damaged and caused colour , oxygen and photosynthesis to be drained , and all life could be threatened .
+by applying clairaut 's theorem , laplace was able to deduce from 15 gravity values that " f " = 1/330 .
+from this property , one can deduce that " h " maps the identity element " eg " of " g " to the identity element " eh " of " h " , and it also maps inverses to inverses in the sense that
+the opposition offered by the sadducees — which became especially strenuous in the last century b.c .— originated the halakic midrash , whose mission it was to deduce these amplifications of the law , by tradition and logic , out of the law itself .
+reification is sometimes important in order to deduce a level of confidence or degree of usefulness for each statement .
+with greg 's help , they deduce that the man had been a reporter covering the opening of a casino ( built by catherine 's father , sam ) .
+for example , if an imu installed in an airplane were to detect that the craft accelerated westward for 1 hour at an average speed of 500 miles per hour , then the guidance computer would deduce that the plane must be 500 miles west of its initial position .
+if we say a little more about what happens to caloric during this absorption phenomenon , we can explain the radiation of heat , the state changes of matter under various temperatures , and deduce nearly all of the gas laws .
+perpessicus noted that , in one of his outbursts , the character paşadia criticizes the brâncovenesc style developed in 17th century romanian art , which he contrasts with " the tumultuous flowering of the baroque " , only to have the narrator speak out against him ( in the process , the latter allows the reader to deduce that he has training and tastes in art that are similar to caragiale 's ) .
+the pattern produced gives information of the separations of crystallographic planes " d " , allowing one to deduce the crystal structure .
+these four major cases allow us to deduce all the variations that are actually to be found in reality and which impart to the capitalist mode of production a certain elasticity ...
+when the informant is not identified , one can sometimes deduce information about the identity of the person by careful examination of the source .
+despite his use of foes such as mongul , solomon grundy , lady shiva , and nightshade , superman and batman are able to deduce the mind behind the attacks , and quickly dispose of grodd .

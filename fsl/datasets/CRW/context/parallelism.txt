@@ -1,0 +1,255 @@
+this parallelism between the prophecies has been recognized for millennia .
+the word relaxed refers to the notion that serial programs are actually overly constrained by implicit serial dependencies ( such as the program counter ) and that one can introduce as much parallelism as possible without removing the ability to run sequentially .
+existing binary executable programs have varying degrees of intrinsic parallelism .
+in his book " the mind and its place in nature " , c. d. broad maintains that parallelism is , " the assertion is that to every particular change in the mind there corresponds a certain change in the brain which this mind animates , and that to every change in the brain there corresponds a certain change in the mind which animates this brain . "
+fisher studied at the courant institute of nyu ( b.a. , m.a. , and then ph.d. in 1979 ) , where he devised the trace scheduling compiler algorithm and coined the term instruction - level parallelism .
+butler 's " sermons " appeared in 1726 , the year after the publication of hutcheson 's two first essays , and the parallelism between the " conscience " of the one writer and the " moral sense " of the other is , at least , worthy of remark .
+the evaluation of a skeleton application follows a formal definition of operational semantics introduced by aldinucci and danelutto , which can handle both task and data parallelism .
+instruction level parallelism .
+in traditional designs there are a variety of different types of units , allowing more parallelism than the four - wide schedulers would otherwise allow .
+clearly , the organizing principle of the brain is parallelism .
+as an interface language , urbiscript also brings some useful abstractions to the programmer by having parallelism and event - based programming as part of the language semantics .
+definition via absolute parallelism .
+in a similar way the " yesod " influenced the midrash bamidbar rabbah and the midrash tadshe , which latter , in a haggadic - symbolic manner , endeavors to show the parallelism between the world , mankind , and the tabernacle .
+fine - grained parallelism means individual tasks are relatively small in terms of code size and execution time .
+carte extracts the maximum parallelism from the code and generates pipelined hardware logic that is instantiated in the map .
+the absentee property law is directly linked to the controversy of parallelism between the jewish exodus from arab lands and the palestinian exodus , as the government of israel sees the two issues inherently linked .
+because it is defined in terms of these structures , every soo has control properties , inherently providing seamless integration , maximizing its own reliability and flexibility to change , capitalizing on its own parallelism , and maximizing the potential for its own reuse and automation .
+the vliw architecture allows a high level of concurrent instructions processing thus providing extended parallelism , as well as low power consumption .
+flow - based system design is well - suited to field - programmable gate array design as it is easier to specify the innate parallelism of the architecture .
+sun provides a tool for analysing an application 's level of parallelism and use of floating point instructions to determine if it is suitable for use on a t1 or t2 platform .
+also analysis had shown that due to differences between the electronic speed of computation and the electromechanical speed of input / output , almost any practical real world problem was completely o bound even without making use of the original machine 's parallelism and most would still be i / o bound even after the speed reduction from this modification .
+semon proposed psycho - physiological parallelism according to which every psychological state corresponds to alterations in the nerves .
+explicit parallelism is one of the main reasons for the poor performance of enterprise java beans when building data - intensive , non - oltp applications .
+more specifically , antithetical parallelism is defined as text where the meaning in the first part of the couplet contrasts with an opposite theme contained in the second part ( see above ) .
+parallelism and concurrency .
+most of the rhetorical figures are sparingly used -- except such as consist in the parallelism or opposition of clauses .
+instead , skeletons are defined on top of eden ’s lower - level process abstraction , supporting both task and data parallelism .
+for the trivial group , an -structure consists of an absolute parallelism of the manifold .
+like most companies , fujitsu turned to massive parallelism for future machines , and the vp2000 family were not on the market for very long .
+task parallelism does not usually scale with the size of a problem .
+such parallelism can be especially advantageous for resource discovery in an ad - hoc wireless network because a randomized skip list can be made robust to the loss of any single node .
+urbi provides a higher level of abstraction by integrating parallelism and events in the core of the language semantics .
+resulting from the more complex nodes , the software architecture used for coordinating the parallelism in such systems is typically far more heavyweight than in the transputer architecture .
+the finer the granularity , the greater the potential for parallelism and hence speed - up , but the greater the overheads of synchronization and communication .
+are characterized by available data - parallelism , locality and a high computation
+parallelism is path - dependent ; that is , if you parallel translate a vector along two different paths with the same starting and ending points , the resulting vectors at the end point in general differ .
+the new cpu used an 80-bit wide microword , so parallelism in the microcode was radically enhanced .
+conte realized in the early 90 ’s that flynn ’s prediction of the fetch bandwidth being the limit to increasing instruction level parallelism was coming true .
+this technique , used for conventional vector machines , tries to find and exploit simd parallelism from the loop level .
+secondly , the 1-form is an absolute parallelism , which intuitively means that η yields information about the behavior of additional directions in the principal bundle ( rather than simply being a projection operator onto the vertical space ) .
+coordination between the different services and the parallelism of the state - based services is an ongoing problem .
+it is a rich subset of c , with non - standard extensions to control hardware instantiation and parallelism .
+advanced parallelism with cilk : inlets .
+this parallelism between the prophecies has been recognized for millinia .
+visual autocollimators are often used for lining up laser rod ends and checking the face parallelism of optical windows and wedges .
+the angle of parallelism depends on the distance of the point to the line with respect to the curvature of the space .
+many high performance cpus have more physical registers than may be named directly in the instruction set , so they rename registers in hardware to achieve additional parallelism .
+in a single processor , mlp may be considered a form of ilp , instruction level parallelism .
+the origins of true ( mimd ) parallelism go back to federico luigi , conte menabrea and his " sketch of the analytic engine invented by charles babbage " .
+angle of parallelism .
+number of processors leading to either exceeding number of subproblems , or not enough parallelism
+all were integrated seamlessly with the hardware , with a high degree of parallelism built into the electronics ( for example , two digital to analog converters for each stereo channel of sampled sound , with analog volume control ) to avoid the issues of digital mixing artifacts , latency , and heavy cpu usage that are concerns of modern pc - based studios .
+parallelism is a term in geometry and in everyday life that refers to a property in euclidean space of two or more lines or planes , or a combination of these .
+note that you must setup the part on three stands and find the minimum variation while adjusting them , just placing the part on the surface plate and using a dial indicator to find tir on the opposite side of the part measures parallelism .
+to improve performance , cpu designs started adding internal parallelism , becoming " superscalar " .
+ghc is noted for its high - performance implementation of concurrency and parallelism , and for having a rich type system incorporating recent innovations such as generalized algebraic data types and .
+superword level parallelism .
+parallelism is not required for the first and the last couplets .
+that is , there must be proper parallelism for the bridge to seat properly on the margins .
+languages with implicit parallelism reduce the control that the programmer has over the parallel execution of the program , resulting sometimes in less - than - optimal parallel efficiency .
+they do this by taking advantage of parallelism within algorithms to do many calculations simultaneously .
+psychophysical parallelism .
+the key ideas in the design of superpascal was to provide a " secure " programming , with abstract concepts for parallelism .
+for example , the purpose of the " -o " ending is to enable the formation of a compound term ( for example " anglo - saxon " meaning of angle and saxon origin ) , so there is only an apparent parallelism between , for example , latino and anglo .
+data parallelism focuses on distributing the data across different parallel computing nodes .
+basic parallelism with cilk .
+in computer science , instruction scheduling is a compiler optimization used to improve instruction - level parallelism , which improves performance on machines with instruction pipelines .
+( this is an example of mlp , memory level parallelism . )
+conscious parallelism is a term used in competition law to describe price - fixing between competitors in an oligopoly that occurs without an actual spoken agreement between the parties .
+upc uses a single program multiple data ( spmd ) model of computation in which the amount of parallelism is fixed at program startup time , typically with a single thread of execution per processor .
+the last condition means that " η " is an absolute parallelism on " p " , i.e. , it identifies the tangent bundle of " p " with a trivial bundle ( in this case " p " × aff("n " ) ) .
+parallelism strengthens connections among ideas and actions or sequences described .
+using locks also involves a trade - off between coarse - grained locking , which can significantly reduce opportunities for parallelism , and fine - grained locking , which requires more careful design , increases overhead and is more prone to bugs .
+definition via absolute parallelism .
+many other equivalent statements to the parallel postulate or to playfair 's axiom have been suggested , some of them appearing at first to be unrelated to parallelism , and some
+most programming languages rely on threads or complex abstraction classes to handle parallelism and the complexity that comes with it , like concurrent access to shared ressources .
+this is known as instruction - level parallelism .
+for example , duplicative language used as parallelism can have a strong rhetorical effect .
+other closely related conferences include acm symposium on parallelism in algorithms and architectures ( spaa ) , which – as the name suggests – puts more emphasis on parallel algorithms than distributed algorithms .
+the area composes of diverse farms with fruit farms and the externato sol e mar which is a childhood place , a preschool , a pedagogic parallelism .
+array accesses with statically predictable access patterns are a major source of data parallelism .
+vikram seth in " three chinese poets " uses english - style rhyme schemes , whereas keith holyoak in " facing the moon " approximates the chinese rhyme scheme ; both use end - stopped lines and preserve some degree of parallelism .
+parallelism lent itself to antiphonal or call - and - response performance , which could also be reinforced by intonation .
+as the size of a problem gets bigger , the amount of data - parallelism available usually does as well .
+because a systolic array usually sends and receives multiple data streams , and multiple data counters are needed to generate these data streams , it supports data parallelism .
+a number of different kinds of controlled grammars exist , the four main divisions being indexed grammars , grammars with prescribed derivation sequences , grammars with contextual conditions on rule application , and grammars with parallelism in rule application .
+gandy 's curiosity about , and analysis of , " cellular automata " , " conway 's game of life " , " parallelism " and " crystalline automata " led him to propose four " principles ( or constraints ) ... which it is argued , any machine must satisfy . " his most - important fourth , " the principle of causality " is based on the " finite velocity of propagation of effects and signals ; contemporary physics rejects the possibility of instantaneous action at a distance .
+plinq is intended for exposing data parallelism by use of queries .
+intel concurrent collections ( known as cnc ) is a language and framework developed by intel to express parallelism in applications .
+in english , parallelism of the predicate provides for one of the few structural situations in which the subject for each verb does not need restatement .
+challenges in parallelism .
+the jacobi method is also well suited for parallelism .
+other general elements of ballroom technique important for waltz are foot parallelism , rise and fall , contra body movement and sway .
+offer large parallelism and can hence utilize the potential of noc.
+angle of parallelism in a meridian θ inclines one to expect to see the counter-
+each kernel instance gets data parallelism .
+additionally there is inherent parallelism in image processing algorithms .
+it was later recognized that finer - grain parallelism existed with a single program .
+he is a past program chair of the acm symposium on principles of distributed computing ( podc ) and the acm symposium on parallelism in algorithms and architectures ( spaa ) .
+data parallelism .
+parallelism has been employed for many years , mainly in high - performance computing , but interest in it has grown lately due to the physical constraints preventing frequency scaling .
+another difference regarding the semantics of the two formalisms is expressed in 8 : " whereas brane calculi are usually equipped with an interleaving , sequential semantics ( each computational step consists of the execution of a single instruction ) , the usual semantics in membrane computing is based on maximal parallelism ( a computational step is composed of a maximal set of independent interactions ) " .
+since there is no parallelism or cpu switching , this version is called a " pseudo - pipeline " .
+prior to vliw , the notion of prescheduling functional units and instruction - level parallelism in software was well established in the practice of developing horizontal microcode .
+explicit parallelism .
+in hyperbolic geometry , the angle of parallelism " φ " , also known as π(p ) , is the angle at one vertex of a right hyperbolic triangle that has two asymptotic parallel sides .
+in grammar , parallelism is a balance of two or more similar words , phrases , or clauses .
+the events can be artistically arranged by means of such devices as repetition , parallelism , gradation , and retardation .
+given these substantial and regular performance improvements to existing code there was little incentive to rewrite software in languages or coding styles which expose more task - level parallelism .
+considering views about the relation between the mental and the physical as distinguished first by whether or not mental entities are identical with physical entities , and second by whether or not there are strict psychophysical laws , we arrive at a fourfold classification : ( 1 ) " nomological monism " , which says there are strict correlating laws , and that the correlated entities are identical ( this is usually called type physicalism ) ; ( 2 ) " nomological dualism " , which holds that there are strict correlating laws , but that the correlated entities are not identical ( parallelism and pre - established harmony ) ; ( 3 ) " anomalous dualism " , which holds there are no laws correlating the mental and the physical , and that the substances are ontologically distinct ( i.e. cartesian dualism ) ; and ( 4 ) " anomalous monism " , which allows only one class of entities , but denies the possibility of definitional and nomological reduction .
+in fact , solving two 32×32 systems instead of a 64×64 system on a single computer ( without using parallelism ) is unlikely to be efficient .
+in an interview with clifford landers ( albuquerque , 5 november 1994 ) , translator helen lane mentions that she originally translated the title as " a fish in water " , without the article , and it was changed to " a fish in the water " , thereby losing the parallelism with the english idiom , ' a fish out of water ' . "
+the names of the characters , latin quotations and idioms add to this as much as the parallelism between the seven days of creation and scientific hominization .
+in addition , this post - interruption phrase introduces a very interesting melodic parallelism in form of an augmentation of the end of the pre - interruption phrase one step higher . "
+the computation during run - ahead mode is discarded by the processor ; nevertheless , scouting provides speedup because memory level parallelism ( mlp ) is increased .
+to provide a cypher of the code of ' , the authors drew upon : semiotics , symbolism , iconography , asian religions , asian philosophy , indian religions , indian philosophy , buddhist symbolism , temple architecture , cosmology , mathematical notations , zen buddhism , japanese art , meditation , personal sadhana , tantra , macrocosm - microcosm parallelism , dialogue with many teachers including anagarika govinda and senior members of the krishnamurti community .
+king hu , a later chinese film director , utilized many of the formal norms of beijing opera in his films , such as the parallelism between music , voice , and gesture .
+owing to the parallelism with " αμαρτωλός " , the word was also sometimes spelled as " αρματωλός " , with the letter omega .
+in complex structures , there may be other cases where some aspects of the structures are due to divergence and some aspects that might be due to convergence or parallelism .
+it is written in fortran 90 with parallelism by mpi and it uses blas and scalapack kernels for dense matrix computations .
+they represent intel 's shift towards parallelism and their intent is eventually to make the bulk of their main processor line dual - core .
+he gained some early fame when his 1900 doctoral thesis , entitled " clifford 's parallelism in elliptic spaces " , was discussed in a widely - read work on differential geometry published by bianchi in 1902 .
+parallelism become the dominant computing platform ( through the
+while in euclidean geometry a geodesic intersects its parallels in both directions in the limit to infinity , in hyperbolic geometry both directions have their own line of parallelism .
+this early project led to a2ol ( americas army online ) , but legal concerns over this name and the parallelism to other commercial vendors caused the army project team to seek a new name .
+data parallelism - data is divided among many partitions known as multi - files .
+the parallelism is statically defined by the programmer .
+the degree of parallelism ( dop ) is a metric which indicates how many operations can be or are being simultaneously executed by a computer .
+two years later , the program was merged with the institute of hotel and restaurant management organized in 1995 due to the parallelism and similarity of courses , faculty and laboratory requirements .
+the treatises begin from a premise of parallelism and then move on to suggest better ways of making the organum , involving boundary tones , and the vast majority of musical examples in the treatises in fact use intervals of 2nds , 3rds , 4ths , 5ths , and 6ths ( by inversion / octave doubling ) , to create a more artistic result .
+the compiler can then split up code within the sieve block much easier , to exploit parallelism .
+the imperative programming style of esterel allows the simple expression of parallelism and preemption .
+he realized that to get good performance and target a wide - issue machine , it would be necessary to find parallelism beyond that generally within a basic block .
+he was the originator of the theory of psycho - physical parallelism , which is used so widely as a working basis by modern psychologists .
+this is the reason why zpl achieves such good performance : having no parallel directives or other forms of explicit parallelism , zpl exploits the fact that when aggregate computations are described in terms of arrays , many scalar operations must be ( implicitly ) performed to implement the array operations .
+this degree of parallelism in content , narrative arrangement , language , and sentence structures can only be accounted for by literary interdependence .
+task parallelism .
+speed - up is achieved by exploiting thread - level parallelism inherent in many applications .
+embedded supercomputing ( embsup ) a relatively new solution which targets fine grain and cores grain parallelism altogether .
+with the parallelism and communications built into the chip and the language interacting with it directly , writing code for things like device controllers became a triviality – even the most basic code could watch the serial ports for i / o , and would automatically sleep when there was no data .
+in another parallelism with " philippine idol " , it was announced on august 3 , 2008 that instead of two in many " idol " shows , the finale featured three contenders .
+small circles can not be parallel , because parallelism does n't exist in spherical geometry .
+there is a parallelism between the pair of the verbs " sêr " / " stâ " “ to be ” and the pair of the verbs " têm " / " tenê " “ to have ” .
+adding interest to this exciting historical romance is the parallelism between the situation in holland then and today . '
+inside each kernel , it is still possible to use instruction level parallelism .
+key to the illiac iv design was fairly high parallelism with up to 256 processors , used to allow the machine to work on large data sets in what would later be known as vector processing .
+an early version of recapitulation theory , also called the " biogenetic law " or " embryological parallelism " , was put forward by étienne serres in 1824–26 as what became known as the " meckel - serres law " which attempted to provide a link between comparative embryology and a " pattern of unification " in the organic world .
+fine - grained , coarse - grained , and embarrassing parallelism .
+multilisp achieves parallelism with the pcall macro , where
+this model represents the view that the structural features shared by music and language are not the results of mere chance parallelism , nor are they a function of one system emerging from the other – indeed , this model asserts that " music and language are seen as reciprocal specializations of a dual - natured referential emotive communicative precursor , whereby music emphasizes sound as emotive meaning and language emphasizes sound as referential meaning . "
+he notices the parallelism fails when he sees superwoman and clara kent ( superwoman 's presumed secret identity ) are two separate people .
+this can be used to exploit parallelism in certain algorithms even on hardware that does not support simd directly .
+just as sketch relations define conditions such as tangency , parallelism , and concentricity with respect to sketch geometry , assembly mates define equivalent relations with respect to the individual parts or components , allowing the easy construction of assemblies .
+parallelism means to give two or more parts of the sentences a similar form so as to give the whole a definite pattern .
+this limitation has largely been compensated for by various methods of increasing cpu parallelism .
+it too has a degree of parallelism that can only be accounted for by literary interdependence .
+several people have drawn parallelism between the lord voldemort and some politicians .
+the itanium architecture is based on explicit instruction - level parallelism , in which the compiler makes the decisions about which instructions to execute in parallel .
+parallel advisor lite is an add - on for parallel studio to assist in the analysis and modeling of where to best add parallelism to an application .
+in recent years , load - store architectures , vliw and epic types have been in fashion . architectures that are dealing with data parallelism include simd and vectors .
+it addresses the first , large grained locking , with a technology called optimistic thread concurrency ( otc ) , that attempts to substantially increase the parallelism of multi - threaded java applications , which as amdahl 's law predicts , is particularly important for azul 's vega systems , which generally contain hundreds of available cpus .
+dennett 's view of consciousness is that it is the apparently serial account for the brain 's underlying " parallelism " .
+this has the potential to maximise available parallelism and minimise synchronisation costs , but requires mathematical proofs which show that the objects behave correctly .
+however , programming with explicit parallelism is often difficult , especially for
+on the other side , reactive programming is a form of what could be described as " explicit parallelism " , and could therefore be beneficial for utilizing the power of parallel hardware .
+task parallelism .
+dr. weitz has published or edited several books and monographs , including china - russia security relations : strategic parallelism without partnership or passion ( strategic studies institute of the us army war college , 2008 ) ; kazakhstan and the new international politics of eurasia ( central asia - caucasus institute , 2008 ) ; mismanaging mayhem : how washington responds to crisis [ co - editor with james carafano ] ( praeger security international , 2008 ) ; the reserve policies of nations : a comparative analysis ( strategic studies institute , 2007 ) ; and revitalising us – russian security cooperation : practical measures ( london : routledge for the international institute for strategic studies , 2005 ) .
+parallelism is where the robot does two or more things at the same time .
+conversely , the cofiber induced by the inclusion of the trivial group formula_24 is again formula_25 , so the obstruction to an absolute parallelism ( trivialization of the bundle ) is the class of the bundle .
+the other rhyme and related patterns are called " mōnai " ( alliteration ) , " toṭai " ( epiphora ) and " iraṭṭai kiḷavi " ( parallelism ) .
+the clouds now reflect the image of the swirling leaves ; this is a parallelism that gives evidence that we lifted “ our attention from the finite world into the macrocosm ” .
+the basic premise is that the programmer is responsible for exposing all the available parallelism .
+when context switches occur frequently enough the illusion of parallelism is achieved .
+this inscription bears witness of early parallelism of two cultural currents on istrian territory : romance symbol is an antique relief , and slavic , i.e. croatian symbol is the croatian language and glagolitic script .
+this type of parallelism is used in order to create repetition of meaning as a technique for cognitive reinforcement , thus more effectively communicating the meaning of the text .
+tuning the dbms can involve setting the recovery interval ( time needed to restore the state of data to a particular point in time ) , assigning parallelism ( the breaking up of work from a single query into tasks assigned to different processing resources ) , and network protocols used to communicate with database consumers .
+in addition , chinese poetry uses parallelism in its first form .
+memory level parallelism .
+software pipelining has been known to assembly language programmers of machines with instruction level parallelism since such architectures existed .
+public figures and current affairs issues are satirized through parallelism .
+the inherent parallelism of the logic resources on an fpga allows for considerable computational throughput even at a low mhz clock rates .
+evidencing the thematic relationship and the tripartite structure of both stories , rotiroti concludes : " the parallelism between the two novellas is perfect " .
+additionally , the purported original verse includes two extra ( redundant or otherwise superfluous ) lines , which serves the purpose of parallelism but does not add any additional meaning already conveyed ( within the scope of its original use ) .
+it has been admired for its imagery ( critics say the girl is afraid of the waves of her own passion ) , its rhythm , and its formal and semantic parallelism ( including the system of alternating strophes with the rhymes - sounds " -on(or)/-ar " ) .
+this smp ( symmetric multiprocessing ) system embodied advances in interconnection networks , control unit support of parallelism , optimizing compilers and parallel algorithms and applications .
+syria 's political instability during the years after the 1954 coup , the parallelism of syrian and egyptian policies , and the appeal of egyptian president gamal abdal nasser 's leadership in the wake of the suez crisis created support in syria for union with egypt .
+this is known as requiring parallelism among the abutments .
+cpus with few execution units — such as most smart cards — can not take advantage of this inherent parallelism .
+cray had always attacked the problem of increased speed with three simultaneous advances : more functional units to give the system higher parallelism , tighter packaging to decrease signal delays , and faster components to allow for a higher clock speed .
+parallelism .
+ghc threads are also potentially run on one or more os threads during their lifetime ( there is a many - to - many relationship between ghc threads and os threads ) , allowing for parallelism on symmetric multiprocessing machines , while not creating more costly os threads than is necessary to run on the available number of cores .
+although the same is true for any superscalar processor design , the level of parallelism in a simd system is typically much higher .
+" a third fashion writer mentioned the decade of the 1940s : " the parallelism between the celebrated burlesque performer ’s style and sassa ’s current pieces fit as perfectly as a form - flattering dress would .
+defines the angle of parallelism function in hyperbolic geometry .
+" in daniel 7 , which is a transitional chapter , we turn from the historical accounts of the prophet ’s life to his visions . its use of the aramaic language and its parallelism with chapter 2 connect it with the preceding chapters while its subject matter binds it to what follows . "
+gauss , bolyai and lobachevski independently discovered hyperbolic geometry , in which the euclidean axiom of parallelism is replaced by an alternative .
+by using the serial fraction obtained experimentally using the karp - flatt metric , we can determine if the efficiency decrease is due to limited opportunities of parallelism or increases in algorithmic or architectural overhead .
+parallelism ( grammar ) .
+the slightest perturbation will destroy the existence of a common plane , and near - parallelism of the lines will cause numeric difficulties in finding such a plane even if it does exist .
+kuck is responsible not only for developing many of the initial ideas of how to restructure computer source code for parallelism but also trained most of the major players around the world .
+however the parallelism of this formula with that of the " pater patratus " allows an insight into the meaning of the word " lex " as related to the notion of " legare " to bind , bequest .
+watson 's translations are notable for conveying du fu 's use of verbal parallelism , and include extensive annotations to explain the mythological and historical allusions in the poems .
+monotonicity allows parallelism .
+in rhetoric , paromoiosis is parallelism of sound between the words of two clauses approximately equal in size .
+chartres … would long remain the fertile soil in which this conception [ of man as microcosm ] would grow , and this the more as the " timaeus " , itself constructed upon the parallelism between microcosm and macrocosm , became a central preoccupation of teaching at chartres .
+none of the techniques that exploited instruction - level parallelism within one program could make up for the long stalls that occurred when data had to be fetched from main memory .
+division of this type is efficiently realised in hardware by a modified shift register , and in software by a series of equivalent algorithms , starting with simple code close to the mathematics and becoming faster ( and arguably more obfuscated ) through byte - wise parallelism and space - time tradeoffs .
+other evidences he adduces for a semitic superstratum are a semitic influence on the germanic form of the indo - european ablaut system and similarities between germanic paganism and mesopotamian mythology , for instance the parallelism between freyja and ishtar , goddesses of war and love .
+parallelism is often achieved in conjunction with other stylistic principles , such as antithesis , anaphora , asyndeton , climax , epistrophe , and symploce .
+parallelism may be rather coarse and exhibit some non - ideal
+let us say for the length ae , its angle of parallelism is angle baf .
+conscious parallelism .
+the downside is that instructions tend to have more sequential dependencies , reducing instruction - level parallelism .
+a k - grammar is yet another kind of parallel grammar , very different from an indian parallel grammar , but still with a level of parallelism .
+taylor wrote another article entitled , " parallelism and transversality in a sub - space of a general ( finsler ) space . "
+task parallelism focuses on distributing execution processes ( threads ) across different parallel computing nodes .
+it 's using massive parallelism .
+carl dahlhaus ( 1990 , ) lists the characteristics schemata of tonal harmony , " typified in the compositional formulae of the 16th and early 17th centuries , " as the " complete cadence " ( vollständige kadenz ) , i - iv - v - i , i - iv - i - v - i , or i - ii - v - i ; the circle of fifths progression : i - iv - vii - iii - vi - ii - v - i , and the " major - minor parallelism " , minor : v - i - vii - iii = major : iii - vi - v - i or minor : iii - vii - i - v = major : i - v - vi - iii .
+in a more practical vein , in one of the earliest papers on quantum computing , he suggested that parallelism that results from the validity of mwi could lead to " a method by which certain probabilistic tasks can be performed faster by a universal quantum computer than by any classical restriction of it " .
+they are still theoretically intriguing , however , due to the locality and hebbian nature of their training algorithm , as well as their parallelism and the resemblance of their dynamics to simple physical processes .
+exploit data transport level level parallelism by scheduling several data transports in the same instruction .
+in 1982 , the japanese miti had launched the fifth generation computer systems project ( fgcs ) initiative to create computers supposed to perform much calculation utilizing massive parallelism .
+unlike some parallel programming languages , multilisp incorporates constructs for causing side effects and for explicitly introducing parallelism .
+his figures are diversified and forcible ; the parallelism is unusually regular .
+as this allows a degree of freedom regarding execution order , it makes some extraction of instruction level parallelism out of a normal single - threaded program possible ( provided that dependencies are checked etc ) .
+this language was in fact more a superset than a subset , as the features supporting parallelism were vastly improved , to make good use of the c.mmp .
+euler discussed a generalization of euclidean geometry called affine geometry , which retains the fifth postulate unmodified while weakening postulates three and four in a way that eliminates the notions of angle ( whence right triangles become meaningless ) and of equality of length of line segments in general ( whence circles become meaningless ) while retaining the notions of parallelism as an equivalence relation between lines , and equality of length of parallel line segments ( so line segments continue to have a midpoint ) .
+streams provide data parallelism .
+this parallelism between don hiyalā and alifulhu and the rāmāyana is hardly unexpected , for all south and southeast asian countries have local rāmayāna variations and the maldives is definitely part of the south asian cultural sphere .
+hillis asserts that parallelism itself is approximately the main ingredient of intelligence ; that there is not anything else required to make a mind result from a distributed network of processors .
+with parallelism ( that is , one in which each of the 6"t " + 3 elements occurs exactly once in each block of 3-element sets ) .
+the inhomogeneous case is for general hyperplanes , which may therefore exhibit parallelism or intersect .
+this device of parallelism was first identified by the twelfth - century jewish scholars abraham ibn ezra and joseph kimhi , who referred to it as " kefel ' inyan be - millot shonot " ( " doubling of the thought with other words " ) .
+again , the variants differ in how the parallelism is defined .
+the basic form of the jintishi has eight lines in four couplets , with parallelism between the lines in the second and third couplets .
+it was perhaps from polish and french prose styles that he adopted a fondness for triple parallelism , especially in his early works ( " all that mysterious life of the wilderness that stirs in the forest , in the jungles , in the hearts of wild men " ) , as well as for rhetorical abstraction ( " it was the stillness of an implacable force brooding over an inscrutable intention " ) .
+one of the simplest methods used to accomplish increased parallelism is to begin the first steps of instruction fetching and decoding before the prior instruction finishes executing .
+in " hard " light sources , the parallelism of the rays is an important factor in determining shadow behaviour .
+" multi - front attack on multicore programming "— upcrc illinois is taking an integrated broad - based attack on parallelism at all levels of the system stack from applications down to hardware , using every weapon in the arsenal to enable performance , scalability , and programmability .
+in lecture 19 he sets out the classic statement of parallelism which still today is the most fundamental category for understanding hebrew poetry .
+olokotun returned to stanford university to head its " pervasive parallelism lab " in 2008 , to help shape the future of software , as he did with hardware .
+the terminology may be due to weil , who wrote his " basic number theory " ( 1967 ) in part to work out the parallelism .
+the parallelism with the incident that follows , where elijah is fed by the widow , also suggests a human , if mildly improbable , agent .
+one barrier to achieving higher performance through instruction - level parallelism stems from pipeline stalls and flushes due to branches .
+a director can select techniques that create story parallelism .
+thus , such machines exploit data level parallelism .
+judging from other instances of the verb , and instances of parallelism , a more faithful translation may be " he hovered over , guarding . "
+these apis are programmed with task level parallelization ( multi - threading ) and instruction level parallelism ( simd ) resulting in maximum performance on amd multi - core processors .
+on the computational power of the mate / bud / drip brane calculus : interleaving vs. maximal parallelism .
+they use tags in memory to facilitate parallelism .
+task parallelism ( such as overlapped i / o ) can still happen .
+this parallelism allowed assembly programmers to minimize the effects of the system 's slow memory fetch time by " pre - fetching " data from central memory well before that data was needed .
+edge processors are limited in parallelism by the capabilities of the compiler , not the on - chip systems .
+he used his own invention , the crescograph , to measure plant response to various stimuli , and thereby scientifically proved parallelism between animal and plant tissues .
+degree of parallelism .

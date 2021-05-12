@@ -1,0 +1,255 @@
+decomposition of resistant components of plant and animal tissue
+computing the kinematic decomposition of the timelike congruence defined by the timelike unit vector field formula_20 , we find that the expansion and vorticity again vanishes , and in addition the acceleration vector vanishes , formula_21 .
+for the infinite - dimensional case , " a " is a linear operator , and the spectral decomposition is given by the integral
+it can be prepared by the controlled decomposition of irf6or the reduction of irf6 with silicon powder or h2 in anhydrous hf .
+the dynamic mode decomposition ( dmd ) is a mathematical method to extract the relevant modes from experimental data , without any recurrence to the governing equations .
+the mixing of gases or liquids is a complex physical process , governed by a convective diffusion equation that may involve non - fickian diffusion as in spinodal decomposition .
+hubka argued that a bricoleur ’s design strategy involves the unremitting practice of “ composition and decomposition within a vocabulary of existing building forms .
+the jew , hitler wrote in 1926 in " mein kampf " , " is not an element of an organization , but a ferment of decomposition .
+wolfe decomposition available in the ampl and gams mathematical modeling languages .
+some titanite has been found to be metamict , in consequence of structural damage due to radioactive decomposition of the often significant thorium content .
+surprisingly , once formed , cubane is actually quite kinetically stable , due to a lack of readily available decomposition paths .
+synopsys has begun consideration of triple patterning decomposition of layers which are less easy to split into two patterns , such as contact layers .
+in lie theory and representation theory , the levi decomposition , discovered by eugenio elia levi ( 1906 ) , states that any finite dimensional real lie algebra " g " is ( as a vector space ) the direct sum of two significant structural parts ; namely , a solvable subalgebra and a semisimple subalgebra .
+this is called the jordan – chevalley decomposition .
+the company is listed as an epa green power partner in recognition of its 100% use of green energy sourced from wind power , biomass decomposition , solar energy , and small hydroelectric plants in all its milwaukee retail locations .
+based on the self accelerating decomposition temperature , some peroxides have to be stored refrigerated .
+for instance , lignin is a component of wood , which is relatively resistant to decomposition and can in fact only be decomposed by certain fungi , such as the black - rot fungi .
+there are two principal types of decomposition which are outlined below .
+thermal decomposition of water .
+these free ecosystem services have no market value and so forest conservation has little appeal when compared with the economic benefits of logging and clearance which , through soil degradation and organic decomposition returns carbon dioxide to the atmosphere .
+invariant subspace decomposition .
+matrix decomposition techniques are data - driven , which avoids many of the drawbacks associated with auxiliary structures .
+however , a handlebody decomposition gives more information than just the homotopy type of the manifold .
+even when a body is decomposed , embalming treatment can still be achieved ( the arterial system decays more slowly ) but would not restore a natural appearance without extensive reconstruction and cosmetic work , and is largely used to control the foul odours due to decomposition .
+the carcasses were often hung for a time to improve the meat by slight decomposition , as with most other game .
+this decomposition releases nutrients in the form of nitrogen , phosphorus and potassium .
+( however , this decomposition is a consequence of the rather special structure of the affine group . )
+resistant to biological decomposition , its presence in paper makes it weaker and more liable to discolor when exposed to light .
+there are several ways to construct such a decomposition ; a typical method is as follows .
+the first factor in this decomposition represents a left - isoclinic rotation , the second factor a right - isoclinic rotation .
+vector decomposition is used in physics to help adding vectors and hence solve many mechanical problems involving force , work , momentum , etc .
+it is a decomposition product of some radical initiators used in polymer manufacture .
+the cholesky decomposition is commonly used in the monte carlo method for simulating systems with multiple correlated variables : the matrix of inter - variable correlations is decomposed , to give the lower - triangular l. applying this to a vector of uncorrelated samples , u , produces a sample vector lu with the covariance properties of the system being modeled .
+jordan decomposition .
+a computationally simpler and more accurate way to get the pseudoinverse is by using the singular value decomposition .
+scientists who took soil samples before draining had not taken into account that the organic composition of peat and muck in the everglades was mixed with bacteria that added little to the process of decomposition underwater because they were not mixed with oxygen .
+while tatb may decompose or burn in a fire , it is extremely unlikely to detonate as a result of that decomposition or burning .
+the functional decomposition of the structured method describes the process without delineating system behavior and dictates system structure in the form of required functions .
+the decomposition of hydrogen peroxide is catalyzed by transition metals , and iron , manganese and copper are of particular importance in pulp bleaching .
+however , pressure can speed up the desired reaction and has no impact on decomposition .
+another contributor to its exothermic decomposition ( inferred from much safer in silico experimentation ) is the ability of silicon in its crystal phase to coordinate to two oxygen nitrito groups in addition to regular coordination to the four carbon atoms .
+the entomopter performs obstacle avoidance and altimetry through the use of a frequency modulated continuous wave ( fmcw ) acoustic transmission created from the waste gas product from fuel decomposition within the rcm .
+peat layer growth and the degree of decomposition ( or " humification " ) depends principally on its composition and on the degree of waterlogging .
+they admit an elementary description , but the deeper properties of these polynomials necessary for representation theory follow from sophisticated techniques of modern algebraic geometry and homological algebra , such as the use of intersection cohomology , perverse sheaves and " beilinson - bernstein - deligne decomposition " .
+note that we must compute square roots in order to find the cholesky decomposition .
+once they are polymerized ( cured ) , decomposition occurs before the melt temperature is reached .
+one more useful decomposition results when b is decomposed into columns and a is left undecomposed .
+when a quaternion is not just a real number , then there is a " unique " polar decomposition
+siderophore decomposition or other biological mechanisms can also release iron .
+the color reaction also takes place under different conditions , but in alkaline solution however gradually decomposition is observed .
+another standard output is a decomposition of year - over year sales growth / decline , a.k.a ‘
+the complex structures on " h'n"(m , r ) are defined using the hodge decomposition
+trenn 's hypothesis excludes the possibilities of decomposition and external removal of body from the shroud for the following reasons .
+the process is called top - down design , or functional decomposition .
+this is a special case of the central decomposition theorem of von neumann .
+rapid decomposition of carbamic acid occurs without enzyme catalysis to form ammonia and carbon dioxide .
+where the quotient " u " and the remainder " r " are polynomials , the degree of " r " is less than the degree of " q " , and a decomposition with these properties is unique .
+however , clay products of feldspar decomposition greatly degrade their permeability , especially at basal levels .
+two of these were knocked down in 1821 due to their state of decomposition from the saltpetre in the gunpowder stored there during the french revolution .
+similarly , gaussian wavelets , which would correspond to the waist of a propagating gaussian beam , could also potentially be used in still another functional decomposition of the object plane field .
+an " open book decomposition " of a 3-dimensional manifold " m " is a pair ( " b " , π ) where
+if a split - complex number " z " does not lie on one of the diagonals , then " z " has a polar decomposition .
+( 1959 ) published another article on enzymatic decomposition of native keratin by streptomyces fradiae .
+baryte has a slower decomposition rate and so favors han blue production .
+that is , it is an algebra over a commutative ring or field with a decomposition into " even " and " odd " pieces and a multiplication operator that respects the grading .
+the details of decomposition processes are generally not well defined , as a molecule may break up into a host of smaller fragments .
+these differences are due to the difficulty of establishing what represents a single character in cuneiform , and indeed most of borger 's items not encoded have straightforward etymological decomposition .
+while most tractable structural restrictions derive from fixing the width of a decomposition method , others have been developed .
+the euler characteristic of a closed non - orientable surface can be calculated from its non - orientable genus " k " ( the number of real projective planes in a connected sum decomposition of the surface ) as
+thus , even after decomposition , trifluoroiodomethane is likely to be a very effective greenhouse gas .
+by decomposition ,
+in fact if the cycles in a cycle decomposition of a permutation have length " n"1 ... , " n'k " with " n"1 + ··· + " n'k " = " n " , then the order of the permutation divides the product " n"1 ···"n'k " , which in turn is bounded by ( " n"/"k")"k " , using the inequality of arithmetic and geometric means .
+atomic decomposition .
+self accelerating decomposition temperature .
+on 6 april 2005 , a body in an advanced state of decomposition was discovered by the police of nice at théoule - sur - mer , alpes - maritime .
+spectral decomposition .
+due to the body ’s advanced stage of decomposition , no organ or tissue samples were viable to screen for toxins .
+with formula_19 , this least squares solution can be analyzed in a special way via the singular value decomposition .
+the various stages of decomposition can help determine how long a body has been dead .
+multivariate models ( such as the cholesky decomposition ) will , however , allow the viewer to see shared genetic effects ( as opposed to the genetic correlation ) by following path rules .
+this level is decomposition of a process shown in a level-1 diagram , as such there should be a level-2 diagram for each and every process shown in a level-1 diagram .
+molecular mass is 576.08 , melting point 600 c ( with decomposition ) , the substance is practically insoluble in water ( < 0.1 g / 100ml @ 20c ) , but soluble in conc .
+most formulations of the hodge decomposition require " m " to be compact .
+the monks followed itigilov 's directions , but when they exhumed his body 30 years later , they were amazed to find none of the usual signs of decay and decomposition .
+the bladder of a guinea pig , the calcareous corpuscles of a cestode parasite , and the final stages of decomposition of the putrefying flesh of the giant saguaro cactus .
+periodically , gacy would pour quicklime in the crawlspace to hasten the decomposition of the bodies .
+fossil fuels are fuels formed by natural resources such as anaerobic decomposition of buried dead organisms .
+two officers of his staff reported him what to niedermayers arrest and indictment due to a defensive force decomposition and defeatism .
+the decomposition of formula_6 into the above minimal generating set
+its decomposition reaction proceeds to completion once initiated , producing voluminous dark green powdered chromium(iii ) oxide .
+adomian decomposition method .
+this is a consequence of the jordan decomposition .
+dantzig – wolfe decomposition .
+1080 decomposes in warm water into harmless compounds , resulting in low persistence in a lab environment however , in the natural new zealand environment its decomposition rates and persistance are unknown .
+the presence of the integrated character generator also explains the historical necessity for the existence of the " x " key as used for disambiguation of decomposition collisions : because characters are " chosen " when the codes are " output " ,
+modular decomposition can be used to compute a power graph by using
+this is due to biological activity : decomposition of organic material releases carbon dioxide and thus increases the amount of dissolved carbon dioxide .
+the matrix " a " in the above decomposition is a symmetric matrix .
+the mapping between the ics and dps may require the decomposition of the ics to allocate specific ics to the lower level dps .
+a facility model describes a facility , primarily in a breakdown structure that specifies a decomposition hierarchy of the facility .
+the spatial vector formula_9 and tensor formula_6 undergo further decomposition .
+the derham decomposition theorem does not apply to affine holonomy groups , so a complete classification is out of reach .
+these processes occur faster in supercritical fluids than in liquids , promoting nucleation or spinodal decomposition over crystal growth and yielding very small and regularly sized particles .
+rising leachate levels can also wet waste masses that have previously been dry triggering further active decomposition and leachate generation .
+it is a decomposition product of halon compounds used in fire extinguishers .
+if sugars are heated so that all water of crystallisation is driven off , then caramelization starts , with the sugar undergoing thermal decomposition with the formation of carbon , and other breakdown products producing caramel .
+they are usually dark in color , owing to the abundance of ferro - magnesian silicates , of high specific gravity and liable to decomposition .
+winds defined by an equilibrium of physical forces are used in the decomposition and analysis of wind profiles .
+decomposition ( i.e. , drill down to greater levels of detail ) takes place within each cell .
+by contrast , unique decomposition into " indecomposable " submodules does not generalize as far , and the failure is measured by the ideal class group , which vanishes for pids .
+the movement started out as an urban movement , animated by artisans and by the intermediate classes closest to social decomposition .
+there is no ignition , explosion , self - heating or visible decomposition when musk xylene is heated ( without confinement ) to 75 °c for 48 hours .
+decomposition of plant materials below water often produces marsh gas , which may begin to burn by self - ignition making mysterious lights known locally as will o ' the wisps , jack - o'-lanterns , or sprites .
+macdonald , r. , and clark , p.b. ( 2000 ) . filtering the beer : a permanent and transitory decomposition .
+g. fox proceeds to provide the polar decomposition of a bireal variable and discusses hyperbolic orthogonality .
+an even better method is to use the eigenvalue decomposition of a.
+the specification method is based on functional decomposition of the equipment into atomic and compound functions .
+a precise definition and proof of the decomposition requires the problem to be formulated on sobolev spaces .
+the question of determining this decomposition of the restricted representation of a given irreducible representation of " s'n " , corresponding to a partition formula_1 of " n " , is answered as follows .
+each of these modules is an irreducible representation for the orthogonal group , and thus the ricci decomposition is a special case of the splitting of a module for a semisimple lie group into its irreducible factors .
+her works are typified by dark imagery of death and decomposition .
+a generalization of this theorem is the helmholtz decomposition which states that any vector field can be decomposed as a sum of a solenoidal vector field and an irrotational vector field .
+vanillin is produced by the thermal decomposition of lignin , a complex polymer and constituent of flax .
+as decomposition occurs the internal body temperature tends to rise again .
+a hydrogen peroxide - powered motor is based on the decomposition reaction of hydrogen peroxide .
+tree clustering or join - tree clustering is based on merging constraints in such a way the resulting problem has a join tree , this join tree is the result of the decomposition .
+invariant factor decomposition .
+the varrentrapp reaction is an organic reaction involving the chemical decomposition of an α,β-unsaturated acid into two other acid fragments by action of molten alkali .
+decomposition ( album ) .
+that is , " there is no chemical decomposition of the flour whatever , and therefore no loss of material , while the rising of the dough is just as effectively carried out " as with traditional dough fermentation .
+hinge / clustering decomposition .
+it is also the unstable decomposition product of calcium hypochlorite .
+however , these models do not reflect simultaneous linear and non - linear decay processes which likely occur during decomposition .
+however , in some reactions , the transition state may traverse the potential energy surface in such a way , that it leads to an unexpected product selectivity not predicted by transition state theory ( an example of such a reaction is the thermal decomposition of diazaobicyclopentanes , presented by anslyn and dougherty ) .
+most larvae are found on human corpses during the dry and skeletal phases of decomposition , which occurs several days after death .
+laidler 's work includes seminal contributions in several areas of the field : gas phase reactions ; kinetic aspects of reactivity of electronically excited molecules and construction of potential energy surfaces for such processes ; development of treatments for kinetics and mechanisms for surface reactions and solution reactions , introducing modern concepts of solvation through dielectric polarization effects in the treatment of ionic redox reactions and of reactions producing or consuming ions ; gas phase free - radical reactions involving pyrolysis and other thermal decomposition processes ; and … the kinetics of enzyme - catalyzed reactions . "
+it is an alternative to dantzig - wolfe decomposition .
+in any decomposition of " a " as a direct sum of a torsion subgroup " s " and a torsion - free subgroup , " s " must equal " t " ( but the torsion - free subgroup is not uniquely determined ) .
+the key concept of this tone mapping method ( lightness perception in tone reproduction ) is a decomposition of an hdr image into areas ( frameworks ) of consistent illumination and the local calculation of the lightness values .
+rapid aerobic composting will be thermophilic decomposition in which bacteria that thrive at high temperatures ( 40 - 60 °c / 104 - 140 °f ) oxidizes ( breaks down ) the waste into its components , some of which are consumed in the process , reducing volume , and eliminating potential pathogens .
+the larvae of " s. haemorrhoidalis " occur on carcasses in the early and advanced stages of decomposition .
+however , this is disputed by others who were intimately involved in the rehabilitation because the skeleton , in its advanced state of decomposition , could not provide evidence of poaching over some other cause of death .
+hahn decomposition .
+this carbene , the forerunner of a large family of carbenes with the imidazol-2-ylidene core , was found to be indefinitely stable at room temperature ( in the absence of oxygen and moisture ) , and melted at 240–241 °c without decomposition .
+it will attempt to construct chinese characters according to the cangjie decomposition rules ,
+note that the design - to sequence is top down , starting at the system level and proceeding consistent with decomposition to the lowest configuration item level ( lci ) .
+the process is called top - down design , or functional decomposition .
+it was later found that she had been weighted down with an anchor , decomposition separating the body parts .
+the reader simultaneously appreciates the meaning and the sounds of the poem , and both subject and form are influenced by the reader ’s experience of the other , “ if you want to have the poem again , you can not find it by adding together these two products of decomposition ; you can only find it by passing back into poetic experience , ” ( 19 ) .
+likewise , if f has zero curl , ∇×f = 0 , then f is called irrotational or curl - free , and the helmholtz decomposition of f collapses to
+in the past , burial trenches were re - used after 25–50 years , allowing for sufficient decomposition of the remains .
+hexagonal diamond has also been synthesized in the laboratory ( 1966 or earlier ; published in 1967 ) by compressing and heating graphite either in a static press or using explosives it has also been produced by chemical vapor deposition , and also by the thermal decomposition of a polymer , poly(hydridocarbyne ) , at atmospheric pressure , under argon atmosphere , at temperature .
+it mainly consists of shed vegetative parts , such as leaves , branches , bark , and stems , existing in various stages of decomposition above the soil surface .
+mackey decomposition was defined and explored by george mackey in the context of lie groups , but is a powerful tool in the character theory and representation theory of finite groups .
+for most of the same reasons already stipulated , functional decomposition has a prominent role in computer programming , where a major goal is to " modularize " processes to the greatest extent possible .
+in addition , frits zernike proposed still another functional decomposition based on his zernike polynomials , defined on the unit disc .
+eponymous terms include the wold decomposition and the cramér - wold theorem .
+the decomposition , however , commences at 100 °c .
+the monaco system , where an anaerobic layer is created in the tank , to denitrify the organic compounds in the tank , and also the other nitrogen compounds , so that the decomposition process continues until the stage where water , carbon dioxide and nitrogen are produced , has also been implemented .
+this decomposition is produced mainly by the alpha particles , that can be entirely absorbed by very thin layers of water .
+skyline storage has become very popular in the finite element codes for structural mechanics , because the skyline is preserved by cholesky decomposition ( a method of solving systems of linear equations with a symmetric , positive - definite matrix ; all fill - in falls within the skyline ) , and systems of equations from finite elements have a relatively small skyline .
+use as a monopropellant takes advantage of the decomposition of 70–98+% concentration hydrogen peroxide into steam and oxygen .
+different insects colonize the body throughout the stages of decomposition .
+frozen mummies commonly restart the decomposition process when thawed , whilst heat - desiccated mummies remain so unless exposed to moisture .
+the resolvent of " a " can be used to directly obtain information about the spectral decomposition
+an idea of hierarchical algorithm is an acceleration of calculations due to decomposition of intricate problem on the great number of simple ( see picture ) .
+stereo decomposition is used for immersive applications , where the individual eye passes are rendered by different rendering units .
+the decomposition of " a " into " c " can be done using number of pieces equal to the product of the numbers needed for taking " a " into " b " and for taking " b " into " c " .
+primary decomposition .
+according to vandervert , in the emotion - driven child prodigy ( commonly observed as a " rage to master " ) the cerebellum accelerates the streamlining of the efficiencies of working memory in its manipulation and decomposition / re - composition of visual - spatial content into language acquisition and into linguistic , mathematical , and artist expression .
+by studying the limit of the manifold for large time , perelman proved thurston 's geometrization conjecture for any fundamental group : at large times the manifold has a thick - thin decomposition , whose thick piece has a hyperbolic structure , and whose thin piece is a graph manifold , but this extra complication is not necessary for proving just the poincaré conjecture .
+organozinc compounds in general are sensitive to oxidation , dissolve in a wide variety of solvents where protic solvents cause decomposition .
+according to owen , the carcass showed little or no signs of decomposition and measured around in length .
+in which piloty 's acid is derivatized and produces hno upon thermal decomposition .
+however , these carbenes are not thermodynamically stable as decomposition and dimerisation have been observed for unhindered examples .
+the reaction can become self - sustaining ( known as self - sustaining decomposition , or ssd ) , which is a thermal runaway ( i.e. a fire event with a chemistry not based on oxygen consumption ) .
+catalase is a common enzyme found in nearly all living organisms which are exposed to oxygen , where it functions to catalyze the decomposition of hydrogen peroxide to water and oxygen .
+by the iwasawa decomposition , " k " has a transversal , and thus the group splits .
+in physics , the cluster decomposition theorem guarantees locality in quantum field theory .
+equivalently , " a " can be written as a linear combination of pairwise orthogonal projections , called its spectral decomposition .
+he deposited parylene films by the thermal decomposition of di - p - xylylene at 550 °c and in vacuum below 1 torr .
+a majority of the chloromethane in the environment is produced naturally by biological decomposition , forest fires , and volcanoes .
+" c. olla " is being investigated for its ability to accelerate the decomposition of stubble left in the field after harvest , effectively reducing pathogen populations and accelerating nutrient cycling through mineralization of essential plant nutrients . " c. stercoreus " is known to inhibit the growth of " ralstonia solanacearum " , the causal agent of brown rot disease of potato , and may have application in reducing this disease and enhancing plant health .
+rising gas bubbles betray the decomposition of sewage sludge that on a ripe , warm day produces the canal 's notable stench .
+food decomposition .
+tree decomposition .
+her recordings came out on dischord records , kill rock stars , and her label decomposition .
+so for a decomposition of n levels there is a redundancy of n in the wavelet coefficients .
+poincaré duality constrains the topology of the cell decomposition , and thus the algebra of the weyl group ; for instance , the top dimensional cell is unique ( it represents the fundamental class ) , and corresponds to the longest element of a coxeter group .
+it can be formed by high temperature decomposition of smi3 ( the more stable iodide ) , but a convenient lab preparation is to react sm powder with 1,2-diiodoethane in anhydrous thf , or ch2i2 may also be used .
+that is according to the standard decomposition of the regular representation .
+neighbor - joining is a form of star decomposition , and can very quickly produce reasonable trees .
+the state of the skeletons recovered , all of them inarticulate or only partially articulate , placed in a sequence of distinct layers , indicates that the dead were either allowed to decay partially outside the tomb ( excarnation ) , or that their remains were reorganised after partial or complete decomposition within the tomb .
+gunpowder is classified as a low explosive because of its relatively slow decomposition rate and consequently low brisance .
+in 1995 mexican chemist mario j. molina shared the nobel prize in chemistry with paul j. crutzen , and f. sherwood rowland for their work in atmospheric chemistry , particularly concerning the formation and decomposition of ozone .
+decomposition of mixtures of mono- and heterometallic alkoxide derivatives has also been examined .
+only with very large substituents it is possible to isolate an hexacene for instance the compound " 6,15-bis(tri - t - butylsilylethynyl)hexacene " which melts with decomposition at 96°c .
+the axioms for a building can easily be verified using the classical schreier refinement argument used to prove the uniqueness of the jordan - hölder decomposition .
+chemical oxygen generator for example in commercial aircraft provide emergency oxygen to passengers to protect them from drops in cabin pressure by catalytic decomposition of sodium chlorate .
+unimolecular ion decomposition is the fragmentation of a gas phase ion in a reaction with a molecularity of one
+its thick - thin decomposition has a thin part consisting of tubular neighborhoods of closed geodesics and/or ends which are the product of a euclidean surface and the closed half - ray .
+he wrote that currently mountains are chiefly decaying and disintegrating but that their layered appearance indicates that they were formerly produced by a sedimentary process , implying a cycle in the formation and decomposition of mountains .
+a state - of - the - art approach is based on singular value decomposition ( svd ) .
+decomposition is a term used in computer science to break static data structures into smaller units of unequal size .
+dalí described the work as illustrating " the decomposition of a fruit dish . "
+group members who separate from the group are found dead , in a gruesome state of decomposition .
+at this point , problem analysis — " problem decomposition " — is complete .
+bruhat decomposition .
+commonly used examples of this type of decomposition are the fourier series and the fourier transform .
+this is beneficial because the contaminates are removed from the system prior to decomposition into more toxic compounds .
+this climatic conditions favor growth of bacterial and fungal populations resulting in increase in decomposition activity .
+ammonia is also produced through the decomposition of plant and animal matter , including fecal matter and other detritus .
+an explosion consists of a series of reactions , highly exothermic , involving decomposition of the ingredients and recombination to form the products of explosion .
+traditional software development has focused on decomposing systems into units of primary functionality , while recognizing that there are other issues of concern that do not fit well into the primary decomposition .
+in mathematics , a super vector space is another name for a z2-graded vector space , that is , a vector space over a field " k " with a given decomposition
+other methods include reacting sulphuryl chloride with rhenium powder with or without the addition of aluminium chloride , the thermal decomposition of salts of hexachlororhenic(iv ) acid , or the heating of re2(o2cch3)4cl2 under hcl gas .
+all of their energy and growth materials from their growth medium , through biochemical decomposition processes .
+if " w = s1s2 ... sn " is a reduced decomposition of " w ∈ w " , then formula_10 this basis of hecke algebra is sometimes called the natural basis .
+some of these microorganisms have receptors to simple sugars from the decomposition of chitin .
+this decomposition is catalyzed by acid , base and mno2 .
+this decomposition was further developed in the 1980s by p. kroonenberg , who coined the terms tucker3 , tucker3als ( an alternating least squares dimensionality reduction algorithm ) , 3-mode svd , and 3-mode pca .
+together with ammonification , nitrification forms a mineralization process which refers to the complete decomposition of organic material , with the release of available nitrogen compounds .
+it is theoretically predicted that in a composition regime between ~ 15% -85% indium nitride spinodal decomposition should occur leading to in - rich and ga - rich ingan regions or clusters .
+it calls the seven saints and supernatural entities ( " mluk " , arabic : ملوك ) represented by seven colors , as a prismatic decomposition of the original light / energy .
+" decomposition " is a 2cd album set by japanese noise musician masami akita , under the name merzbow , featuring remixes and manipulation of source material recorded by eugene thacker and shane fahey .
+vector decomposition in two dimensions .
+another important case is finding a decomposition of a vector bundle " v " of rank " n " as a whitney sum ( direct sum ) of sub - bundles of rank " k " and " n - k " , resulting in reduction of the structure group from gl("n",r ' " ) to gl("k",r ' " ) × gl("n - k",r ) .
+by the bruhat decomposition the space " g"/"b " of the algebraic group " g " with weyl group " w " is a disjoint union of affine spaces " x'w " parameterized by elements " w " of " w " .
+lassi is similar to lsa in that it involves the construction of an occurrence matrix from a corpus of items and the application of singular value decomposition to that matrix to derive latent features .
+the first minute of the picture is lost to nitrate decomposition , but the entire vitaphone soundtrack survives , preserving a glimpse of what must have part of her vaudeville act of the time .
+tucker decomposition .
+soils in the humid tropics are normally highly acidic and nutrient poor ; decomposition is rapid because of high temperatures , high humidity , and frequent heavy rains .
+dung - heaps were a particularly common source : ammonia from the decomposition of urea and other nitrogenous materials would undergo bacterial oxidation to produce nitrates .
+the hodge decomposition writes the complex cohomology of a complex projective variety as a sum of sheaf cohomology groups .
+topsoil is present only in natural forest areas , created by the decomposition of leaf litter .
+andrusov was the first to propose that this substance was created by biological decomposition of life forms ( bacteria ) containing sulfurous compounds .
+cold inhibits bacteria , preventing the decomposition of the fibers .
+natural burials that permit full decomposition can take place in conventional cemeteries as well as dedicated natural burial grounds .
+the mummy was in a state of advanced decomposition due to the proximity of the water table , however many of the tomb 's artifacts were in good condition .
+in mathematics , the langlands decomposition writes a parabolic subgroup " p " of a semisimple lie group as a product formula_1 of a reductive subgroup " m " , an abelian subgroup " a " , and a nilpotent subgroup " n " .
+the main difference between modular decomposition and power graph analysis is the
+such preservation may depend on the presence of clay - like minerals that inhibit decomposition , and ocean chemistry may only have favoured the production of such minerals for limited periods of time .
+more succinctly , there is a direct sum decomposition
+decomposition would have occurred especially quickly in israel due to the constant heat .
+led to decomposition of the explosive , separating the binder and plasticizer , which then caused deterioration of the detonators .
+the " decomposition temperature " of a substance is the temperature at which the substance decomposes into smaller substances or into its constituent atoms .
+when the excessively large population of autotrophs reach the end of their life cycles , the process of decomposition consumes oxygen .
+this effect can , for example , be employed for computing the qr decomposition of a matrix .
+an ehresmann connection on " e " is a smooth subbundle " h " of " te " , called the horizontal bundle of the connection , which is complementary to " v " , in the sense that it defines a direct sum decomposition " te " = " h"⊕"v " .
+semantic decomposition .
+historically , however , this process has suffered from low selectivity due to competing decomposition of methanol .
+a rectangular non - negative matrix can be approximated by a decomposition with two other non - negative matrix via non - negative matrix factorization .
+the speed at which decomposition occurs varies greatly .
+for example , functional view work products answer the question “ how is the mission carried out ? ” they are most easily developed by experts in functional decomposition using process and activity modeling .
+this property is known as variance decomposition or the law of total variance and plays an important role in the analysis of variance .

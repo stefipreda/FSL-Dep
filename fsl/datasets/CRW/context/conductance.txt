@@ -1,0 +1,255 @@
+the reciprocal of the output resistance is named the output conductance
+hence , basic membrane properties were changed due to the modified conductance ratio of potassium and sodium , and this change was temperature dependent .
+they then demonstrated an atomic - scale two - terminal switch by showing that the reversible transfer of the atom between the tip and surface resulted in a reversible change in conductance of the tunnel junction .
+the equivalent circuit consists of a capacitor in parallel with four pathways each consisting of a battery in series with a variable conductance .
+taicatoxin acts on the voltage - dependent l - type calcium channels from the heart , and on the small conductance ca2 + -activated k+ channels in the chromaffin cells and in the brain .
+the solid shows almost metallic electrical conductance and was the first discovered purely organic conductor .
+then our total neuron conductance is given by
+, a finite conductance exists even at near ideal interfaces as well .
+scyllatoxin ( also leiurotoxin i ) is a toxin , from the scorpion " leiurus quinquestriatus hebraeus " , which blocks small - conductance ca2 + -activated k+ channels .
+two of these six helices are separated by a loop that lines the pore and is the primary determinant of ion selectivity and conductance in this channel class and some others .
+title : zero - conductance resonances due to flux states in nanographite ribbon junctions author(s ) : wakabayashi k , sigrist m source : physical review letters volume : 84 issue : 15 pages : 3390 - 3393 published : apr 10 2000 times cited : 83
+they have a single channel conductance range ( 25 - 35 ps ) and they are blocked by trivalent ion gadolinium .
+a less mechanistic growth and competition model , called the conductance model , has been developed , mainly at warwick - hri , wellesbourne , uk .
+low - voltage - activated calcium channels are referred to as ' t ' type because their currents are both transient , owing to fast inactivation , and tiny , owing to small conductance .
+this channel , the apamin sensitive , small conductance sk2 potassium channel , is activated by calcium that is likely released into the cytoplasm via calcium - induced calcium release from calcium stores within the subsynaptic cisternae as a response to incoming calcium from the nicotinic complex .
+stx1a has been shown to interact with snap-25 , unc13b , scnn1 g , napa , snap23 , cplx1 , vamp2 , cystic fibrosis transmembrane conductance regulator , rnf40 , stxbp5 , vesicle - associated membrane protein 8 , slc6a1 , syt1 and stxbp1 .
+conductance may also be expressed as " mho " , because it is the reciprocal of electrical resistance ( measured in ohms ) .
+where " g " is conductance , " l " is the length of the wire , " a " is the cross - sectional area of the wire , and " k " is a constant specific to the material of the wire .
+the equations to be solved are time - dependent differential equations with electro - dynamical variables such as current , conductance or resistance , capacitance and voltage .
+in this case , the high thermal conductance of the substrate will act as a natural pathway for the rejected heat .
+and the equivalent conductance will be ,
+a diamond 's electrical conductance is only relevant to blue or gray - blue stones , because the interstitial boron responsible for their color also makes them semiconductors .
+while there are no free electrons to enhance the thermal conductance of the interface , the similar physical properties of the two crystals facilitate a very efficient phonon transmission between the two materials .
+sk channels ( small conductance calcium - activated k ( potassium ) channels ) are a subfamily of ca2 + -activated k+ channels .
+in most cases changes in the conductance of ion channels occur on a faster time scale , so an rc circuit is not a good approximation ; however the differential commonly equation used to model a membrane patch is a modified version of the rc circuit equation .
+bernstein 's hypothesis was confirmed by ken cole and howard curtis , who showed that membrane conductance increases during an action potential .
+as before , formula_23 is the average conductance ( around 1s ) and formula_74 is the equilibrium potential of the given ion or transmitter ( amda , nmda , cl , or k ) , while formula_75 describes the fraction of receptors that are open .
+the sensitivity is partly limited by the thermal conductance of the pixel .
+the atomic - level geometry of the tip - electrode contact has an effect on the conductance and can change from one run of the experiment to the next so a histogram approach is required .
+the conductance of a graph is often called the " cheeger constant " of a graph as the
+isopimaric acid ( ipa ) is a toxin which acts as a large conductance ca2 + -activated k+ channel ( bk channel ) opener .
+the effective electric resistance is bounding with the effective electric conductance formula_4 by the expression
+large - conductance mechanosensitive channel .
+fukushima 's theorem holds in any planar or spherical geometry , provided that the field - aligned currents are perpendicular to the ground , and that the ionospheric conductance is spatially constant .
+advances in the mbe technique led to observation of negative differential conductance ( ndc ) at terahertz frequencies , as reported by sollner " et al . " in the early 1980s .
+for a single cylinder or an entire tree , the input conductance at the base ( where the tree meets the cell body , or any such boundary ) is defined as
+where epc is the end plate current , gach is the ionic conductance activated by acetylcholine , vm is the membrane potential , and erev is the reversal potential .
+the image is constructed from the x , y position of the probe and the conductance of the sample , with no significant current passing through the probe , which acts as a local gate .
+eventually this potassium conductance drops and the cell returns to its resting membrane potential .
+in this model , the genetic deficiency in the cystic fibrosis transmembrane conductance regulator channel proteins interferes with bacteria binding to the gastrointestinal epithelium , thus reducing the effects of an infection .
+these have involved physiological responses , such as of skin conductance and electroencephalographic activity , or indirect psychological measures , such as ratings of preference for one or another target alternative .
+proctolin is not considered a classical neurotransmitter as in many systems where it is present it does not change the postsynaptic conductance .
+they are involved in various functions including cell - to - cell contact , ion conductance , and acting as receptors .
+a - cyclin b - cyclin e - cyclin - dependent kinase - cycloleucine - cyclosporin - cyclosporine - cystatin - cysteine - cystic fibrosis transmembrane conductance regulator - cytochrome b - cytochrome c - cytochrome p-450 - cytochrome p-450 cyp1a1 - cytochrome c oxidase - cytokine receptor - cytoplasm - cytoplasmic and nuclear receptor - cytosine - cytoskeletal protein - cytoskeleton - cytosol - cytotoxic t cell -
+there have been studies comparing autistic children to non - autistic controls , one studying the baseline heart rates of each , and another comparing their baseline skin conductance responses .
+benzodiazepines share a similar chemical structure and their effects in humans are mainly produced by the allosteric modification of a specific kind of neurotransmitter receptor , the gabaa receptor , which increases the conductance of this inhibitory channel ; this results in the various therapeutic effects as well as adverse effects of benzodiazepines .
+it causes bradycardia by inhibiting the pacemaker current by altering the maximal channel conductance and alter the voltage threshold .
+other techniques exist but this article focuses on the well - established conductance catheter technique .
+an electrodermograph ( edg ) measures skin electrical activity directly ( skin conductance and skin potential ) and indirectly ( skin resistance ) using electrodes placed over the digits or hand and wrist .
+some of his research interests include understanding the function of cystic fibrosis transmembrane conductance regulator ( cftr )
+unreversibly and weakly blocks the high conductance calcium - activated potassium channels composed of alpha- and beta4-subunits .
+measurements may be done at dc , or using both dc and a small - signal ac signal ( the " conductance method "
+the hyperpolarization activated nonselective cation conductance decreases epsp summation and duration and they also change inhibitory inputs into postsynaptic excitation .
+the developed cooling system was the first description and usage of variable conductance heat pipes to actively regulate heat flow or evaporator temperature .
+cf is caused by a mutation in the gene coding for the " cystic fibrosis transmembrane conductance regulator " ( " cftr " ) protein .
+this increased conductance raises the membrane potential of the neuron resulting in inhibition of neuronal firing .
+it is closely related to the conductance .
+a simple recursive algorithm scales linearly with the number of branches and can be used to calculate the effective conductance of the tree .
+under ideal conditions the conductance of individual channels can be quantified .
+the term conductance is applied to electronic devices such as transistors and diodes , where it usually refers to a small - signal model that is a linearization of the underlying device equations about a selected dc operating point or q - point .
+slotoxin reversibly blocks the high conductance calcium - activated potassium channels composed of only alpha - subunits ( kd = 1.5 nm ) .
+the ( large - signal ) shockley equation for a diode can be linearized about the bias point or quiescent point ( sometimes called q - point ) to find the small - signal conductance , capacitance and resistance of the diode .
+we can iterate these equations through the tree until we get the point where the dendrites connect to the cell body ( soma ) , where the conductance ratio is formula_66 .
+one study showed that local infusion of mcp-1 caused a large increase in conductance in both collateral and peripheral vessels while diminished levels of mcp-1 hindered the process of arteriogenesis ( ito " et al . " , 1997 ) .
+phosphorylation of ampars can regulate channel localization , conductance , and open probability . glur1 has four known phosphorylation sites at serine 818 ( s818 ) , s831 , threonine 840 , and s845 ( other subunits have similar phosphorylation sites , but glur1 has been the most extensively studied ) .
+increasing the thermal conductance raises the speed , but decreases sensitivity .
+since the conductance was described as being controlled by the time integral of current as in chua 's theory of the memristor , the memistor of widrow may be considered as a form of memristor having three instead of two terminals .
+this results in slow epsp and decreasedk+ conductance
+the tunneling rates and hence the conductance vary according to the charging energy of the islands as well as the thermal energy of the system .
+when anxiety raises the level of sweat in a sweat duct , conductance increases .
+variable conductance heat pipes employ a large reservoir of inert immiscible gas attached to the condensing section .
+c programming language -- cable length -- caesium -- calorie -- candela -- capacitance -- ccitt -- cd - rom -- celsius -- cen -- centimetre -- cgs -- chain -- character ( computing ) -- character encoding -- character set -- charge -- code -- coding standard -- color space -- common criteria -- computer display standard -- conductance -- conférence générale des poids et mesures ( cgpm ) -- configuration management -- constant of proportionality -- conversion of units -- cooking measures -- coulomb 's law -- coulomb -- country codes -- cup -- currency codes --
+when the fulvalene is reduced back a metastable high conductance ' 1 ' state is formed which relaxes back to the ground state with a chemical half - life of around one hour .
+in practice , semiconductors show clear conductance quantization for large wire transverse dimensions ( 100 nm ) because the electronic modes due to confinement are spatially extended .
+calcium - activated potassium channel subunit alpha-1 also known as potassium large conductance calcium - activated channel , subfamily m , alpha member 1 ( kca1.1 ) is a voltage gated ion channel encoded by the kcnma1 gene .
+another way to look at inhibitory postsynaptic potentials is that they are also a chlorine conductance change in the neuronal cell because it decreases the driving force .
+the bonding is complex and involves a delocalisation of some of the mo electrons in a conductance band accounting for the metallic conductivity .
+they have a large conductance range ( > 300ps ) .
+the reciprocal of the output resistance is named the drain conductance
+the old unit of conductance , the mho ( ohm spelled backwards ) , was replaced by the si ( international system ) unit , the siemens , with the symbol s ( 1 siemens = 1 ampere per volt ) .
+the presence of dust particles , acids , etc . , can also influence the contact conductance .
+notable room temperature thermal conductance .
+in physics , thermal contact conductance is the study of heat conduction between solid bodies in contact .
+the conductance , formula_1 , can be obtained by numerical differentiation of i with respect to v or acquired using lock - in detection as described above .
+a particularly interesting variant of this device is the hemt , or high electron mobility transistor , which also utilizes a heterojunction to provide a device with extremely high conductance .
+rate of ionic flow through the channel , i.e. single - channel current amplitude , is determined by the maximum channel conductance and electrochemical driving force for that ion , which is the difference between instantaneous value of the membrane potential and the value of the reversal potential .
+the conductance quantum is often denoted as formula_3 .
+the condition is hyperkalemic because a high extracellular potassium ion concentration will make it even more unfavourable for potassium to leave the cell in order to repolarise it to the resting potential , and this further prolongs the sodium conductance and keeps the muscle contracted .
+the cis anode may be viewed as a high conductance tube connected directly to the process chamber .
+the design details are a trade - off between fast cooling using heat conducting fins and high gas conductance using perforated tubing .
+prokaryotes harbor a large - conductance mechanosensitive channel ( gene mscl ) that opens in response to stretch forces in the lipid bilayer and participate in the regulation of osmotic pressure within the cell .
+where formula_22 is the conductance , or inverse resistance , which can be expanded in terms of its constant average formula_23 and the activation and inactivation fractions formula_24 and formula_25 , respectively , that determine how many ions can flow through available membrane channels .
+there is controversy about the question of whether the mptp is able to exist in a harmless , " low - conductance " state .
+cystic fibrosis is caused by a mutation in the cystic fibrosis transmembrane conductance regulator ( cftr ) gene .
+alistair sinclair showed that conductance is closely tied to mixing time in ergodic reversible markov chains .
+maxik channels are large conductance , voltage and calcium - sensitive potassium channels which are fundamental to the control of smooth muscle tone and neuronal excitability .
+they appear to have a non - selective effect on sodium chloride and potassium chloride secretion in tubules by opening a ca2 + -activated anion conductance , thus allowing more cl- into the tubule .
+from the simplified schematics to the right it can be seen that total impedance , conductance , reactance ( capacitance and inductance ) , and the transmission medium ( transmission line ) can be represented by single components , which give the overall value .
+it is a contraction of " transfer conductance " .
+conductance quantum .
+potassium intermediate / small conductance calcium - activated channel , subfamily n , member 2 , also known as kcnn2 , is a protein which in humans is encoded by the kcnn2 gene .
+it belongs to a family of channels known as small - conductance potassium channels , which consists of three members – sk1 , sk2 and sk3 ( kcnn1 , 2 and 3 respectively ) , which share a 60 - 70% sequence identity .
+s831 is phosphorylated by camkii during ltp , which helps deliver glur1-containing ampar to the synapse , and increases their single channel conductance .
+while a finite thermal contact conductance is due to voids at the interface , surface waviness , and surface roughness , etc .
+genetic researcher ( cystic fibrosis transmembrane conductance regulator protein ) , consultant orthopaedic surgeon at the royal london hospital ( barts and the london ) , and imperial college phd graduate , dr. zubair i mohamed attended the school between 2004 and 2009 .
+the calcium comes from stores and activate potassium conductance , which causes a pure inhibition in the dopamine cells .
+formula_25 is known as the quantized conductance .
+a common generalization of conductance is to handle the case of weights assigned to the edges : then the weights are added ; if the weight is in the form of a resistance , then the reciprocal weights are added .
+electrical conductance is a measure of how easily electricity flows along a certain path through an electrical element .
+however , recent studies have examined the effects of eye movement and have found that eye movement in emdr decreases the vividness and/or negative emotions associated with autobiographical memories , enhance the retrieval of episodic memories , increase cognitive flexibility , and correlate with decreases in heart rate , skin conductance , and an increased finger temperature .
+slc4a8 has been shown to interact with sodium - hydrogen antiporter 3 regulator 1 and cystic fibrosis transmembrane conductance regulator .
+most natural blue diamonds contain boron atoms which replace carbon atoms in the crystal matrix , and also have high thermal conductance .
+since the conductance of ionic current flow is controlled by the gate voltage , using a material with high dielectric constant as the wall of the channel is desired .
+tstx - iv blocks ca2 + activated k+ channels of high conductance .
+the electric potential on the earth 's surface can be measured at different points , enabling us to calculate the magnitudes and directions of the telluric currents and thence the earth 's conductance .
+the rate of heat flow depends on the fluid properties , flow rate , conductance to the surface , and the surface area of the radiator .
+barlow 's wheel is an early electric motor he invented , while barlow 's law is an ( incorrect ) law describing electrical conductance .
+example : the conductance of a resistor with resistance six ohms is " g " = 1/(6 ω ) ≈ 0.167 s ≈ 167 ms.
+golden mice have a low basal metabolic rate and high conductance .
+formally , the conductance of a graph is defined as the minimum over all sets formula_6 of the capacity of formula_6 divided by the ergodic flow out of formula_6 .
+the unit siemens for the conductance " g " is defined by
+kca1.1 channels are large conductance , voltage and calcium - sensitive potassium channels which are fundamental to the control of smooth muscle tone and neuronal excitability .
+cftr functions as a camp - activated atp - gated anion channel , increasing the conductance for certain anions ( e.g. cl- ) to flow down their electrochemical gradient .
+francis collins , present director of the nih , was the first to receive the prize , which honored his discovery of the cystic fibrosis transmembrane conductance regulator encoding gene cftr , mutated in cystic fibrosis , a genetic disease commonly found in caucasian populations and often accompanied by severe pulmonary manifestations .
+in some applications where the weight of an item is very important resistivity density products are more important than absolute low resistivity- it is often possible to make the conductor thicker to make up for a higher resistivity ; and then a low resistivity density product material ( or equivalently a high conductance to density ratio ) is desirable .
+there are numerous subunit isoforms for the gabaa receptor , which determine the receptor 's agonist affinity , chance of opening , conductance , and other properties .
+universal conductance fluctuation ( ucf ) in quantum physics is a phenomenon encountered in electrical transport experiments in mesoscopic species .
+at room temperature , the al - cu interface has a conductance of 4 gw m−2 k−1 .
+cystic fibrosis transmembrane conductance regulator ( cftr ) is a protein that in humans is encoded by the " cftr " gene .
+it is generally believed ( though not proven ) that a dendrotoxin molecules bind to anionic sites near the extracellular surface of the channel and physically occlude the pore , thereby preventing ion conductance .
+this also helps to understand the pressure independence of the thermal conductance .
+cystic fibrosis transmembrane conductance regulator .
+where " j " is the imaginary unit , " v"("ω " ) is the voltage component at angular frequency " ω " , " g"("ω " ) is the " real " part of the current , called the " conductance " , and " c"("ω " ) determines the " imaginary " part of the current and is the " capacitance " .
+that gramicidin d functions as a channel was demonstrated by hladky and haydon , who investigated the unit conductance channel .
+they have been classified based on their conductance as mini ( mscm ) , small ( mscs ) and large ( mscl ) .
+this read - out uses the phase influence of a superconductor on the conductance properties of a normal metal .
+the counter detects change in electrical conductance of a small aperture as fluid containing cells is drawn through .
+phenytoin ( fen i toyn ) acts to suppress the abnormal brain activity seen in seizure by reducing electrical conductance among brain cells by stabilizing the inactive state of voltage gated sodium channels .
+until the potassium conductance returns to the resting value , a greater stimulus will be required to reach the initiation threshold for a second depolarization .
+applying a voltage formula_1 across the point contact a current will flow , the size given by formula_2 , where formula_3 is the conductance of the contact .
+in a bolometer probe the resistor is used as a local heater and the fractional change in probe resistance is used to detect the temperature and/or the thermal conductance of the sample .
+in normoxia , haem - oxygenase generates carbon monoxide ( co ) , co activates the large conductance calcium - activated potassium channel , bk .
+particles which are too small , however , lose their electrical conductance and can not enhance the field .
+by applying a voltage to the tip , and measuring differential conductance between it and the sample , the spin polarisation of the normal metal at that point ( and magnetic field ) may be determined .
+for example , " 10 s " denotes 10 siemens ( a unit of conductance ) , while " 10 s " denotes 10 seconds .
+according to an " in vitro " study conducted at the university of british columbia , amobarbital works by activating gabaa receptors , which decreases input resistance , depresses burst and tonic firing , especially in ventrobasal and intralaminar neurons , while at the same time increasing burst duration and mean conductance at individual chloride channels ; this increases both the amplitude and decay time of inhibitory postsynaptic currents .
+during a typical action potential , the small resting ion conductance mediated by potassium channels is overwhelmed by the opening of a large number of na+ ( sodium ion ) channels , which brings the membrane potential close to the reversal potential of sodium .
+these are all highly similar proteins , with only small amino acid changes causing the diversity of the voltage - dependent gating mechanism , channel conductance and toxin binding properties .
+however , the general correlation between electrical and thermal conductance does not hold for other materials , due to the increased importance of phonon carriers for heat in non - metals .
+if the conductance fluctuates below the voltage threshold for nav1.4 , then the sodium channels will eventually be able to close , and be depolarised again .
+some users prefer them because of their hardness , firmness , durability , electrical conductance ( see erotic electrostimulation ) , and low friction , especially when used in conjunction with lubricant .
+for an ergodic reversible markov chain with an underlying graph " g " , the conductance is a way to measure how hard it is to leave a small set of nodes .
+abmho is a unit of electrical conductance in the emu - cgs system of units ( stands for " electromagnetic units - centimetre gram second " ) .
+the " thermal contact conductance coefficient " , formula_1 , is a property indicating the thermal conductivity , or ability to conduct heat , between two bodies in contact .
+the identification of the gene family necessitated for ms of small conductance was as two different channels .
+where formula_2 is the maximum sodium conductance , " m " is the activation gate , and " h " is the inactivation gate ( both gates are shown in the image to the right ) .
+potassium intermediate / small conductance calcium - activated channel , subfamily n , member 4 , also known as kcnn4 , is a human gene encoding the kca3.1 protein .
+this is due to a larger than resting potassium conductance across the cell membrane .
+it acts as a gaba agonist at gabab receptors in the brain and spinal cord , resulting in hyperpolarization of neurons expressing this receptor , most likely due to increased potassium ion conductance .
+based on the slonczewski - weiss - mcclure ( swmcc ) band model of graphite , the interatomic distance , hopping value and frequency cancel when the optical conductance is calculated using the fresnel equations in the thin - film limit .
+kv3.1/kv3.2 conductance is necessary and kinetically optimized for high - frequency action potential generation .
+this conductance change was amplified electrically through the integration of the functionalized swcnts as the semi - conductive channel in a silicon - silicon oxide based field effect transistor ( fet ) .
+for cnt , represented as 1-d ballistic electronic channel , the electronic conductance is quantized , with a universal value of
+also used are atomic force microscopy ( afm ) , scanning ion conductance microscopy ( sicm ) , dual polarisation interferometry , nuclear magnetic resonance ( nmr ) although fluorescence microscopy remains the dominant technique .
+one such region on chromosome 7 contains the foxp2 gene ( mentioned above ) and this region also includes the cystic fibrosis transmembrane conductance regulator ( cftr ) gene , which is important for ion transport in tissues such as the salt - secreting epithelium of sweat glands .
+the basal level of gaba produces a postsynaptic leak conductance by tonically activating alpha 6-containing gaba - a receptors on the granule cell .
+thermal conductance is the rate of heat flux through a unit area at the installed thickness and any given delta - t.
+this results in a partial conductance drop that becomes apparent within a few seconds .
+conductance is defined as the applied current divided by the voltage measured between two adjacent electrodes .
+atp5o may be part of the connector linking f1 and fo components and may be involved in transmission of conformational changes or proton conductance .
+prkce has been shown to interact with cystic fibrosis transmembrane conductance regulator , vdac1 , copb2 , keratin 1 , ywhaz , myh9 , actin , alpha 1 and gnb2l1 .
+the term high - conductance state is also used to describe specific states of single ion channels .
+in spite of the enormous increase in tissue mass ( up to 50-fold ) , the degree of functional restoration of blood flow capacity is incomplete and ends at 30% of maximal coronary conductance and 40% in the vascular periphery .
+if the conductance settles at a steady state with the sodium pore open and unable to inactivate , then the muscle is unable to relax at all and motor control is completely lost ( paralysis ) .
+after hyperpolarization by calcium - dependent potassium conductance is also used as a method of controlling these bursts .
+when dealing with a known amount of material , its " thermal conductance " and the reciprocal property , " thermal resistance " , can be described .
+it is found that these two parameters can be derived independently based on the delay times , with short delay times ( 0.1 -.5 ns ) resulting in the thermal conductivity and longer delay times ( > 2ns ) resulting in the thermal conductance .
+chlorotoxin is the first reported high - affinity peptide ligand for cl- channels and it blocks small conductance chloride channels .
+however , the idea of measuring conductance to look at single molecules placed a serious limitation on the kind of systems which could be observed .
+the conductance between two of the terminals is controlled by the time integral of the current in the third , rather than its instantaneous value as in the transistor .
+pdzk1 has been shown to interact with akap10 , farp2 , sodium - hydrogen antiporter 3 regulator 1 , slc22a12 , slk , slc22a4 , clcn3 , pdzk1ip1 , cystic fibrosis transmembrane conductance regulator and slc34a3 .
+other interesting and important adaptations to a fossorial lifestyle include a low resting metabolic rate and high conductance , a tolerance for low oxygen levels and high carbon dioxide levels , and a decreased water intake .
+special relativity is thus consistent with the result of the michelson - morley experiment , which had not detected a medium of conductance ( or aether ) for light waves unlike other known waves that require a medium ( such as water or air ) .
+in voltage - gated ion channels , the channel conductance " g'i " is a function of both time and voltage ( " g'n"("t " , " v " ) in the figure ) , while in leak channels " g'i " is a constant ( " g'l " in the figure ) .
+as the conduction is dominated by the edge channels , the value of the conductance should be insensitive to how wide the sample is .
+the first major model for heat transfer at interfaces was the acoustic mismatch model which predicted a t−3 temperature dependence on the interfacial resistance , but this failed to properly model the thermal conductance of helium interfaces by as much as two orders of magnitude .
+for a device with a conductance of one siemens , the electric current through the device will increase by one ampere for every increase of one volt of electric potential difference across the device .
+these discrete values are often referred to as the quantum of conductance and are integer values of
+in sgm one measures the sample 's electrical conductance as a function of tip position and tip potential .
+the quantization of the hall conductance has the important property of being incredibly precise .
+for these ideal assumptions , the tunneling conductance is directly proportional to the sample dos .
+it is the reciprocal of thermal conductance .
+a conductance catheter contains two or more ring - shaped electrodes along its length .
+a study investigating the effects of inhalation of east indian sandalwood essential oil and its main compound , α-santalol , on human physiological parameters , sandalwood oil elevated pulse rate , skin conductance , and systolic blood pressure .
+as the tip of the micropipette approaches the sample , the ion conductance and therefore current decreases since the gap through which ions can flow , is reduced in size .
+from the electrical formula : formula_26 , where ρ is resistivity , x = length , a cross sectional area , we have formula_27 , where g is conductance , k is conductivity , x = length , a = cross sectional area .
+measurement of thermal contact conductance .
+in impedance analysis , the electric conductance as a function of driving frequency is determined by means of a network analyzer .
+it contains a wide variety of biological molecules , primarily proteins and lipids , which are involved in a variety of cellular processes such as cell adhesion , ion channel conductance and cell signaling .
+these include activation of electrogenic sodium - calcium exchangers ( ncx ) and a non - specific cationic conductance , likely channels of the transient receptor potential canonical-(trpc ) type activation of l - type voltage - dependent calcium channels , closure of g - protein - activated inward rectifier potassium channels ( girk ) , and activation of protein kinases , including protein kinase c ( pkc ) , protein kinase a ( pka ) , and mitogen - associated protein kinase , also called mitogen - activated protein kinase ( mapk ) .
+the gate in a conventional ( field - emission ) transistor determines the conductance between the source and drain electrode by controlling the density of charge carriers between them , whereas the gate in a single molecule transistor controls the feasibility of a single electron to jump on and off the molecule by modifying the energy of the molecular orbitals .
+the study of heat conduction between such bodies is called thermal contact conductance ( or thermal contact resistance ) .
+since glutamate is a ligand for ligand - gated ion channels , the binding of this neurotransmitter will open gates and increase sodium and calcium conductance .
+manages cardiac and conductance disorders .
+the " dynamic conductance tester " is just a variation of the " emission tester " with its implications , where a proportional ac voltage is applied to each electrode .
+numerous potential causes which could result in a consistent alteration in the reception of eod signals include : growth , changes in water conductance ( salinity ) , low water levels ( where the shallow bottom of the body of water would interfere with electrical currents ) , and possibly injuries .
+in such instances , conductance of the ulnar nerve may be compromised due to chronic irritation , potentially resulting in irreversible ulnar neuropathy .
+voltage - dependent calcium channels can be distinguished based on their voltage - dependence , deactivation , and single - channel conductance .
+dr stevens ' work on ion channel conductance is regarded as having paved the way for nobel laureate erwin neher 's patch clamping techniques .
+in order to facilitate the maintenance of a significantly higher carbon dioxide concentration in the bundle sheath compared to the mesophyll , the boundary layer of the kranz has a low conductance to carbon dioxide , a property which may be enhanced by the presence of suberin .
+it was n’t until 1997 that the first measurements on the conductance of a single molecule were published .
+noting that the small - signal resistance formula_51 is the reciprocal of the small - signal conductance just found , the diode resistance is independent of the ac current , but depends on the dc current , and is given as
+even though there are physically verifiable anatomical or histological bases for the existence of acupuncture points or meridians , for instance skin conductance measurements show increases at the predicted points .
+the condition is hypokalemic because a low extracellular potassium ion concentration will cause the muscle to repolarise to the resting potential more quickly , so even if calcium conductance does occur it can not be sustained .
+at low temperatures , the conductance of the salts declines , raising the esr , and the increase in the electrolyte 's surface tension can cause reduced contact with the dielectric .
+the intermediate conductance ca2 + -activated k+ ( ik ) channel is present in peripheral tissues , including secretory epithelia and blood cells .
+high - conductance state .
+unlike its axon counterpart which can generate signals through action potentials , dendrites were believed to only have the ability to propagate electrical signals by physical means : changes in conductance , length , cross sectional area , etc .
+the condition is hypokalemic because a low extracellular potassium ion concentration will cause the muscle to repolarise to the resting potential more quickly , so any calcium conductance that does occur can not be sustained .
+generally , sts involves observation of changes in constant - current topographs with tip - sample bias , local measurement of the tunneling current versus tip - sample bias ( i - v ) curve , measurement of the tunneling conductance , formula_1 , or more than one of these .
+in fact , there are examples of neurons forming even tighter coupling ; the squid giant axon arises from the fusion of multiple neurons that retain individual cell bodies and the crayfish giant axon consists of a series of neurons with high conductance septate junctions .
+thus the quantum conductance is approximately the same if measured at a and b or c and d.
+ipa interaction with the bk channel enhances ca2 + and / or voltage sensitivity of the α subunit of bk channels without affecting the channel conductance .
+these toxins reduce the conductance of sapwood being built , which causes water stress and kills the trees .
+processes that can be controlled include brainwaves , muscle tone , skin conductance , heart rate and pain perception .
+however , when a measure of emotional response is taken ( typically a measure of skin conductance ) , there tends to be an emotional response to familiar people even though no conscious recognition takes place
+the scanning ion - conductance microscope ( sicm ) consists of an electrically charged glass micro- or nanopipette probe filled with electrolyte lowered toward the surface of the sample ( which is non - conducting for ions ) in an oppositely charged bath of electrolyte .
+strictly speaking , the models with spin - orbit coupling do not have a quantized spin hall conductance formula_3 .
+however , there is a large gap between the conductance of materials that will carry a " useful current " at working voltages and those that will carry a negligible current for the purpose in hand , so the categories of " insulator " and " conductor " do have practical utility .
+by fitting a resonance curve to the conductance curve , one obtains the frequency and bandwidth of the resonance as fit parameters .
+others include the introduction of a sub - conductance , altered single - channel gating kinetics , and increased calcium permeability .
+interfacial thermal conductance is a measure of how efficiently heat carriers flow from one material to another .
+in addition to weather uncertainties , the penman - monteith equation is sensitive to vegetation specific parameters , e.g. stomatal resistance or conductance .
+increased potassium conductance should stabilize membrane potential during ischemic insults , reducing the extent infarct and ectopic pacemaker activity .
+interestingly , these mutant receptors also have a decreased single channel conductance than wild - type and have a lower affinity for acetylcholine .
+sk3 is a small - conductance calcium - activated potassium channel partly responsible for the calcium - dependent after hyperpolarisation current ( iahp ) .
+heaviside ( 1881 ) introduced series inductance and shunt conductance into the model making four distributed elements in all .
+this has equally valid results , but is at variance with the above table where now " m → c , s → 1/l , d → g " and " g " is electrical conductance .
+chloride conductance of these channels can be modulated by agents such as benzodiazepines that bind to the gabaa receptor .
+in general , addicts , regardless of drug of abuse , report robust increases in craving and exhibit modest changes in autonomic responses , such as increases in heart rate and skin conductance and decreases in skin temperature , when exposed to drug - related versus neutral stimuli .
+writing formula_9 for the conditional probability of leaving a set of nodes s given that we were in that set to begin with , the conductance is the minimal formula_9 over sets formula_6 that have a total stationary probability of at most 1/2 .
+the previous conductance equations written in terms of extensive properties , can be reformulated in terms of intensive properties .
+conductance based silicon neurons .
+the condosity of a solution is defined as the molar concentration of sodium chloride that has the same specific electrical conductance as the solution .
+in hydrology , the magnitude of conductance affects the rate of groundwater recharge or interaction with groundwater .
+this thin film of fluid is difficult to quantify , its characteristics depending upon complex conditions of turbulence and viscosity , but when dealing with thin high - conductance barriers it can sometimes be quite significant .
+we obtain a series of equations for conductance ratios in and out of a compartment by making corrections to the normal dynamic formula_61 , as
+during this time the extra potassium conductance means that the membrane is at a higher threshold and will require a greater stimulus to cause action potentials to fire .
+because the channel has a very high open probability , the authors of this last article conclude that this increase is mediated by increased trafficking of the protein to the membrane and not increased single - channel conductance .
+a thermal conductance tester , one of the instruments of gemology , determines if gems are genuine diamonds using diamond 's uniquely high thermal conductivity .
+the low - conductance state may allow small molecules like ca2 + to leave mitochondria quickly , in order to aid in the cycling of ca2 + in healthy cells .
+the afm has been used to determine chemical functionality , conductance , magnetic properties , surface charge , and frictional forces of sams .
+conductance .
+his work has used physiological measures , such as heart rate , skin conductance , and non - nutritive sucking , as well as behavioral observation .
+during depolarization , voltage - gated sodium ion channels open increasing the neuron 's membrane conductance for sodium ions and depolarizing the cell 's membrane potential ( from typ .

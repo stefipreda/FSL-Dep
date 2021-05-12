@@ -1,0 +1,255 @@
+the phosphorylation of the complex by cdc2 kinase reduces the helicase activity , suggesting a role in the regulation of dna replication .
+as dna polymerase requires rna primers for dna binding in order to commence replication , each okazaki fragment is thus preceded by an rna primer on the strand being synthesized .
+the heron hbv rna encapsidation signal epsilon is an rna structure that is shown to facilitate encapsidation of the pregenomic rna required for replication .
+there has been no replication of these results or further evidence published in peer - reviewed scientific journals to support the claims of penta / bio hydration research labs .
+many cellular processes ( dna replication , transcription , translation , recombination , dna repair , ribosome biogenesis ) involve the separation of nucleic acid strands .
+so the early procedures for dna replication were very inefficient , time consuming , and required large amounts of dna polymerase and continual handling throughout the process .
+mcm2 has been shown to interact with replication protein a1 , akap8 , mcm5 , mcm6 , mcm7 , orc1l , orc2l , orc4l , orc5l , mcm4 , mcm3 and cell division cycle 7-related protein kinase .
+since homologous recombination occurs after dna replication , two strands of dna are available and thus , the 3’
+replication protein a 14 kda subunit is a protein that in humans is encoded by the " rpa3 " gene .
+replication may also be blocked and/or the cell may die .
+another replication came from dr. ronald inglehart 's research into national opinions based on the world values survey , although inglehart 's research described the values of " countries " rather than individuals or groups of individuals within nations .
+mastering , a form of audio post - production , is the process of preparing and transferring recorded audio from a source containing the final mix to a data storage device ( the master ) ; the source from which all copies will be produced ( via methods such as pressing , duplication or replication ) .
+as a result dna replication and transcription is inhibited .
+he deliberately chose the ` simplest ' graphs and categories for his representations of metabolic - replication systems in small categories of sets endowed only with the discrete topology of sets , envisaging this choice as the most general and less restrictive .
+peter is eventually stripped of his abilities by his father arthur petrelli , before later regaining a modified form of this ability called ability replication through the formula .
+it includes scalable data synchronization technology that provides change - based replication between separate databases , including large server - based rdbms systems .
+in his 1963 paper " the bacterial chromosome and its manner of replication as seen by autoradiography " , cairns demonstrated by autoradiography that the dna of the bacterium " escherichia coli " was a single molecule that is replicated at a moving locus ( the replicating fork ) at which both new dna strands are being synthesized .
+mcg , the director of " terminator salvation " , said that the t-1000 will be reintroduced in the fifth film : " i like the idea and the perspective for the next picture that you meet robert patrick the way he looks today , and he 's a scientist that 's working on , you know , improving cell replication so we can stay healthier and we can cure diabetes and do all these things that sound like good ideas , and to once again live as idealized expressions as ourselves . "
+one well known manufacturer is amaray , which is why this type of case is sometimes called an amaray case . " amaray case " has become a genericized trademark for dvd case among the people in the disc duplication and replication industry .
+besides distributed database replication and fragmentation , there are many other distributed database design technologies .
+in biochemistry and genetics , radionuclides label molecules and allow tracing chemical and physiological processes occurring in living organisms , such as dna replication or amino acid transport .
+this project led to production of many scholarly papers , a book and replication of the community of inquiry model by distance education researchers globally .
+ullman has claimed the test was flawed as it was not a direct replication ( repetition ) of ennis ' work .
+microsoft 's sql server compact is an embedded database with wide variety of features like multi - process connections , t - sql , ado.net sync services to sync with any back end database , merge replication with sql server , programming api : linq to sql , linq to entities , ado.net .
+there are three different replication systems during the life cycle of a retrovirus .
+after the introduction of the viral particle , unpacking of the contents ( viral proteins in the tegument and the viral genome via some form of nucleic acid ) occurs as preparation of the next stage of viral infection : viral replication .
+later versions of data ontap introduced cascading replication , where one volume could replicate to another and then another etc .
+these chromosomes are duplicated before cells divide , in a process called dna replication .
+replication is however considered an important element in many areas of science as part of experiment .
+these cameras draw more power than cmos cameras but offer superior picture quality and better color replication .
+cordycepin is an anticancer drug that targets rna replication .
+this mechanism can also affect mammalian cell replication .
+the actions of telomerase are necessary because , during replication , dna polymerase can only synthesize dna in a 5 ' to 3 ' direction and can only do so by adding polynucleotides to an rna primer that has already been placed at various points along the length of the dna .
+replication is one of the oldest and most important topics in the overall area of distributed systems .
+at the 5 ' and 3 ' ends of the rna are the utr regions , that are not translated into proteins but are important to translation and replication of the viral rna .
+adaptation to use normal cellular machinery to enable transmission and productive infection has also aided the establishment of hiv-2 replication in humans .
+in the " jthm " hell , johnny sees a perfect example of a world of torture and pain which is a replication of the world that already exists .
+replication proceeds to produce a strand of the required sequence , containing the mutation .
+however , another possibility is that these large amounts of cytokines are just a result of the massive levels of viral replication produced by these strains , and the immune response does not itself contribute to the disease .
+lynch asserts that belief in the crucifixion in christianity amplifies each of its other replication advantages through the indebtedness believers have to their savior for sacrifice on the cross .
+viral replication then leads to viremia and the virus spreads to its secondary site of infection , the cns .
+in 2004 richard lynn and marian van court attempted a straightforward replication of vining 's work .
+a replication - defective vector deletes some essential genes .
+the non - replicating design was modified to include all subsystems necessary for self - replication , using the probe to deliver a " seed " factory with a mass of about 443 metric tonnes to a distant site , having the seed factory replicate many copies of itself there to increase its total manufacturing capacity , and then using the resulting automated industrial complex to construct more probes with a single seed factory on board each over a 1,000 year period .
+in their view , minds structure certain communicable aspects of the ideas produced , and these communicable aspects generally trigger or elicit ideas in other minds through inference ( to relatively rich structures generated from often low - fidelity input ) and not high - fidelity replication or imitation .
+obligate intracellular parasites , the " rickettsia " survival depends on entry , growth , and replication within the cytoplasm of eukaryotic host cells ( typically endothelial cells ) .
+the circular nature of the genophore allows replication to occur without telomeres .
+mutations come from errors made during the replication of dna or from exposure to mutagens .
+whenever any fault is detected , other bricks which have a replica of the affected object update the entry of the object in the index to be partial , and thus triggering further replication .
+examples include trivial crystal - like growth , template replication and langton 's loops .
+the dna polymerase can start replication at that point and go to the end of the initiation site .
+the extension into cd publishing is a distinct advantage of cd duplication systems over traditional cd replication - where large quantities of identical discs must be made .
+dna replication licensing factor mcm3 is a protein that in humans is encoded by the " mcm3 " gene .
+a demonstration of lower value , or dlv , is a behavior that conveys lower survival and replication value ; i.e. anything that would tend to cause others to have a worse impression of the pickup artist .
+replication can occur in both the host and vector .
+hmgns are members of the high mobility group of chromosomal proteins that help with transcription , replication , recombination , and dna repair .
+it interfaces with a replication device to allow users to build devices from the molecule up .
+" time " magazine reported in 1999 that , in response to skepticism from physicist robert park , josephson had challenged the american physical society ( aps ) to oversee a replication by benveniste .
+yeast shuttle vectors have components that allow for replication and selection in both " e. coli " cells and yeast cells .
+the process of dna replication is semiconservative ; that is , the copy of the genome inherited by each daughter cell contains one original and one newly synthesized strand of dna .
+nhst is often misunderstood in several ways : that the p - value is the probability that the null hypothesis is false ; that it is related to probability of replication ; and that if the null hypothesis is rejected , the proposed alternative hypothesis should be accepted .
+this family represents a rotavirus cis - acting replication element ( cre ) found at the 3'-end of rotavirus mrnas .
+further is it responsible for the aggregation of rna in the capsid , it interacts with the membrane proteins e1 and e2 and binds the human host - protein p32 which is important for replication of the virus in the host .
+additionally , as part of the cell - mediated immune response , leukocytes destroy the virus through phagocytosis and destroy infected cells to prevent further viral replication .
+terracotta 's jvm - level clustering is enabled through declarative configuration ( xml ) , and provides fine - grained , field - level replication , which means that objects do not need to implement java serialization .
+by binding to the 50s subunit of the bacterial 70s rrna complex , protein synthesis and subsequently structure / function processes critical for life or replication are inhibited .
+as soon as that happens , replication stops prematurely —
+de novo synthesis also refers to dna replication .
+evolutionary changes from replication slippage also occur in simpler organisms .
+when the synthesis of an okazaki fragment has been completed , replication halts and the core subunits of dna pol iii dissociates from the β sliding clamp [ b sliding clap is the processivity subunit of dna pol iii ] .
+active viremia is caused by the replication of viruses which results in viruses being introduced into the bloodstream .
+rna replication .
+d - loop replication is a process by which chloroplasts and mitochondria replicate their genetic material .
+the packaging of the eukaryotic genome into highly condensed chromatin makes it inaccessible to the factors required for gene transcription , dna replication , recombination and repair .
+they were one of the first instances of artificial replication being demonstrated in a real simulation .
+dbmoto ’s database replication capabilities include log - reading and trigger - based mirroring and synchronization .
+while features of self - organization and self - replication are often considered the hallmark of living systems , there are many instances of abiotic molecules exhibiting such characteristics under proper conditions .
+replication method .
+from 1962 to 1970 , in the midst of his work on dna synthesis , kornberg devoted half his research effort to determining how dna is stored in the spore , what replication mechanisms are included , and how the spore generates a new cell .
+human somatic cells lacking telomerase gradually lose telomeric sequences as a result of incomplete replication ( counter " et al . " , 1992 ) .
+this conserved region of the 3'utr has been found to enhance di rna accumulation by approximately 10-fold as well as mediating viral replication .
+the multiple " ter " sites in the chromosome are oriented such that the two oppositely moving replication forks are both stalled in the desired termination region .
+in general , the g - virus greatly accelerates cellular replication and pluripotentiation , at the cost of higher brain function .
+this database provides full data reliability ( acid properties ) , manages heavy loads and includes features such as support for t - sql , read / merge replication with scimoredb server , full text search .
+although lysosomal - mediated degradation is an efficient means by which to neutralize an infection and prevent colonization , several pathogens parasitize macrophages , exploiting them as a host cell for growth , maintenance and replication .
+alternately , measles virus infection may stimulate the production of cells that are directly responsible for suppressing hiv replication .
+three distributed data replication models .
+in this phase , same l protein acts as a replicase and ignore the gene junctions to generate a poycistronic anti - genomic analogue that acts as a template for further rounds of replication to generate many more copies of the genome rna .
+viral replication tends to peak early and then decline to undetectable levels in cns infection .
+mimosine arrests dividing cells in the late g1 phase by inhibiting dna replication initiation .
+the replication complex in coronavirus is also responsible for the synthesis of various mrnas downstream of orf 1b , which are structural and accessory proteins .
+vpg , a small protein ( 23 amino acids ) common to many rna viruses , is responsible for stabilizing the 5 ' end of the genomic rna for replication and translation .
+a hallmark of the b family of polymerases is their highly faithful dna synthesis during replication .
+antiviral compounds from mushrooms are a subject of interest in biomedical research for their potential to advance the knowledge of viral replication , and as new drugs in the treatment of viral disease .
+arguably , some forms of kitsch ( notably the replication of serious or sublime subjects in a trivial context , like tea - towels with prints of titian 's " last supper " on them or hand guns that are actually cigarette lighters ) express bathos in the concrete arts .
+virus replication takes place in perinuclear factory areas .
+triplet expansion is caused by " slippage " during dna replication .
+legacy-1 attacked general transcription and replication of all cells , a messy and non - selective process that resulted in a condition akin to a fast - replicating cancer .
+hepatitis b is one of a few known non - retroviral viruses which use reverse transcription as a part of its replication process .
+final packaging occurs in the cytoplasm but a stage of replication also occurs in the nucleus .
+dna polymerase or rna polymerase ( main articles : dna replication , transcription ) may then bind to the exposed dna and begin synthesizing a new strand of dna or rna .
+passing on these replication errors would allow adult stem cells to reduce their rate of accumulation of mutations that could lead to serious genetic disorders such as cancer .
+this is a description of a plant virus at the species level with data on all virus properties from morphology to genome , replication , antigenicity and biological properties .
+replication .
+sometimes , it ’s merely the replication of historic cruelties .
+studies in yeast demonstrated that orc binds specifically to origins of replication and serves as a platform for the assembly of additional initiation factors such as cdc6 and mcm proteins .
+the comparison between the sets of proteins involved in chromosomal dna replication in " b. subtilis " and in " escherichia coli " reveals both similarities and differences .
+the mechanism of action for the anti - hiv activity of boromycin is suggested to involve interfering with the later stage of hiv infection , and possibly the maturation step for the replication of hiv .
+virtual synchrony was also used in developing the new york stock exchange fault - tolerance architecture , the french air traffic control system , the us navy aegis system , ibm 's business process replication architecture for websphere and microsoft 's windows clustering architecture for windows longhorn enterprise servers .
+one can then build all sorts of higher level abstractions over the basic replication mechanisms .
+ring - expanded ( ren ) nucleoside analogues inhibit rna helicase and intracellular hiv-1 replication , ” j. med .
+errors made during dna replication can lead to mutations .
+replication protein a1 .
+these high rates of mutation can be explained most frequently by slipped strand mispairing ( slippage ) during dna replication on a single dna strand .
+regarding the lagging strand , the result of this strand 's discontinuous replication is the production of a series of short sections of dna called okazaki fragments .
+after dnab translocates to the apex of each replication fork , the helicase both unwinds the parental dna and interacts momentarily with primase .
+it has been demonstrated that treatment of cells with interferon type i inhibits hiv replication and trim22 is strongly up - regulated by interferon treatment .
+advantages include automatic host cell division results in replication of the viruses gene , and the fact that it is near impossible to remove an integrated provirus from an infected cell without killing the cell .
+as the mid 1990s progressed , the terms " organic " and " imitative " began to be used to describe contrasting a cappella vocal percussion styles , with thacher as the most prominent progenitor of the " organic " approach , combining blatantly literal replication of drums with sounds that did n't seek to duplicate , but rather fill the role of a drum or percussive instrument .
+b - type inclusions are the sites of viral replication and are found in all poxvirus - infected cells , unlike a - type inclusions which are more strongly eosinophilic and only found in infections with certain poxviruses .
+because mitochondrial growth and fission are mediated by the nuclear dna , mutations in nuclear dna can have a wide array of effects on mtdna replication .
+the voting process makes use of this high degree of replication to eliminate the need for backups to off - line media , and to provide robust defenses against attacks aimed at corrupting preserved content .
+bacteria have a single origin for replication .
+as the first archaeal genome , " methanococcus jannaschii " , has been sequenced completely , in 1996 , it was found that the genes in the genome of " methanococcus jannaschii " involved in dna replication , transcription , translation , were more related to those counterparts in eukaryotes than in prokaryotes .
+this base pair will change from an a - t to a g - c or from a g - c to an a - t after a number of replication cycles , depending on whether 5-bu is within the dna molecule or is an incoming base when it is enolized or ionized .
+cluster continuous replication .
+" “ hiv has only one natural host , humans , and logically would require a genetically similar animal host for replication ” "
+replication is a method of copying the topography of a surface by casting or impressing material onto the surface .
+they function on unknown principles speculated in the novel to be femtotechnology or " structured " spacetime and are capable of self - replication .
+dna replication is for the most part extremely accurate , with an error rate per site of around 10−6 to 10−10 in eukaryotes .
+it is believed that fancm in conjunction with other fanconi anemia - associated proteins repair dna at stalled replication forks .
+they have developed a replication - competent vaccine against lassa virus based on recombinant vesicular stomatitis virus vectors expressing the lassa virus glycoprotein .
+t cell killing of host cells is particularly important in preventing the replication of viruses .
+using the same fiberglass molds as the original , it was so exact in its replication - despite not having any doors or interior - that it was dubbed " serial 2 scaled " by scaled composites .
+controlling a remodeling which could accelerate mtdna replication thus compensating for oxidative damage in mtdna as well as functional deterioration occurring with old age related to it .
+within the first 5 days of symptom onset , before the decline of viral replication , pcr assays have a higher incidence of detecting cns infection .
+drm2 has also been shown , along with met1 and cmt3 to be involved in maintaining methylation marks through dna replication .
+replication cycle .
+replication is the process of sharing information so as to ensure consistency between redundant resources , such as software or hardware components , to improve reliability , fault - tolerance , or accessibility .
+after genome replication within the cytoplasm , virion assembly occurs and new virus particles aggregate within the cell .
+this experiment clearly demonstrates the theta replication model of circular bacterial chromosomes .
+the large t - antigen plays a key role in regulating the viral life cycle by binding to the viral origin of dna replication where it promotes dna synthesis .
+the phu wiang dinosaur museum has composition in versatile activities including research and investigation section , fossil replication and conservation , fossil collection house , library , permanent exhibition , administration office , and service space such as canteen , souvenir shop , snack and drinks shop , car parking space , and 140-people capacity auditorium .
+with the release of the independent demo ( a replication of the process and the product ) , clay , dave , neil , garren and jon paved the way for a breed of metal that ( at that time ) had never been heard in the metalcore community .
+kuriyan 's laboratory studies the structure and mechanism of enzymes and other proteins that transduce cellular signals and perform dna replication .
+next , a virus must take control of the host cell 's replication mechanisms .
+the church was constructed 1923 - 28 and is considered the purest replication of 12th century lombard - romanesque architecture in the united states .
+servers that work together to provide this service are called replication partners .
+the sheffield work , for one , is now known to have only been intended as partial replication , aimed at observing any unusual effects which might present themselves , as the team involved lacked access to the necessary facilities for producing a large enough disk and the ability to duplicate the means by which the original disk was rotated .
+this is part of a broader effort to create genetically modified cells that can be injected into a host to attack pathogens by generating specialized proteins that block viral replication at various phases of the viral life cycle .
+replication occurs in the cytoplasm .
+however , in order to minimize replication traffic and to keep the gc 's database small , only selected attributes of each object are replicated .
+this enables storage replication either implemented by disk array controllers , by server software , or by specialized san devices .
+specifically , knipe 's lab has already shown that the replication - defective vaccine induces strong hsv-2-specific antibody and t - cell responses ; protects against challenge with a wild - type hsv-2 virus ; greatly reduces the severity of recurrent disease ; provides cross - protection against hsv-1 , and renders the virus unable to revert to a virulent state or to become latent .
+it inhibits replication of the hiv-1 virus .
+ice is a set of corba like components that include object - oriented remote - object - invocation , replication , grid - computing , failover , load - balancing , firewall - traversals , and publish - subscribe services .
+subsequent zooid replication can lead to coalescence and circulatory fusion of the subcolonies .
+both of these proteases are directly involved in hcv genome replication . ns2
+bacterial filamentation is often observed as a result of bacteria responding to various stresses , including dna damage or inhibition of replication .
+dnmt1 is the most abundant methyltransferase in somatic cells , localizes to replication foci , has a 10–40-fold preference for hemimethylated dna and interacts with the proliferating cell nuclear antigen ( pcna ) .
+support for application - based replication with both oracle data guard and mysql is planned for early 2009 .
+sinclair managed to create what is currently believed to be the closest replication of the 1914 score for full orchestra by using what scraps , sketches and notes of ives’ he could find .
+he had an unprecedented viral infection that caused competitive inhibition of certain segments in his dna in the process of replication .
+hmg - box domains are found in high mobility group proteins , which are involved in the regulation of dna - dependent processes such as transcription , replication , and dna repair , all of which require changing the conformation of chromatin .
+other major features included task management , server - based rules , remote replication / synchronization , centralized administration of multiple servers , 32-bit server capability , simultaneous release on all platforms , and many other innovative additions that were firsts in the market .
+the conceptual problems related to generations , offspring and populations that occur in artificial life systems stem from the fact that self - replication is itself an innovation of life on earth .
+this can also affect mammalian cell replication .
+replication is enabled via microcode on the disk array controller or via server software .
+replication .
+authors of empirical research articles frequently make their datasets available to readers , making replication of the research results possible .
+it encodes protein b ( 10 kda ) , whose function is to modulate replication ( ball , l. a. ( 1994 ) pnas 91:12443 - 12447 ; ball , l. a. ( 1995 ) j. virol .
+data obtained from studies over a number of years have defined the key players in btv entry , replication , assembly and exit and have increasingly found roles for host proteins at each stage .
+however , it is not fully understood how these important enzymes function during viral replication .
+replication , repair , transcription , and translation .
+transcription , replication , recombination , and dna repair .
+for example , during mitosis , microtubules position the chromosomes during their replication and subsequent separation into the two daughter - cell nuclei .
+during the stringent response , ( p)ppgpp accumulation affects the resource - consuming cell process replication and transcription .
+bacteriostatic antibiotics limit the growth of bacteria by interfering with bacterial protein production , dna replication , or other aspects of bacterial cellular metabolism .
+this , coupled with the isolation stemming from the spider 's predatory nature , has made the study and replication of the substance quite challenging .
+t7 polymerase uses e. coli 's endogenous thioredoxin as a sliding clamp during phage dna replication ( though thioredoxin normally has a different function ) .
+without replication , the ( classic ) rcbd 's linear model lacks a term for block - treatment interaction - term that may be estimated ( using the randomization distribution rather than using a normal distribution for the error ) .
+this is the first time that more than a single origin of dna replication has been shown to be used in a prokaryotic cell .
+richard dawkins 's concept of a cultural unit of cultural replication which he called the " meme " ( dawkins , 1976 ) , though self - attributed , bears an amazing similarity to semon ’s idea of more than half a century earlier .
+depending on the technologies used , replication can be performed synchronously , asynchronously , semi - synchronously , or point - in - time .
+however , mechanical medical nanodevices would not be allowed ( or designed ) to self - replicate inside the human body , nor would medical nanorobots have any need for self - replication themselves since they would be manufactured exclusively in carefully regulated nanofactories .
+prior to the discovery of prions , it was thought that all pathogens used nucleic acids to direct their replication .
+the hd layer of an sacd disc can not be played back on computer cd / dvd drives , nor can sacds be created except by the licensed disc replication facilities in shizuoka and salzburg .
+active directory replication is ' pull ' rather than ' push ' .
+tannins , including gallo and ellagic acid ( epigallitannins ) , are inhibitors of hiv replication .
+the stages of mimivirus replication are not well known , but as a minimum it is known that mimivirus attaches to a chemical receptor on the surface of an amoeba cell and is taken into the cell .
+as in any science , subsequent replication and perhaps modification will proceed from the initial finding .
+it selectively and reversibly blocks dna replication in susceptible bacteria .
+this pathology results from persistently thwarted attempts at normal dna replication , dna repair , and cell division , and produces abnormally large red cells called megaloblasts ( and hypersegmented neutrophils ) with abundant cytoplasm capable of rna and protein synthesis , but with clumping and fragmentation of nuclear chromatin .
+in common with the genomes of all other rna viruses , coronavirus genomes contain cis - acting rna elements that ensure the specific replication of viral rna by a virally encoded rna - dependent rna polymerase .
+then viral replication starts and viral particles spread into blood vessel in which they causes viremia .
+a large variety of plasmids encode systems that act when other control mechanisms have failed i.e. when plasmid free progeny is generated during replication .
+bound to atp , and with the assistance of bacterial histone - like proteins [ hu ] dnaa then unwinds an at - rich region near the left boundary of " oric " , which carries three 13-mer motifs , and opens up the double - stranded dna for entrance of other replication proteins .
+tp53bp1 has been shown to interact with replication protein a1 , rpa2 , e2f1 , ataxia telangiectasia mutated , p53 , paxip1 , dynll1 , h2afx and bloom syndrome protein .
+the translation machinery works relatively slowly compared to the enzyme systems that catalyze dna replication .
+bechtel , as an example of a scientific approach , provides factors ( clarity of the data , replication by others , consistency with results arrived at by alternative methods and consistency with plausible theories ) useful for determination if facts rise to the level of scientific evidence .
+dna primase is an rnap enzyme involved in the replication of dna .
+a digital model of the original was created and used as a guide for the new version to ensure faithful replication of heibert 's design .
+the t150c mutation , which is exclusive to but not definitive of , the j2 subclade of haplogroup j. may be part of a likely nuclearly controlled general machinery regarding the remodeling & replication of mtdna .
+acute hiv infection is a period of rapid viral replication that immediately follows the individual 's exposure to hiv leading to an abundance of virus in the peripheral blood with levels of hiv commonly approaching several million viruses per ml. this response is accompanied by a marked drop in the numbers of circulating cd4 + t cells .
+replication , ecology and pathology .
+like other experimental research in evolutionary biology during this period , much of this work lacked extensive replication and was carried out only for relatively short periods of evolutionary time .
+chromosomally mediated mtdna replication errors .
+in 1951 , leopold nowak also published an edition that was an exact replication of bruckner 's original 1881 score .
+antiviral drugs are often nucleoside analogues , ( fake dna building blocks ) , which viruses incorporate into their genomes during replication .
+following base excision , the polymerase can re - insert the correct base and replication can continue .
+virus like particles ( vlps ) consist of proteins that form a virus ' outer shell and the surface proteins , without the rna required for replication .
+primary - backup and multi - primary replication .
+kornberg had been awarded the nobel prize for discovering pol i , then believed to be the mechanism of bacterial dna replication , though in this experiment he showed that pol iii was the actual replicative machinery .
+masses of clay crystals of a particular external form may happen to affect their environment in ways which affect their chances of further replication — for example , a ' stickier ' clay crystal is more likely to silt a stream bed , creating an environment conducive to further sedimentation .
+rnps play an important role in influenzavirus a replication .
+this enhances the anti - tumor immune response to tumor antigens released following lytic virus replication providing an in situ , patient specific anti - tumor vaccine as a result .
+but the replication of studies has a great value and can be as effective as a group study .
+it also refers to the initial " in vivo " round of viral replication .
+a first for infortrend was the inclusion of proprietary , hardware based software features including thin provisioning , synchronous and a - synchronous replication , snapshot and storage virtualisation allowing massive scalability without the need to bring the system down .
+interestingly enough , the notion of selection " in vitro " was actually preceded twenty - plus years prior when sol spiegelman used a qbeta replication system as a way to evolve a self - replicating molecule .
+viruses must first get into the cell before viral replication can occur .
+between 1991 - 1992 , dr a. nyland , then of the university of new england , australia , carried out the experimental replication of the entire kikkuli text over the 7 month period prescribed in the text with arabian horses .
+enthusiasm turned to skepticism as replication failures were weighed in view of several reasons cold fusion is not likely to occur , the discovery of possible sources of experimental error , and finally the discovery that fleischmann and pons had not actually detected nuclear reaction byproducts .
+dda is involved in the initiation of t4 dna replication and dna recombination .
+in an outbreak , the virus in a nerve cell becomes active and is transported via the nerve 's axon to the skin , where virus replication and shedding occur and cause new sores .
+dnag is a bacterial primase which synthesizes short rna oligonucleotides during dna replication .
+although the precise mechanism of disease induction by potyviruses in plants is unknown , it is known that these viruses cause a significant shutdown of host gene expression during viral replication .
+his virology research resulted in significant discoveries concerning the nature and replication of viruses and their interaction with the immune system .
+possession of an innate resistance to dutch elm disease was suggested after inoculation with the causal fungus at the ndsu , however replication of the tests is considered too limited to be conclusive .
+the replication of damaged dna before cell division can lead to the incorporation of wrong bases opposite damaged ones .
+enzymes can also bind to dna and of these , the polymerases that copy the dna base sequence in transcription and dna replication are particularly important .
+the hiv trans - activation response ( tar ) element is an rna element which is known to be required for the trans - activation of the viral promoter and for virus replication .
+other proposed clinical uses center on antiviral therapies , including topical microbicide treatments that use rnai to treat infection ( at harvard university medical school ; in mice , so far ) by herpes simplex virus type 2 and the inhibition of viral gene expression in cancerous cells , knockdown of host receptors and coreceptors for hiv , the silencing of hepatitis a and hepatitis b genes , silencing of influenza gene expression , and inhibition of measles viral replication .
+multi - master replication .
+apart from its roles in energy metabolism and signaling , atp is also incorporated into nucleic acids by polymerases in the processes of dna replication and transcription .
+instead of a traditional infra - red laser , a blue laser is used for recording the pits on the cd master that is needed for disc replication .
+in p2 's genome , the genes related to chromosome replication were found to be more related to eukaryotes .
+models are made with precise replication of the proportions and detail of actual vehicles , including accurate moldings , logos , and name scripts .
+the 1.1 added automatic on - close replication and posix advisory locks .
+many components , including hull plates , have required complete replication from original plans .
+in a ( classic ) rcbd , however , there is no replication of treatments within blocks .
+p2p - mpi also integrates a fault - tolerance mechanism based on process replication , aimed at increasing the " robustness " of executions .
+a series of uncoating steps and conformational changes accompany cell entry and replication .
+for example , the dna of a latent herpesvirus integrates into the host ’s chromosome and propagates through cell replication , although it is not part of the organism 's genome , and was not present at the birth of the individual .
+in a number of cases , cancer cells exposed to viruses have experienced widespread necrosis , which can not be entirely accounted for by viral replication alone .
+slater replied through her attorney that she considered her work to be an " anecdote , not systematic research , and certainly not a ' replication ' of rosenhan 's study " .
+this causes the cells to leave g1 phase and enter into s phase , which promotes dna replication .
+a list - serv is utilized for the posting of titles so a consortium of libraries can benefit from a reduced cost in replication so they may maintain their circulating collections .
+after induction , viral replication begins via the lytic cycle .
+the study used a five - step replication process to eliminate false positives , and no gene met this rigid criterion for replicability
+recent u.s. general service administration preservation efforts include restoration of the third floor courtroom in the 1932 addition and replication of historic lighting in the 1899 lobbies .
+unfortunately , and although this has become a very popular product , replication of the proprietary seeds by extracting the few seeds that the peppers contain ( a desirable trait in the original variety ) are usually sterile and unfertile , and have proven to leave out desirable traits of the peppers when they do in fact germinate .
+they are required because the enzymes that catalyze replication , dna polymerases , can only add new nucleotides to an existing strand of dna .
+the company creates software that manages backup , capacity , virtualization and replication environments .
+these cells can undergo rapid replication even at an extreme high temperature of 300 deg c. they can also be cultured in diverse unconventional chemical substrates .

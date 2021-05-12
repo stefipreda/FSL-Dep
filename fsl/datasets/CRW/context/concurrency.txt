@@ -1,0 +1,255 @@
+the washington state legislature replaced the primary and secondary highways with a new numbering system during the highway renumbering in 1964 ; psh 15 became us 2 , ssh 15a from us 2 to ssh 1a became sr 204 , the ssh 1a concurrency became part of and the rest of ssh 15a from ssh 1a to granite falls became .
+gates requested review and input from mundie and msr senior vp , rick rashid and the proposal was approved to move to a prototype phase and would integrated the concurrency work that mundie had been incubating .
+the us 1/9 concurrency .
+the route goes east from the town to pa 381 in the village of normalville , and begins a concurrency that spans for a before the route enters westmoreland county .
+us-283 enters from oklahoma south of englewood in clark county , and passes through largely unpopulated areas of the county until joining up for a brief concurrency with u.s. route 160 .
+it has a concurrency with state route 126 in ross and with u.s. route 127 in hamilton .
+this is vital for proper concurrency .
+south of milan , route 5 turns east forming a concurrency with u.s. route 36 ( currently a divided highway and proposed future interstate 72 ) .
+after leaving us-77 , it passes through red rock , and has a four - mile ( 6.4 km ) concurrency with us-177 , and splits off just north of the intersection with the cimarron turnpike .
+us 13 heads west for a short concurrency with de 72 to a diamond interchange with delaware route 1 , where us 13 heads north on de 1 .
+in anne arundel county , the daily traffic counts on md 2 range from a high of 121,851 vehicles at the west end of the concurrency with the john hanson highway in annapolis to a low of 14,192 vehicles at the intersection with md 258 in the southern part of the county in 2007 .
+interstate 35 becomes concurrent with i-70 as soon as the highway gets into the loop , and maintain the concurrency until the southeastern corner of the loop .
+when conflicts are rare , transactions can complete without the expense of managing locks and without having transactions wait for other transactions ' locks to clear , leading to higher throughput than other concurrency control methods .
+in the state of new york , us 4 begins at the concurrency of us 9 and us 20 in east greenbush .
+at peshastin , the roadway starts its concurrency with us 2 at a diamond interchange .
+nc 150 exits the concurrency to the south , crossing into guilford county shortly thereafter .
+oftentimes when two routes with exit numbers overlap ( concurrency ) , one of the routes has its exit numbers dominate over the other and can sometimes result in having two exits of the same number , albeit far from each other for the same route number .
+about one mile ( 1.6 km ) south of its terminus in okemah , sh-27 intersects i-40 and us-62 , and forms a brief concurrency with us-62 before terminating at sh-56 .
+one of the more distinctive aspects of this short state route was its signed concurrency with route 53 .
+joins can be used to express concurrency in an application using the joins pattern , usable both for multi - threaded applications as well as for event based distributed applications .
+the two highways run concurrently north into white oak township before m-36 turns west , ending the concurrency .
+on the other hand , hewitt remained critical of the lambda calculus as a foundation for computation writing " the actual situation is that the λ-calculus is capable of expressing some kinds of sequential and parallel control structures but , in general , not the concurrency expressed in the actor model .
+the highway continues to the interchange of business u.s. 24 and the eastern terminus of illinois 8 , ( business u.s. 24 and illinois 8 form an unsigned wrong - way concurrency at this point ) .
+at the hwy 39 concurrency , hwy 6 becomes a part of the canam highway .
+its western terminus is at oh 14 and oh 9 in downtown salem , and its eastern terminus is along a concurrency with oh 164 in downtown columbiana .
+the concurrency ends and seven lakes drive continues to the east , intersecting with several trails in now bear mountain state park .
+after traversing another three blocks , the concurrency splits at gibson street as ny 21 follows gibson out of canandaigua towards manchester and palmyra .
+this crosses both ny 104 and ny 93 in close succession , near the western end of their concurrency .
+the highway passes through the hilly country of the ozarks , and shortly after it starts , it enters the mark twain national forest and forms a short concurrency with route 181 in the western part of it , near the twin bridges .
+exit 8 is for interstate 287 , beginning a concurrency for the next .
+after splitting off , sh-19 travels in a southeast direction to have a brief concurrency with state highway 76 through lindsay .
+highway 23 piggybacks or shares its route with these other highways , also named a concurrency .
+the pa 39/pa 894 concurrency ran from linglestown to piketown road , about two miles ( 3 km ) outside of linglestown .
+" communication and concurrency " .
+u.s. highway 52 is not signed along the length of its concurrency with i-94 between downtown st. paul and the north dakota state line .
+when the new routing between m-66 and lake in clare county was opened , that concurrency was eliminated and all the previous routings were transferred to local control .
+note that the two - phase commit ( 2pc ) protocol should not be confused with the two - phase locking ( 2pl ) protocol , a concurrency control protocol .
+it then serves as the northern terminus for sh-89 , and has a three - mile ( 5 km ) concurrency with state highway 76 .
+originally , i-78 would have continued with the u.s. 22 concurrency on the lehigh valley thruway into new jersey , with i-278 running south as a bypass , and i-178 and i-378 serving allentown and bethlehem respectively .
+here , the route first meets the us 19/us 62 concurrency .
+sh-11 then turns south on a five - mile ( 8 km ) concurrency with sh-99 , then turns back to the east , passing through more rugged terrain , through pershing and tallant ( both unincorporated ) , before entering the oil town of barnsdall later .
+the western terminus of the route is at the pennsylvania route 82 / pennsylvania route 842 concurrency in unionville , chester county .
+the concurrency issues were handled with the boost multi thread library .
+in new bethlehem , the concurrency between pa 28 and pa 66 ends when pa 66 leaves pa 28 .
+its western terminus is at state route 134 nearly southeast of martinsville , and its eastern terminus is near the unincorporated village of torch at the concurrency of u.s. route 50 , state route 7 , and state route 32 in extreme southeastern athens county .
+concurrency control .
+it begins along the sr 235/sr 366 concurrency , north of the village of lakeview and runs only a few hundred metres , ending in indian lake state park on the shore of indian lake .
+the concurrency lasts for just before ny 41 splits from ny 12 and exits greene village .
+the major exception to this is central and northern new jersey , where it is a wide four - lane ( or six - lane ) divided strip , especially during much of its concurrency with u.s. 1 and in middlesex and monmouth counties .
+in stroud township , pa 447 has a two mile long concurrency with pennsylvania route 191 .
+snyder points out an o(n3 ) algorithm means that double the concurrency gives only about a 9% increase in problem size .
+in the 2000s , de 20 was removed from the de 54 concurrency after it determined unnessecary for there to be two route numbers for that stretch of road .
+it has a brief concurrency with k-4 near alta vista before having an interchange ( exit 313 ) with interstate 70 .
+about half of the highway is a concurrency with interstate 44 business .
+the concurrency runs for five miles ( 8 km ) , to flemington .
+the route enters the city from the southwest , and has a short concurrency with pa 954 in downtown .
+concurrency .
+concurrent interrupt handling essentially mean concurrent execution of kernel code and hence induces the additional complexity of concurrency control in accessing kernel datastructures .
+highway 679 also has a 4-km concurrency with highway 773 just east of pré - ste - marié .
+cr 12 loses its concurrency with ny 77 , as that route turns south to run concurrent with ny 63 .
+its southern terminus is at state route 13 near fredericktown , and its northern terminus is at the u.s. route 42/state route 97 concurrency in lexington .
+us 64 , 70 and 79 , however , remain overlapped through downtown memphis , following danny thomas boulevard north to union avenue , union east to east parkway ( briefly overlapping with u.s. route 51 along the western portion of union ) , then east parkway north to summer avenue , where the triple concurrency turns east .
+east of downtown , pa route 58 joins the concurrency for , and then both route 18 and route 58 leave route 358 .
+delaware route 10 alternate shares a brief concurrency with delaware route 15 from just west of woodside to u.s. 13 alternate in woodside .
+the " computational vertices " are written using sequential constructs , devoid any concurrency or mutual exclusion semantics .
+for example , connectedness of zones might be enforced , or concurrency of curves or multiple points might be banned , as might tangential intersection of curves .
+further west , us 41 meets the northern terminus of us 141 , which marks the western junction with m-28 near covington , and the end of the m-28 concurrency .
+in mcalester , sh-31 forms a five - mile ( 8 km ) concurrency with us-270 and sh-1 , splitting up just east of the us-69 interchange on the east side of the city .
+the routes then head into madill , where they form a brief concurrency with us-70 and sh-199 .
+sh-22 then turns roughly southeast and goes to its second concurrency with sh-78 at nida ( unincorporated ) .
+in baldwin us 301 crosses railroad tracks that serve the suspended amtrak sunset limited before making a right turn at a concurrency with us 90 for several blocks .
+two miles after that concurrency ends , ny 22 follows the upper hoosic river to hoosick falls , the first village it has passed through since millerton .
+ar 163 and ar 214 form a short concurrency .
+in birdsboro , pa 82 was called furnace street and had a small concurrency with pennsylvania route 724 .
+in the county seat , hermann , route 100 has a short concurrency with route 19 .
+the proposed interstate 73 would generally parallel route 220 between roanoke and greensboro and would likely be a concurrency with i-581 through the city .
+us 301 merges with us 501 , forming a concurrency through dillon to the north carolina border , where it passes south of the border prior to exiting south carolina and an interchange on interstate 95 near hamer in dillon county .
+at this junction , cr 561 spur ends and route 73 forms a concurrency with county route 561 .
+in late 1936 , m-46 was extended along the section between newaygo and howard city , forming a m-46/m-82 concurrency to fill a gap in the m-46 routing .
+after forming a short concurrency with route 655 , route 994 continues east to three springs .
+the three routes form a concurrency and head westward – this segment is what is known as a “
+other process calculi have been developed for describing communication and concurrency .
+it runs from the relatively new u.s. route 67 bypass and illinois route 104 concurrency around jacksonville north to highway 78 at the wisconsin state line north of warren .
+there it begins a concurrency with us 64 on the way west to franklin .
+except for minor route straightening and a new concurrency with interstate 90 , this route has not changed since .
+here , the bear mountain parkway merges with the two - lane us 202 and ny 35 , creating a physical concurrency extending eastward into neighboring yorktown .
+shortly after this , us 301 intersects sumter county road 470 , and both roads share a concurrency .
+pa 66 then joins the concurrency for two miles ( 3 km ) to an exit with u.s. route 422 business southeast of downtown kittanning .
+at mile 131.5 , the concurrency intersects us-81 in downtown kingfisher .
+a database 's co compliance can be achieved effectively with any local conflict serializability based concurrency control mechanism , with neither affecting any transaction 's execution process or scheduling , nor aborting it .
+in wilbarger county , us-183 exits the multiplex with us-283 and turns east with us-70 to share a wrong way concurrency with us-287 between the towns of vernon and oklaunion .
+after the concurrency ends , or 237 continues south to an intersection with i-84 and us 30 in north powder , where it ends .
+the district begins at the intersection of oakland and galloway avenues , where the two state highways begin their concurrency .
+in the 1981 maintenance swap , the state of new york also assumed maintenance of the section of half acre road between half acre ( at ny 326 ) and the us 20 / ny 5 concurrency .
+schedules and schedule properties are fundamental concepts in database concurrency control theory .
+phase i included work from i-270 to route 94 through the creve coeur lake memorial park , but due to concerns with traffic congestion at the proposed terminus with mo-94 it was decided to extended the freeway further west along its concurrency with mo-94 to harvester rd .
+wis 17 north joins the highways a half of a mile to the southeast , creating a wrong - way concurrency with wis 47 .
+the concurrency ends in black oak , when ar 135 begins to arrow west with ar 18 .
+the highway is 15.4 miles ( 24 km ) long from pa route 18 in wampum to the u.s. route 19/pa route 68 concurrency in zelienople .
+route 248 joins the concurrency and the three roads make several changes in direction before steadily heading north .
+distributed deadlocks can occur in distributed systems when distributed transactions or concurrency control is being used .
+after a brief concurrency , ne 23 and ne 61 separate and ne 23 continues east .
+from may 1939 to july 1944 - people 's commissar of signal forces of the ussr ( during the great patriotic war served concurrency as deputy people 's commissar of defence of the ussr - chief of the main communication directorate of the red army .
+i-95 forms a concurrency with us 322 that lasts until that route heads east for the commodore barry bridge .
+idylwyld drive provides a concurrency for transcanada highway and sk hwy 5 next to this park providing a perimeter route around the city of saskatoon and access to major trucking routes .
+the south dakota section of u.s. 81 , with the exception of a concurrency with u.s. 14 , is defined at south dakota codified laws § 31 - 4 - 179 .
+one of the major design decisions in the architecture of cell is the use of dmas as a central means of intra - chip data transfer , with a view to enabling maximal asynchrony and concurrency in data processing inside a chip .
+in brookville , pa 28 has a wrong - way concurrency with u.s. route 322 and pennsylvania route 36 .
+co allows to achieve distributed serializability under very general conditions , without a distributed lock manager , exhibiting the benefits already explored for multidatabase environments ; in particular : reliability , high performance , scalability , possibilities of using " optimistic concurrency control " when desired , and no conflict information related communications over the network ( which have incurred overhead and delays ) .
+sh-58 joins sh-43 for a one - mile ( 1.6 km ) concurrency just south of the town of helena , and at goltry , sh-45 jogs south a few miles before turning back to the east and heading for its junction with sh-132 at carrier .
+additionally , route 10 leaves its concurrency with route 5 in the southern part of town , before passing eastward towards the connecticut river towards new hampshire .
+ny 24 continues southeast towards hampton bays , although some road maps show the ny 24-scr 94 concurrency continuing southeastward toward flanders .
+it then forms a brief concurrency with pennsylvania route 241 before splitting from mount wilson road , which carries pa 241 to the north , and heading to the northwest onto south forge road .
+the heart of the application is a concurrency control algorithm based on the innovative concept of operational transformation , which allows for lock - free editing of a document by multiple users .
+at the end of the concurrency comes the end of the business route .
+u.s. route 206 forms a concurrency with u.s. route 202 past the somerville circle and the two routes continue north through bridgewater township , briefly entering somerville .
+both the server and the workstations were custom designs based on the then - new 8086 , using a proprietary multi - tasking os loosely based on the ada concurrency model .
+it begins at the american border , where it connects to new york state route 276 , and goes north , having a brief concurrency with route 202 before reaching the urban area of lacolle .
+highway 3 and highway 6 , the canam highway are traveling south and north as a concurrency when they intersect with highway 41 south of the city of melfort .
+programs designed to require concurrency are more difficult to debug .
+k-27 also makes a brief jog along a half - mile concurrency with us-50 and us-400 in syracuse .
+the section between new hampshire route 43 in candia and the eastern terminus of the nh 27/new hampshire route 107 concurrency in raymond is now part of new hampshire route 101 business , although this segment is rarely signed as such as of 2006 .
+a chord is a concurrency construct available in polyphonic c♯ and cω inspired by the join pattern of the join - calculus .
+a java ee application server can handle transactions , security , scalability , concurrency and management of the components that are deployed to it , in order to enable developers to concentrate more on the business logic of the components rather than on infrastructure and integration tasks .
+the room synchronization technique is a form of concurrency control in computer science .
+it meets route 179 ( bridge street ) , where route 165 ends and route 29 turns west for a one - block wrong - way concurrency with the two - lane , undivided route 179 , lasting to the intersection of main street , where route 29 turns north on main street .
+in stevenage , the road takes two courses through the town - the first is a concurrency with the a1 round the new town to the junction at langley sidings .
+in each single database , a local co algorithm can run beside any local concurrency control mechanism ( serializability enforcing mechanism ) without interfering with its resource access scheduling strategy , and without adding any access operations to transactions ( like acquiring timestamps or tickets ) , which reduces performance .
+mohan is the primary inventor of the aries family of recovery and concurrency control methods , and the industry - standard presumed abort commit protocol .
+hewitt [ 1985 ] , hewitt and agha [ 1991 ] , and other published work argued that mathematical models of concurrency did not determine particular concurrent computations as follows : the actor model makes use of arbitration ( often in the form of notional arbiters ) for determining which message is next in the arrival ordering of an actor that is sent multiple messages concurrently .
+the layout of the intersection is very poor for trucks making this turn , and the congestion all these factors create has been forcing more drivers to resort to side streets , the village believes , since traffic counts have been going up on 52 and 208 but down on the concurrency .
+here , md 97 makes a left turn to form a concurrency with md 140 on baltimore boulevard , a six - lane divided highway .
+because of hills , and also because of the narrowness of md 222 in port deposit , a truck route ( maryland route 222 truck ) also exists , with part of that truck route being a wrong - way concurrency with us 1 .
+after entering noel , it form a short concurrency with route 90 and runs " under " some of the bluffs along the elk river ( with signs warning of low clearance for trucks ) .
+a common major goal of concurrency control is generating " serializable " schedules , i.e. , schedules that have the " serializability " property .
+the route intersects county route 3 ( tennent road ) in morganville , forming a short concurrency with that route that lasts until county route 3 heads northeast on lloyd road .
+programs designed to require concurrency will have performance issues when the number of required threads exceeds the number of hardware threads because time slicing artifacts can hit hard .
+citrus cr 490a terminates at the three - route concurrency with us 19 - 98-ccr 490 .
+it then continues north to harrington , home of the delaware state fair , where it intersects delaware route 14 truck just before the delaware state fairgrounds , forming a concurrency with that route .
+also at reeds spring junction , u.s. route 160 joins to form another concurrency with route 13 .
+in computer science , particularly the field of databases , the thomas write rule is a rule in timestamp - based concurrency control .
+there was also the possibility of an extension of suffolk cr 2 ( straight path ) at the northern end of this concurrency near ostego park .
+concurrency .
+after the transfer , m-62 ended at the eastern m-140 junction and the concurrency was removed .
+or 35 also includes a brief concurrency with u.s. route 30 in hood river along the historic columbia river highway no . 100 .
+the direction of the concurrency is east and west .
+the segment moved to a concurrency with u.s. route 34 and interstate 29 that day as part of a mass decommissioning of highways in iowa .
+the highway is part of the lake superior circle tour during a concurrency with m-28 .
+lock convoys often occur when concurrency control primitives such as critical sections serialize access to a commonly used resource , such as a memory heap or a thread pool .
+this ended when us-40 was realigned as a concurrency with i-70 when the kansas turnpike authority stopped collecting toll for all traffic traveling the turnpike east of k-7 .
+this concurrency lasts for four more miles .
+the ny 55 concurrency ends when that road heads towards connecticut at wingdale .
+in extreme eastern haralson county , the route begins a concurrency with s.r. 120 running east , then overlaps s.r. 101 northward .
+this discontinuity was eliminated in 2003 by renumbering the portion of highway 7a east of its former concurrency with highway 115 as highway 7 , and signing highway 7 concurrently with highway 115 from the former highway 7a junction easterly to the end of the peterborough bypass .
+the interchange consists of interstate 90 , the mass pike extension , and the interstate 93 concurrency with us 1 and ma 3 south of the thomas p. o'neill jr. tunnel .
+us 13 continues northeast and shares a brief concurrency with u.s. route 264 before passing through the city of greenville .
+from durham to laurinburg , a section of us 501 overlaps u.s. route 15 ( 15 - 501 concurrency ) .
+it natively supports deterministic concurrency and multiple , simultaneous , dynamic control rates .
+route 13 forms a concurrency with route 86 before bridging table rock lake south of the town of branson west .
+route 106 leaves the concurrency shortly after joining , and us 7 and route 33 continue northwest for approximately another mile before us 7 turns off to the north .
+in 1977 , the ny 347 designation was extended along a concurrency with ny 454 to the interchange with northern state parkway .
+it then joins us 41 as lcr 316 continues eastward , which then joins the east end of alt us 27 , and then the us 27 - 41 concurrency before breaking away to the northeast again , taking the desoto trail away from us 41 .
+us-160 and k-27 also meet briefly in johnson city ; however , k-27 remains along its alignment during this concurrency .
+this is the longest concurrency with another state highway within minnesota .
+the scope of bctcs includes all aspects of theoretical computer science , including algorithms , complexity , semantics , formal methods , concurrency , types , languages and logics .
+the two routes form a concurrency and proceed east , passing legion lake .
+wis 25 splits from us 12 after a one - mile ( 1.6 km ) concurrency with us 12 turning northwest .
+the 67-mile ( 108 km ) concurrency that begins here is the longest in the state , carrying the two routes across the northern finger lakes region , a section of the plateau where glaciers carved deep moraines only to fill them with their meltwater .
+in lower chanceford township , pa 74 has a short wrong - way concurrency with pennsylvania route 425 .
+it has a short concurrency with k-14 a mile south of arlington into arlington .
+though u.s. 63 as a stand - alone highway had always ended at turrell before the 1999 extension , in the past it was concurrent with u.s. 61 , 64 , 70 and 79 ( and later i-55 ) on into memphis , tennessee , over the memphis & arkansas bridge ; unlike the 1999 extension , this concurrency to memphis was generally in line with the rest of u.s. 63 .
+the concurrency between us 9 and ny 9a runs for within the city of yonkers .
+after exiting the off - ramps , pa 290 embarks on a concurrency with pa 5 eastward through downtown erie on 12th street , passing south of louis j. tullio arena and jerry uht ballpark in the heart of downtown .
+rds is based on ccr ( concurrency and coordination runtime ) , a .
+us 83 's southern terminus is at a concurrency with us 77 on the south side of brownsville at the us / mexico border .
+the roughly half - mile south – north concurrency ends when route 150 bears east through rural land .
+at this intersection , de 100 makes a left turn from de 141 southbound to form a concurrency with de 48 .
+by 1981 , ny 74 was rerouted to follow its current alignment around the northeastern edge of ticonderoga , on a concurrency with ny 22 .
+concurrency .
+one possible future feature for 7.7.00 is the use of multiversion concurrency control ( mvcc ) instead of the current lock based implementation .
+after the concurrency ends , route 67 goes through new braintree and ends at route 32 in barre .
+two miles ( 3 km ) north of mangum , sh-9 joins at for a four - mile ( 6 km ) concurrency with sh-34 and us-283 .
+since states are immutable values , any number of workers can operate on them in parallel , and concurrency becomes a question of managing changes from one state to another .
+ese supports a concurrency control mechanism called multi - versioning .
+cr 32 is the only route that has a marked concurrency with a state route in the county .
+the latter is a wrong - way concurrency , where one can be driving both west on illinois 72 and east on u.s. 20 at the same time .
+concurrency control becomes an issue when more than one person or client are accessing the same files and want to update it .
+east of zuber , the road intersects sr 326 , which originally had a short concurrency , but now directly crosses us 301 - 441 .
+the route remained intact , receiving a concurrency through the two communities when u.s. route 206 was assigned in the mid-1930s .
+here , route 72 forms a concurrency with cr 532 and the road enters barnegat township in ocean county , where it comes to a crossroads with cr 539 .
+after this , us-281/sh-8 cross the canadian river and begin a concurrency with u.s. highway 270 in geary . sh-8 splits off by itself after passing through watonga , to the north .
+at columbus , us-160 begins a concurrency with u.s. route 69 , which goes east to crestline , then north past pittsburg to frontenac , kansas .
+the actor model is characterized by inherent concurrency of computation within and among actors , dynamic creation of actors , inclusion of actor addresses in messages , and interaction only through direct asynchronous message passing with no restriction on message arrival order .
+concurrency representation theorem .
+the transterpreter , a transputer interpreter is a virtual machine for occam - pi designed for education and research in concurrency and robotics .
+" unbounded nondeterminism ( also called " unbounded indeterminacy " ) , is a property of concurrency by which the amount of delay in servicing a request can become unbounded as a result of arbitration of contention for shared resources " while still guaranteeing that the request will eventually be serviced " .
+at polo the road forms a short concurrency with route 116 , and further north , at hamilton is an intersection with u.s. route 36 .
+at mile marker 22 marks the southern terminus of the u.s. route 209 concurrency with pa 33 east of brodheadsville .
+as a result sco has shorter average blocking periods , and more concurrency ( e.g. , performance simulations of a single database for the most significant variant of " locks with ordered sharing , " which is identical to sco , clearly show this , with approximately 100% gain for some transaction loads ; also for identical transaction loads sco can reach higher transaction rates than ss2pl before " lock thrashing " occurs ) .
+at avilla there is a one mile ( 1.6 km ) concurrency with route 37 .
+in 1950 , state route 117 was once again routed in a concurrency to bellefontaine , this time with u.s. route 33 ( which had replaced state route 32 in 1938 ) .
+the concurrency , however , is shown on official maps of both states .
+once through cranbury , route 535 turns right onto plainsboro road at 14.56 and merges into another short concurrency , this time with route 130 at 14.87 .
+it has been used both as a framework for a theoretical understanding of concurrency , and as the theoretical basis for several practical implementations of concurrent systems .
+another later , the concurrency ends , and route 208 continues eastward , leaves the borough , and meets the county line later .
+the i-293/everett turnpike concurrency heads in to downtown manchester , and is joined by nh 3a at exit 4 .
+it forms a concurrency with us-169 through the town of lenapah , and splits off and heads due east from there .
+a few blocks to the west , vt 103 intersects vt 100 and joins vt 100 north past the okemo ski resort into the town of ludlow , where the concurrency ends roughly north of the village .
+the center of town follows , after which the concurrency enters schodack .
+in fairview , the county seat of major county , it shares a brief concurrency with u.s. highway 60 .
+in east rochester , pa 65 starts a concurrency with pa route 51 , while in rochester , pa 51/pa 65 intersect pa route 18 .
+past this intersection , route 35 intersects the northern terminus of route 71 and county route 537 , forming a concurrency with county route 537 that lasts until the tinton avenue intersection adjacent to the entrance to fort monmouth .
+the concurrency continues for eight miles ( 13 km ) to clyman where wis 16 turns westward onto wis 60 west , and wis 60 east joins wis 26 for one mile ( 1.6 km ) before turning eastward .
+the name remains after it enters portsmouth via the hodges ferry bridge , including a short concurrency with u.s. route 460 alternate between u.s. route 58 and interstate 264 , until the elm avenue intersection .
+after a short concurrency with md 195 through takoma junction , md 410 continues east on ethan allen avenue .
+the westbound interchange ramps are 0.3 eastward on the pa 38/pa 208 concurrency , which continues northeasterly to the county line later .
+east of bona , it crosses yet another arm of stockton lake , then begins a six mile ( 10 km ) concurrency with route 123 .
+after the concurrency ends , or 203 continues southeast to medical springs , then turns south , southwest , and west to an intersection with i-84 near baker city , where it ends .
+the southern terminus is at a junction with the u.s. route 322/pennsylvania route 241 concurrency in the south annville township hamlet of fontana .
+the work - flow of your scripted transaction may impact true application concurrency especially if the iterative part contains the login & logout activity
+nonlocal concurrency is being enabled by new hardware for wired and wireless broadband packet switched communications ( see wi - fi and ultra wideband ) .
+at shellbrook , the concurrency with sk hwy 3 begins and the multiplex ends in prince albert .
+or 211 comprises the eagle creek - sandy highway no . 172 ( see oregon highways and routes ) , part of the clackamas highway no . 171 ( over the concurrency with or 224 ) , and the woodburn - estacada highway no . 161 .
+the 1/97/5 concurrency proceeds east for 12 km ( 7 mi ) on a freeway through the western part of kamloops to where highway 5 diverges north .
+in 1937 , ( ssh 15a ) was established on a route from ( psh 15 ) / ( us 2 ) northeast to a concurrency with then east to granite falls .
+at anderson , route 76 has an interchange with u.s. route 71 , and just west is a two mile ( 3 km ) concurrency with route 59 .
+it runs through saddle mountain before having a one - mile ( 1.6 km ) concurrency with state highway 19 .
+north of the atlantic city expressway , the route is maintained by the new jersey department of transportation and is mostly four lanes , with the portion north of the county route 561 concurrency a divided highway .
+its southern terminus is at the kentucky state line on the carl perkins memorial bridge over the ohio river near portsmouth , and its northern terminus is at an interchange with the state route 73/state route 104 concurrency , just north of a complex interchange with u.s. route 52 about 1¾ miles west of portsmouth .
+pa 100 enters lehigh county on a concurrency with pennsylvania route 29 .
+these are especially useful in the context of concurrency theory .
+ar 295 leaves the concurrency and heads north to meet ar 45 south of hindsville .
+concurrency ( computer science ) .
+the concurrency ends just short of the north grand island bridge , with 384 continuing along the riverside as it provides the southernmost niagara county exit for i-190 .
+because it lacks ( at this time ) true concurrency control and file - system based indexing it is not appropriate for very large multiprocess transaction - based systems .
+the route goes east to the village of custer city , where it has a short concurrency with us 219 .
+it passes through the town of plaistow before crossing through newton into east kingston and crossing route 107a. the route continues north , before turning eastward to form a brief concurrency with route 107 , and turning back to the north .
+after the cr 522 concurrency , the route continues north into mostly forested areas , crossing davidsons mill pond before continuing into north brunswick township .
+in fact it is fair to say that the transputer was built specifically to run occam , even more so than contemporary cisc designs were built to run languages like pascal or c. occam supported concurrency and channel - based inter - process or inter - processor communication as a fundamental part of the language .
+from the maze to the interchange locally known as the hoffman split in albany , just north of the gilman street interchange , i-580 follows the eastshore freeway , a wrong - way concurrency with i-80 for its entirety : northward on the eastshore is signed i-80 east and i-580 west ; headed southward , one finds signs indicating i-80 west and i-580 east .
+with the exception of freeway segments between sheboygan falls and sheboygan , an expressway segment between sheboygan falls and near greenbush , a freeway concurrency with i-39 , and an expressway segment concurrent with u.s. route 151 , the highway is generally either two - lane surface road or urban multilane arterial .
+in the worst case , the programmer must take extra care to schedule communication patterns where the eib is able to function at high concurrency levels .
+here us 9 joins the two highways for an 0.7-mile ( 1.2 km ) concurrency , the only combination of three u.s. highways in the state .
+this concurrency ends approximately east of viroqua .
+wytheville is an important point on both i-77 and i-81 and lies amidst a wrong - way concurrency of i-77 and i-81 .
+in 1977 michigan realigned a segment of this highway ( onto the former m-151 ) so that it would intersect us 23 at a more northerly interchange north of the michigan - ohio state line , and thus a concurrency with us 23 was added .
+upon leaving watonga , the remaining concurrency ( sh-3/sh-33 ) reduce to the three - lane arrangement mentioned above , and continue eastward to mile 115.7 , the kingfisher county line .
+the highway concurrency enters fond du lac county two miles ( 3 km ) east of green lake .
+modeling other concurrency systems .
+upon interchanging with i-93 , i-95 loops around to the west , taking over the roadbed from i-93 and joining us-1 southbound in a wrong - way concurrency .
+it affects only the commit order , and for this reason it does not need to abort more transactions than those needed to be aborted for serializability violation prevention by any combined local concurrency control mechanism .
+a precedence graph , also named conflict graph and serializability graph , is used in the context of concurrency control in databases .
+continuing southeast , the route ( which is now a four - route concurrency of us 50 , us 301 , i-595 and md 2 ) eventually reaches the md 70 interchange , where i-595 officially terminates .
+route 101 crosses route 2 in templeton during its concurrency with route 2a.
+in the village of neffsville , the route has a short concurrency with pa 501 , then continues east to its terminus in the village of oregon .

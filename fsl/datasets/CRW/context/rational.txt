@@ -1,0 +1,255 @@
+upon much research and thought , he decided that the only way to find it is by looking for a " wonder " , i.e. something that has no rational explanation .
+the likely rational was an attempt " clean - up " the post - war image of the brewery by retiring the manhattan flag ship brand and relying upon the well established canadian ace brand to be the bellwether for the future .
+scalars are often taken to be real numbers , but one may also consider vector spaces with scalar multiplication by complex numbers , rational numbers , or even more general fields instead .
+intuitively however , the set of rational numbers is a " small " set , as it is countable , and it should have " size " zero .
+receiving only one vote , the rational voter must only vote for a candidate that has a chance of winning , but will not win by too great a margin .
+a kingdom of ends is composed entirely of rational beings , which kant defines as beings who are capable of moral deliberation ( though his definition expands in other areas ) .
+this method scaled the conversion of 1/p , 1/pq , 2/p , 2/pq , n / p and n / pq rational numbers by an lcm m , written as m / m .
+visual test , originally known as ms - test , was an automated testing tool for windows applications developed by microsoft and later sold to rational software .
+especially after the dreyfus affair , they held that anti - semitism would never disappear and saw zionism as a rational solution for jewish individuals .
+furthermore the divisor formula_400 is principal for every point formula_25 on formula_70 as it comes from the rational function formula_403 .
+" given that a was the rational choice , how can one defend doing b under exactly the same circumstances ? "
+if formula_4 is rational then the curve is closed and algebraic .
+compared to his brother joe , frank is the more logical , rational one .
+in place of the balanced compositions and rational approach to perspective that characterized art at the dawn of the sixteenth century , the mannerists sought instability , artifice , and doubt .
+since then , mainsoft activity has shifted to integration of microsoft sharepoint into ibm products ( ibm lotus notes , ibm websphere , rational jazz ) , and products focusing on .
+" forum " is widely considered a bulwark of cultural elitism , advocating a high cultural level of discourse , a rational form of literary criticism , consequent individualism and a stern disapproval of all intellectual ornamentation . “ vent boven vorm ” ( loosely translated : ‘ personality over form’ ) was the catchword of the " forum " movement .
+according to some , rcm means that all economical and political action and theories should be explained by the action of not just any individuals but by the actions of a certain individual capable of choice and rational agency .
+other notable , commercial java ide tools include sun 's ( oracle ) netbeans , ibm rational software toolkit , jetbrains ( intellij idea ) , and bea systems ( now oracle ) tools .
+from the perspective of the chinese court , government control of tea was the first step in the creation of a rational and effective policy aimed at improving the quality of horses in the army . "
+for instance , q("i " ) is the subfield of c consisting of all numbers of the form " a " + " bi " where both " a " and " b " are rational numbers .
+habermas 's discourse ethics attempts to distill the idealized moral point of view that accompanies a perfectly rational process of argumentation ( also idealized ) , which would be the moral principle implied by the presuppositions listed above .
+on the other hand , with the conversion of " lesyas " , the rational mind is able to countermand the insistence of the carnal desires .
+this position argues that allowing market forces to take effect is the most rational way of solving the problem , and consider that these forces are more efficient than centralized decision systems ( see economic calculation , dispersed knowledge , tragedy of the commons ) .
+nabhani claimed islam is founded on rational belief and not blind faith , being very similar to ghazali 's kalam argument .
+is really just a finite continued fraction with " n " fractional terms , and therefore a rational function of the first " n " " a'i"s and the first ( " n " + 1 ) " b'i"s .
+in december 2006 , the atheist organization rational response squad announced it would give free dvds of the film to the first 1,001 people who participated in the blasphemy challenge , an internet - based project encouraging atheists to declare themselves publicly .
+abbati 's investigations and exchanges with ruffini also examined diophantine equations , prime numbers , the specification of the number of imaginary roots as compared with the results of p. paoli , the relation among the roots and the coefficients of an equation , the cartesian rule for incomplete equations , the properties of permutations of the roots of quartic and quintic equations , the equation of differences , rational functions of roots , resolution by appoximation and the related lagrange multipliers .
+if it does , the fraction " a"/"b " is a rational number , i.e. , the ratio of two integers
+rational choice theory and symbolic interactionism furnish two examples .
+where formula_13 is a polynomial of degree formula_63 is solvable in non - negative rational numbers if and only if
+though he is most well - known for his vigorous rational defense of christian intellectual commitments , he also has a theory of the nature of passionate faith which is developed in his book " faith and reason " .
+urban planning in china focuses to guide and comprehensively regulate urban construction to ensure the rational development , construction and implementation of the national economic plan that serves as the nation 's master planning document .
+in contrast , the new keynesian school retains the rational expectations assumption , however it assumes a variety of market failures .
+where " r " is a rational function of its two arguments , " p " is the square root of a polynomial of degree 3 or 4 with no repeated roots , and " c " is a constant .
+what makes an otherwise rational person sit in darkened rooms listening for small noises , produce shakily filmed video 's a la blair witch and spend hours trolling through video and dictaphone tapes looking and listening for anomalies ?
+the term ' leadership ' is often used almost interchangeably with ' management ' leadership which deals with emotions is an important component of management which is about rational thinking ..
+if there exist homeomorphisms formula_6 defined by rational maps .
+the national program for the rational and efficient use of energy ( pronuree ) .
+it was an engineered famine , planned and implemented as a cold , rational act of policy .
+for any positive rational number , there are infinitely many different such representations , called " egyptian fractions " , as they were used by the ancient egyptians .
+the most widespread of these systems was stoicism , which taught that life should be lived according to the rational order which the stoics believed governed the universe ; human - beings had to accept their fate as according to divine will , and virtuous acts should be performed for their own intrinsic value .
+eurasian bittern is proposed as a rational explanation behind the mythical creature drekavac in short story " brave mita and drekavac from the pond " by branko ćopić .
+these compact urban nodes are spaced along regional urban transport corridors that integrate the region ’s urban nodes , through public transport , into a rational system of growth .
+luttwak 's thesis of an imperial grand strategy rests on a number of assumptions : ( a ) that the empire 's strategic posture was basically defensive ; ( b ) that roman expansion and choice of borders were systematic and rational , with the main objective of securing defensible borders ; ( c ) that the roman government 's primary concern was to ensure the security of its provincial subjects .
+because work is so unrhythmic , the rational manager will hire more workers than he would need if supplies were even in order to have enough for storming . because of the continuing labor shortage , managers are happy to pay needed workers more than the norm , either by issuing false job orders , assigning them to higher skill grades than they deserve on merit criteria , giving them ' loose ' piece rates , or making what is supposed to be ' incentive ' pay , premia for good work , effectively part of the normal wage .
+the dirichlet " l "- functions may be written as a linear combination of the hurwitz zeta - function at rational values .
+so that all such functions are rational functions in the weierstrass function and its derivative .
+this corollary applies to algebraic number fields , which are finite extensions of the rational numbers q , since q has characteristic 0 and therefore every extension over q is separable .
+the current version has grown to more than 200,000 source lines of code and is capable of outputting to many third party clients including microsoft project and ibm rational .
+this shows that finding " integer and rational " roots of a polynomial neither requires any division nor the application of ruffini 's rule .
+as habermas argues , in due course , this sphere of rational and universalistic politics , free from both the economy and the state , was destroyed by the same forces that initially established it .
+obergruppenführer felix steiner said that the order was incompatible with soldierly conduct and stated that " no rational unit commander could comply with such an order " .
+he also notes that legal domination is the most advanced , and that societies evolve from having mostly traditional and charismatic authorities to mostly rational and legal ones .
+in 2006 , dawes was elected a fellow of the american statistical association for " for creative research on statistics and rational decision - making , contributions to the application of cognitive psychology to survey research , and promotion of careful statistical thinking in psychology and behavioral research . "
+however , there has been proven to be a much more rational explanation of the mystery .
+the work inaugurated a new era in russian scholarship with its depiction of russia as evolving through organic and rational processes from a primitive , family - based society into a centralized , autocratic state " .
+with stephen j. mellor , she founded project technology inc. in 1985 , with the goal of making software development a rational , controllable , predictable , engineering process .
+more generally , it applies to any abelian extension " k " of the rational field " q " .
+the ring of ( rational ) adeles aq is the tensor product
+as part of its cointelpro designed to discredit and infiltrate radical new left groups , the fbi also launched phony underground newspapers such as the " armageddon news " at indiana university bloomington , " the longhorn tale " at the university of texas at austin , and the " rational observer " at american university in washington , d.c.
+again an example of this situation could be the ordered set of rational numbers formula_1 .
+renwick explained : " inevitably , you set up a series which is all about impossibilities that then have to have a rational explanation , by definition it ’s going to be pretty challenging stuff for a writer .
+he defined charismatic authority to be one of three forms of authority , the other two being traditional ( feudal ) authority and legal or rational authority .
+prospero 's rational goodness enables him to control ariel where sycorax can only trap him in a tree .
+other ratios produce more complicated curves , which are closed only if " a"/"b " is rational .
+these areas were not selected at random but constituted , almost from the beginning , a rational system , designed to preserve major battlefields for historical and professional study and as lasting memorials to the great armies of both sides .
+natsuki is typically portrayed as a serious , rational blue - haired female , as a foil to the lighthearted mai tokiha .
+like polynomials , rational expressions can also be generalized to " n " indeterminates " x"1 ... , " x'n " , by taking the field of fractions of " f"["x"1 ... , " x'n " ] , which is denoted by " f"("x"1 ... , " x'n " ) .
+the reason for the suspension was due to uri geller claiming that rational response squad had infringed his copyrights when posting a video featuring him , but geller did not own the copyrights in question .
+for any non - zero rational number " x " , there is a unique integer " n " allowing us to write " x " = " p'n"("a"/"b " ) , where neither of the integers " a " and " b " is divisible by " p " .
+in this case , even though the trial judge did not believe that the appellants belief in consent was even remotely reasonable , she did find that it was honest : " as i said , no rational person could have been under any honest mistake of fact .
+shiller 's work included survey research that asked investors and stock traders what motivated them to make trades ; the results further bolstered his hypothesis that these decisions are often driven by emotion instead of rational calculation .
+both films connect art with insanity ; both involve the restraint of supernatural entities by artists ; both explore the breakdown of civilized humanity ; and both follow the descent into madness of a rational investigator who is forced to question his own conception of reality .
+this is the rational soul ( " logica psychê " ) of the mature human being , which grants the power of judgment .
+for example , in discussing aristotle 's view that the universe had existed literally forever , he argued that there was no convincing rational proof one way or the other , so that he ( maimonides ) was free to accept , and therefore did accept , the biblical view that the universe had come into being at a definite time ; but that had aristotle 's case been convincing on scientific grounds he would have been able to reinterpret genesis accordingly .
+albeit rational - legal authority may be challenged by those subordinated , it is unlikely to result in a quick change in the nature of the system .
+yet they have been at the same time unsuccessful in their attempts to solve the three insoluble metaethical problems that the humean conception engenders : of moral motivation , rational final ends , and moral justification .
+the minimal rational surfaces are " p"2 itself and the hirzebruch surfaces σn for " n " = 0 or " n " ≥ 2;. ( the hirzebruch surface σ"n " is the " p"1 bundle over " p"1
+elster 's account was an exhaustive trawl through marx 's texts in order to ascertain what could be salvaged out of marxism employing the tools of rational choice theory and methodological individualism ( which elster defended as the only form of explanation appropriate to the social sciences ) .
+as an example of the reduction rule , take formula_48 , the rational numbers , and take formula_49 .
+he argues that the intellect is " the fundamental rational faculty , which enables man to generalize and form concepts and gain knowledge . "
+it argued that a rational foundation for ethics was compatible with christianity , enabling it to borrow many ideas from the nicomachean ethics .
+cortot also wrote a good deal of didactic prose , including a piano primer : " rational principles of pianoforte technique " .
+the sco states its goals are " the strengthening mutual confidence and good - neighbourly relations among the member countries ; promoting their effective cooperation in politics , trade and economy , science and technology , culture as well as education , energy , transportation , tourism , environmental protection and other fields ; making joint efforts to maintain and ensure peace , security and stability in the region , to move towards the establishment of a new , democratic , just and rational political and economic international order . "
+such extensions of the real numbers may be constructed explicitly using equivalence classes of sequences of rational numbers , so that , for example , the sequence ( 1,1/2,1/3 ... 1/n ... ) represents an infinitesimal .
+according to marx , the working class , merely by following its own instincts , would gain rational insight into its plight as the downtrodden product of capitalism .
+it investigates by rational and logical arguments the notions of " continuity " and " division " , establishing that change — and , consequently , time and place — are not divisible into indivisible parts ; they are not mathematically discrete but continuous , that is , infinitely divisible ( in other words , that you can not build up a continuum out of discrete or indivisible points or moments ) .
+finally frankfurter rejected justice stone ’s rational basis test that stone laid out in " united states v. carolene products co. " .
+the flavour of the village and the approach of these rational dissenters appealed to wollstonecraft : they were hard - working , humane , critical but uncynical , and respectful towards women .
+in " the rational and the moral order " ( 1995 ) , baier attempted to answer the question by interpreting morality as a system of reasons of mutual benefit that are appropriate for contexts in which everyone 's following self - interested reasons would have suboptimal results for everyone .
+the approach of these rational dissenters appealed to wollstonecraft : they were hard - working , humane , critical but uncynical , and respectful towards women , and in her hour of need proved kinder to her than her own family .
+once these conventions are established , we may impose rational equivalence as a relation on the free abelian group of cycles to get the chow ring .
+in 1924 jinnah reorganized the muslim league , of which he had been president since 1919 , and devoted the next seven years attempting to bring about unity among the disparate ranks of muslims and to develop a rational formula to effect a hindu muslim settlement , which he considered the pre condition for indian freedom .
+developers can access and update the statuses of these work items directly from the web client , eclipse ide client , or visual studio client of rational team concert .
+angie , a fighter pilot , is a rebellious spirit , while stella , who oversees communication with her brother , is clear - headed and rational .
+where the quantities on the right hand side are invariants of the curve , studied by cassels , tate , shafarevich and others : these include the order of the torsion group , the order of the tate - shafarevich group , and the canonical heights of a basis of rational points ..
+in weber 's own words : " the origin of a rational and innerworldly ethic is associated in the occident with the appearance of thinkers and prophets ( ... ) who developed in a social context which was alien to the asiatic cultures .
+the set of all rational numbers includes the integers , since every integer can be written as a fraction with denominator 1 .
+if agent a makes a sufficient concession in the next step , then , assuming that agent b is using a rational negotiation strategy , if agent b does not concede in the next step , he must do so in the step after that .
+any emotion counselor will tell you that you can not expect the rational part of your personality to take prime position over behavioral control until you are 35 to 45 years old .
+klaus states frankly that he can be a ruthless tyrant — but he tries to be fair and rational .
+for example , the set of rational numbers , as a subset of r has the property that the " closure of the interior " is empty , but it is not nowhere dense ; in fact it is dense in r.
+individuals are rational enough to make decisions about their good being and choose any religion they want to .
+teaming with such experts as julie gerberding and paul volberding he helped to craft what became known as the " san francisco model " of aids therapy , a comprehensive , rational approach to care that avoided the fear and paranoia surrounding the disease at that time .
+his publications include " humanitarian intervention : an inquiry into law and morality " ( 3rd ed fully revised and updated , transnational publishers 2005 ) ; " rational choice and democratic deliberation " ( cambridge university press 2006 ) [ with guido pincione ] ; " a philosophy of international law " ( westview press 1998 ) ; and many articles in law , philosophy , and international relations journals and collections of essays .
+he determined that the internal organization of firms and the external business decisions thereof did not conform to the neoclassical theories of “ rational ” decision - making .
+rather the advancement of rational paradigm ( groomed by technocracy ) significantly reduced its amount while hardening the gauntlet at the same time .
+the individualistic age culminates in a new intellectual foundation and development in all the spheres of life , but this rational view of the world and the self can only go so far , it can not reach into the depths of the being .
+polynomial and rational function modeling .
+one can extend the natural numbers with their negatives to give all the integers , and to further extend to ratios , giving the rational numbers .
+as above , where the value of an asset in the future is known ( or expected ) , this value can be used to determine the asset 's rational price today .
+however , the set of rational points in formula_32 has hausdorff dimension zero and minkowski dimension one .
+when the chapter begins albion 's rational moral law infects los , albion falls yet again , and vala 's bellicose erotics encompass humanity .
+it is fair to say that many ( but not all ) of these criticisms can only be directed towards a subset of the neoclassical models ( for example , there are many neoclassical models where unregulated markets fail to achieve pareto - optimality and there has recently been an increased interest in modeling non - rational decision making ) .
+saxo grammaticus in " gesta danorum " ( book 6 ) refers to a similar version relating a magic transformation , but prefers or invents a more rational account in which starkad tied the osier very tightly so that víkar could hardly breath and then stabbed víkar with his sword .
+it can be shown that the set of " k "- rational points ( including the point at infinity ) forms a subgroup of this group .
+at its deepest manifestation , deep democracy , refers to an openness towards the views of other people and groups , and also embraces an openness to emotions and personal experiences , which tend to get excluded from conflict and rational public discourse .
+for some rational numbers formula_11 and formula_12 .
+stoic philosophy says to accept things that can not be changed , resigning oneself to existence and enduring in a rational fashion .
+the value φ("x " ) is in some ring , often the ring of rational numbers , though it can be other rings such as z/2z or the ring of modular forms .
+rational psychological methods examine the facts which relate fundamental attitudes to particular moral beliefs ; the goal is not to show that someone has been inconsistent , as with logical methods , but only that they are wrong about the facts which connect their attitudes to their beliefs .
+wollstonecraft considered her suicide attempt deeply rational , writing after her rescue , " i have only to lament , that , when the bitterness of death was past , i was inhumanly brought back to life and misery .
+his contributions were mainly in the field of mathematical analysis , complex functions theory , and rational mechanics .
+john stuart mill , like marx , also highly regarded development of the rational mind .
+he also argued that the hardliners leader , supreme leader ali khamenei , was , unlike saddam hussein , rational and risk - averse and so , even if iran did acquire a nuclear capability , iran could be deterred in a way that saddam hussein could not be .
+rene descartes famous aphorism , ' i think therefore i am ' proves that a person is a rational subject whose feature of thinking brings the human into existence .
+note that the limits widen for each successive rational subgroup , approaching formula_6 .
+kierkegaard attacked the notion , popular in his day in protestant societies , that one became a christian by simply accepting intellectually some supposedly rational set of proofs for the validity of christianity .
+the pagoda contains the world ’s largest pillar - less stone dome structure and is expected to attract hundreds of thousands of visitors from all over the world wanting to learn more about it and the ancient , rational and universal technique of vipassana meditation .
+the soul began to rotate and this was the beginning of its eternal and rational life ( 36e ) .
+he ca n't put the facts together because they do n't add up to anything rational . "
+novikov proved in 1966 that if manifolds are homeomorphic then their rational pontryagin classes : formula_30 are the same .
+infra members express rational stance to ufo and its history as a very complex phenomenon .
+in his sermons and lectures he attempted to establish the " truth of lutheranism " by rational means .
+he wrote an elementary geometry text , " rational geometry " , based on hilbert 's axioms , which was translated into french , german , and japanese .
+it is the process of guiding oneself toward the adoption of an idea , attitude , or action by rational and symbolic ( though not always logical ) means .
+exponentiation by a real power is normally accomplished using logarithms instead of using limits of rational powers .
+“ a close scrutiny of these writers would reveal that they stood firmly for a rational intellect free of inhibitions or emotions , ”
+in modern constitutional law , the rational basis test is applied to constitutional challenges of both federal law and state law ( via the fourteenth amendment ) .
+as much as the picturesque was meant to be a middle ground or synthesis of the beautiful and the sublime for price , for townscape theorists , the townscape movement was meant to be a middle ground or alternative approach to what were perceived by hastings as two branches of functionalism , the rational ( i.e. le corbusier ) and the organic ( i.e. frank lloyd wright ) approaches to architecture and urban design .
+the advertising for the program claims it is rooted in " one thing and one thing only , and that is rational thought . "
+he shares a deep , mysterious connection with her that never finds a rational explanation .
+thus whoever is successful can be portrayed as meriting ( deserving ) success , rather than success being in fact predicated on rational , predetermined criteria of merit .
+in hegel ’s view , if something existed , it was rational .
+unlike the later sunday schools established by robert raikes , priestley aimed his classes at middle - class rational dissenters ; he wanted to teach them " the principles of natural religion and the evidences and doctrine of revelation in a regular and systematic course , " something their parents could not provide .
+any polynomial , and more generally any rational function " p"("x")/"q"("x " ) where " p " and " q " are polynomials , transforms the riemann sphere by mapping it to itself .
+its supporters believe it to be the means to achieve a rational society , and its structure becomes the organization of society .
+however , more also sought radical clergy reform and more rational theology .
+the precise way in which reason differs from emotion , faith , and tradition is controversial , because all three are considered to be both potentially rational , and in potential conflict with reason .
+put in the simplest terms the " philosophy of cusp forms " says that for each γ-conjugacy classes of q - rational parabolic subgroups one should construct automorphic functions ( from objects from spaces of lower dimensions ) whose constant terms are zero for other conjugacy classes and the constant terms for [ an ] element of the given class give all constant terms for this parabolic subgroup .
+all these people have attempted to build upon cohen 's work by bringing to bear modern social science methods , such as rational choice theory , to supplement cohen 's use of analytic philosophical techniques in the interpretation of marxian theory .
+tradition , in particular , may be a far more powerful force in determining allocation of household tasks than rational optimization . "
+this behaviour is rational on the part of the monopolist , but is often seen by competition authorities as an abuse of a monopoly position , whether or not the monopoly itself is sanctioned .
+it was an austerely rational structure with few stylistic pretensions .
+he presents rational arguments for bodily resurrection and the immortality of the human soul , using both demonstrative reasoning and material from the hadith corpus to prove his case .
+the alliance follows five guidelines : 1 ) sustainable natural ecosystems , 2 ) strong local economies , 3 ) broad - based public involvement and support , 4 ) rational water use and 5 ) a solution to a problem can not be to transfer the problem some place else .
+for some rational number " p"/"q " .
+developers built villas while the district retained exclusivity , and in 1868 , the builder noted the ‘ wholesome and rational style of building which is now dotting over the district between camberwell and croydon’. an 1876 guide to the suburbs reported : ‘
+in his psychology he adopts either the stoic division of the soul into eight faculties , or the platonic trichotomy of reason , courage , and desire , or the aristotelian triad of the vegetative , emotive , and rational souls .
+it is rational intuitive or instinctive rather than dialectical or discoursive reason in hellenic philosophy and also russian philosophy ( see n.o. lossky ) .
+" rational learning leads to nash equilibrium , " " econometrica " , 1993 ( with e. lehrer )
+rational numbers .
+if the field " k " has characteristic zero , but is not algebraically closed , for example , " k " is a field of real or rational numbers , then a somewhat more complicated statement holds : the group algebra " kg " is a product of matrix algebras over division rings over " k " .
+subsequent data analysis by inglehart revealed that a large percentage in the variability in the data could be explained by using a set of measures that tapped just two dimensions : a traditional to secular - rational axis , and a survival to self - expression axis .
+in a statement released about the book kanekar says she has seen the buddha as a " historical figure who lived in the foundational epoch of indian civilisation , whose life and struggle are now almost completely lost in myth , and whose ideas evolved to mean very different things to different people , yet continue to resonate with an all - inclusive and rational message of peace even today , 2500 years after they were first propagated . "
+in 1860 a congress is held at karlsruhe technische hochschule to discuss the feasibility of establishing a systematic and rational nomenclature for chemistry .
+" the rational and the real " ( 1962 )
+in contrast to traditional methods of drug discovery which rely on trial - and - error testing of chemical substances on cultured cells or animals , and matching the apparent effects to treatments , rational drug design begins with a hypothesis that modulation of a specific biological target may have therapeutic value .
+they are not amenable to rational argument so dikaiopolis grabs a hostage and a sword and demands the old men leave him alone .
+both , argues walker , are totalist sets of beliefs that advocate " an ethics for the masses based on survival as a rational being .
+a heronian tetrahedron is a tetrahedron whose side lengths , face areas and volume are all rational numbers .
+the stereotype of the entire middle ages as a " dark age " supposedly caused by the christian church for allegedly " placing the word of religious authorities over personal experience and rational activity " is called a " caricature " by the contemporary historians of science david lindberg and ronald numbers , who say " the late medieval scholar rarely experienced the coercive power of the church and would have regarded himself as free ( particularly in the natural sciences ) to follow reason and observation wherever they led .
+in algebraic geometry , a châtelet surface is a rational surface studied by given by an equation
+if our thesis that the fault lies not with the nail but with an excess of soft tissue is correct , treatment by removal of a segment of nail is not rational .
+the concept of homo economicus was developed , and the psychology of this entity was fundamentally rational .
+there are five rational pirates , a , b , c , d and e. they find 100 gold coins .
+the " west - to - east electricity transmission , " the " west - to - east gas transmission , " and the " south – north water transfer project " are the government 's three key strategic projects , aimed at realigning overall economic development and achieving rational distribution of national resources across china .
+this is analogous to the fact that any rational number with a finite decimal representation also has an infinite decimal representation ( see 0.999 ... ) .
+this method considers the behavior of the steel plate and frame separately , and accounts for the interaction of these two elements , which leads to a more rational engineering design of an spsw system .
+thus the mind 's dianoia ( rational or logical faculty ) in its deficiency , finiteness or inconclusiveness ( due to logic 's incompleteness ) causes the perceived conflict between the objectivism ( materialism , external world ) and idealism ( spiritual , inner experience ) forms of philosophy .
+the risk - free interest rate is thus of significant importance to modern portfolio theory in general , and is an important assumption for rational pricing .
+fringe science is seen by most scientists as rational , but unlikely .
+" aristotelian thought has permeated most occidental philosophical system until modern times , and the classification of man 's function as vegetative , sensitive , and rational is still useful .
+all finite transcendence degree field extensions of " k " correspond to the rational function field of some variety .
+unitarianism or rational dissent – " that intellectual aristocracy in the ranks of dissent , as historians often characterise it " – had an obvious affinity with education , critical enquiry , and challenges to the " status quo " , and is " one of the roots of modern english culture " .
+his brother , the coldly rational will , picks him up and tries to get him back on his feet .
+in defending darwinian conservatism , arnhart tries to persuade conservatives that darwinian science supports the conservative belief that social order arises not from rational planning but from the spontaneous order of instincts and habits .
+gong'ans can never be solved with such rational , or even intuitive methods , and only the final , perfect enlightenment could give the solution to the gong'an , and simultaneously all gong'ans .
+searle insists he would never do this and believes that this is perfectly rational .
+in other words both reason and a supra - rational understanding is needed to understand god .
+as a producer english has worked extensively to develop a unique perspective on the possibilities of deconstruction of expectation with song form - working for artists such as tujiko noriko , tenniscoats and the rational academy amongst others .
+the basic problem consists of the fact that within the scope of olson ’s model individuals , acting economically rational , do not have an interest in contributing to the provision of a public good .
+like many american civilians , he has learned about war from movies and stories that portray battle as heroic and glorious , the army as efficient and organized , and warfare as a rational effort that depends on skill .
+jacobians of curves are naturally equipped with a principal polarization as soon as one picks an arbitrary rational base point on the curve , and the curve can be reconstructed from its polarized jacobian when the genus is > 1 .
+medical texts specified specific steps of examination , diagnosis , prognosis and treatments that were often rational and appropriate .
+this is typically done with polynomial or rational ( ratio of polynomials ) approximations .
+an interesting result , stemming from the fact that the continued fraction expansion for φ does n't use any integers greater than 1 , is that φ is one of the most " difficult " real numbers to approximate with rational numbers .
+two arbitrary rational maps formula_17 can not necessarily be composed , but if formula_12 has dense image then they can : pick any representative pairs formula_19 and note that since formula_20 is dense in formula_5 it must intersect formula_16 , and so formula_23 is a nonempty open subset of formula_16 ( as a morphism is necessarily continuous ) .
+he argues that all that we see in nature is framed so as to avoid and reject what is dangerous to the integrity of its constitution ; that the human race would be an anomaly in the world had it not for end its conservation in its best estate ; that benevolence of all to all is what in a rational view of the creation is alone accordant with its general plan ; that various peculiarities of man 's body indicate that he has been made to co - operate with his fellow men and to maintain society ; and that certain faculties of his mind show the common good to be more essentially connected with his perfection than any pursuit of private advantage .
+reciprocity figures prominently in social exchange theory , evolutionary psychology , social psychology , cultural anthropology and rational choice theory .
+moravec 's paradox is the discovery by artificial intelligence and robotics researchers that , contrary to traditional assumptions , the uniquely human faculty of reason ( conscious , intelligent , rational thought ) requires very little computation , but that the unconscious sensorimotor skills and instincts that we share with the animals require enormous computational resources .
+the set of all rational numbers is usually denoted by a boldface q ( or blackboard bold formula_1 , unicode u+211a ) , which stands for quotient .
+" heredity " is a 1985 album by rational youth , now down to singer tracy howe with numerous studio musicians .
+the court said that independent salary commissions were needed to help recommend salaries , and governments could deviate from these recommendations only with rational reasons .
+rational functions are used to approximate or model more complex equations in science and engineering including ( i ) fields and forces in physics , ( ii ) spectroscopy in analytical chemistry , ( iii ) enzyme kinetics in biochemistry , ( iv ) electronic circuitry , ( v ) aerodynamics , ( vi ) medicine concentrations in vivo , ( vii ) wave functions for atoms and molecules ,
+aristotle believed that happiness , or eudaimonia is constituted by rational activity in accordance with virtue over a complete life .
+masses of people might go into a " mad frenzy " sometimes that might be difficult to explain in rational terms , but this is the exception , not the rule .
+analysis is as essential to science as it is to all rational enterprises .
+its goal is to implement the danube river protection convention by promoting and coordinating sustainable and equitable water management , including conservation , improvement and rational use of waters .
+he thus attacked a peculiar russian blend of french utopian socialism and benthamite utilitarianism , which had led to what revolutionaries , such as nikolai chernyshevsky , called " rational egoism " .
+the name " algebraic integer " comes from the fact that the only rational numbers which are algebraic integers are the integers , and because the algebraic integers in any number field are in many ways analogous to the integers .
+aristotle 's teachings spread through the mediterranean and the middle east , where early islam supported rational philosophical descriptions of the natural world .
+the magic administration bureau , also known as the sorcery management bureau , is set up to attempt to safely explore the nature of magic , officially document it , attempt to provide rational scientific explanation for it , regulate its use and police those who use magic illegally .
+he has been described as a literary glutton , and the most rational of bibliomaniacs , inasmuch as he read everything he bought .
+as a result of his cartesian doubt , he viewed rational knowledge as being " incapable of being destroyed " and sought to construct an unshakable ground upon which all other knowledge can be based .
+this technique is frequently used in newer programming methodologies that are focused around object - oriented programming techniques , such as the rational unified process and extreme programming ( acronym " xp " ) , often in combination with design documentation methods such as the unified modelling language ( uml ) .
+in computability theory , a specker sequence is a computable , strictly increasing , bounded sequence of rational numbers whose supremum is not a computable real number .
+rational , ” and “ logical ” for men , and “ emotional , ” “ hysterical , ” and “ silly ” for women .
+" we have now clearly set forth how it is , and how it was , that god became an object of faith for rational beings ; and also , upon what foundation the testimony was based which excited the inquiry and diligent search of the ancient saints to seek after and obtain a knowledge of the glory of god ; and we have seen that it was human testimony , and human testimony only , that excited this inquiry , in the first instance , in their minds .
+the second fallacy is in “ ignoring the rational basis for ecological planting design .
+the main one is rational emotional therapy ( ret ) and is based on the principle that an " activating " emotional event will cause a change in thoughts toward that situation , even if it is an illogical thought / s .
+the structure of rational points .
+his view , that emotions must be detached from external cause in order to master them , presages rational emotive therapy .
+thus , the rational expectations - based equilibrium need not be unique .
+cameron and comfort participated in a televised debate with atheists brian sapient and kelly o'conner of the rational response squad , at calvary baptist church , in manhattan , on may 5 , 2007 .
+ethics : rational self - interest .
+the oppenheim conjecture can be viewed as an analogue of this statement for forms " q " that are not multiples of a rational form .
+rational performance tester tests are not represented as code .
+a short proof of this result is to obtain it from gauss 's lemma , that if " p"("x " ) is a monic polynomial with integer coefficients , then any rational root of " p"("x " ) is necessarily an integer .
+on the other hand , if the rank of the curve is greater than 0 , then the curve has an infinite number of rational points .
+the modularity theorem , formerly known as the taniyama – shimura conjecture asserts that every elliptic curve defined over the rational numbers is modular .
+that is , in the formulation given above , the rational functions may turn out to have a pole at infinity , while in the more general formulation the pole can be chosen instead anywhere in the unbounded connected component of " k " .
+common lisp provides a numeric data type for arbitrarily sized rational numbers : ratio .
+humanism was an optimistic philosophy that saw man as a rational and sentient being , with the ability to decide and think for himself .
+rational , exacting , and self - controlled theater director , henrik vogler , often stays after rehearsal to think and plan .
+however , it has been argued that the issue of whether or not we hold one another morally responsible does not ultimately depend on the truth or falsity of a metaphysical thesis such as determinism , for our so holding one another is a non - rational human sentiment that is not predicated on such theses .
+from a purely transcendental number theoretic viewpoint , baker had proved that if α1 ... ,α"n " are algebraic numbers , none of them zero or one , and β1 ... ,β"n " are algebraic numbers such that 1,β1 ... ,β"n " are linearly independent over the rational numbers , then the number
+the rational recovery program is based on the premise that the addict both desires and is capable of permanent , planned abstinence .
+the dutch declined to take back new amsterdam in exchange for surinam , a decision that may seem unconscionable in modern american eyes , but which in the circumstances of the time must be deemed completely rational : the sugar plantations of surinam were certainly more valuable than the already hard - pressed fur traders in their environment of hostile new - englanders .
+however , pacini , muir and epstein have shown that this may be because depressed people overcompensate for a tendency toward maladaptive intuitive processing by exercising excessive rational control in trivial situations , and note that the difference with non - depressed people disappears in more consequential circumstances .
+aquinas placed slavery in opposition to natural law , deducing that all " rational creatures " are entitled to justice .
+note that maimonides ' approach is also widely held amongst the non - rational , mystical streams of judaism — thus , for example , rabbi isaiah horowitz , the " shlah hakodosh " holds that " none of these sometimes mind - boggling ' stories ' are devoid of profound meaning ; if anyone is devoid of understanding , it is the reader " ( " shnei luchos habris " , introduction ) .
+these examples suffice to show that in palestine scholars early began to devote themselves to a rational bible exegesis , although free play was at the same time yielded to haggadic interpretation .
+rational response squad .
+drummond , " a dour scotsman , an exile and a ' notorious free thinker ' " , instilled in him a passion for learning and superstition - free rational thinking , in addition to a solid grounding in history , philosophy and english literature .
+, rational poker school limited , bodog entertainment group s.a. , bodog.com , and futurebet systems ltd . for 1st technology 's patent infringement claim .
+however , the automatic stabilisers model does not incorporate rational expectations or other microfoundations .
+other numbers have standard representations in base-φ , with rational numbers having recurring representations .
+instead of elevating women to suspect classification by reviewing the law under a very restrictive standard known as strict scrutiny , the court subjected the idaho statute using rational basis review .
+it held alternatively that the assistance was not within the concept of income of § 61 ( a ) of the code , and that in any event the jury 's determination that the assistance was a gift , and hence excluded from gross income by § 102 ( a ) , had rational support in the evidence and accordingly was within its province as trier of the facts .
+justice scalia upheld the law in that moral opposition to nudity provided a rational basis for prohibiting nude dancing .
+caplan‘s ideas are more fully developed in his book " the myth of the rational voter " ( princeton university press 2007 ) .
+greenwald also wrote that the " drudge report " ( inter alia ) is part of the " bush / cheney right - wing noise machine " , adding : " allowing [ websites like " drudge report " , inter alia ] to dominate our political debates and drive media coverage guarantees a decrepit , rotted , and deeply corrupt country .... their endless lynch mob crusades supplant rational and substantive political debates . "
+and the other diagonal divides the region into two triangles whose areas are not rational multiples
+reputation plays a crucial role in determining how much would markets believe the announcement of a particular commitment to a policy goal but both concepts should not be assimilated . also , note that under rational expectations , it is not necessary for the policymaker to have established its reputation through past policy actions ; as an example , the reputation of the head of the central bank might be derived entirely from his or her ideology , professional background , public statements , etc .

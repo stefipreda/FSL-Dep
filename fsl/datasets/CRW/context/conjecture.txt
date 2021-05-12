@@ -1,0 +1,255 @@
+hirsch 's conjecture is known to be true for " d " < 4 and for various special cases , but in general the status of the problem is unknown .
+strictly speaking the topological m - theory conjecture has only been made in this context , as in this case functions introduced by nigel hitchin in and provide a candidate low energy effective action .
+for instance , it would allow for a simple solution of goldbach 's conjecture , which is one of the oldest unsolved problems in mathematics .
+in a 1958 paper lax stated a conjecture about matrix representations for third order hyperbolic polynomials which remained unproven for over four decades .
+this conjecture is equivalent to " k"["g " ] having no non - trivial idempotents under the same hypotheses for " k " and " g " .
+his many contributions include a simplified proof of the positive energy theorem involving spinors in general relativity , his work relating supersymmetry and morse theory , his introduction of topological quantum field theory and related work on mirror symmetry and supersymmetric gauge theories and his conjecture of the existence of m - theory .
+there also is some conjecture that post - splenectomy patients may be at elevated risk of subsequently developing diabetes .
+gödel 's close friend hao wang supports this conjecture , noting that gödel 's blue hill notebooks contain his most extensive treatment of the problem .
+vitushkin 's conjecture .
+cramér - granville conjecture .
+however , this conjecture remains open for graphs that need not be cubic .
+the lyrics of the song have been the subject of much conjecture for over 50 years .
+chrobak and larmore ( 1991 ) proved the conjecture for tree metrics .
+unfortunately , it is not possible to prove the cycle double cover conjecture using a finite set of reducible configurations .
+in 1957 , ganea published in the " annals of mathematics " a short , yet influential paper with samuel eilenberg , in which the celebrated eilenberg−ganea conjecture was formulated .
+this interpretation is neither incapable of proof nor is it an idle conjecture . "
+" p "- adic conjecture .
+in an article entitled “ the coming revolution ” ( nov. 1913 ) pearse wrote as to what your work as an irish nationalist is to be , i can not conjecture ; i know what mine is to be , and would have you know yours and buckle yourselves to it .
+. linguistic study has led to the conjecture that initially the complete poem was transmitted orally , then in a lost manuscript in the east saxon dialect and now survives as a fragment in the west saxon form , possibly that of a scribe active at the monastery of worcester
+in december 2006 , a florida circuit judge ruled that her claim that voting machines in sarasota county lost up to 18,000 votes was " conjecture " and did n't warrant overriding the trade secrets of the voting machine company .
+their reputed supremacy was still a matter of some conjecture .
+in number theory , the chinese hypothesis is a disproven conjecture stating that an integer " n " is prime if and only if it satisfies the condition that 2"n"−2 is divisible by " n " .
+serre conjecture ( number theory ) .
+the mertens conjecture would have proved that the riemann hypothesis was also true .
+the whitehead conjecture is true if all sets are constructible .
+whether a darker show , more like tanz der vampire , would have succeeded is conjecture .
+the conjecture as stated is due to takashi agoh ( 1990 ) ; an equivalent formulation is due to giuseppe giuga , from 1950 , to the effect that " p " is prime iff
+hanna neumann conjecture .
+the franklin graph is names after philip franklin who used it as a counterexample to the heawood conjecture : it divides the klein bottle into regions having a minimal coloring using 6 colors , rather than 7 as predicted by the formula .
+von neumann conjecture for finitely - presented groups , which suggested that a finitely - presented group is amenable if and only if it does not contain a copy of the free group of rank 2 .
+" nyctosaurus " is the only pterosaur to have lost its clawed " fingers " , with the exception of the wing finger ( of which however the fourth phalanx was lost ) , which is likely to have impaired its movement on the ground , leading scientists to conjecture that it spent almost all of its time on the wing and rarely landed .
+during this time he discovered the result for which he is best known , namely the finite basis theorem ( or mordell – weil theorem ) , which proved a conjecture of henri poincaré .
+the conjecture is not valid over the larger domain of gaussian integers .
+in mathematics , in the area of algebra known as group theory , a more than fifty year effort was made to answer a conjecture of : are all groups of odd order solvable ?
+this discovery provided crucial support for the conjecture that all string theories could arise as various limits of a single higher - dimensional theory .
+considerable work has been done on the weak goldbach conjecture .
+would have such unusual properties that the curve would likely violate the taniyama – shimura conjecture .
+iteration of apparently simple functions can produce complex behaviours and difficult problems - for examples , see the collatz conjecture and juggler sequences .
+note , however , that the themes and their connections are merely conjecture , and are open to interpretation .
+conjecture .
+the most spectacular application of the conjecture is the proof of fermat 's last theorem ( flt ) .
+the chronology protection conjecture plays a large part in the british science fiction television programme crime traveller ( named the " chronology protection hypothesis " within the show ) , stated as the reason that while the main characters can travel back in time and observe a crime taking place to solve how it was done , they can not prevent the crime or otherwise alter any events which have already taken place .
+in mathematics , the farrell – jones conjecture , named after f. thomas farrell ( now at ) and lowell edwin jones ( now at ) states that certain assembly maps are isomorphisms .
+faltings ' original proof used the known reduction to a case of the tate conjecture , and a number of tools from algebraic geometry , including the theory of néron models .
+emma mason , however , argues that although dicken 's portrayal of procter " extinguished modern interest " in her , it also " has helped rescue procter from the kind of endless conjecture about her private life that has confused studies of women like letitia landon . "
+combined with the results of dales and esterle , this shows that the conjecture is independent of the axioms of zfc .
+the conjecture put forward by tillotson reads " in all probability those common juggling words of hocus pocus are nothing else but a corruption of hoc est corpus , by way of ridiculous imitation of the priests of the church of rome in their trick of transubstantiation " .
+often speculative in nature , it was widely criticised for its lack of scholarly rigour and pure conjecture .
+a result of combines grötzsch 's theorem with scheinerman 's conjecture on the representation of planar graphs as intersection graphs of line segments .
+a not improbable conjecture is that they were a small band of broken barlas mughals families , who joined the jodhras and settled down on their borders in 15 century in fatehjang area .
+conjecture immediately ran high that ray would be lured back to the eskimos with a relative big - money deal , and this is precisely what happened .
+this conjecture has generated a great deal of research in computational complexity theory , which has considerably improved our understanding of the inherent difficulty of computational problems and what can be computed efficiently .
+isbell is likely the source of the name " pierce – birkhoff conjecture " , and popularized the problem in the 1980s by discussing it with several mathematicians interested in real algebraic geometry .
+one of the more dramatic successes of his theory was his prediction of the existence of secondary and tertiary alcohols , a conjecture that was soon confirmed by the synthesis of these substances .
+thus , the conjecture holds unless we already found a counterexample .
+currently there is no consensus regarding the truth of the unique games conjecture .
+more generally , chang 's conjecture for two pairs ( α,β ) , ( γ,δ ) of cardinals is the claim
+the etymological dictionaries tie it english spade , spoon , spatula , and so on , while julius pokorny and others based on pokorny give the root as * spe- or * sp(h)ə-(dh)- , meaning a physical implement , which the etymologists conjecture was flat and wide .
+another conjecture is that he derived it from the greek letter ω ( omega ) , the last letter in the greek alphabet .
+hagedorn proved a related conjecture of r. h. hardin and neil sloane that , for odd positive " n " , the equation 3/"n " = 1/"x " + 1/"y " + 1/"z " is always solvable with " x " , " y " , and " z " distinct , odd , and positive .
+this resulted in his proof of the bernstein conjecture up to real dimension 8 , and an improvement of a certain " regularity " result of wendell h. fleming on a generalized plateau 's problem .
+the first counterexample to the tutte conjecture was the horton graph , published by bondy and murty in 1976 .
+that it passed from marguerite to the court of england provides the basis for conjecture that marguerite had influence on the protestant reformation in england .
+recently , popescu and cornelius greither have formulated equivariant versions of iwasawa 's main conjecture over function fields and global fields , proving most the version for function fields .
+there is much conjecture about what type of stand constitutes a kop .
+confirmation of the charge symmetry conjecture in 1955 led to the nobel prize for physics being awarded to emilio segrè and owen chamberlain in 1960 .
+this became known as the stanley – wilf conjecture until it was proved in ( 2004 ) by adam marcus and gábor tardos .
+the conjecture .
+this is known as the barendregt - geuvers - klop conjecture .
+this was known as the " strong perfect graph conjecture " and was finally answered in the affirmative in may , 2002 .
+combining the above two theorems implies that hodge conjecture is true for hodge classes of degree 2"n " − 2 .
+although the origin of the name nightcliff has always been surrounded by conjecture and controversy , the naming can be tracked back to 8 september 1839 .
+perelman 's solution of the poincare conjecture depended on a deep study of these singularities , where he showed how to continue the solution past the singularities .
+after the horton graph , a number of smaller counterexamples to the tutte conjecture were found .
+although the author is unknown , there is some conjecture that he may have been a clerk tightly linked to the church of roskilde .
+how or where christianity first gained a foothold in gaul is purely a matter of conjecture .
+the cantref of buellt is often associated with the region , despite being located across the wye , and there is some conjecture that may tie in arwystli as well .
+thus , the proof of the taniyama – shimura – weil conjecture for this family of elliptic curves ( called hellegouarch – frey curves ) implies the flt .
+hilbert – pólya conjecture .
+although significant progress has been made , the conjecture is still unresolved .
+this setup may also be of interest for studies of the cft conjecture .
+there is a much more precise conjecture about the asymptotic behavior of this integral : it is believed that
+manin 's early work included papers on the arithmetic and formal groups of abelian varieties , the mordell conjecture in the function field case , and algebraic differential equations .
+the generalized poincaré conjecture in dimension formula_2 can be phrased as saying that formula_110 .
+the enquiry was of the opinion that the forward cover ripped open causing the forward gasbags to fail : but again this is conjecture .
+virtually haken conjecture .
+( borel 's conjecture is not consistent with the continuum hypothesis . )
+( diaconu , goldfeld and hoffstein 's work could in principle lead to a proof of the conjecture , but it has not done so up to now .
+goldbach 's conjecture .
+the reconstruction conjecture of stanislaw ulam is one of the best - known open problems in graph theory .
+the original oppenheim conjecture that oppenheim presented to the national academy of sciences at age 26 , can be viewed .
+fermat left no proof of the conjecture for all " n " , but he did prove the special case " n " = 4 .
+on the other hand , perhaps you 've noticed that none of the counterexamples that you found to your original conjecture were uruk - hai .
+it appears that this assertion was mere conjecture , as no news reports have confirmed such widespread usage .
+a proof to that conjecture seems to follow from the recent work of grigori perelman .
+he is best known for proposing the dinitz conjecture , which became a major theorem .
+thurston elliptization conjecture .
+within a week , karatsuba , then a 23-year - old student , found a divide and conquer algorithm that multiplies two " n "- digit numbers in formula_6 elementary steps , thus disproving the conjecture .
+the general case of the conjecture was finished shortly thereafter by swarup who characterized bowditch 's work as follows : " the most significant advances in this direction were carried out by brian bowditch in a brilliant series of papers ( [ 4]-[7 ] ) .
+the conjecture was first put forth in a letter by warren m. hirsch to george b. dantzig in 1957 .
+this led petros hadjicostas to conjecture the above formula in 2004 , and within a week it had been proven by robin chapman .
+even william langland , the author of the hugely influential " piers plowman " , has been indentified largely through conjecture .
+nash - williams also studied k - edge - connected graphs , hamiltonian cycles in dense graphs , versions of the reconstruction conjecture for infinite graphs , and the theory of quasi - orders .
+it also became clear that " k "- theory could play a role in algebraic cycle theory in algebraic geometry ( gersten 's conjecture ) : here the " higher " " k "- groups become connected with the " higher codimension " phenomena , which are exactly those that are harder to access .
+the conjecture is true for formula_9 and false in general for formula_10 .
+as an interesting conjecture , say 's law may have been culled from ecclesiastes 5:11 — " as goods increase , so do those who consume them .
+artin 's conjecture on primitive roots --
+one of the most interesting aspects of khovanov 's homology is that its exact sequences are formally similar to those arising in the floer homology of 3-manifolds and it has been used to prove results previously only demonstrated using gauge theory , like jacob rasmussen 's new proof of the milnor conjecture ( see below ) .
+lovász conjecture .
+d under claude chevalley in 1966 , and at that time published a counterexample to the original form of a conjecture of emil artin , which suitably modified had just been proved as the ax - kochen theorem .
+while there are no practical applications of the ducci map at present , its connection to the highly applied field of difference equations led to conjecture that a form of the ducci map may also find application in the future .
+in mathematics , the hilbert – pólya conjecture is a possible approach to the riemann hypothesis , by means of spectral theory .
+conjecture 1 .
+some conjecture that maintenance of the policy status quo and hesitance to stray from it perpetuates a political environment that fails to advance society 's welfare .
+with fred diamond , richard taylor and brian conrad in 1999 , he proved the taniyama - shimura conjecture , which previously had only been proved in a special case by andrew wiles and taylor .
+their ancient oracle traditions , handed down for centuries , contained some startling echoes of the old testament that some scholars conjecture a linkage with jewish communities ( or possibly even nestorians ) before their migrations from western china into burma perhaps as early as the twelfth century .
+some biographers have suggested that blake tried to bring a concubine into the marriage bed in accordance with the beliefs of the swedenborgian society , but other scholars have dismissed these theories as conjecture .
+see cramér 's conjecture for more details .
+in combinatorial geometry , the hadwiger conjecture states that any convex body in " n "- dimensional euclidean space can be covered by 2"n " or fewer smaller bodies homothetic with to the original , and that furthermore , the upper bound of 2"n " is necessary iff the body is a parallelpiped .
+but all this has remained conjecture .
+he received his phd in mathematics ( number theory ) in 1969 from the university of california , berkeley under derrick henry lehmer for his thesis entitled " proof of a conjecture of gauss on class number two " .
+ganea 's conjecture is a claim in algebraic topology , now disproved .
+borcherds then used this , and methods from string theory , to prove the monstrous moonshine conjecture by conway and norton , relating the monster group to the coefficients of the q - expansion of the j invariant .
+there is , however , conjecture about that official result with video suggesting rooney touched first but did not activate the timing pad immediately .
+as for the hilbert problems , one of the prize problems ( the poincaré conjecture ) was solved relatively soon after the problems were announced .
+it is also important in riemannian geometry and thus topology : it was adapted by richard hamilton when he defined the ricci flow that was later used to solve the topological poincaré conjecture .
+beginning in 1996 , renker eich parks architects , of st. petersburg , florida , with herchel sheperd , faia , undertook designing the reconstruction of many of the buildings in the mission using archeological and historical evidence to conjecture the architecture of the buildings to how they would originally have been built .
+thurston 's geometrization conjecture , if true , together with current knowledge , would imply a classification of 3-manifolds .
+in fact they only needed the real version of the conjecture , defined below , to prove this result , which would be a positive solution to tarski 's exponential function problem .
+a famous conjecture of g. mackey proposed that a " separable " locally compact group is of type i if and only if the borel space is standard , i.e. is isomorphic ( in the category of borel spaces ) to the underlying borel space of a complete separable metric space .
+kemnitz 's conjecture .
+notably , the smooth case of dimension 4 is the last open case of the generalized poincaré conjecture ; see gluck twists .
+what was said between wat tyler and the king is largely conjecture and little is known of the exact details of the encounter ; however , according to one popular account it would appear that the lord mayor of london , sir william walworth , took exception to wat 's attitude , because the mayor quickly drew his sword , and slashed the unarmed wat tyler to the ground .
+it is named for sergei novikov who originally posed the conjecture in 1965 .
+if basnage 's conjecture is correct , the date of the composition of the " yosippon " may be placed at the end of the tenth century .
+the current lower bound for a counterexample to the conjecture is 101010 , which was determined by kevin ford in 1998 .
+conjecture is widespread that the naming convention began with the first bond novel " casino royale " , in which the name " vesper lynd " is a pun on west berlin , signifying vesper 's divided loyalties as a double agent under soviet control .
+in number theory , szpiro 's conjecture concerns a relationship between the conductor and the discriminant of an elliptic curve .
+the artin conjecture for the cyclic or dihedral case follows easily from hecke 's work .
+given any group homomorphism formula_50 and suppose that " g " ' satisfies the fibered isomorphism conjecture for a family " f " of subgroups .
+whether these phenomena started only after alamelamma 's curse in ad 1610 is a matter of conjecture .
+( doro 's conjecture ) does a moufang loop with trivial nucleus necessarily have normal commutant ?
+in mathematical programming and polyhedral combinatorics , hirsch 's conjecture states that the edge - vertex graph of an " n "- facet polytope in " d "- dimensional euclidean space has diameter no more than " n " − " d " .
+more general results than this theorem exist , such as olson 's theorem , kemnitz 's conjecture ( proved by c. reiher in 2003 ) , and the weighted egz theorem ( proved by d. j. grynkiewicz in 2005 ) .
+he is also known for his weight conjecture , a topic of current research in modular representation theory , and for his work on the local control of fusion , part of local group theory .
+a number of the works that marianna composed are set for solo voice , and her biographers ( godt , wessely ) conjecture that the first singer of these works was their composer .
+this means it is of conjecture to historians , some think that the present city was an establishment named caricus , about the time of the celts .
+lines in saul 's sermon – " thys semely [ assembly ] that here syttyth or stonde " - led scholars to conjecture that a scaffold may have been erected for this and perhaps other stations .
+frankel conjecture .
+tredrea finally made his long - awaited return to competitive football with a 7 goal performance for the port magpies in the sanfl in april , however his inconsistent form since returning to the power was the source of much conjecture and speculation .
+many may be formed by one or more of the basic genesis processes above , creating ambiguous classifications and much argument and conjecture .
+another brother , lambert van eyck is mentioned in burgundian court documents , and there is a conjecture that he too was a painter , and that he may have overseen the closing of jan van eyck 's bruges workshop .
+there is the same sort of conjecture from current scientific ideas and what verne puts forth as the actual truth ( though " five weeks " is far more successful , assuming there is any attempt at accuracy with " journey " ) .
+profinite teichmüller groups , connection with the modular teichmüller topos , conjecture
+if the collatz conjecture is true , the program will always halt no matter what positive starting integer is given to it .
+as far as is known , redfield did not follow up this suggestion , but the proof of macmahon 's conjecture was included in an unpublished manuscript which appears to be a sequel to the paper [ 3 ] .
+other " greens " -- namely rolling hill green -- were built on land intended for the village greens but , for reasons unknown ( some conjecture that the developers ran out of cash and construction workers ) were never built .
+uncle petros and goldbach 's conjecture .
+the rank of " e"(q ) , that is the number of copies of z in " e"(q ) or , equivalently , the number of independent points of infinite order , is called the " rank " of " e " . the birch and swinnerton - dyer conjecture is concerned with determining the rank .
+another generalization is formula_10 for " x " a scheme , and another one to milnor k - theory plays a role in voevodsky 's proof of the milnor conjecture .
+elliott – halberstam conjecture .
+colliot - thélène conjecture .
+the linder hypothesis is a conjecture in economics about international trade patterns .
+in mathematics , the köthe conjecture is a problem in ring theory , open .
+the early history of the name is largely conjecture because of the lack of written evidence .
+notably , differentiable 4-manifolds is the only remaining open case of the generalized poincaré conjecture .
+conrad 's most famous accomplishment is his work on proving the modularity theorem , also known as the taniyama - shimura conjecture .
+the collatz conjecture is : " this process will eventually reach the number 1 , regardless of which positive integer is chosen initially . "
+the conjecture was stated by peter cameron and paul erdős in 1988 .
+the issue of whether nazarene is derived from nazareth has been the subject of much scholarly conjecture since the 19th century
+the second conjecture is that macharius , together with eustathius of antioch , had a good deal to do with the drafting of the nicene creed finally adopted by the first council of nicæa in 325 .
+this posting was the first official confirmation of the project following 18 months of rumour and conjecture .
+hrushovski is well known for his work in model theory , in particular in the branch that has become known as geometric model theory ; and for the applications he has made of it to diophantine geometry , including the mordell - lang conjecture .
+where the max is taken over all " a " coprime to " q " , then the elliott – halberstam conjecture is the assertion that
+as such , the links between ming china and southeast asia in this crucial period must remain in the realm of conjecture .
+the first meeting between the people of pemetic and the europeans is a matter of conjecture .
+but it is only an unfounded conjecture deducted from the words of the song " buonanotte fiorellino " , which seems to make allusion to the tragedy .
+in the lyrics , farmer evokes with humour and irony the year 2000 in which many people get lost in conjecture .
+goldbach 's conjecture .
+hodge conjecture .
+the deligne conjecture in deformation theory is about the operadic structure on hochschild cohomology .
+the baum - connes conjecture formulates a similar statement , for the topological k - theory of reduced group formula_5-algebras formula_6 .
+the conjecture is that for all numbers this process converges to 1 .
+one conjecture involves the mispronunciation of the latin ' dove est ' , meaning ' where is it ? ' , because , apparently , the village was undetectable from a distance .
+sato – tate conjecture .
+george w. bush called her an intelligent woman ; whether this is high praise or not is subject to conjecture .
+the conjecture was first stated by , who had started to study arrangements of spheres as a result of his correspondence with the english mathematician and astronomer thomas harriot in 1606 .
+redmond – sun conjecture .
+the quillen – suslin theorem , also known as serre 's problem or serre 's conjecture , is a theorem in commutative algebra about the relationship between free modules and projective modules over polynomial rings .
+strengthened hanna neumann conjecture .
+the conjecture is that industrial economies have become locked into fossil fuel technologies by past investments and policy decisions , the effects of positive feedback on increasing returns , and the economic growth of energy infrastructure .
+conjecture confirmed .
+hamilton 's program was started in his 1982 paper in which he introduced the ricci flow on a manifold and showed how to use it to prove some special cases of the poincaré conjecture .
+the unique games conjecture states that for every sufficiently small pair of constants ε , δ > 0 there is a constant " k " such that every problem in np has a probabilistically checkable proof over an alphabet of size " k " with completeness 1 - δ , soundness ε and randomness complexity o(log("n " ) ) which is a unique game .
+none of these counterexamples are finitely presented , and for some years it was considered possible that the conjecture held for finitely presented groups .
+it is solely by retrospective conjecture that the first element of the name , " mydil " , has come to be identified as a development of the old english " middel " ( subsequently morphing into " middle " and supposedly a tribute to the settlement 's position between the great christian centres of durham and whitby ) .
+kato 's conjecture .
+though never firmly proven , there is a substantial amount of conjecture that armand lavergne was the son of sir wilfrid laurier .
+curtis conjecture is that the relators of any balanced presentation of the trivial group are equivalent to a set of trivial relators , stating that each generator is the identity element .
+an alternative is to conjecture that , while time travel is possible , it never leads to paradoxes ; this is the novikov self - consistency principle .
+artin 's conjecture on primitive roots .
+this famous conjecture is known as " mlc " ( for " mandelbrot locally connected " ) .
+there are widespread allegations that njonjo has made statements that he is ashamed of being a kikuyu , that he can not shake hands with a luo , and that he can not entrust his safety to an african pilot , and although many such allegations may be conjecture , they have earned him a reputation as the epitome of snobbery in kenya .
+an early significant result of stallings is his 1960 proof of the poincaré conjecture in dimensions greater than six .
+he is also well known ( with k. b. reid ) on a disproof of a conjecture on tournaments by erdos and moser .
+what was conjecture with him , is now a realized fact .
+feit – thompson conjecture .
+he also was known for his conjecture that haydn was not austrian but croatian , a member of the croatian ethnic minority resident in the burgenland region of austria .
+in mathematics , the erdős – burr conjecture is an unsolved problem concerning the ramsey number of sparse graphs .
+he popularized the jacobian conjecture .
+the kelvin conjecture was believed and no counter - examples were known for more than 100 years , until it was disproved by the discovery of the weaire –
+just what these traits are exactly is a matter of great debate and conjecture .
+in may 2006 , a committee of nine mathematicians voted to award perelman a fields medal for his work on the poincaré conjecture .
+conjecture that the thue number of any larger cycle is three ; they verified computationally that the cycles listed above are the only ones of length ≤ 2001 with thue number four .
+that kaehler manifolds with negative first chern classes have kähler – einstein metrics , a result closely related to the calabi conjecture .
+he has formulated a further program of research in the same direction , that includes the littlewood conjecture .
+there is some conjecture that arwystli may have been associated with the region known as rhwng gwy a hafren ( ) .
+in number theory , szemerédi 's theorem refers to the proof of the erdős – turán conjecture .
+in mathematics , the lindelöf hypothesis is a conjecture by finnish mathematician ernst leonard lindelöf ( see ) about the rate of growth of the riemann zeta function on the critical line that is implied by the riemann hypothesis .
+the original conjecture by elliott stated that the elliott invariant classifies simple unital separable nuclear c*-algebras .
+euler 's sum of powers conjecture --
+if a certain statement is believed to be true by mathematicians ( typically because special cases have been confirmed to some degree ) but has neither been proven nor dis - proven , it is called a " conjecture " , as opposed to the ultimate goal : a " theorem " that is proven true .
+dixmier conjecture .
+1984e , " trees and finite satisfiability : proof of a conjecture of john burgess , " " notre dame journal of formal logic 25 " : 193 - 197 .
+conjecture relating to this designation revolves around a prototype 335 cid ( cubic inch displacement ) engine ford developed for the marine industry ; to design a v8 motor eliminating the need for water to pass through the inlet manifold and to delete the need for a separate cam timing cover .
+it is only a question of conjecture then that donald called his brother richard and told him that meier gave the democrats all the hughes information that could destroy him and that o’brien had the proof .
+laumon and ngo then introduced the use of the hitchin fibration , which is an abstract geometric analogue of the hitchin system of mathematical physics , as a further technical tool , leading ultimately to a proof of the " function field " case ; according to known previous reduction steps , this implies the general form of the conjecture .
+in october 2007 , wolfram research awarded alex smith a $ 25,000 prize for verifying the second conjecture , though vaughan pratt disputed the validity of the proof , which later wolfram research and smith himself clarified .
+both questions have remained unsolved ever since , although the weak form of the conjecture appears to be much closer to resolution than the strong one .
+for these groups , there is a conjecture that the required transformations are quite a bit simpler ( in particular , do not involve adding or removing relators ) .
+while studying at colombo university , he becomes obsessed with fermat 's last theorem , a conjecture made by pierre de fermat in 1637 , which he claimed to have proved , but never wrote down .
+much of pogorzelski 's research concerns the goldbach conjecture , the still - unsolved problem of whether every even number can be represented as a sum of two prime numbers .
+there was " no evidence worth considering " that the jaffa riots were planned ; " had that been the case , we hesitate to conjecture what the consequences would have been " .
+the cameron – erdős conjecture says that this counts a constant proportion of the sum - free sets .
+hsiang - lawson 's conjecture .
+notable contributions include the theory of matrix factorizations for maximal cohen - macaulay modules over hypersurface rings , the eisenbud - goto conjecture on degrees of generators of syzygy modules , and the buchsbaum - eisenbud criterion for exactness of a complex .
+the movement of a significant volume of water into the earth 's interior had been proposed as early as strabo , but it was not embraced by werner because it was associated with conjecture .
+a weaker form of littlewood and paley 's conjecture was found by .
+some conjecture that this defeat led to his subsequent retirement having been demoralized by this incident .
+prior to the work of étienne decroux there was no major treatise on the art of mime , and so any recreation of mime as performed prior to the twentieth century is largely conjecture , based on interpretation of diverse sources .
+it is thought that it may not be possible to convert a wormhole into a time machine in this manner ; some analyses using the semiclassical approach to incorporating quantum effects into general relativity indicate that a feedback loop of virtual particles would circulate through the wormhole with ever - increasing intensity , destroying it before any information could be passed through it , in keeping with the chronology protection conjecture .
+there is conjecture that diana , knowing of the existence of the tapes , instigated contact with the journalist andrew morton , resulting in the publication by morton of the book " diana : her true story " , and the start of the " war of the waleses " .
+more recently though , jonas granberg has called into question the very existence of the council of lords , arguing that it is an invention of historians based on very sparse sources and much conjecture based on other governing bodies elsewhere in europe .
+global cooling was a conjecture during the 1970s of imminent cooling of the earth 's surface and atmosphere along with a posited commencement of glaciation .
+scholars conjecture that the red stains on its flanks are not blood but rather the juice from pomegranates , which were a symbol of fertility .
+moreover , it is also a special case of the edge list coloring conjecture saying that the same holds not only for bipartite graphs , but also for any loopless multigraph .
+unfortunately for babut 's thesis , all the significance which he attaches to this council depends upon the date , 417 , ascribed to it by him , on the mere strength of a personal conjecture , in opposition to the most competent historians .
+the conjecture claims that any convex , closed and three times differentiable surface in three dimensional euclidean space admits at least two umbilic points .
+the riemann conjecture is equivalent to the assertion that the hamiltonian is hermitian , or equivalently that formula_6 is real .
+the quarter - final , in paris against france , saw italy play in the infamous all - black strip ( it is open to conjecture as to the reason for this decision although some ideas have been mooted : to intimidate the french ; to antagonise the refugees and anti - fascist patriots in the crowd .
+they posted a paper on the arxiv in may 2006 that filled in the details of perelman 's proof of the geometrization conjecture .
+the kepler conjecture says that this is the best that can be done — no other arrangement of spheres has a higher average density .
+legendre 's conjecture .
+thus , in view of the reduction of the cycle double cover conjecture to snarks , it is of interest to investigate polyhedral embeddings of snarks .
+now , khare and wintenberger are trying to prove leopoldt 's conjecture .

@@ -1,0 +1,255 @@
+they are used to break a natural language sentence down into its constituent parts ( also known as syntactic categories ) namely phrasal categories and lexical categories ( aka parts of speech ) .
+other interesting syntactic properties are ( from a germanic perspective ) negative concord , stylistic inversion , long distance reflexives , verb controlled datives , av- word order in coordinated clauses with deleted subjects etc .
+in some languages , there is no special morphological or syntactic indication of future tense , and future meaning is supplied by the context , for example by the use of temporal adverbs like " later " , " next year " , etc .
+incorporation is a phenomenon by which a word , usually a verb , forms a kind of compound with , for instance , its direct object or adverbial modifier , while retaining its original syntactic function .
+c # features the codice_36 statement as a syntactic shorthand for this common scenario , in which the codice_89 method of the object of the codice_36 is always called .
+in phonetic transcription , e.g. , in the zingarelli dictionary , the words that lead to syntactic doubling have an asterisk appended ; e.g. , the preposition " a " is transcribed as /a*/.
+these primitives are defined by syntactic and semantic rules which describe their structure and meaning respectively .
+it views language processing as a series of competitions between lexical items , phonological forms , and syntactic patterns .
+some writers prefer the term donkey anaphora , since it is the referential aspects and discourse or syntactic context that are of interest to researchers ( see anaphora ) .
+there is ongoing debate over whether there is a semantic significance to the categorization of nouns as animate or inanimate , with scholars arguing for it as either a clearly semantic issue , or a purely syntactic issue , along with a variety of arguments in between .
+the debate largely centred on logical arguments about whether connectionist networks were capable of producing the syntactic structure observed in this sort of reasoning .
+he works in the areas of syntactic theory ( particularly on the syntax of english ) , language learnability and computational modelling of language acquisition and language change .
+in some other languages , such as c and java , codice_26 literally just means codice_20 followed by codice_13 - so no syntactic sugar is needed or provided .
+another common use of violation designs is to combine two kinds of violations in the same sentence and thus make predictions about how different language processes interact with one another ; this type of crossing - violation study has been used extensively to investigate how syntactic and semantic processes interact while people read or hear sentences .
+syntactic pattern recognition or structural pattern recognition is a form of pattern recognition , in which each object can be represented by a variable - cardinality set of symbolic , nominal features .
+aristar received his ba from the university of melbourne in australia , his ma from the university of chicago , and his phd from the university of texas at austin in 1984 ( dissertation : " on the syntactic incorporation of linguistic units " ) .
+such a model would formalize a link between the lambda calculus as a purely syntactic system and the lambda calculus as a notational system for manipulating concrete mathematical functions .
+in opposition , the eran rests upon representations of music - syntactic regularities which exist in a long - term memory format and which are learned during early childhood .
+hollow spheres are used as a lightweight filler in composite materials such as syntactic foam and light weight concrete .
+nouns have several syntactic features that can aid in their identification .
+illustrates the categorical nature of thought and expression in the official circles of the russian empire . exemplifies the syntactic distribution of emphasis .
+it also allows detection of syntactic errors , thus allowing receiving systems to request resending of any message that appears to be garbled or incomplete .
+relating to syntactic islands , he also coined the terms " left - branch condition " , " complex - np constraint " , " coordinate structure constraint " , and " sentential subject constraint " .
+mejjati ’s poetry is characterized by its emphasis on pure arabic diction and original syntactic formation .
+in syntactic analysis , if a word refers to a previous word , the previous word is called the " antecedent " .
+it has a relatively uncluttered visual layout , uses english keywords frequently where other languages use punctuation , and has notably fewer syntactic constructions than other popular structured languages such as c , perl , or php .
+syntactic .
+syntactic pivot .
+syntactic ergativity is also referred to as inter - clausal ergativity , as it typically appears in the relation of two clauses .
+a syntagma is one syntactic or syntagmatic element .
+i have explained elsewhere what i mean by a " polysynthetic " or " syntactic " construction of language ...
+haskell provides the c - style syntactic alias , as well as a declaration that does introduce a new , distinct type , isomorphic to an existing type .
+black e. , abney s. , flickinger d. , gdaniec c. , grishman r. , harrison p. , hindle d. , ingria r. , jelinek f. , klavans j. , liberman m. , marcus m. , reukos s. , santoni b. , strzalkowski t. 1991 a procedure for quantitatively comparing the syntactic coverage of english grammars . darpa speech and natural language workshop
+formal languages are entirely syntactic in nature but may be given semantics that give meaning to language elements .
+little ambiguity exists , however , due to context and syntactic features ; compare e.g. the english word " conduct " in its nominal and verbal forms .
+two are syntactic symbols , the | " linking mark " denotes phrases and the denotes " return / reverse marks " .
+in linguistics , argument control refers to grammatical principles that allow the semantic identity of a verb 's argument to be determined even though this argument is not realized phonologically within the syntactic projection of the verb .
+secondly the many repetitions of words , syntactic structures , more or less complete verses . repetitions that seem to be used to create a kind of obsessive rhythm ( let 's keep in mind that the poem is a " song " ) as to give the text the appearance of an inner monologue .
+until the early 1990s , almost all production - level machine translation technology relied on collections of linguistic rules to analyze the source sentence , and then map the syntactic and semantic structure into the target language .
+russian acts as the linguistic substratum , supplying the syntactic structure into which german words are inserted .
+mutable shared variables and asynchronous channels provide a convenient syntactic sugar for well - known process modelling patterns used in standard csp .
+" syntactic structures " also initiated an interdisciplinary dialog between philosophers of language and linguists .
+from the perspective of syntactic theory , the existence of non - configurational languages bears on the question of whether grammatical functions like subject and object are independent of structure .
+noam chomsky ’s latest contribution to the study of the mind in general and language in particular is his minimalist approach to syntactic representations .
+with the critical difference that the much older language pecok , has undergone late system morphemes and syntactic blends .
+blades and backed pieces from the twin rivers and kalambo falls sites in zambia dated at c. 300 ka indicate a suite of new behaviours and barham believes that syntactic language was one behavioural aspect that allowed these msa people to settle in the tropical forests of the congo .
+reference to syntactic and semantic innovation , is also the approach
+a more conceptual than nominal variation depends on whether one uses terms like ' predicate ' , ' relation ' , and even ' term ' to refer to the formal object proper or else to the allied syntactic items that are used to denote them .
+exception handling syntax varies between programming languages , partly to cover semantic differences but largely to fit into each language 's overall syntactic structure .
+this knowledge is acquired gradually , by traversing the facts of language and the syntactic mechanisms , going from simplest to the most complex .
+the bulk of the differences between c # and vb.net from a technical perspective are syntactic sugar .
+in many languages , such as c and similar environments like c++ , a " keyword " is a reserved word which identifies a syntactic form .
+syntactic structures " was ranked number one on this list , i.e. the most influential .
+it is however necessary to distinguish between interlingual systems using only syntactic methods ( for example the systems developed in the 1970s at the universities of grenoble and texas ) and those based on artificial intelligence ( from 1987 in japan and the research at the universities of southern california and carnegie mellon ) .
+codice_19 , in ada , is simply syntactic sugar for codice_20 followed by codice_13 .
+that is that there are special linguistic syntactic principles which define how the language is formed out of different subunits , such as words out of morphemes , phrases out of words and sentences out of phrases .
+language - sensitive editors may impose syntactic correctness as an absolute requirement ( e.g. , as did mentor ) , or may tolerate syntax errors after issuing a warning ( e.g. , as did the cornell program synthesizer ) .
+preposition stranding is a syntactic construct in which a preposition with an object occurs somewhere other than immediately next to its object .
+however wffs are syntactic entities , and as such must be specified in a formal language without regard to any interpretation of them .
+there are several usages of the gerund depending on its morpho - syntactic features .
+modular programming can be performed even where the programming language lacks explicit syntactic features to support named modules .
+the static semantics defines restrictions on the structure of valid texts that are hard or impossible to express in standard syntactic formalisms .
+the principle of bivalence is related to the excluded middle though the latter is a " syntactic " expression of the language of a logic of the form " p or ¬p " .
+syntactic consequence .
+oz is based on a core language with very few datatypes that can be extended into more practical ones through syntactic sugar .
+the argument is an example of " syntactic ambiguity " .
+list is simply a synonym for struct node * ( aka syntactic sugar ) .
+significantly prettier and easier c++ syntax or specs is an alternative syntactic binding for the semantics of c++ .
+the mainstream xml standards for interoperation of web services specify only syntactic interoperability , not the semantic meaning of messages .
+syntactic complementation .
+all of these signalling codes follow combinatorial ( syntactic ) , context - sensitive ( pragmatic ) and content - specific ( semantic ) rules .
+tuscarora has a case system in which syntactic case is indicated in the verb .
+in order to support its teaching function many of the syntactic features of pop-2 were modified , e.g. replacing function ... end with define ... enddefine and adding a wider variety of looping constructs with closing brackets to match their opening brackets instead of the use of close for all loops in pop-2 .
+although he has never again approached the radical experimentation of " the tennis court oath " poems or " the skaters " and " into the dusk - charged air " from his collection " rivers and mountains , " syntactic and semantic experimentation , linguistic expressiveness , deft , often abrupt shifts of register , and insistent wit remain consistent elements of his work .
+members may be declared public to avoid the effort or syntactic overhead of providing proper accessors for them .
+since , for any given backtracking or syntactic predicate capable parser not every grammar will " need " backtracking or predicate checks , the overhead of storing each rule 's parse results against every offset in the input ( and storing the parse tree if the parsing process does that implicitly ) may actually " slow down " a parser .
+as a guideline for constructing semantic theories , this is generally taken , as in the influential work on the philosophy of language by donald davidson , to mean that every construct of the syntax should be associated by a clause of the t - schema with an operator in the semantics that specifies how the meaning of the whole expression is built from constituents combined by the syntactic rule .
+these rate abnormalities further are manifest in one or more of the following symptoms : ( a ) an excessive number of disfluencies , the majority of which are not typical of people with stuttering ; ( b ) the frequent placement of pauses and use of prosodic patterns that do not conform to syntactic and semantic constraints ; and ( c ) inappropriate ( usually excessive ) degrees of coarticulation among sounds , especially in multisyllabic words .
+she has discovered important empirical examples of cross - linguistic differences in thought and perception that stem from syntactic or lexical differences between languages .
+in propositional logic , a propositional formula is a type of syntactic formula which is well formed and has a truth value .
+the relation of the first member to the last is appositional , attributive or adverbial ; this entails that if the members are dissolved , they will stand in the same case ( meaning that there is no hierarchical syntactic relation between the members ) .
+" fluency " pertains to the extent to which a translation appears to a native speaker of the target language to have originally been written in that language , and conforms to the language 's grammatical , syntactic and idiomatic conventions .
+there is lexical and syntactic uniformity , while the pronunciation changes when moving from po valley to the hills .
+what fascinates the albanian reader is his compelling ability to adorn this elliptical rocky landscape , reminiscent of albanian folk verse , with unusual metaphors , unexpected syntactic structures and subtle rhymes .
+this means that individuals with normal speech and language abilities showed musical tone - deafness as well as individuals with language impairments had sufficient means of musical syntactic abilities .
+the serial verb construction , also known as ( verb ) serialization , is a syntactic phenomenon common to many african , asian and guinean languages .
+syntactic quotient .
+ayacucho quechua has a standard sov word order , but this can be altered , since the syntactic relationship between nouns is made clear by the overt case markers .
+in the sentences the syntactic relationships between full words and clitics are indicated by the word order and by the inflectional and derivational suffixes .
+classes ii , iii , and iv occur most frequently and are considered the core of syntactic inflection .
+prominent historian of linguistics r. h. robins wrote in 1967 that the publication of chomsky 's " syntactic structures " was " probably the most radical and important change in direction in descriptive linguistics and in linguistic theory that has taken place in recent years " .
+it is enabled by the fact that the syntactic relations are indicated by inflection forms ( declension and conjugation ) in czech .
+lexemes are formed according to morpho - syntactic rules and express sememes .
+on the other hand , other models suggest that the p600 may not reflect these processes in particular , but just the amount of time and effort in general it takes to build up coherent structure in a sentence , or the general processes of creating or destroying syntactic structure ( not specifically because of repair ) .
+actually , in this " internet " , the meaning of an event will not necessary be based on , either a deterministic or syntactic model but will be based on the context of the event itself : this will also be a semantic web .
+syntactic consequence does not depend on any interpretation of the formal system .
+in computational complexity theory , pls , which stands for polynomial local search , is a syntactic subclass of tfnp .
+from this area of research there has been evidence for the dissociation between musical and linguistic syntactic abilities .
+the boundary between conversion and " functional shift " ( the extension of an existing word to take on a new syntactic function ) is not well - defined .
+the verb agrees with the syntactic subject , but the subject is usually placed after the verb instead of before , as usual .
+in syntax , a subject within linguistics , the subcategorization frame of a word is defined to be the number and types of syntactic arguments that it co - occurs with ( i. e. the number and kinds of other words that it selects when appearing in a sentence ) .
+syntactic pattern recognition can be used instead of statistical pattern recognition if there is clear structure in the patterns .
+language change is the phenomenon whereby phonetic , morphological , semantic , syntactic , and other features of language vary over time .
+syntactic saccharin .
+however , this makes use of assertions , which is a subtly different concept in perl 6 rules but more substantially different in parsing theory , making this a semantic rather than syntactic predicate .
+the right quotient of a subset formula_34 of a monoid formula_35 defines an equivalence relation , called the right syntactic relation of " s " .
+this egocentric theory proposed that people 's estimates of another 's knowledge are biased towards their own and that early syntactic choices may be made without regard to the addressees ' needs , while beliefs about the addressees knowledge did not affect utterance choices until later on , usually in the form of repairs .
+john searle argued for this position with the chinese room thought experiment , according to which no syntactic operations that occurred in a computer would provide it with semantic content .
+the data of introspection has been crucial to syntactic research because introspection provides evidence , not only of what is possible in a given language but also of what is not possible .
+syntactic simplification = = = .
+these are words or clitics which are positioned before or after a noun or noun phrase and which modify its meaning or syntactic function in some manner .
+although nuclear mp was defined using syntactic data , it finds moderate support from lexical data .
+microballoons give syntactic foam its light weight , low thermal conductivity , and a resistance to compressive stress that far exceeds that of other foams .
+verbal nouns are uncontroversially nouns , having only minor syntactic differences to distinguish them from pure nouns like ' mountain ' .
+a number of jokes depend on the garden path effect , often combined with more usual syntactic ambiguity .
+one syntactic difference from c is automatic semicolon insertion , in which the semicolons that terminate statements can be omitted .
+formal languages are entirely syntactic in nature but may be given semantics that give meaning to the elements of the language .
+indonesian can be considered slightly synthetic ( and thus not isolating ) and , in terms of the expression of syntactic information , mostly analytic .
+the lexile analyzer , a software program specially designed to evaluate reading demand , analyzes the text ’s semantic ( word frequency ) and syntactic ( sentence length ) characteristics and assigns it a lexile measure .
+she also found that the speech of upper middle class mothers differs " in its functional , discourse , and lexico - syntactic properties , " from those in the working class .
+syntactic features .
+grammatical cases : their primary function is syntactic , the semantic function is secondary .
+but french language is now unrecognizable , estranged by an extreme grammatical , syntactic and lexical creativity .
+however , the ergative is morphological ( marked using a case ) only , not syntactic , so that , in addition , these may be passivized in a way resembling english .
+radical construction grammar rejects the notion of syntactic relations altogether and replaces them with semantic relations .
+for example , my saying to you " do n't go into the water " ( a locutionary act with distinct phonetic , syntactic and semantic features ) counts as warning you not to go into the water ( an illocutionary act ) , and if you heed my warning i have thereby succeeded in persuading you not to go into the water ( a perlocutionary act ) .
+ergativity can be found in both morphological and syntactic behavior .
+additionally , the differences between all three groups are largely phonological and lexical , rather than syntactic .
+typeless languages in the syntactic tradition of c ( e.g. perl or javascript ) do not , in general , provide enumerations .
+research eventually established that the two variables commonly used in readability formulas – a semantic ( meaning ) measure such as difficulty of vocabulary and a syntactic ( sentence structure ) measure such as average sentence length — are the best predictors of textual difficulty .
+most one - dimensional programming languages require some syntactic distinction between comment text and source code — although that distinction may be as trivial as brainfuck 's rule that any character not in the set codice_33 is a comment .
+his research is mainly concerned with the theory of syntax and language acquisition , and he has made a notable contribution to the theory of locality , parametric comparative syntax and the cartography of syntactic structures .
+in many formal theories of language , lexemes have subcategorization frames to account for the number and types of complements they occur with in sentences and other syntactic structures .
+the syntactic function of concrete cases is secondary .
+whole language practitioners teach to develop a knowledge of language including the graphophonic , syntactic , semantic and pragmatic aspects of language .
+theora is a superset of vp3 and vp3 streams ( with some minor syntactic modifications ) can be converted into theora streams without recompression ( but not vice versa ) .
+the variation may be conditioned by the phonological , morphological , and/or syntactic environment in which the morpheme finds itself .
+in all his compositions strict attention is paid to the hebrew text ; and a scrupulous adherence to syntactic construction is observed throughout .
+however , in classical rhetoric anacoluthon was used " both " for the logical error of " non sequitur " and for the syntactic effect or error of changing an expected following or completion to a new or improper one .
+such composite materials are called syntactic foam .
+this sprachbund is defined by an array of syntactic , lexical and phonological traits as well as a number of ethnolinguistic traits found in the languages of mesoamerica , which belong to a number of linguistic families , such as uto - aztecan , mayan , totonacan , oto - manguean and mixe - zoquean languages as well as some language isolates and unclassified languages known to the region .
+this is a question of semantics , but it is also influenced by syntactic factors ( such as collocation effects ) and pragmatic factors ( such as context ) .
+in mathematics and computer science , the syntactic monoid " m"("l " ) of a formal language " l " is the smallest monoid that recognizes the language " l " .
+some cognitive semantic frameworks , such as that developed by talmy , take into account syntactic structures as well .
+rather than a syntactic linguistic prescription ( as some have , rather loosely , claimed ) .
+the pieces of words that best match the syntactic structure are then inserted into the sentence .
+a symbol system is a set of symbols and syntactic rules for manipulating them on the basis of their shapes ( not their meanings ) .
+the verification of an overlap would support the thesis , that syntactic operations ( musical as well as linguistic ) are modular . “
+ross 's 1967 mit dissertation is a landmark in syntactic theory and documents in great detail ross 's discovery of islands .
+montague grammar uses an ad hoc syntactic system for english that is based on the principles of categorial grammar .
+formally , this is plural ( " my lords " ) , but the plural is usually construed as a respectful , and not a syntactic plural .
+for example , a semantic argument structure in cs code which specifies an action with an agent , the doer , and a patient ( what is acted upon ) as in " a boy hit the ball " , is matched up with a syntactic argument structure with the requisite verb and noun phrases ( " determiner phrases " ) , each in the appropriate case , one in nominative case and the other in objective case .
+with terms , identities and quasi - identities , even universal algebra has some limited syntactic tools ; first - order logic is the result of making quantification explicit and adding negation into the picture .
+examinations of text readability provide information in comparing appropriateness of text content , both semantic and syntactic , for specific audiences or grade levels .
+macros were tentatively admitted into the abstraction movement by the late 1980s ( perhaps due to the advent of hygienic macros ) , by being granted the pseudonym " syntactic abstractions " .
+so , the first layer is that of ( syntactic ) translation between languages in the same family ( or between families ) of languages .
+in syntactic analysis , a constituent is a word or a group of words that functions as a single unit within a hierarchical structure .
+enjambment or enjambement is the breaking of a syntactic unit ( a phrase , clause , or sentence ) by the end of a line or between two verses .
+all syntactic elements , including variables and basic operators , appear as such procedures .
+phrases typically consist of two lexemes , with one acting as the " head - word , " defining the function , and the other performing a syntactic operation .
+each of these sublanguages is a syntactic extension of its simpler predecessor .
+the right syntactic equivalence is the equivalence relation
+the syntactic formulation of a pointcut varies from approach to approach , but a pointcut can often be composed out of other pointcuts using the boolean operators and , or and not .
+several competing accounts for the role of transfer and universal grammar persist in sla ; the minimal trees hypothesis remains particularly controversial , and has been strongly critiqued in syntactic research on both empirical and conceptual grounds : some researchers argue that linguistic behaviour does not follow the model , and others claim that it is theoretically misconceived .
+nondistinctive secondary and lesser stresses occur phonetically and are conditioned by phonetic and syntactic environments .
+from a syntactic point of view , araki contrasts intransitive with transitive verbs .
+although these pseudo - tlds look like top - level domains , and serve the same syntactic function in creating names for network endpoints , they have no meaning in the global domain name system and are ( or were ) used only for specialist purposes ; typically for addressing machines that were not reachable via the internet protocol for use in services such as e - mail and usenet via uucp .
+theta roles are about the number of arguments that a verb requires ( which is a purely syntactic notion ) .
+among the enhancements are a css selector driven engine for retrieving dom elements , a greater emphasis on granularity of modules , a smaller seed file that loads other modules when necessary , and a variety of syntactic changes intended to make writing code faster and easier .
+note that phenomena relating to bilingualism are likely to be encountered among bilinguals whose primary language is not spanish or in isolated rural regions where the syntactic influence of indigenous languages has been important historically .
+thus it is useful for pattern - matching , semantic extraction , and many other operations over syntactic trees such as those produced by natural language parsers .
+differences from southwestern mandarin and xiang are many , and syntactic reversal phenomenal are frequent .
+american linguist paul postal wrote in 1964 that most of the " syntactic conceptions prevalent in the united states " were " versions of the theory of phrase structure grammars in the sense of chomsky " .
+this feature is not just a convenient syntactic sugar for shorter local variable declarations , but it is also required for the declaration of variables of anonymous types .
+first , as todd admits , pidgins , by " shedding linguistic redundancies " such as syntactic complexity , have removed the features that allow linguists to identify relatedness .
+some patterns are only very rarely productive , others may be used by a typical native speaker several times a year or month , whereas others ( especially syntactic processes ) may be used productively dozens or hundreds of times in a typical day .
+such an essentially semantic approach differs from the more traditional syntactic description of normalisation as a reductions in a term rewrite system where β-reductions are allowed deep inside λ-terms .
+it preserves grammatical patterns that have mostly vanished from the colloquial varieties and , as its main application is writing , it features complex syntactic patterns that are not easy to handle when used in speech .
+this can be compared with the hierarchical syntactic structure of a sentence in which there are structural elements which are necessary to built up a sentence like the noun phrase and the verb phrase but looking at a deeper level the structural elements also contain additional or ornamental constituents .
+for example , many consistency results in set theory that are obtained by forcing can be recast as syntactic proofs that can be formalized in pra .
+the way in which ethnic groups interact with one another and respond to modern situations shapes their distinct usage of language , giving rise to a regional dialects defined by unique phonological , syntactic and lexical variation .
+e.g. text - to - speech synthesis may use a syntactic parser on its input text and speech recognition 's output may be used by e.g. information extraction techniques .
+in conversations , angela tends to use overly complex syntactic constructions , such as " thank you for that useless information that is totally useless . "
+the inflectional categories used to group word forms into paradigms can not be chosen arbitrarily ; they must be categories that are relevant to stating the syntactic rules of the language .
+being an expression is a syntactic concept – the meaning of the variables is irrelevant , but different fields have different notions of validity .
+its more nimble design was made possible in part by the development of syntactic foam , which is buoyant and yet strong enough to serve as a structural material at great depths .
+syntactic pre - processors .
+thus can he adapt the grammatical rules and control little by little the internal logic of the syntactic system .
+by combining adjunctions and certain deformations , the theory of syntactic features developed earlier may remedy and , at the same time , eliminate the system of base rules exclusive of the lexicon .
+some recent work has challenged this model , suggesting for example that there is no lemma stage , and that syntactic information is retrieved in the semantic and phonological stages .
+some programmers consider required type declarations to be syntactic salt .
+in 1996 , the sparkle campaign compared syntactic parsers in four different languages ( english , french , german and italian ) .
+syntactic consequence in a first order theory .
+in place of the verb 's subject , the construction instead may include a syntactic placeholder , also called a " dummy " .
+many formal languages used in mathematics , logic , and theoretical computer science are defined in solely syntactic terms , and as such do not have any meaning until they are given some interpretation .
+if two or more systems are capable of communicating and exchanging data , they are exhibiting syntactic interoperability . specified data formats , communication protocols and
+this process involves such processes as the generation of a syntactic frame , and phonological encoding which specifies the phonetic form of the intended utterance .
+the syntactic function of words is determined not only by their position at the beginning , middle or end of a sentence , but also by their definiteness , level of animation and potency , and a logical analysis of what role each word can play in the sentence .
+the aeom provided a syntactic layer under which any application could publish its internal objects , allowing those objects to be manipulated in a standardized way .
+late in his life he published " analytic syntax " ( 1937 ) , in which he presents his views on syntactic structure using an idiosyncratic shorthand notation .
+in practice this homophony seldom , if ever , causes confusion , as they usually appear in distinct syntactic contexts .
+kreisel ( 1976 ) states that although gödel 's results imply that no finitistic syntactic consistency proof can be obtained , semantic ( in particular , second - order ) arguments can be used to give convincing consistency proofs .
+for example , alan perlis once quipped , in a reference to bracket - delimited languages , that " syntactic sugar causes cancer of the semicolon " ( see epigrams on programming ) .
+when a reader can reasonably interpret the same sentence as having more than one possible structure , the text is equivocal and meets the definition of syntactic ambiguity .
+part of speech as the means of incorporating into words themselves certain syntactic
+the prime is also used in x - bar theory instead of a bar to indicate bar - levels in syntactic structures , because the bar is difficult to typeset .
+monads are defined as ordinary datatypes , but haskell provides some syntactic sugar for their use .
+in joy , the meaning function is a homomorphism from the syntactic monoid onto the semantic monoid .
+in linguistics , word order typology refers to the study of the order of the syntactic constituents of a language , and how different languages can employ different orders .
+syntactic foam .
+kate completed her phd in 1983 on syntactic change in medieval dutch .
+overview of topics in " syntactic structures " .
+this view challenges the " innate " view as scientifically unfalsifiable ; that is to say , it ca n't be tested ; the fact that a particular , conceivable syntactic structure does not exist in any of the world 's finite repertoire of languages is an interesting observation , but it is not proof of a genetic constraint on possible forms , nor does it prove that such forms could n't exist or could n't be learned .
+specific topics genesee has investigated in his research include language representation ( lexical and syntactic ) in early stages of bilingual acquisition , transfer in bilingual development , structural and functional characteristics of child bilingual code - mixing , and communication skills in young bilingual children .
+after the publication of chomsky 's " syntactic structures " , the nature of linguistic research began to change , especially at mit and elsewhere in the linguistic community where tgg had a favorable reception .
+culicover and jackendoff propose that the syntactic , semantic and phonological components of the language faculty are all " generative " ; that is , there is no asymmetric dependence between any of these components .
+karaim syntax exhibits multiple instances of code - copying , whereby karaim merges with syntactic properties of other languages in its area due to strong language contact situations ( csató 2001 ) .
+it allows the easy treatment of multivariate uncertainties with matlabs syntactic sugar for vector and matrix calculations .
+thus , searle attacks the idea that thought can be equated with following a set of syntactic rules ; that is , functionalism is an insufficient theory of the mind .
+aspects of syntactic theory and formal logic figure heavily in some of his writings , and a realist ( rather than a pragmatist ) position on truth runs through them , although he appears to be agnostic about the explanatory value of appeals to individual facts in philosophical talk about truth .
+kornai and pullum ( 1990 ) and miller ( 1994 ) offer a refined notion of strong equivalence that allows for isomorphic relationships between the syntactic analyses given by different formalisms .
+for example , syntactic analysis creation takes place without input from semantic analysis or context - dependent information , which are processed separately .
+variable - binding mechanisms occur in different contexts in mathematics , logic and computer science but in all cases they are purely syntactic properties of expressions and variables in them .
+in his 1964 presidential address to the linguistic society of america , american linguist charles hockett considered " syntactic structures " one of " only four major breakthroughs in modern linguistics " , alongside sir william jones 's address to the asiatic society in 1786 , karl verner 's " eine ausnahme der ersten lautvershiebung " in 1875 and ferdinand de saussure 's " cours de linguistique générale " in 1916 .
+another extension is syntactic saccharin , meaning gratuitous syntax which does not actually make programming easier .
+syntactic inversion .
+in contrast to the syntactic web and semantic web the pragmatic web is not only about form or meaning of information , but about social interaction which brings about e.g. understanding or commitments .
+however , for various reasons , several lexical , syntactic and semantic ambiguities remain .
+this is similar in some respects to the view of the syntax - semantics interface assumed within categorial grammar , except that abstract syntactic relations like " subject " and " object " rather than relations such as " to - the - left - of " are involved in meaningful constructor specifications .
+tesnière 's model is based on the " stemma " , a graphical representation of the grammatical dependencies between the words in a syntactic construction .
+using similar methods , in 1992 , lee osterhout first reported the p600 response to syntactic anomalies .
+a nonterminal symbol represents a syntactic category , which defines one or more valid phrasal or sentence structure consisted of an n - element subset .
+for example , 19th century german academic prose , and john milton 's " paradise lost " poetry in english are notably syntactic .
+implicational hierarchies also play a role in syntactic phenomena .
+accordingly , syntactic , semantic , and pragmatic aspects of biocommunication processes are distinguished .
+syntactic feature is one of the most important technical innovations of the aspects model .
+chomsky concludes that " grammar is autonomous and independent of meaning , and that probabilistic models give no particular insight into some of the basic problems of syntactic structure . "
+the syntactic notion of mental representations goes hand in hand with the idea that mental processes are calculations which act only on the " form " of the symbols which they elaborate .
+these works , based on modern fields and theories ( structuralist linguistics and phonology , comparative - historical linguistics and lexicology , transformational grammar and areal linguistics ) revised or discarded older " language histories " , and restored the continuity of the croatian language by definitely reintegrating and asserting specific croatian characteristics ( phonetic , morphological , syntactic , lexical , etc . ) that had been constantly suppressed in both yugoslavian states and finally gave modern linguistic description and prescription to the croatian language .
+of those , 11 are phonetic , five morphologic , one syntactic , and two lexical .
+the syntactic type of a lexical item can be either a primitive type , such as " s " , " n " , or " np " , or complex , such as " s\np " , or " np / n " .
+syntactic consequence within a formal system .
+van valin also departs from chomskyan syntactic theory by denying the universality of the verb phrase .
+in linguistics , arc pair grammar is a syntactic theory developed by david e. johnson and paul postal which is a formalized continuation of relational grammar developed by david m. perlmutter and postal .
+the language itself is based entirely on ( vulgar ) latin and polish : all phonological , morphological , and syntactic changes that made polish develop from common slavic are applied to vulgar latin .
+chomsky summarizes his proposed structure of a grammar as follows : " a grammar contains a syntactic component , a semantic component and a phonological component ...
+wh - movement ( or wh - fronting or wh - extraction or a'-movement ) is a syntactic phenomenon found in many languages around the world , in which interrogative words ( sometimes called " wh - words " ) or phrases show a special word order .
+unlike cfgs , categorial grammars are lexicalized , meaning that only a small number of ( mostly language - independent ) rules are employed , and all other syntactic phenomena derive from the lexical entries of specific words .
+wordnet can be considered to be such a development , as can the newer efforts at describing syntactic and semantic information such as the framenet work of fillmore .
+there are some languages that are not pro - drop but do not require this syntactic gap to be filled .
+in neither case is " singular " " they " unambiguously a semantic or morpho - syntactic singular .
+modula-2 was designed to be broadly similar to pascal , with some elements and syntactic ambiguities removed and the important addition of the " module " concept , and direct language support for multiprogramming .
+the required syntactic condition α could be any valid context - free grammar fragment .
+scott domains are closely related to scott information systems , which constitute a " syntactic " representation of scott domains .
+under the gb analysis , the bold printing used in the above examples , including an accusative noun phrase ( np ) and an infinitive verb phrase ( vp ) , forms a syntactic constituent , classified inflection phrase ( ip ) .

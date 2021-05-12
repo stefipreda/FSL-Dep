@@ -1,0 +1,255 @@
+the only way to rectify our reasonings is to make them as tangible as those of the mathematicians , so that we can find our error at a glance , and when there are disputes among persons , we can simply say : let us calculate [ " calculemus " ] , without further ado , to see who is right .
+the carbonzero programme website has simple calculators for households , travel , schools and small businesses to calculate their carbon footprints .
+x - parameters help solve this cascading problem : if you measure the x - parameters of a set of components individually , you can calculate the x - parameters ( and hence the non - linear transfer function ) of any cascade made from them .
+the sonar park sensors , known as " intuitive parking assist " or " lexus park assist " , includes multiple sensors on the forward and rear bumpers which detect obstacles , allowing the vehicle to sound warnings and calculate optimum steering angles during regular parking .
+because all of the mold and material factors are the same for n. if a cylinder is chosen for the geometry of the riser and the height to diameter ratio is locked , then the equation can be solved for a diameter , which makes this method a simple way to calculate the minimum size for a riser .
+the plastic section modulus is used to calculate the plastic moment , mp , or full capacity of a cross - sections .
+as mandated by the executive order , a university of california team , led by daniel sperling ( uc davis ) and the late alexander e. farrell ( uc berkeley ) , developed two reports that established the technical feasibility of an lcfs , proposed the methodology to calculate the full life cycle ghg emissions from all fuels sold in the state , identified technical and policy issues , and provided a number of specific recommendations , thus providing an initial framework for the development of carb 's lcfs .
+these creatures had earlier built a supercomputer named deep thought , to calculate the answer to the ultimate question of life , the universe , and everything .
+it can be used in this way to calculate the amount of oxygen in air .
+the amount of current needed to generate i2 in order to reach the end point can then be used to calculate the amount of water in the original sample .
+a linear multistep method uses a linear combination of formula_9 and formula_10 to calculate the value of formula_11 for the desired current step .
+these phenomena often make it difficult to calculate what the real net wage income is , and what the real net profit income is ; there may be a very significant difference between gross income and disposable income .
+it is extremely difficult to calculate the counterfactual ; that is , what would have happened had the fund not intervened .
+- a ' heliotropion ' , or ' shadow - chaser ' : the first example of this instrument , which was a more advanced kind of gnomon used to determine midday and to calculate the length of the year and the geographical latitude , was built by pherecydes in samos .
+if formula_2 , formula_3 , and formula_4 are known , but formula_3 is not adjustable , the voltage difference across or current flow through the meter can be used to calculate the value of formula_1 , using kirchhoff 's circuit laws ( also known as kirchhoff 's rules ) . this setup is frequently used in strain gauge and resistance thermometer measurements , as it is usually faster to read a voltage level off a meter than to adjust a resistance to zero the voltage .
+" the fsa have fined kyte group ltd £ 250,000 for systems and controls breaches . kyte failed properly to calculate , reconcile or transfer client money into segregated accounts in accordance with fsa rules .
+in either case , providing information through a formal notation allows machines to calculate new facts ( e.g. relations between pages ) from the facts represented in the knowledge model .
+by filtering and weighing this precipitate it is possible to calculate the number of iodine atoms and hence methoxy groups .
+the authors of this hypothesis , led by robert caldwell of dartmouth college , calculate the time from now to the end of the universe as we know it for this form of energy to be
+he deemed that the deviation was caused by the presence of an undiscovered island whose coordinates he was able to calculate with precision thanks to the availability of the successive positions of the " st. anna " during its drift .
+the students’ final grades in a beginning language course were used to calculate the validity of the plab and provide statistical norms and expectancy tables .
+while comparatively easy to calculate , standard deviation is not an ideal risk measure since it penalizes profits as well as losses .
+however , a pneumatic tourniquet that uses an automated plethysmographic system to calculate lop in approximately 30 seconds at the beginning of surgery has recently been developed .
+it is used in marketing as a benchmark to calculate the relative cost of an advertising campaign or an ad message in a given medium .
+the retirement estimator is an immediate and personalized financial planning tool that lets workers calculate how much they might expect to receive in social security benefits when they retire .
+propensity score matching ( psm ) uses a statistical model to calculate the probability of participating on the basis of a set of observable characteristics , and matches participants and non - participants with similar probability scores . regression discontinuity design exploits a decision rule as to who does and does not get the intervention to compare outcomes for those just either side of this cut - off .
+modern computer based ecg machines can easily calculate a corrected qt , but this correction may not aid in the detection of patients at increased risk of arrhythmia .
+now let us calculate the scalar product formula_62 .
+a rating for the computer based on public games played against professionals is not available because there are too few games to calculate a rating .
+in 1949 a computer was used to calculate π to 2000 places , presenting one of the earliest opportunities for a difficult challenge .
+the " ncr " function on most scientific calculators can be used to calculate hand frequencies ; entering with and , for example , yields formula_2 as above .
+for general diatomic and polyatomic molecular systems , the exchange energy is thus very elusive to calculate at large inter - nuclear distances but is nonetheless needed for long - range interactions including studies related to magnetism and charge exchange effects .
+for this reason , a sophie germain prime " q " is sometimes used to calculate " p=2q+1 " , called a safe prime , since the order of " g " is then only divisible by 2 and " q " .
+according to the epr argument , we have measured position " y " for both particles ( the one passing through a and the one passing through b ) with the precision formula_1 , and not just for particle passing through slit a. this is because from the initial entangled epr state we can calculate the position of the particle 2 , once the position of particle 1 is known , with approximately the same precision .
+so einstein was the first to calculate the correct value for light bending .
+the antihythera mechanism is an ancient mechanical calculator ( sometimes described as the first mechanical computer ) designed to calculate astronomical positions which has been dated to about 150 - 100 bc .
+there are certain rules on how to determine the weight fractions and how to calculate them .
+the purpose of the mission was to train international student volunteer observers to visually track this optically reflective spacecraft during morning and evening twilight intervals for several months , calculate its orbit from shared observations , and derive atmospheric density from drag - induced changes in its orbit over time .
+in 1672 giovanni cassini and jean richer determined the distance to mars and were thereby able to calculate the distance to the sun .
+while german engineers did calculate that the five bodies would not weaken the fortification considerably , the bodies were actually removed before the construction continued .
+however , in practice , gpk adopters often calculate a standard per - unit - rate for fixed product / service costs and a separate per - unit - rate for proportional product / service costs .
+while many retailers sell be@rbricks in blind boxes , each for the same price , other retailers calculate the frequency of the figures , and sell them at prices that vary accordingly ; in this instance , the " basic " figure would be the least expensive , as it occurs most often in a case , and the second of the two " artist " figures would be the most expensive , as it occurs least often in a case .
+this shared service enables users to load , calculate , and display excel 2007 workbooks on microsoft office sharepoint server 2007 .
+flight controllers at mission control in houston would calculate what attitude the spacecraft had to be at for that burn and would devise a refsmmat that matched it in some way .
+introduced a technique to calculate computer generated holograms of 3d objects .
+however , macrotexture can not be used to calculate a relevant friction number , since also microtexture affects the friction .
+in theoretical physics , it is often necessary to calculate the behavior of a particle or an object in an external field .
+this exchange rate was used by the government to calculate the value of foreign trade , but foreign currency was not available to be bought and sold by private individuals .
+electronics in these thimbles then calculate the movement of the fingers and send the information to the computer .
+the use of people counting systems in the retail environment is necessary to calculate the conversion rate , i.e. the percentage of a store 's visitors that makes purchases .
+the usals system will then calculate visible satellites position within the offset .
+neither the doctor nor romana herself ( who is a little relieved to have avoided home ) can calculate why the tardis scanner shows images of their planet when in fact they have arrived in a verdant forest .
+in case of electrical instrument failure , which include turn coordinator or turn - slip indicator , the following formula will help to determine turn bank at which the turn will be made at standard rate : in order to calculate bank angle for a standard rate turn knowledge of air speed must be known .
+john d'aleo and other climate skeptics have also suggested that the noaa and giss temperature records show a warming trend due to the reduction of the number of weather stations used to calculate the average world temperature .
+this allows us to calculate curvature of orbits in space directly and compare the results with dynamical forces .
+a navigator can use a lunar distance ( also called a lunar ) and a nautical almanac to calculate greenwich time .
+components calculate in real time .
+ackermann proved that " a " is a recursive function , a function that a computer with unbounded memory can calculate , but it is not a primitive recursive function , a class of functions including almost all familiar functions such as addition and factorial .
+stms services automatically calculate taxes for individual sales transactions .
+the following approach extends this equation to calculate the probability that one or more other players has a higher pocket pair .
+a genetic study in 2006 by pakendorf et al . used kayser ’s mutation rate of 2.8 per 1000 to calculate a date of the yakut expansion consistent with historical and archeological data .
+a seismic scale is used to calculate and compare the severity of earthquakes .
+theoretically , it is easy to calculate ecological efficiency using the mathematical relationships above .
+as long as a ray does not intersect another object , the light source is used to calculate the direct illumination .
+the area element may be used to calculate the area of the sphere .
+in this example , we will use the raw data in the table below to calculate the correlation between the iq of a person with the number of hours spent in front of tv per week .
+on november 24 , 2008 the internal revenue service issued the 2009 optional standard mileage rates used to calculate the deductible costs of operating an automobile for business , charitable , medical or moving purposes .
+soundexchange also recently offered alternative rates and terms to certain eligible small webcasters , that allows them to calculate their royalties as a percentage of their revenue or expenses , instead of at a per performance rate .
+because of the ability to calculate the exact ( or nearly so ) amount of fluid needed for a given project , film thickness variations on the finished product can be kept within + /-
+the absolute number of articles submitted and each submitted article 's rating were used to calculate a company 's overall rating .
+they calculate black carbon ’s combined climate forcing at 1.0–1.2 w / m2 , which “ is as much as 55% of the co2 forcing and is larger than the forcing due to the other [ ghgs ] such as ch4 , cfcs , n2o or tropospheric ozone .
+the basis of her idea was to use the cost of a nutritionally adequate diet as the basis for a cost - of - living estimate and to calculate a cost of living for families of different sizes and composition .
+in turn , the target price may be used to calculate the target cost for a product .
+the number of kurds currently in afghanistan is difficult to calculate , though one figure notes that there are approximately 200,000 .
+one can use the experimentally measured specific activity to calculate the half - life of an element .
+from which we calculate the log - likelihood function
+this is a formula which has been used to calculate the physical carrying capacity .
+what he meant to my career is impossible to calculate , but i know many of the things i achieved would n't have been possible without him . "
+in the scripts for , the first programmer asks deep thought if it is not " a greater analyst than the googleplex star thinker in the seventh galaxy of light and ingenuity which can calculate the trajectory of every single dust particle throughout a five - week aldebaran sand blizzard ? " , which the great computer dismisses because he has already " contemplated the very vectors of the atoms in the big bang itself " .
+because of the subtraction that occurs in the quadratic equation , it does not constitute a stable algorithm to calculate the two roots .
+the soft issues are more difficult to calculate and control .
+although many rent owners will try to make a private settlement with the rent payer , the act provides a formula which enables government office for the north west ( gonw ) to calculate the redemption figure that the rent payer has to pay the rent owner in order to redeem their rentcharge .
+when working to base 2 , it is trivial to calculate : if the value in the accumulator is even , the multiple is 0 ( nothing needs to be added ) ; if the value in the accumulator is odd , the multiple is 1 ( " r " needs to be added ) .
+it then could calculate an offset angle and change of range between the target 's present position ( los ) and future position at the end of the projectile 's time of flight .
+in computing , goal seeking is the ability to calculate backward to obtain an input that would result in a given output .
+an early atsb report suggests that the takeoff weight , used to calculate take - off power , was underestimated by 100 tonnes .
+however , whereas western christians follow the gregorian calendar in their calculations , the orthodox calculate the fixed date of 21 march according to the julian calendar , and observe the additional rule that easter may not precede or coincide with the first day of the jewish passover ( see computus for further details ) .
+the launch of the euro gave the citizens of the border region the possibility to trade behind the border without the need of advanced arithmetic operations to calculate the price , when one german marks was about three french francs and about twenty luxembourgian francs or belgian francs .
+the martians feel like they got ripped off , but eventually calculate that they received an excellent deal after fry and leela both point out that the ‘ large bead’ the martians received was in fact a very large diamond worth a fortune .
+we observe , we calculate , we inquire , we look for a link between what we already know and what we 're about to learn .
+householder reflections can be used to calculate qr decompositions by reflecting first one column of a matrix onto a multiple of a standard basis vector , calculating the transformation matrix , multiplying it with the original matrix and then recursing down the ( " i " , " i " ) minors of that product .
+only a subset of total costs are subtracted from gross output to calculate the gos .
+once a user defined flight route has been entered , entering additional information for each route leg such as true airspeed , winds aloft and local magnetic variation allows notam check to calculate distance , wind correction angle and estimated time of arrival for each leg .
+furthermore , the volume used to calculate the dimensional weight may not be absolutely representative of the true volume of the package .
+indicate only systems typically utilize a single gps receiver mounted on the machine itself and can use an angle sensor to calculate the machine 's slope .
+because it is easy to calculate , ops has been used with increased frequency in recent years as a shorthand form to evaluate contributions as a batter .
+one can calculate the amount of agcl that will dissolve in 1 liter of water , some algebra is required .
+an abstract version of the universal turing machine is the universal function , a computable function which can be used to calculate any other computable function .
+due to this , the stage of the insect ’s development on a corpse is used to calculate a minimum period of colonization , so that it can used to aid in determining the time of death of the victim .
+alternatively , a simpler solution would be to consult an almanac giving the time of sunrise and sundown , calculate the middle point of that time - span , corresponding to the maximum elevation of the sun .
+it can be used to calculate flux by divergence theorem .
+exact french casualties are hard to calculate , but of the 1,300 aboard " droits de l'homme " , 103 are known to have died in the battle and just over 300 were saved from the wreck , indicating the deaths of approximately 900 men on the french ship between the morning of 14 january and the morning of 18 january .
+in some cases , it is possible to calculate the optimum time for overhaul to restore degraded performance .
+the model predictive controller uses the models and current plant measurements to calculate future moves in the independent variables that will result in operation that honors all independent and dependent variable constraints .
+warren buffett is known for his ability to calculate the intrinsic value of a business , and then buy that business when its price is at a discount to its intrinsic value .
+departure functions are used to calculate real fluid extensive properties ( i.e properties which are computed as a difference between two states ) .
+since the military needed to be able to calculate accurate trajectories , design bridges , and perform other engineering and scientific calculations , they needed more than 32 bits of precision .
+to calculate formula_24 by the
+from this it is possible to calculate that the previous occasion on which this occurred was 1322 bc , and the one before that was 2782 bc .
+solvers are a class of mathematical software that take problem descriptions in some sort of generic form and calculate their solution .
+assuming an inverse relationship between price and units sold ( i.e. , sales volume ) , as is the case for most products since a lower price will generally induce higher unit sales , the firm would assume likely unit sales levels at various price levels , calculate the contribution margin per unit for the product at each of those price levels , multiply the number of units by the corresponding contribution margin per unit at that price level and choose the highest result ( i.e. , the highest contribution to profit ) to maximize profit .
+boyle 's law is used to calculate the unknown volume within the lungs .
+for example , assume an experimenter thought that in typing the word “ the ” it was likely that a subject would instead incorrectly type “ hte . ” the experimenter would calculate the time it takes to type the incorrect word , the time it takes to recognize that a mistake has been made , and the time it takes to correct the recognized error .
+for each cell , slope limited , reconstructed left and right states are obtained and used to calculate fluxes at the cell boundaries ( edges ) .
+a lookahead carry unit ( lcu ) takes these 8 values and uses identical logic to calculate formula_11 in the clas .
+astronomical algorithms are the algorithms used to calculate ephemerides , calendars , and positions ( as in celestial navigation or satellite navigation ) .
+a feature of the mandelbrot set recently reported gives a means to calculate an approximate value of " π " to any chosen accuracy , without seeking the limit of an infinite series .
+the rover carried a navigation system that could calculate the distance and direction of a known starting point .
+several research papers , including the one commissioned by the renewable energy association in the uk , have been published that demonstrate how the carbon-14 result can be used to calculate the biomass calorific value .
+to calculate whether an area that dries is under water , subtract the drying height from the height of the tide .
+since only two points are used to calculate the next iteration 's curve ( instead of three ) , this method is susceptible to severe oscillation effects when signal change is quickly followed by a steady signal .
+as the engines are at present new , and therefore work stiffly , the owners calculate that they will shortly be able to considerably exceed that rate but taking it altogether it may fairly be reckoned a very good performance
+standard library routines are used to calculate the local time based on the current timezone , normally supplied to processes through the tz environment variable .
+the agency will calculate and subtract their costs , overhead and profit margin from the bill rate and then , with the difference , make a detailed offer to the traveler .
+azimuth was scanned mechanically by the receiver antenna with elevation determined using a goniometer , the phase difference between the upper and lower yagi antenna was used to calculate the elevation angle which could then be used to determine the height of the target once the range was known .
+awomo has issued a press release which claims that qa teams prepare the games for delivery on its platform by generating sets of ' data - time ' maps which a neural network subsequently analyses to calculate the most efficient way to deliver the data to a gamer at a given connection speed .
+the geographical location of a mobile phone ( and thus the person carrying it ) can be determined easily ( whether it is being used or not ) , using a technique known multilateration to calculate the differences in time for a signal to travel from the cell phone to each of several cell towers near the owner of the phone .
+in order to calculate the angular distance in arcseconds for binary star system , extrasolar planets , solar system objects and other astronomical objects , we use orbital distance ( semi - major axis ) in au divided by stellar distance in parsecs .
+the measurement of the vehicle 's top speed during the run has been disputed primarily because of the methods used to calculate the speed , and its extremely small margin of success .
+the googolplex star thinker was said to have been able to calculate the trajectory of every single dust particle throughout a five - week dangrabad beta sand blizzard .
+proximity analysis is a study using location intelligence , mapping software , to calculate the distances between customer / prospect locations , to your location(s ) ( retail store , bank , restaurant , dealer , or sales reps ) as the first step in building an understanding of trade / sales / service area(s ) .
+when the body is frozen , the time of death is made impossible to calculate by forensic scientists .
+so to calculate 643 + 759 , there are twelve units ( write 2 at the right and carry 1 to the tens ) , ten tens ( write a with no need to carry to the hundreds ) , thirteen hundreds ( write 3 and carry 1 to the thousands ) , and one thousand ( write 1 ) , to give the result 13a2 rather than the conventional 1402 .
+different systems of fertility awareness calculate the fertile period in slightly different ways , using primary fertility signs , cycle history , or both .
+several ( possibly many ) iterations are usually required , either to calculate interdependent values such as reserve fuel and trip fuel , or to cope with situations where some physical constraint has been exceeded .
+many ( but not all ) of the filling foods also have a " setpoints " value that allows members to eat a reasonable portion of the food and track the setpoints value , rather than having to measure and calculate the exact points value of the portion eaten .
+the rate he can calculate for the image ( corrected for doppler effect ) is the rate of the earth twin 's clock at the moment it was sent , not at the moment it was received .
+to calculate angular momentum of an object or system , a point is chosen , called the origin ( often the centre of mass is used ) , and the distance to a part of the object is determined .
+it would doubtless be inapt to compare it with earlier centuries ' attempts to calculate how many angels could balance on the point of a pin ; it is more like taking a sledgehammer to crack a nut , except that the nuts will be quite immune to its impact . "
+tilting trains use accelerometers and gyroscopes to calculate the required tilt .
+to calculate the pyll for a particular population in a particular year , the analyst sums the individual pylls for all individuals in that population who died in that year .
+actuarial assumptions like 5% interest , 3% salary increases and the up84 life table for mortality are used to calculate a level contribution rate that would create the needed lump sum at retirement age .
+on occasion , when travelling to a station where icoca is not supported , the card must be handed over to the staff at the exiting station , so that they can calculate the remaining fare , and also so that they can return a slip of paper which must be given to the staff at the next station where icoca is used .
+vmc is no different from any other variational method , except that since the many - dimensional integrals are evaluated numerically , we only need to calculate the value of the possibly very complicated wave function , which gives a large amount of flexibility to the method .
+no effort was made to calculate cost of hiring , training and developing of human beings .
+but there is another possibility : that is that the electron first moves to g where it emits a photon which goes on to d , while the electron moves on to h , where it absorbs the first photon , before moving on to c. again we can calculate the probability of these possibilities ( for all points g and h ) .
+the technique is similar to traditional linkage analysis , where we depend on genetic recombination to calculate the distance between two genetic markers .
+there are some difficulties , for instance it is not possible to calculate " f'xx"(0.5,0.5 ) knowing " f " at only 64 points in the square .
+if the actual real wage is the subsistence wage used to calculate formula_55 , all this surplus value created by labour will be received by the owners of the capital goods , called " capitalists " .
+a camera is used to look at the deformation of the pattern , and an algorithm is used to calculate the distance at each point in the pattern .
+wetherill developed a technique to calculate numerically the orbital evolution and accumulation of planetesimal swarms , and he used the technique to reach specific predictions of the physical and orbital properties of terrestrial planets .
+he was the first to formulate quantum electrodynamics , although he could not calculate arbitrary quantities because the short distance limit requires renormalization .
+the navigation messages include " ephemeris " data , used to calculate the position of each satellite in orbit , and information about the time and status of the entire satellite constellation , called the " almanac " .
+upon conversion , plan sponsors are required to retrospectively calculate employee account balances , and if the employee 's actual vested benefit under the old design is more than the account balance , the employee enters a period of " wear away " .
+to calculate the houses , it is necessary to know the exact time , date , and location .
+the method is to calculate the npv of the project as if it is all - equity financed ( so called base case ) .
+• icg uses the baseline and changes in impedance to measure and calculate hemodynamic parameters
+the following formulas can be used to calculate displacement for , " formula_8 " , for an object undergoing constant acceleration ..
+calculate the ph and percentage protonation of a.20 m aqueous solution of pyridine , c5h5n. the kb for c5h5n is 1.8 x 10 - 9 .
+the fifth possibility can be quantified by statistical tests that can calculate the probability that the correlation observed would be as large as it is just by chance if , in fact , there is no relationship between the variables .
+the sensors in question measure numerous environmental factors , including air pressure and density , for data to calculate airspeed , altitude and attitude .
+tones that calculate the correct location within the spectrum .
+the svp runs at 23 mhz and can calculate 300 to 500 polygons / frame at 15 frames per second ( up to 6,500 polygons per second ) with a maximum of 16 colors .
+we can easily calculate formula_27 .
+note , however , the characterization of damages as taxable income or non - taxable capital receipts depends upon the nature of the legal right settled and not upon the method used to calculate the award .
+the method can be used to calculate the coefficients in the interpolation polynomial in the newton form .
+the regulator of an algebraic number field of degree greater than 2 is usually quite cumbersome to calculate , though there are now computer algebra packages that can do it in many cases .
+but the two crafts were drifting apart at 28 metres per second , and time was needed to calculate the maneuvers .
+in 2003 the company moved operations to bend , oregon where the office 's 3.6 kilowatt photovoltaic system is monitored by frank vignola of the university of oregon solar radiation monitoring lab which helped the and christopher dymond of the calculate performance expectations for solar power production in central oregon .
+( 2005 ) , who also used satellite altimetry measurements of antarctica to calculate mass changes , and estimated that over a similar period antarctic ice sheets have grown 45 billion of metric tones per year at the pace that cause annual decline in sea level rise of 0.12 mm per year .
+. we can calculate the entropy of this message to be 7033 bits .
+many patients would benefit from a prosthetic device that controls limb movement via devices that read neurons in brain , calculate limb trajectory , and stimulate the needed motor pools to make movement .
+perhaps the easiest practical method is to calculate the ( linear ) network open circuit voltage and short circuit current and plot these on the transfer function of the non - linear device .
+joshua , introducing him and johanan b. ( gudgada ) nuri to the notice of patriarch gamaliel ii , remarked of them that they could approximately calculate the number of drops contained in the ocean ( hor .
+base runs , on the other hand , can be applied to " any " sample at " any " level of baseball ( provided you can calculate the b multiplier ) , because it models the way the game of baseball operates , and not just for a 162-game season at the highest professional level .
+there are free tools that help calculate head needed and show pump curves including their best efficiency points ( bep ) .
+a number of issues make exact figures difficult to calculate , as historical data before the 1980s and from developing countries is incomplete .
+assuming an enthalpy of combustion for o2 of 20.1 joules per milliliter , we would then calculate the heat production ( and therefore metabolism ) for the mouse as 703.5 j / h .
+other related approaches calculate separate averages for the cells to the left and right of the cut , and then use the greatest - of or least - of these two power levels to define the local power level .
+the main premise of the method is that by placing a droplet of liquid with a known surface energy , the shape of the drop , specifically the contact angle , and the known surface energy of the liquid are the parameters which can be used to calculate the surface energy of the solid sample .
+the first component , commonly focused on in many schools , is to calculate the answer .
+one way to calculate how costly this greater volatility is in terms of individual ( or , under some restrictive conditions , social ) welfare is to ask what percentage of her annual average consumption would an individual be willing to sacrifice in order to eliminate this volatility entirely .
+so if it 's not known whether a number " n " is prime or composite , we can pick a random number " a " , calculate the jacobi symbol formula_28 and compare it with euler 's formula ; if they differ , " n " is composite ; if they 're the same for many different values of " a " , " n " is " probably prime " .
+the model asks for 17 items of information information about the patient , the state of the heart and the proposed operation , and uses logistic regression to calculate the risk of death .
+the results were so good that the aol was the only observatory contributing with data and weight to all the 3800 observations which were used to calculate the catalogue .
+it is impossible to calculate the enormous influence these thinkers have had on western society .
+with the help of these definitions , it is already possible to calculate the range of simple functions , such as formula_41 .
+the results of tournaments and world championship matches are used to calculate tiddlywinks ratings , which give a ranking of players .
+all of these effects alter the pka value of the amino acid side chain , and pka calculation methods generally calculate the effect of the protein environment on the model pka value of an amino acid side chain .
+one contentious point during the drafting of the restatement was how to calculate the amount of damages flowing from a promissory estoppel .
+for a pure substance in solution , if the color and path length are fixed and the specific rotation is known , the observed rotation can be used to calculate the concentration .
+the calculation illustrates the usage of the phenomenon of length contraction and the experimentally verified phenomenon of time dilation to describe and calculate consequences and predictions of einstein 's special theory of relativity .
+such an instantaneous density measurement in turn allow us to calculate the flow in volume per time , by dividing mass flow with density .
+calculate that the galactic habitable zone is a ring 7 to 9 kiloparsecs in diameter , that includes no more than 10% of the stars in the milky way .
+some hedge funds , mainly american , do not use third parties either as the custodian of their assets or as their administrator ( who will calculate the nav of the fund ) .
+opportunity costs are used in financial markets to calculate the cost of capital .
+the network currently consists of 75 access points and approximately 500 clients ( due to the open nature of the network , it is very difficult to calculate the exact number of users ) .
+the system is closed loop using camshaft sensors , crankshaft sensors , air flow meter , throttle position as well as oxygen sensors and/or air - fuel ratio sensors in order to calculate engine load .
+this is used to calculate the magnitude of the current .
+the hypot function was designed to calculate the result without causing this problem .
+life tables can be extended to include other information in addition to mortality , for instance health information to calculate health expectancy .
+provided that the mass and velocity of the ejecta are known , it is possible to calculate its momentum and thus the recoil .
+this is a fairly controversial ethnic group , as in the 2001 uk census only 869,093 people in britain called themselves irish ( mostly people who are roman catholic from northern ireland or people born in the roi ) , but it is thought that over 6 million britons are at least 1/4 irish ( 10% of the population ) , also northern ireland 's citizens many be classed as irish ( in that they are born on the island of ireland and can be entitled to irish citizenship ) , and northern ireland being part of the uk also means that true figures are hard to calculate .
+the overall erp system needs to have a system of coding parts such that the mrp will correctly calculate needs and tracking for both versions .
+then the customs authorities calculate the leviable of amount of duties and taxes on the basis of that certified value .
+by measuring the length of a second 's pendulum in different latitudes , one can calculate the " oblateness " of the earth - ie the degree to which the " figure of the earth " departs from perfect sphericity .
+in mexican bars and night clubs it is often seen that they charge directly into the bill 15% of the total amount ( taxes included ) which is illegal in most cases because of the imposition of the tip and because they calculate the 15% with taxes included .
+even if you can calculate the recoil energy loss due to a : muzzle brake ; recoil operated action ; gas operated action ; mercury recoil suppression tube ; recoil reducing butt pad and hand grip ; shooting vest and gloves , the human factor is not calculable .
+the site uses the numerical values to calculate " friend " , " enemy " , and " match " percentages between any two members of the site .
+to calculate the actual water depth , add the charted depth to the published tide height .
+generally the models trace sound ray bundles and calculate spreading loss along with ray bundle divergence ( or convergence } from refractive phenomena .
+one estimate made at the time stated that the puzzle had 1500 possible attempts at a solution , and it would take longer than the lifetime of the universe to calculate all of them even if you had a million computers .
+for example , if two runners are left on base after the 3rd out , the scorekeeper might note " lob:2 " , then at the end of the game calculate a total number of lob for the game .
+for purchases over $ 1,000 the taxpayer must calculate the tax for each item and add this amount to the use tax from the table .
+once agi is determined , under certain circumstances , taxpayers must calculate their modified adjusted gross income ( magi ) .
+we can then continue to calculate
+then the difference between the two prices may be used to calculate the portfolio of the security ’s return due to the passage of time .
+technological challenges of how to calculate the iol power post rk surgery for an associated cataract as well as the aberrations induced along with stability questions of a changing refraction in a patient population that has not changed their expectations is the question of the hour as we progress into the future .
+superprime is another take on this procedure , substituting raw floating - point calculations for the value of pi with more complex instructions to calculate the primality of a set of natural numbers .
+note that knowledge of formula_2 is required in order to calculate mspe exactly .
+following a suggestion by jean - louis pons , who suspected one of the three comets discovered in 1818 to be the same one already discovered by him in 1805 , encke began to calculate the orbital elements of this comet .
+to help recognize exaggerations there is also a brief description of how to calculate the weight of colossal stones by calculating volume and density .
+in the united states , there are six " tax brackets " ranging from 10% to 35% used to calculate the percentage of taxable income ( of individuals ) .
+hence it may be necessary to explicitly reason about false positive vs false negative tradeoffs , and even calculate the utility of different possible referring expressions in a particular task context
+from a knowledge of the probabilities of each of these subprocesses - e(a to c ) and p(b to d ) - then we would expect to calculate the probability of both happening by multiplying them , using rule b ) above .
+the caveat : * if * its counters are initialised to " n " and 0 , then a 2cm can not calculate 2"n " .
+by measuring the intensity of the same reflections at two temperatures ( for example , at a room and a high temperature ) one can calculate mean - square amplitudes of the atom vibrations .
+to calculate required bandwidth factor relative to 4:4:4 ( or 4:4:4:4 ) , one needs to sum all the factors and divide the result by 12 ( or 16 , if alpha is present ) .
+formula_34 is already known , so using the bellman equation once we can calculate formula_35 , and so on until we get to formula_36 , which is the " value " of the initial decision problem for the whole lifetime .
+in 1961 wrench and daniel shanks used an ibm 7090 computer to calculate π to 100,000 digits .
+experts say that the incidence and mortality rates of cancer can not be combined to calculate survival from cancer .
+any unknown currents are easy to calculate after all the voltages in the circuit are known .
+it reserves the ip address for the time it can calculate that it can get a response .
+as with any triangle , to calculate the area , multiply the base and the corresponding height , and divide it by two .
+if a fundamental domain is used to calculate an integral on " x"/"g " , sets of measure zero do not matter .
+calculate a gain or loss on each separately .
+miwin 's dice help to develop the mathematical highlights and enhances the ability to calculate probability as happened in the summer semester 2007 during a seminar at the university siegen .
+the correlates of war uses a systemic concentration of power formula to calculate the polarity of a given great power system .
+many different aspects of the structure of meetings are discussed in the code , including how topics are presented , how meetings are started , and how to calculate a quorum .
+in the elastic tunneling case ( where the passing electron does not exchange energy with the system ) , the formalism of rolf landauer can be used to calculate the transmission through the system as a function of bias voltage , and hence the current .
+to figure out which action on opponent " bs part " the player " would prefer , calculate the player 's expectation the same way
+calculate .
+the rule of three can be used to calculate formula_22 directly
+he also solved the problem of how to calculate the period of a pendulum made of an arbitrarily - shaped swinging rigid body , discovering the center of oscillation and its reciprocal relationship with the pivot point .
+applications can typically also calculate the journey time and cost , some also display points of interest along the route .
+the first step in the chi - square test is to calculate the chi - square statistic .
+starting from the angular momentum quantum rule bohr was able to calculate the energies of the allowed orbits of the hydrogen atom and other hydrogen - like atoms and ions .
+by measuring the time difference on any seismograph as well as the distance on a travel - time graph at which the p - wave and s - wave have the same separation , geologists can calculate the distance to the earthquake 's epicenter .
+then using some publicly available software they can quickly calculate the key required to decrypt the entire archive .
+its purpose is to calculate , ab initio , dielectric and optical properties , like absorption , reflectivity , refraction index , electron and x - ray energy loss , for a large variety of systems , ranging from bulk systems , surfaces , to clusters or atoms .
+reset , which also known as " fixing , " is a generic concept in the financial markets which refers to the determination and recording of a reference rate , usually in order to calculate the settlement value of a periodic payment schedule between two parties .
+dobyns combined the known mortality rates of these diseases among native people with reliable population records of the 19th century , to calculate the probable size of the original populations .
+to calculate the p / e ratio of a market index such as the s&p 500 , it is not accurate to take the " simple average " of the p / es of all stock constituents .
+it is straight forward to calculate the number of jesd204a links required to support an adc or dac , based on the converter resolution and the desired sampling rate .
+another concerns the period over which you calculate the average .

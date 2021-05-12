@@ -1,0 +1,255 @@
+soils do not occur as discrete entities ; thus the unit of measurement for soil is not obvious .
+discrete subgroups .
+in mathematics , a kleinian group , named by henri poincaré after felix klein , is a finitely generated discrete group γ of orientation preserving conformal ( i.e. angle - preserving ) maps of the open unit ball formula_1 in formula_2 to itself .
+each tlr is now believed to detect a discrete collection of molecules of microbial origin , and to signal the presence of infections .
+first generation vdsl standard specified both qam ( quadrature amplitude modulation ) and dmt ( discrete multi - tone modulation . ) in 2006 , itu - t standardized vdsl in recommendation g.993.2 which specified only dmt modulation for vdsl2 .
+many texts , myths and rituals concerning goddess subsume them all under one great female being , named generally as mahadevi or devi . earliest hindu tradition as reflected in the vedas speak of discrete goddesses like lakshmi and parvati .
+discrete time .
+the branch of mathematics generally known as " circle packing " , however , is not concerned with dense packing of equal - sized circles but with the geometry and combinatorics of packings of arbitrarily - sized circles ; these give rise to discrete analogs of conformal mapping , riemann surfaces and the like .
+his work has focused on generalizing the classical theory to deal with all forms of discrete / digital and continuous / analogue data ; and on using the generalizations as formal methods for system design .
+twenty - seven is the aliquot sum of the two odd discrete semiprimes 69 and 133 .
+this is referred to as one - dimensional multiple quantum well confinement and leads to the splitting of the band of permitted energies into a number of discrete electronic subbands .
+discrete choice models are statistical procedures that describe choices made by people among a finite set of alternatives .
+in mathematics , a local field is a special type of field that is a locally compact topological field with respect to a non - discrete topology .
+a discrete lod example .
+discrete signals are sent using either voltage or current , where a specific range is designated as " on " and another as " off " .
+because this was only one fifth that of available competing graphics boards , larrabee was cancelled " as a standalone discrete graphics product " on december 4 , 2009 .
+the modulated complex lapped transform ( mclt ) is a lapped transform , similar to the modified discrete cosine transform , that explicitly represents the phase ( complex values ) of the signal .
+discrete event simulation .
+the standard deviation of a discrete random variable is the root - mean - square ( rms ) deviation of its values from the mean .
+when this occurred , light was emitted or absorbed at a frequency proportional to the change in energy ( hence the absorption and emission of light in discrete spectra ) .
+using the solution of the unperturbed problem formula_96 and formula_97 ( for the sake of simplicity we assume a pure discrete spectrum ) , we will have till first order
+given the current computer state , you might define the accessible possible worlds to be all future possible computer states , or to be all possible immediate " next " computer states ( assuming a discrete computer ) .
+dv uses discrete cosine transform ( dct ) to compress every video frame individually .
+martha l. brogan and daphnée rentfrow wrote in 2005 that it has " more than 200 active members , including editors of an eclectic mix of 45 discrete ' collections ' ( web sites ) , which ' publish ' more than 32,000 works . "
+zuse proposed that the universe is being computed in real time on some sort of cellular automaton or other discrete computing machinery , challenging the long - held view that some physical laws are continuous by nature .
+colonic propagating pressure wave sequences ( pss ) are responsible for discrete movements of the bowel contents and are vital for normal defecation .
+the control panel is based on track balls and other discrete controls that enable colorists to control the software that transforms motion picture images .
+it entailed separating bcal into four discrete businesses , each of which would have had its own management who would have been accountable for the performance of their own business unit .
+today , some occupational therapists argue in favor of creating a discrete diagnostic category for sensory integration dysfunction , but this position is disputed .
+since then , many extended formalism from devs have been introduced with their own purposes : dess / devs for combined continuous and discrete event systems , p - devs for parallel dess , g - devs for piecewise linear state trajectory modeling of dess , rt - devs for realtime dess , cell - devs for cellular dess , fuzzy - devs for fuzzy dess , dynamic structuring devs for dess changing their coupling structures dynamically , and so on .
+where the entropy of some discrete random variable formula_10 is defined as formula_11 ,
+for discrete , jointly distributed random variables " x " , " y " , " z " .
+in the reachability graph , each vertex has its own discrete state and time zone which are ranges of formula_91
+the framework of operational architectonics of brain functioning whereby elementary operations are localized in discrete cortical and subcortical regions , and complex brain functions involve synchronous processing in a wide - spread network of neuronal assemblies , is a highly promising theory in modern neuroscience and cognition .
+much like the name of another of pollard 's discrete logarithm algorithms , pollard 's rho algorithm , this name refers to the similarity between a visualisation of the algorithm and the greek letter lambda ( formula_40 ) .
+in combinatorial mathematics , the theory of combinatorial species is an abstract , systematic method for analysing discrete structures in terms of generating functions .
+- mcfe ( multi - component feature extraction ) analysis , a neural network - based adaptive time - frequency transform replacing the use of the discrete fourier transform in their products
+this definition often breaks down since many substances in ordinary experience , such as rocks , salts , and metals , are composed of large networks of chemically bonded atoms or ions , but are not made of discrete molecules .
+discrete distributions are characterized by a probability mass function , formula_5 such that
+" radically elementary probability theory " of edward nelson combines the discrete and the continuous theory through the infinitesimal approach .
+dpd is an off - lattice mesoscopic simulation technique which involves a set of particles moving in continuous space and discrete time .
+ancillaries such as electrical and air conditioning systems were grouped together in discrete modules housed behind an aerodynamic skirting between the bogies ; on the mark 2 these were mounted above and below the passenger seating area .
+as of windows vista beta 2 , the nvidia geforce 6 series and later , the ati radeon 9500 and later , intel 's gma 950 and later integrated graphics , and a handful of via chipsets and s3 graphics discrete chips are supported .
+a topological group with a discrete topology whose elements form a finite or a countable set .
+discrete sine transform .
+a paleoethnobotanist may find discrete concentrations of burned or dried remnants of seeds in an area of discolored soil ( a possible hearth feature ) .
+in signal processing it is usually the context ( discrete or continuous time ) that distinguishes the kronecker and dirac " functions " .
+hales and ferguson received the fulkerson prize for outstanding papers in the area of discrete mathematics for 2009 .
+chiral and full ( or achiral ) tetrahedral symmetry and pyritohedral symmetry are discrete point symmetries ( or equivalently , symmetries on the sphere ) .
+a related transform , the " modified " discrete cosine transform , or mdct ( based on the dct - iv ) , is used in aac , vorbis , wma , and mp3 audio compression .
+the " quasi - hyperbolic " discount function , which approximates the hyperbolic discount function above , is given ( in discrete time ) by
+actually , since " f"×/"t"× can be shown to be isomorphic to the integers , " t " is a discrete valuation ring , in particular a local ring .
+newtonian time describes an idea of time marked mainly by movements along a line ( as either discrete or continuous units ) in the same manner as space is made up of such units .
+furthermore , grains are seen to form in the vicinity of nearby stars in real - time , meaning in a ) nova and supernova ejecta , and b ) r coronae borealis , which seem to eject discrete clouds containing both gas and dust .
+the discrete torques can be added to get the net torque consumed in displacing the nut from one end of the bolt to the desirable point .
+discrete delta - potential method .
+a completely different meaning for " fractional fourier transform " was introduced by bailey and swartztrauber as essentially another name for a z - transform , and in particular for the case that corresponds to a discrete fourier transform shifted by a fractional amount in frequency space ( multiplying the input by a linear chirp ) and evaluating at a fractional set of frequency points ( e.g. considering only a small portion of the spectrum ) .
+for discrete dynamical systems , consider the system
+as applied in an urban travel demand context , the disutilities are primarily time , distance , and cost , although discrete choice models with the application of more expansive utility expressions are sometimes used , as is stratification by income or auto ownership .
+number theory in particular sits on the boundary between discrete and continuous mathematics , as does finite topology ( the study of finite topological spaces ) which is literally the intersection of combinatorics and topology .
+nevertheless , it is discrete as a topological space .
+a strong interest arose in the possibilities of the garden cities as discrete integrations of the townscape with communal landscapes .
+in order to convert the continuous - time analog signal to a discrete - time digital representation , it must be sampled and quantized .
+the ricker model , named after bill ricker , is a classic discrete population model which gives the expected number " a " " t"+1 ( or density ) of individuals in generation " t " + 1 as a function of the number of individuals in the previous generation ,
+the discrete time divisia weights are defined as the expenditure shares averaged over the two periods of the change
+analog - signal - to - discrete - time - interval converter ( written with or without hyphens ; abbreviated as asdtic ) is a specialized kind of an analog - to - digital converter , which converts the analog input signal ( e.g. voltage or current ) to quantized time intervals .
+at its peak in the late preclassic and early classic periods this settlement may have consisted of as many as twenty discrete residential areas and covered several .
+additionally a range of polyoxovanadate ions exist which include discrete ions and " infinite " polymeric ions .
+discrete features .
+discrete ecosystem .
+for example , the discrete logarithm is such an algorithm .
+in a response to livingston , theodore dobzhansky argued that when talking about race one must be attentive to how the term is being used : " i agree with dr. livingston that if races have to be ' discrete units , ' then there are no races , and if ' race ' is used as an ' explanation ' of the human variability , rather than vice versa , then the explanation is invalid . "
+the batholith is composed of at least seven and possibly as many as 14 discrete rock masses called plutons , which , according to scientific theories , had formed beneath the earth ’s surface during a period of magma intrusion about 73 to 78 million years ago ( late cretaceous time ) .
+the polynomial basis is frequently used in cryptographic applications that are based on the discrete logarithm problem such as elliptic curve cryptography .
+these include a line of distinctively - shaped spherical microphones , as well as several models which mimic the discrete circuitry of early microphones .
+iguazu is wider , but because it is split into about 270 discrete falls and large islands , victoria is the largest curtain of water in the world , at over wide and over in height ( in low flow victoria is split into five by islands ; in high flow it can be uninterrupted ) .
+similarly , asympotic expansions in powers of " 1/r " have been obtained to high order by cizek " et al . " for the lowest ten discrete states of the hydrogen molecular ion ( clamped nuclei case ) .
+a screenwriter , though , is more tightly bound to conventions of chronology and perspective , and in parceling his story into discrete scenes , mr. cunningham has turned a delicate novel into a bland and clumsy film ... so thoroughly decent in its intentions and so tactful in its methods that people are likely to persuade themselves that it 's better than it is , which is not very good ...
+the resolution of a digital camera is often limited by the camera sensor ( typically a ccd or cmos sensor chip ) that turns light into discrete signals , replacing the job of film in traditional photography .
+the equivalence of the two definitions is proved using the discrete fourier transform .
+at rest , an atom within the sample contains ground state ( or unexcited ) electrons in discrete energy levels or electron shells bound to the nucleus .
+henry further realized that these discrete electron states would greatly alter the optical absorption edge of the semiconductor .
+overloo[k ] the discrete offices of those concepts ” ) .
+modern 4ghz analog - to - digital converter digitizes the pulsed ion current from the mcp detector at discrete time intervals ( 250 picoseconds ) .
+several cities appear on the list twice because the city incorporates land in more than one county ( this explains why there are 1529 items on the list while 1242 + 283 = 1525 discrete entities ) .
+discrete hilbert transforms .
+importantly , as interactions between proteins are reversible , and depend heavily on the availability of different groups of partner proteins to form aggregates that are capable to carry out discrete sets of function , study of the interactions between specific proteins is a key to understand important aspects of cellular function , and ultimately the properties that distinguish particular cell types .
+the court affirmed the lower court 's decision and determined that aliens as a class were a prime example of a discrete and insular minority .
+generally , these microstates can be regarded as discrete quantum states of the system .
+this procedure was the first envy - free discrete procedure devised for three players .
+one of the oldest and leading journals in the field , " discrete mathematics " has published a number of articles by many well known combinatorialists .
+continuous and discrete are straightforward .
+if " x " is a discrete random variable taking values only in the set of non - negative integers , then formula_3 is also called probability - generating function of " x " and formula_4 is well - defined at least for all " t " on the closed unit disk formula_5 .
+they form a discrete approximation of the distribution of training samples .
+the " unfitted " kitchen design style exemplified by johnny grey may also include detached and/or varied countertop surfaces mounted on discrete base support structures .
+the other one uses a prime modulus formula_3 ( with no trapdoor ) , and its security proof relies on the hardness of finding discrete logarithms of very smooth numbers modulo formula_3 .
+the dichotomy between physical goods and intangible services should not be given too much credence ; these are not discrete categories .
+it is a one to two - story tall , free - standing , load - bearing brick rectangular structure composed of four discrete , structurally independent but contiguous elements , built between 1917 and 1918 .
+a discrete - time causal filter is stable if the poles of its transfer function fall inside the unit circle in the complex z - plane .
+clearly , any class of objects defines a discrete category when augmented with identity maps .
+a player has a finite strategy set if they have a number of discrete strategies available to them .
+in the case of a discrete group the angle between consecutive lines is 180°/"n " for an integer " n"≥2 .
+[ 2 ] g. s. cunningham and w. j. williams , " kernel implementations of generalized discrete time - frequency distributions , " " ieee trans . on signal processing " ,
+botanically , the term describes an arrangement of discrete structures ( such as leaflets , veins , lobes , branches , or appendages ) arising at multiple points along a common axis .
+this is possible because chemical bond formation can occur on a timescale faster than electronic transitions , and therefore can result in discrete products in excited electronic states .
+specifically , the gain and phase shift that the discrete - time filter has at frequency formula_48 is the same gain and phase shift that the continuous - time filter has at frequency formula_49 .
+that system became known as discrete sample analysis and was represented by an instrument known as the " robot chemist . "
+a topological space " x " is path - connected if and only if its " 0th " homotopy group vanishes identically , as path - connectedness implies that any two points " x1 " and " x2 " in " x " can be connected with a continuous path which starts in " x1 " and ends in " x2 " , which is equivalent to the assertion that every mapping from " s0 " ( a discrete set of two points ) to " x " can be deformed continuously to a constant map .
+the updated mission statement anticipates a convergence of dangers previously considered as separate and discrete , in which each danger compounds the others , paralleling the convergence of systems that characterizes globalization .
+where formula_12 is a constant that accounts for dimensionality and formula_13 is the elementary volume in phase space , with formula_14 the elementary time and formula_15 the total number of allowed discrete sizes .
+the delaunay triangulation of a discrete point set p in general position corresponds to the dual graph of the voronoi tessellation for p. special cases include the existence of three points on a line and four points on circle .
+% this m code plots a discrete time sinusoid with the specified fundamental
+energy drift is similar to parametric resonance in that a finite , discrete timestepping scheme will result in nonphysical , limited sampling of motions with frequencies close to the frequency of velocity updates .
+the notion of nerve is a direct generalization of the classical notion of classifying space of a discrete group ; see below for details .
+compact groups are a natural generalisation of finite groups with the discrete topology and have properties that carry over in significant fashion .
+the so - called johnson – nyquist noise of discrete resistors and capacitors is a type of thermal noise derived from the boltzmann constant and can be used to determine the noise temperature of a circuit using the friis formulas for noise .
+the term " discrete multitone modulation " ( " dmt " ) denotes ofdm based communication systems that adapt the transmission to the channel conditions individually for each sub - carrier , by means of so called " bit - loading " .
+the heaviside step function in its discrete form is an example of bang – bang control .
+the mediterranean sea is at times a discrete ocean , because tectonic plate movement has repeatedly broken its connection to the world ocean through the strait of gibraltar .
+most island thrushes breed in discrete two- to three - month seasons ( the precise timing varies depending on location ) , although the birds in fiji nest from june until january .
+the elgamal cryptosystem ( invented by taher elgamal ) relies on the ( similar , and related ) difficulty of the discrete logarithm problem , as does the closely related dsa developed at the us national security agency ( nsa ) and published by nist as a proposed standard .
+some older equipment ( circa the 1970s ) used dip terminal blocks onto the top of which discrete components could be soldered ; these blocks ( typically dip16 size ) would then be plugged into sockets on circuit boards and could be easily removed and swapped out , or test equipment connected between them and their sockets , for repair or testing of the machines they were a part of .
+among other things this usually meant the demise of discrete theological collections within separate facilities , though this did not necessarily mean the devaluation of such collections .
+while analog communications is the transfer of continuously varying information signal , digital communications is the transfer of discrete messages .
+gutenberg 's invention of printing ( which itself involved a number of discrete inventions ) substantially facilitated the transition from the middle ages to modern times .
+the energy bands each correspond to a large number of discrete quantum states of the electrons , and most of the states with low energy ( closer to the nucleus ) are full , up to a particular band called the " valence band " .
+the absolute threshold is not a discrete point , and is therefore classed as the point at which a response is elicited a specified percentage of the time ( durrant & lovrinic 1984 ) .
+subsidiaries in germany include : ( project management training ) , ( consulting for construction project management ) , dornier consulting engineering & services ( dces ) ( supports manufacturers and suppliers in the development and quality assurance for discrete vehicle electrical systems ) .
+alternatively , if formula_1 is discrete , one can construct formula_2 as the set of all ultrafilters on formula_1 , with a topology known as " stone topology " .
+some of these are recreational mathematics , others contributions to discrete mathematics .
+that procedure is illustrated in the discrete - time fourier transform article .
+the first discrete x - ray source in dorado was at ra dec , and it was the large magellanic cloud .
+on the national level , nuclear power plants or space stations may be considered discrete goods .
+stereo can be multiplex or discrete , and
+they consist of a long electric line or are made of discrete inductors and capacitors , which are arranged in a chain .
+in historic times , the bird seems to have occurred in 2 discrete subpopulations : a smaller one in the southeast of the arabian peninsula and a larger one in the area where today the borders of saudi arabia , jordan , iraq and syria meet .
+ibm had two discrete power architecture based hardware lines since the early 1990 's .
+the quantum dot absorption features correspond to transitions between discrete , three - dimensional particle - in - a - box states of the electron and the hole , both confined to the same nanometer - size box .
+this can be called the " discrete - frame theory . "
+the value of " n " for a given " a " is called the " discrete log " of " a " ( in the given field , to base " x " ) .
+the difference is that the maximum viewing distance is reduced by 25% from the discrete diode screen with the same resolution .
+as of 2006 , the most efficient means known to solve the dhp is to solve the discrete logarithm problem ( dlp ) , which is to find " x " given " g'x " .
+this software attracted the attention of chris eddy , who had developed a technique for processing discrete cosine transforms ( dct ) very quickly through software .
+in discrete - time systems , the function is similarly written as formula_8 ( see z transform ) and is often referred to as the pulse - transfer function .
+for any algebraic objects we can introduce the discrete topology , under which the algebraic operations are continuous functions .
+continuous spatial automata resemble continuous automata in having continuous values , but they also have a continuous set of locations rather than restricting the values to a discrete grid of cells .
+sulfur is released from the salt and diffuses into the metal substrate forming discrete grey / blue colored aluminum or chromium sulfides so that , after the salt layer has been removed , the steel can not rebuilt a new protective oxide layer .
+for a discrete time lti system , the condition for bibo stability is that the impulse response be absolutely summable , i.e. , its formula_6 norm exist .
+levels are discrete , even in the case that the attribute is a scalar such as price .
+this is different from digital recording , which converts audio signals into discrete numbers .
+thus , for discrete dynamical systems the iterates formula_26 for integer " n " are studied .
+at each discrete time increment , a linear operator is applied to the state to generate the new state , with some noise mixed in , and optionally some information from the controls on the system if they are known .
+in the bryah - padbury basin fold - thrust belt , yarlarweelor gneiss rafts exist as undeformed thrust plates of pelitic schist bounded by discrete mylonite zones , as well as deformed heavily overprinted gneiss blocks caught up within shear zones , some of which appear to preserve the unconformity surface .
+in particular , since a single point is certainly locally connected , it follows that any discrete space is locally connected .
+in kandinsky ’s work , some characteristics are obvious while certain touches are more discrete and veiled ; that is to say they reveal themselves only progressively to those who make the effort to deepen their connection with his work .
+such symmetries can be discrete or continuous ; they materialize in the correlation functions for the random variables ( discussed below ) .
+the random error of interferometric measurement of position due to discrete character of photons registered can be attributed to quantum noise .
+for simplicity , the following descriptions focus on continuous - time and discrete - time linear systems .
+this technology can be used to acquire discrete lead data via manual input into an application - type form .
+cdm is based on iterative design steps that lead to the creation of a network of named interacting modules , communicating via explicitly typed streams and discrete messages
+the charge rates for physical hours of time ( ordinary plus overtime ) are typically quoted for the position at discrete classification increments , for example , level 1 , level 2 , etc .
+recursion is attributed to limited syntax in the conception - with a finite set of elements to yield a potentially infinite array of discrete expressions .
+these tone plans ensured a reduced probability of falsing by spacing tones within each plan far enough apart in frequency that a decoder could tell the discrete tones apart .
+ctqw belongs to what is known as " quantum walks " , which also consists of the discrete - time quantum walk .
+the probability mass function of a discrete random variable is the density with respect to the counting measure over the sample space ( usually the set of integers , or some subset thereof ) .
+the marginal physical product of a variable input is the change in total output due to a one unit change in the variable input ( called the discrete marginal product ) or alternatively the rate of change in total output due to an infinitesimally small change in the variable input ( called the continuous marginal product ) .
+a particularly important class of non - linear models are those used to estimate relationships where the dependent variable is discrete , truncated or censored .
+it follows that if the underlying topology is t1 , then the specialization order is discrete , i.e. one has " x " ≤ " y " if and only if " x " = " y " .
+in general , it is not possible to match this transmission line at all frequencies because the square root causes the expression to be irrational and it consequently can not be realised exactly with a network of discrete elements .
+the quantum mechanics of strings implies these oscillations take on discrete vibrational modes , the spectrum of the theory .
+in mathematics , the fourier transform on finite groups is a generalization of the discrete fourier transform from cyclic to arbitrary finite groups .
+in chemistry a water cluster is a discrete hydrogen bonded assembly or cluster of molecules of water .
+on some instruments ( e.g. , piano , harp , xylophone ) , discrete tones are clearly audible when sliding .
+the bride received a settled property from the bridegroom 's clan — it was intended to ensure her livelihood in widowhood , and it was to be kept separate as the wife 's discrete possession .
+the two - dimensional point vortex gas is a discrete particle model used to study turbulence in two - dimensional ideal fluids .
+the first version of the codec , wma 9 lossless , and its revisions support up to 96 khz , 24-bit audio for up to 6 discrete channels ( 5.1 channel surround ) with dynamic range compression control .
+video output on a computer is generated by a video graphics device , typically on a removable card but which may also be integrated into the motherboard as a discrete device or as part of the chipset logic .
+rhythmically , ikeda 's music is highly imaginative , exploiting beat patterns and , at times , using a variety of discrete tones and noise to create the semblance of a drum machine .
+the treaty also deals with carbon compounds called in the treaty " discrete organic chemicals " .
+the system itself also assesses submitted information due the fact that the information is submitted as discrete facts that computers can understand .
+discrete choice models require more information to estimate and more computational time .
+its state and symbol - collections — and its actions — printing , erasing and tape motion — is " finite " , " discrete " and " distinguishable " ; it is the potentially unlimited amount of tape that gives it an unbounded amount of storage space .
+discrete subgroups .
+signals can be either analog , in which case the signal varies continuously according to the information , or digital , in which case the signal varies according to a series of discrete values representing the information .
+if this sum is equal to 1 then all other points can safely be excluded from the sample space , returning us to the discrete case .
+in application , populations are generally finite , making the discrete version more realistic .
+an integral part of the infrastructure of social science research , icpsr maintains and provides access to a vast archive of social science data for research and instruction ( over 7000 discrete studies / surveys ) , and offers in quantitative methods to facilitate effective data use .
+mean shift is a procedure for locating the maxima of a density function given discrete data sampled from that function .
+this is a line level input that can accept the output from a dvd player with 5.1 discrete channel outputs .
+nc 220 discrete event systems modeling and simulation
+use of macaulay ’s technique is very convenient for cases of discontinuous and/or discrete loading .
+the apparent problem in this regards is the fact that the highest oscillation in discrete time occurs when frequency is 0.5 or -0.5 .
+both initial and final ps can be combined with many other discrete consonants in english words .
+the show started discrete but after a few weeks it exceeded expectation and became one of the most - watched programs in the country .
+surround sound encompases a range of techniques for enriching the sound reproduction quality of an audio source with audio channels reproduced via additional , discrete speakers .
+a constant theme in schramm 's research was the exploration of relations between discrete models and their continuous scaling limits , which for a number of models turn out to be conformally invariant .
+the coverage of the former includes : probability ; data collection ; descriptive statistics ; discrete probability distributions ; binomial distribution ; poisson distributions ; continuous probability distributions ; the normal distribution ; estimation ; hypothesis testing ; chi - squared ; correlation and regression .
+• modular – systems and subsystems are designed such that discrete unit processes can be replaced with upgraded / enhanced technology as it becomes available .
+however , it is possible for a non - discrete finite space to be t0 .
+the ising model is defined on a discrete collection of variables called " spins " , which can take on the value 1 or −1 .
+in statistics , a stochastic kernel estimate is an estimate of the transition function of a ( usually discrete - time ) stochastic process .
+a box will form a discrete field which will move with the box .
+it can also have the continuous coils replaced by a number of discrete coils producing a similar field .
+in carnivores , the superior buccal gland is large and discrete : the zygomatic gland .
+if both " f " and " g " have as their domain all possible assignments of a set of discrete variables , then their pointwise product is a function whose domain is constructed by all possible assignments of the union of both sets .
+" curiosa " is generally used to refer to erotica and pornography as discrete , collectible items , usually in published or printed form .
+the ' set - piece ' construction of the book was noticed by many critics , mrs scurr praised it , describing a series of " vivid tableaux " , but john banville was less impressed , calling it an assembly of discrete set pieces , though he said the treatment of the car crash and its aftermath was " masterful " , and perowne 's visit to his mother " in which the writing is genuinely affecting in its simplicity and empathetic force . " the aircraft scene was a " dramatic overture " and there were " astonishing pages of description " , sometimes " heart - stopping " , though it was perhaps a touch " too " artful at times , according to michael dirda in the washington post .
+discrete transforms .
+" station automation " refers to the use of technology to connect the operation of several discrete hardware components to accomplish a larger task .
+gpus may be an integrated part of the computer 's motherboard , the most common solution in laptops , or come packaged with a discrete graphics card with a supply of dedicated video ram , connected to the motherboard through either an agp or pci - express port .
+: the first group consisting of 8 studies comprised patients who had enlarged discrete mediastinal lymph nodes on ct : in this scenario , the pooled sensitivity was 90 % ( 95% ci , 84 to 94% ) and the specificity 97% ( 95% ci , 95 to 98% ) which are excellent results .
+the discrete pressure equation is solved numerically with a fast elliptic solver in conjunction with a generalized conjugate gradient method .
+this algorithm assumes that one has access to the inverse of the cumulative distribution ( easy to calculate with a discrete distribution , can be approximated for continuous distributions ) and a computational primitive called " random ( ) " which returns an arbitrary - precision floating - point - value in the range of [ 0,1 ) .
+licensing of the applicable draft version of the applicable specification level ( also defined in the contributors agreement ) will allow the implementation of compliant , discrete ahci host controllers only .
+their immunology centres around the interaction of immunoregulatory cytokines and discrete subpopulations of t lymphocytes .
+for mpeg-1 , mpeg-2 , and mpeg-4/divx videos , motion compensation and idct ( inverse discrete cosine transform ) will be done instead .
+phylogenetic analyses shows the sclerodermataceae , boletinellaceae and gyroporaceae appear to form a discrete group within the boletales , and together with the pisolithaceae , the astraceae and the calostomaceae , are grouped under the suborder sclerodermatineae .
+these oscillations and the associated mixing of particles gives insight into the realization of discrete parts of the poincare group , ie , parity ( p ) , charge conjugation ( c ) and time reversal invariance ( t ) .
+chosen so that the discrete chiral symmetry formula_5 of the original model is enhanced to a continuous u(1)-valued chiral symmetry formula_6 .
+by nature of its duel , and the discrete space required for the action , the joust became a popular spectator and ceremonial sport , with elaborate rituals developing around the whole event .
+in his work , planck showed that hot objects emit electromagnetic radiation in discrete packets , which leads to a finite total energy emitted as black body radiation .
+another way to see that s is not lindelöf is to note that the line " x " = −"y " defines a closed and uncountable discrete subspace of s ' " .
+instead of solving the navier – stokes equations , the discrete boltzmann equation is solved to simulate the flow of a newtonian fluid with collision models such as bhatnagar - gross - krook ( bgk ) .
+consequently , only a discrete set of frequencies of light may be absorbed by the system .
+the lack of the important property of shift - invariance , has led to the development of several different versions of a shift - invariant ( discrete ) wavelet transform .
+as a result , work to standardize reference data is broadly considered to be an ongoing effort rather than a series of discrete programs .
+the.pdi presents detailed discrete or binned data without pre - calculation or cardinality reduction .
+either k - mer strings as such can be used for finding regions of interest , or k - mer statistics giving discrete probability distributions of a number of possible k - mer combinations ( or rather permutations with repetitions ) are used .
+he accurately diluted a suspension of these viruses and discovered that the highest dilutions ( lowest virus concentrations ) , rather than killing all the bacteria , formed discrete areas of dead organisms .
+for example , it has been suggested that the torsion ( antisymmetric part of the affine connection ) might be related to isospin rather than electromagnetism ; this is related to a discrete ( or " internal " ) symmetry known to einstein as " displacement field duality " .
+he is coauthor of the widely used textbooks " discrete - time signal processing " and " signals and systems " .
+while discrete spaces are not very exciting from a topological viewpoint , one can easily construct interesting spaces from them .
+while seemingly straightforward , some seabeds have , instead , a boundary layer of suspended sediments with a broad density gradient instead of a discrete transition point .
+more precisely , a markov decision process is a discrete time stochastic control process .
+originally erected by benedix in 1961 , it was found to be a discrete clade in a molecular study of ribosomal dna by mycologist kerry o'donnell in 1997 .
+in discrete mathematics , the characteristic equation is used when solving recurrence problems .
+influencers are specific to discrete market segments , and are used as conduits to the entire target segment .
+mendelsohn was a researcher in several areas of discrete mathematics , including group theory and combinatorics .
+they criticise coleman , who used only the number of parents present in the family , neglected the unseen effect of more discrete dimensions such as stepparents ' and different types of single - parent families .
+audio options include dolby ex 5.1 , dts es discrete 6.1 , and stereo surround sound .
+in information theory , the limiting density of discrete points is an adjustment to the formula of claude elwood shannon for differential entropy .
+this treats the gas in the star as containing discrete elements which roughly retain the temperature , density , and pressure of their surroundings but move through the star as far as a characteristic length , called the " mixing length " .
+discrete circuit .
+after several years of standards development , mainstream businesses are starting to adopt service - oriented architectures ( soa ) to integrate disparate data by making them available as discrete web services .
+poetry may be written independently , as discrete poems , or may occur in conjunction with other arts , as in poetic drama , hymns , lyrics , or prose poetry .
+discrete groups can therefore be identified with their underlying ( non - topological ) groups .
+mihai şora is considered the mentor of another " school " , much more discrete and heterogeneous than the school of noica , and there is currently an increasing interest in his work , especially from the young philosophers grouped around the " studia phaenomonologica " philosophical review .
+such discrete values arise from a quantum mechanical restraint on the number of electrons that can travel through the wire at the nanometer scale .
+however , the games and logic itself are implemented in dtl , a common pre - ttl digital design component using discrete transistors and diodes .
+some distortion techniques are : fm synthesis , waveshaping synthesis , and discrete summation .
+while general ecology theory and its sub - disciplines focused on the study of more homogenous , discrete community units organized in a hierarchical structure ( typically as ecosystems , populations , species , and communities ) , landscape ecology built upon heterogeneity in space and time .
+in most cases the real distribution is skewed or discrete , which does n't prevent people from using normal distribution methods .
+introduced to the american market by rca records in april 1970 as the " quad-8 " or " quadraphonic 8-track tape " ( later shortened to just q8 ) , " quad " ( as it became known ) did not remain restricted to the discrete channel format used in the quad-8 .
+the arrayed waveguide grating ( awg ) which are commonly used as optical ( de)multiplexers in wavelength division multiplexed ( wdm ) fiber - optic communication systems are an example of a photonic integrated circuit which has replaced previous multiplexing schemes which utilized multiple discrete filter elements .
+such methods are used primarily for the fabrication of materials ( typically a metal oxide ) starting from a chemical solution ( " sol " , short for solution ) which acts as the precursor for an integrated network ( or " gel " ) of either discrete particles or network polymers .

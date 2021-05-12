@@ -1,0 +1,255 @@
+due to its higher than expected drag coefficient of 0.11 , it only achieved 230 mpg at .
+the coefficient of thermal expansion for a given sample of matter can be used to approximate its change in volume given a change in temperature .
+measurement of attenuation coefficient versus ultrasound frequency yields raw data for further calculation of various system properties .
+kt = tournament coefficient ( ranging from 4 to 1 depending on strength of competition )
+the sargan test statistic can be calculated as tr2 ( the number of observations multiplied by the coefficient of determination ) from the ols regression of the residuals ( from iv estimation ) onto the set of exogenous variables .
+reactors in which neither the moderator nor the coolant is a liquid ( e.g. , a graphite - moderated , gas - cooled reactor ) will have a void coefficient value equal to zero .
+a tungsten filament has a positive temperature coefficient of resistance : a cold filament has a smaller resistance by a factor of 8 - 10 than a hot filament , and allows a large inrush of current .
+elasticities coefficient can also be computed numerically , something that is often done in simulation software .
+matthews correlation coefficient .
+sedan models had a coefficient of drag of 0.32 , while coupes were only 0.30 .
+when shooting paper targets , they cut a relatively clean hole in the target , yet provide more case volume and a better ballistic coefficient than a flat front wadcutter .
+formula_6 - hill coefficient , describing cooperativity ( and many more , depending on the system , in the case of which the hill equation is used )
+teams with a coefficient of at least 12.890 were seeded .
+the reasoning is that if the null hypothesis of there being no relation between the two matrices is true , then permuting the rows and columns of the matrix should be equally likely to produce a larger or a smaller coefficient .
+currently , new device is developed for measuring surface tension , interfacial tension , wetting coefficient , surface excess concentration and viscosity with single instrument named as survismeter .
+by combining samarium and gadolinium in the alloy , the temperature coefficient can be reduced to nearly zero .
+by rearranging the formula to isolate the diffusion - coefficient , it is possible to obtain an idea of the properties of diffusion occurring within a particular voxel ( volume picture element ) .
+platinum is easily wetted by glass and has a similar coefficient of thermal expansion as typical soda - lime and lead glass .
+combining these two relations yields ( after some tedious algebra ! ) the exact green – kubo relation for the linear zero field transport coefficient , namely ,
+the next step is to insert a variable " y " into the perfect square on the left side of equation ( 2 ) , and a corresponding 2"y " into the coefficient of " u"2 in the right side .
+glucydur is the trade name of a metal alloy with a low coefficient of thermal expansion , used for making balance wheels and other parts of mechanical watches .
+later , i. m. vinogradov extended the technique , replacing the exponential sum formulation " f"("z " ) with a finite fourier series so that the relevant integral " i'n " is a fourier coefficient .
+the mosfet is particularly suited to this configuration because its positive thermal coefficient of resistance tends to balance current between individual devices .
+formula_7 is the reflection coefficient
+at the same frequency and overtone , the strip will have less pullability , higher resistance , and higher temperature coefficient .
+the angle at which maximum lift coefficient occurs is the stall angle of the airfoil .
+general array slicing can be implemented ( whether or not built into the language ) by referencing every array through a dope vector or " descriptor " — a record that contains the address of the first array element , and then the range of each index and the corresponding coefficient in the indexing formula .
+the standard deviation of an exponential distribution is equal to its mean , so its coefficient of variation is equal to 1 .
+most practical amplifiers though will have some finite isolation allowing the reflection coefficient ' seen ' at the input to be influenced to some extent by the load connected on the output .
+in particular , for a power series " f"("x " ) in a single variable " x " , the order of " f " is the smallest power of " x " with a nonzero coefficient .
+the saloon version features a drag coefficient ( cd ) of 0.31 , from a frontal area of 2.17 m2 .
+where α(t ) is a monotonically decreasing learning coefficient and d(t ) is the input vector .
+where formula_7 is the signal intensity without the diffusion weighting , formula_8 is the signal with the gradient , formula_9 is the gyromagnetic ratio , formula_10 is the strength of the gradient pulse , formula_11 is the duration of the pulse , formula_12 is the time between the two pulses , and finally , formula_13 is the diffusion - coefficient .
+uefa coefficient .
+the " norm " coefficient , relating to analysis of investment activity .
+for the draw , clubs were separated into seeded and unseeded teams based on their club coefficient .
+in case of an abrupt and wide expansion the loss coefficient is equal to one .
+traction coefficient in engineering design .
+this may lead to the overestimation of the diffusion coefficient , or oscillation effects at the bottom of a solution cell .
+between these speeds , the peak coefficient of drag can be up to four times that of subsonic drag .
+coefficient of traction .
+uncorrelated random variables have a correlation coefficient of zero , except in the trivial case when both variables have variance zero ( are constants ) .
+the absorption coefficient ( formula_1 ) is defined as the probability of photon absorption in tissue per unit path length .
+under the first assumption of the normality of the error terms , the estimator of the slope coefficient will itself be normally distributed with mean equal to " β " and variance formula_19 at the same time the sum of squared residuals " q " is distributed proportionally to " χ"2 with ( " n"−2 ) degrees of freedom , and independently from formula_20 this allows us to construct a " t "- statistic
+at a certain point along the airfoil , a shock is generated , which increases the pressure coefficient to the critical value cp - crit , where the local flow velocity will be mach 1 .
+if too much torque is applied to the wheels , the force between the wheels and the ground will exceed the maximum frictional force due to the coefficient of friction between the wheel and ground surfaces .
+the effective attenuation coefficient is the dominant factor for determining light attenuation at depth formula_36 »
+the granturismo has a drag coefficient of 0.33 .
+based on data from 351 googlewhacks from the , the heaps’ law formula_1 coefficient for the indexed worldwide web ( about 8 billion pages ) was measured to be formula_2 .
+znaniecki was a philosopher who opposed idealism and naturalism , proposing instead a methodology for social research based around the " humanistic coefficient " , sometimes known as the humanist principle .
+water was passed at high speed along two glass tubes that formed the optical paths of the interferometer and it was found that the fringe shifts were as predicted by the drag coefficient , light propagating at ' c ' with respect to the medium in relative motion .
+since each column of the coefficient matrix is equal to the resultant column vector , we have
+in electromagnetic theory , the phase constant , also called phase change constant , parameter or coefficient is the imaginary component of the propagation constant for a plane wave .
+where formula_2 is the bulk speed of sound , formula_3 is the initial density , formula_4 is the current density , formula_5 is the gruneisen 's gamma at the reference state , formula_6 is a linear hugoniot slope coefficient , formula_7 is the shock wave velocity , formula_8 is the particle velocity , and formula_9 is the internal energy per unit reference specific volume .
+the netherlands also has a relatively low gini coefficient of 0.326 .
+the car seats five in a functional , accessible interior and has an innovative wedge design with a low 0.276 drag coefficient .
+pressure coefficient .
+ifk göteborg has an identical coefficient value to that of aik stockholm .
+after the conclusion of the 2007/08 season , chelsea became the highest ranked club under uefa 's five - year coefficient system used in the seeding of european club competitions in the following season , the first english club to do so in the 21st century .
+this classical expression for the second virial coefficient was first derived by l. s.
+helium has a negative joule - thomson coefficient at normal ambient temperatures , meaning it heats up when allowed to freely expand .
+where formula_11 is an operator which extracts the coefficient of formula_12 in what follows it .
+in fact the binomial coefficient formula_10 takes these values for " n " = 0 ( since by convention formula_11 ( unlike formula_12 , which by convention takes value 0 when formula_4 , which is why the former expression is the one used in the statement of the theorem ) .
+early work on the distribution of the sample correlation coefficient was carried out by r. a. fisher
+given the " n " × " n " coefficient matrix " a"("t " ) we want to solve the initial value problem associated with the linear ordinary differential equation
+roughly , at the efficient operation of laser , the power formula_7 of heat generated in the gain medium is proportional to the output power formula_8 of the laser , and the coefficient formula_9 of proportionality can be interpreted as heat generation parameter ; then , formula_10 the heat generation parameter is basically determined by the quantum defect of the laser action , and one can estimate formula_11 , where formula_12 and formula_13 are frequency of the pump and that of the lasing .
+mexico is noted as one of the 15 worst countries regarding income distribution and in 2000 , the gini coefficient was.546 ; however this number for monterrey may deviate due to stronger economic development and growth in the northern states .
+the reduced participation in the london dispersion force makes the solid polytetrafluoroethylene ( ptfe ) slippery as it has a very low coefficient of friction .
+the classification of partial differential equations can be extended to systems of first - order equations , where the unknown " u " is now a vector with " m " components , and the coefficient matrices formula_79 are " m " by " m " matrices for formula_80 .
+torsion coefficient .
+using the wkb approximation , one can obtain a tunnelling coefficient that looks like
+under weak conditions on the sample distribution , the probability distribution of the coefficient of variation is known .
+the top ar layer has usually a naoh surface texturation with several pyramids in order to increase the transmittion coefficient formula_48 , the trapping of the light in the material ( because photons can not easily get out the mj structure due to pyramids ) and therefore , the path length of photons in the material .
+a small linear attenuation coefficient indicates that the material in question is relatively transparent , while a larger values indicate greater degrees of opacity .
+the transmission coefficient in each case is given by " t"s = 1 − " r"s and " t"p = 1 − " r"p .
+each covariance term , formula_13 can be expressed in terms of the correlation coefficient formula_14 by formula_15 , so that an alternative expression for the variance of " f " is
+denote by " a " the coefficient ring formula_11 or formula_12 , depending on whether or not " x " is orientable .
+this cosine similarity metric may be extended such that it yields the jaccard coefficient in the case of binary attributes .
+where ρ is the correlation coefficient between " x " and " y " and
+they are determined by an abelian coefficient group " g " , and denoted by h("x " , " g " ) ( where
+lift coefficient .
+due to its high thermal coefficient of resistance , vanadium(v ) oxide finds use as a detector material in bolometers and microbolometer arrays for thermal imaging .
+we should expect formula_31 to be small compared with unity , so the coefficient of formula_2 ( the ' stiffness ' term ) will be positive , provided formula_33 .
+handloaders particularly appreciate the adequate neck length of jonson rounds as this feature allows the use of high ballistic coefficient bullets .
+the arc - tube seals of high pressure sodium vapor lamps are made from niobium , or niobium with 1% of zirconium , because niobium has a very similar coefficient of thermal expansion to the sintered alumina arc tube ceramic , a translucent material which resists chemical attack or reduction by the hot liquid sodium and sodium vapour contained inside the operating lamp .
+nevertheless , in deciding against competing , they cited reasons including the possibility that taking part with such a stunted team may actually damage the club 's record and reputation , as well as contribute to a devaluation of the league 's uefa coefficient , which the club 's past results had helped raise and consolidate over the previous number of seasons .
+this may have been generalized from the special case of biological systems , where the " q"10 ( temperature coefficient ) is often between 1.5 and 2.5 .
+the coefficient of a term may be any number from a specified set .
+exafs spectra are displayed as graphs of the absorption coefficient of a given material versus energy , typically in a 500 – 1000 ev range beginning before an absorption edge of an element in the sample .
+under this definition , one can show that reliability of the test and the criterion places an upper limit on the possible correlation between them ( the so - called validity coefficient ) .
+for a more general coefficient ring , the same construction works if we take the free module on " n " generators .
+the major component of the world 's income inequality ( the global gini coefficient ) is comprised by two groups of countries ( called the " twin peaks " by quah [ 1997 ] ) .
+these alloys have the best reversible temperature coefficient of all rare earth alloys , typically being -0.03%/°c .
+cv = flow coefficient or flow capacity rating of valve .
+inappropriate exclusion of the intercept or deterministic time trend term leads to bias in the coefficient estimate for " δ " , leading to the actual size for the unit root test not matching the reported one .
+teams were divided into four pots , based on their club coefficient .
+although income inequality in india is relatively small ( gini coefficient : 32.5 in year 1999- 2000 ) it has been increasing of late .
+the rightmost term in the formula , consisting of the two numbers " n " + 1 and 2 on top of each other within parentheses , is the standard mathematical notation for a binomial coefficient that counts the number of distinct pairs to be selected from " n " + 1 objects .
+for each species and wavelength , ε is a constant known as the molar absorptivity or extinction coefficient .
+sic also has a very low coefficient of thermal expansion ( 4.0 × 10−6/k ) and experiences no phase transitions that would cause discontinuities in thermal expansion .
+tight tolerance resistors may have three bands for significant figures rather than two , and/or an additional band indicating temperature coefficient , in units of ppm / k.
+for a first approximation , a flow coefficient of 0.62 can be used as this approximates to fully developed flow .
+the degree of expansion divided by the change in temperature is called the material 's coefficient of thermal expansion and generally varies with temperature .
+coefficient of active earth pressure at rest
+the ' zero - risk facility ' comment reflects the reactor design which is a pin - type low enriched uranium natural circulation driven lwr , with a very strong negative temperature coefficient .
+in combinatorial mathematics , the number of choices of " z " objects among " n " is the binomial coefficient c"n'z " .
+flaps increase the drag coefficient of an aircraft because of higher induced drag caused by the distorted spanwise lift distribution on the wing with flaps extended .
+a coefficient " ni " is called multiplicity of " vi " in " v " .
+it can be used to measure young 's modulus , shear modulus , poisson 's ratio and damping coefficient in a non destructive way .
+but if we shift " h"("x " ) to " h"("x " + 3 ) = " x"2 + 7"x " + 14 we see instantly that the prime 7 divides the coefficient of " x " and the constant term and that 49 can not divide 14 .
+in chemical kinetics , the preexponential factor or a factor is the pre - exponential constant in the arrhenius equation , an empirical relationship between temperature and rate coefficient .
+therefore , after combining like terms , the coefficient of " x'n"−2"y"2 will be equal to the number of ways to choose exactly 2 elements from an " n "- element set .
+formula_4 - coefficient of reflectivity of the object
+the results were encouraging , producing for example curves of lift coefficient versus angle of incidence that increased linearly in the normal way and then flattened without the usual decrease in lift associated with the stall .
+very rarely does an after market spoiler or body kit improve performance , the majority add weight and increase the drag coefficient of the vehicle and thus reduce its overall performance .
+the number of ways of distributing " ni " particles among the " gi " sublevels of an energy level is given by the binomial coefficient , using its combinatorial interpretation
+any constant - coefficient pde whatsoever can be realized as a reduction of the ultrahyperbolic wave equation in possibly more variables .
+where formula_2 is the radius of the bubble , formula_3 is the polytropic coefficient , formula_4 is the ambient pressure , and formula_5 is the density of water .
+the last value , " c " , is also called the constant term of the polynomial and can be thought of as the coefficient of " x"0 .
+the degree and the leading coefficient of the hilbert polynomial of a graded commutative algebra " s " are related with the dimension and the degree of the projective algebraic variety proj " s " .
+the coefficient of formula_18 is negative , so the vehicle will be unstable .
+where " r " is any number , usually between 0 ( for hysteretic ) and 1 ( for viscous ) , and " a " is a general damping ( " h " for hysteretic and " c " for viscous ) coefficient .
+constant - coefficient linear ode .
+where the approximating function " y"("x " ) is represented as a sum of " n " radial basis functions , each associated with a different center " c'i " , and weighted by an appropriate coefficient " w'i " .
+network average clustering coefficient .
+the resulting power increase would rapidly be quelled by the effect of the negative temperature coefficient but may cause the reactor to shut down prematurely .
+a circulation control wing ( ccw ) is a form of high - lift device for use on the main wing of an aircraft to increase the lift coefficient .
+the lp-80 calculates lai by means of measuring the difference between light levels above the canopy and at ground level , and factoring in the leaf angle distribution , solar zenith angle , and plant extinction coefficient .
+the number 1 − " α " ( sometimes reported as a percentage 100%·(1 − " α " ) ) is the confidence level , sometimes called the confidence coefficient .
+indios de ciudad juárez was relegated the previous season after accumulated the lowest coefficient over the past three season .
+with " t " the moment of calculation ; " cap " the free float market cap of a specific listing and " j " a coefficient used to adjust the index on the back of capital increases or other corporate actions so as to ensure continuity .
+teams with a coefficient of at least 1.933 were seeded .
+if the characteristic of the coefficient ring is 2 , there is no difference between the two concepts : the alternating polynomials are precisely the symmetric polynomials .
+he finds that the general coefficient of sin " nx " in the series is
+where " fio " is the molar flow rate inlet of species " i " , " fi " the molar flow rate outlet , and formula_3 stoichiometric coefficient .
+liquid - fluoride reactors have many attractive features , such as deep inherent safety ( due to their strong negative temperature coefficient of reactivity and their ability to drain their liquid fuel into a passively - cooled and non - critical configuration ) and ease of operation .
+binomial coefficient with n=1/2 .
+the international table tennis federation specifies that the ball must have a coefficient of restitution of 0.94 .
+these not - redundant cross - correlations are summed to obtain the multiple coefficient of determination " r"2 .
+if the degree of the polynomial " p " is defined in the usual way , the polynomial " p " is called monic if at least one of its terms of highest degree has coefficient equal to 1 .
+note that estimating the heat transfer coefficient may be quite tricky .
+in population genetics , selection pressure is usually expressed as a selection coefficient .
+however , half - pass , renvers , canter pirouettes , and tempi changes were included , with the highest coefficient on the one - tempis .
+if we formally multiply out this product and collect all the " x"2 terms ( we are allowed to do so because of newton 's identities ) , we see that the " x"2 coefficient of sin("x")/"x " is
+even after such a restriction , the coefficient of amplification may depend on the amplitude
+for " k " > 2 , the coefficient " ak " for the " zk " term can be computed recursively as
+where α"i " is called the asset 's alpha and β"i " the asset 's beta coefficient .
+quartile coefficient of dispersion .
+it reflects all other factors that influence the uncertainty in the coefficient estimates .
+according to jbm ballistics , using the g7 ballistic coefficient provided by bryan litz , the 7.62 mm m118 long range 7.62x51 mm nato cartridge , when fired at its nominal muzzle velocity of 786 m / s ( 2,580 ft / s ) , should have approximately 878 m ( 960 yd ) supersonic range under international standard atmosphere conditions at sea level ( air density ρ = 1.225 kg / m3 ) .
+to show this correspondence explicitly , consider the qubit description of the bloch sphere ; any state formula_1 can be written as a complex superposition of the ket vectors formula_2 and formula_3 ; moreover since phase factors do not affect physical state , we can take the representation so that the coefficient of formula_2 is real and non - negative .
+a gröbner basis is termed " reduced " if the leading coefficient of each element of the basis is 1 and no monomial in any element of the basis is in the ideal generated by the leading terms of the other elements of the basis .
+if this bandwidth is comparable to the width of the absorption features , then the measured extinction coefficient will be altered .
+pearson product - moment correlation coefficient .
+according to schlick 's model , the specular reflection coefficient " r " is given by
+is the ordinary correlation coefficient multiplied by the variance of the actual changes and divided by the variance of the predicted changes .
+in quantum tunneling through a single barrier , the transmission coefficient , or the tunneling probability , is always less than one ( for incoming particle energy less than the potential barrier height ) .
+with " w " as grinding work in kj / kg , " c " as grinding coefficient , " d"a as grain size of the source material and " d"e as grain size of the ground material .
+the bullet is a 4.1 g ( 63 gr ) tombac jacketed fmj projectile with a ballistic coefficient of 0.331 ( icao ) / 0.337 ( army metro ) .
+in the general case of a gas , liquid , or solid , the coefficient of thermal expansion is given by
+the drag coefficient was 0.30 " c'd " .
+furthermore the absolute value of the coefficient of " m " is the sum , over all " distinct " sequences of elementary symmetric functions whose product is " m " , of the index of the last one in the sequence : for instance the coefficent of formula_27 in the expression for " p"20 will be formula_28 , since of all distinct orderings of the five factors " e"1 , one factor " e"3 and three factors " e"4 , there are 280 that end with " e"1 , 56 that end with " e"3 , and 168 that end with " e"4 .
+minimising air - drag entails having a reasonably high ballistic coefficient , which generally means having a launch vehicle that is about long .
+on each iteration , a choice of coefficient is made from a set of nine complex numbers , 1 , 0 , −1 , i , −i , 1+i , 1−i , −1+i , −1−i , rather than only −1 or + 1 as used by cordic .
+for example , a sample pearson correlation coefficient of 0.1 is strongly statistically significant if the sample size is 1000 .
+the only weapon allowed for hunting chamois is rifle , with a 5.6x50 mm caliber coefficient or better .
+using the variable list above , he optimized for only a single point - a lift coefficient of 0.42 and a speed of mach 0.87 , just above cruising .
+the slugs are generally significantly smaller than the bore diameter , increasing the ballistic coefficient , and use the sabot to seal the bore and keep the slug centered in the bore while it rotates with the rifling .
+when normalized by dividing by the variance σ2 then the autocovariance becomes the autocorrelation coefficient ρ. that is
+in fig . 2 , for instance , a calculation of the pearson correlation coefficient yields r = 0.574 .
+the rayleigh scattering coefficient for a group of scattering particles is the number of particles per unit volume " n " times the cross - section .
+by running the diffusion with an edge seeking diffusion coefficient for a certain number of iterations , the image can be evolved towards a piecewise constant image with the boundaries between the constant components being detected as edges .
+formula_3 ( commonly called " k1 factor " ) is a coefficient that encapsulates process - related factors , and typically equals 0.4 for production .
+the gini coefficient , a common measure of income inequality , reached its lowest level for british households in 1977 .
+it was unusually aerodynamic for its era , with a very low drag coefficient of 0.26 .
+the alpha coefficient ( formula_1 ) is a parameter in the capital asset pricing model ( capm ) .
+" c " is also the coefficient of " x " , and may be called the constant of proportionality of " y " to " x " .
+so e is normally increased to 5 , if the coefficient is less than five , or decreased to thirty if e is higher than 30 .
+the torsion coefficient could be calculated from this and the mass and dimensions of the balance .
+an example of this is the measurement of the diffusion coefficient of a fluorescent lipid analogue in soybean protoplasts .
+warning : some people write " binomial number " when they mean binomial coefficient , but this usage is not standard .
+certain difference equations , in particular linear constant coefficient difference equations , can be solved using z - transforms .
+having obtained a considerable popularity in the toy market in argentina , the " rasti " was exported to countries such as canada and germany ( from where the original design came ) until its production moved to brazil where its license was granted to the company hering , and remained in production for several years although with lower quality ( the shafts were made in a single piece of plastic with a low coefficient of rigidity ) .
+if 's ' is the deleterious selection coefficient ( the decrease in relative fitness ) , then the equilibrium frequency ' f ' of an allele in mutation - selection balance is approximately formula_3 in haploids , or for the case of a dominant allele in diploids .
+the coefficient of luminous intensity , " ri " , is the measure of a reflector performance , which is defined as the ratio of the strength of the reflected light ( luminous intensity ) to the amount of light that falls on the reflector ( normal illuminance ) .
+colombia 's gini coefficient ( a measurement of inequality in wealth distribution ) was 0.51 in 2000 and 0.56 in 2006 , making it the second - most unequal country in latin america terms of wealth distribution , after brazil .
+the coefficient " c " controls the height of the parabola , more specifically , it is the point where the parabola crosses the " y "- axis .
+typically temperate ( köppen climate classification c ) and arid ( köppen climate classification b ) climate rivers in australia and southern africa have as much as three times the coefficient of variation of runoff of those in other continental regions .
+in the context of polynomials , sometimes " term " is used for a monomial with a coefficient : to ' collect like terms ' in a polynomial is the basic operation of making it a linear combination of distinct monomials .
+krippendorff 's alpha coefficient is a statistical measure of the agreement achieved when coding a set of units of analysis in terms of the values of a variable .
+typically , a reflection coefficient series from a well within the boundaries of the seismic survey is used to estimate the wavelet phase and frequency .
+because fitness is a coefficient , and a variable may be multiplied by it several times , biologists may work with " log fitness " ( particularly so before the advent of computers ) .
+in elementary reactions , the reaction order , the molecularity and the stoichiometric coefficient are the same , although only numerically , because they are different concepts .
+psg was also ranked 1st in the uefa coefficient of top clubs in 1998 .
+in this case the pearson correlation coefficient does not indicate that there is an exact functional relationship : only the extent to which that relationship can be approximated by a linear relationship .
+in contrast , the " marginal effect " of " x'j " on " y " can be assessed using a correlation coefficient or simple linear regression model relating " x'j " to " y " .
+however each element of the core has a specific temperature coefficient of reactivity ( e.g. the fuel or cladding ) .
+it has a high lipid solubility ( oil : gas coefficient around 950 ) giving it a very slow onset / offset , this being undesirable for anesthetic purposes .
+rolling resistance coefficient examples .
+the coefficient 3 corresponds to the fact that there are 3 ways of partitioning 4 objects into groups of 2 ( 4c2 ÷ 2 ) .
+the change in reactivity caused by a change of voids inside the reactor is directly proportional to the " void coefficient " .
+suppose we have a constant coefficient , mth order inhomogeneous ordinary differential equation .
+the original design was a saturated cadmium cell producing a convenient 1.018638 volt reference and had the advantage of having a lower temperature coefficient than the previously used clark cell .
+for the ring lattice the clustering coefficient is formula_38 which is independent of the system size .
+for example , the naca 12045 airfoil would give an airfoil with maximum thickness of 45% chord , located at 10% chord , with a lift coefficient of 0.15
+to find all the roots of a given polynomial formula_15 with coefficient vector formula_16 simultaneously is now the same as to find a solution vector to the system
+since activity is the product of concentration and activity coefficient ( γ ) the definition could also be written as
+austenitic grades of stainless steels tend to be the most weldable , but they are especially susceptible to distortion due to their high coefficient of thermal expansion .
+here , the coefficient " h " in the exponential , the hubble constant , is
+how likely the interval is to contain the parameter is determined by the confidence level or confidence coefficient .
+the ballistic model is also detailed , taking into account drag coefficient properties , muzzle velocity , and mass of each individual type of ammunition .
+the decomposability is a property of the theil index which the more popular gini coefficient does not offer .
+recent theories revolve around questions about what variables or inputs correlate or affect economic growth the most : elementary , secondary , or higher education , government policy stability , tariffs and subsidies , fair court systems , available infrastructure , availability of medical care , prenatal care and clean water , ease of entry and exit into trade , and equality of income distribution ( for example , as indicated by the gini coefficient ) , and how to advise governments about macroeconomic policies , which include all policies that affect the economy .
+an example of such a special.375 caliber extreme range bullet is the german cnc manufactured mono - metal 26.44 gram ( 408 gr).375 viking ( g1 bc ��1.537 ��this ballistic coefficient ( bc ) is calculated by its designer , mr. lutz möller , and not proven by doppler radar measurements ) .
+the 300 , 320 and 340 were named after their heights in centimetres , whereas the 425 was named after its drag coefficient , emphasising its aerodynamic design .
+if the unit ampere meter is used instead , the coefficient is μ0 / ( 4 π ) , which is exactly 107 vs / am .
+the warburg coefficient ( or warburg constant ) , formula_1 , is the diffusion coeffient of ions in solution , associated to the warburg element , formula_2 .
+chilean regions by their gini coefficient .
+due to the lack of power provided by the laser , the commander is also equipped with the most powerful weapon in the game , speaking strictly of its damage coefficient .
+about two billion years ago , a water - saturated uranium deposit ( in what is now the oklo mine in gabon , west africa ) underwent a naturally occurring chain reaction that was moderated by groundwater and , presumably , controlled by the negative void coefficient as the water boiled from the heat of the reaction .
+the result is a reasonable tolerance ( 0.5 , 1 , or 2% ) and a temperature coefficient of ( usually ) 25 or 50 ppm / k.
+corrado gini ( may 23 , 1884 - march 13 , 1965 ) was an italian statistician , demographer and sociologist who developed the gini coefficient , a measure of the income inequality in a society .
+the gini coefficient measures income inequality on a scale from 0 to 1 .
+as a result , brazil has amongst the highest income inequality in the world , ranking 49.3 in the gini coefficient index , with the richest 10% of brazilians receiving 42.7% of the nation 's income , while the poorest 10% receive less than 1.2% .
+voltage reflection coefficient .
+this allows one to produce common curves such as lift coefficient versus angle of attack ( shown ) .
+in many situations in aerodynamics and hydrodynamics , the pressure coefficient at a point near a body is independent of body size .
+then we can also define the clustering coefficient as
+a good guttman scale should have a coefficient of reproducibility ( the percentage of original responses that could be reproduced by knowing the scale scores used to summarize them ) above.85 .
+the calculation of semantic similarities may be in the form of a numerical coefficient , or an ontology showing the information present in the first ontology and missing in the second .
+these samarium cobalt magnets generally have a reversible temperature coefficient of -0.05%/°c .
+a positive void coefficient means that the reactivity increases as the void content inside the reactor increases due to increased boiling or loss of coolant ; for example , if the coolant acts as a neutron absorber .
+formula_119 is a polynomial in the variable formula_5 , has degree at most formula_32 , and the coefficient of formula_122 is formula_123 .
+the characteristic polynomial of " h'n " minimizes ||"p"("a")"q"1||2 among all monic polynomials of degree " n " ( the word " monic " means that the leading coefficient is 1 ) .
+the exact choice of quiescent current , the standing current through both devices when there is no signal , makes a large difference to the level of distortion ( and to the risk of thermal runaway , that may damage the devices ) ; often the bias voltage applied to set this quiescent current has to be adjusted with the temperature of the output transistors ( for example in the circuit at the beginning of the article the diodes would be mounted physically close to the output transistors , and chosen to have a matched temperature coefficient ) .
+generally , the drag coefficient peaks at mach 1.0 and begins to decrease again after the transition into the supersonic regime above approximately mach 1.2 .
+before 2004 the contribution of the country coefficient was 50% .
+bare alumina ( η ≈ 1.77 , " k " ≈ 10 −6 ) has a negligible extinction coefficient and reflects only 8% of the incident light from the microscope .
+the temperature coefficient of energy divided by a substance - like quantity ( amount of substance , mass , volume ) describing the sample .
+both representations follow easily from parseval 's theorem and the fact that differentiation is equivalent to multiplying the fourier coefficient by " in " .
+therefore a coefficient must be determined to convert apparent depth changes to true depth changes .
+even though , theoretically , it seems as if m can increase without limit ( exponentially ) , physically , it is limited to about m < 108 or αx < 20 ( where α is the first townsend coefficient and x is the length of the path of ionization , starting from the point of the primary ionization .
+the league coefficient is used to rank the leagues of europe , and thus determine the number of clubs from a league that will participate in uefa champions league and uefa europa league .
+income inequality , measured by the gini coefficient is how evenly incomes are distributed through the population .
+most dry materials in combination have friction coefficient values between 0.3 and 0.6 .
+reactors in which either the moderator or the coolant is a liquid typically will have a void coefficient value that is either negative ( if the reactor is under - moderated ) or positive ( if the reactor is over - moderated ) .
+complementary to " r " is the " transmission coefficient " or " transmittance " , " t " .
+its resistivity is high enough to achieve suitable resistance values in even very small grids , and its temperature coefficient of resistance is not excessive .
+when various barriers and restricting factors such as cell membranes and microtubules interfere with the free diffusion , we are measuring an " apparent diffusion coefficient " or adc because the measurement misses all the local effects and treats it as if all the movement rates were solely due to brownian motion .
+the c6 comes close to retaining the relatively good fuel economy of the c5 , due in part to its relatively low.28 drag coefficient and low curb weight , achieving 16/26 mpg ( city / highway ) when equipped with an automatic transmission .
+as phase values can only vary from zero to 2π , then repeat in either direction ( termed phase wrapping ) , changing the piston coefficient changes the zero phase value contour locations across the wavefront .
+the multiplicity of " w'k " at class(d ) is the binomial coefficient
+in 1929 , national advisory committee for aeronautics ( naca ) investigations found that the upper wing carried a higher lift coefficient than the lower wing — at high speeds it could be 2.55 times as much .
+for approximately gaussian data , the sampling distribution of pearson 's correlation coefficient approximately follows student 's t - distribution with degrees of freedom " n " − 2 .
+such reactors would be described as fitted with such a " passive safety " component that could - if so designed - render in a reactor a negative void coefficient of reactivity , regardless of the operational property of the reactor in which it is fitted .

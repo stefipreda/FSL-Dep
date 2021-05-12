@@ -1,0 +1,255 @@
+if " m " is a metric space with metric " d " , and " ~ " is an equivalence relation on " m " , then we can endow the quotient set " m/~ " with the following ( pseudo)metric .
+applying an equivalence transformation that consists of clearing the fractions this example is simplified to
+the ukcp represents the united kingdom in the european association for psychotherapy ( eap ) based in vienna , which sets standards for equivalence of training and practice throughout europe .
+michael tenzer suggests its use for balinese gamelan music since the octaves are not 2:1 and thus there is even less octave equivalence than in western tonal music ( tenzer , 2000 ) .
+one of the main uses of a propositional calculus , when interpreted for logical applications , is to determine relations of logical equivalence between propositional formulæ .
+the bilipschitz equivalence of word metrics implies in turn that the growth rate of a finitely generated group is a well - defined isomorphism invariant of the group , independent of the choice of a finite generating set .
+statin equivalence .
+it also follows from the properties of an equivalence relation that
+suppose we have some set " s " of objects , with an equivalence relation .
+the labelled enumeration theorem is the counterpart of the pólya enumeration theorem for the labelled case , where we have a set of labelled objects given by an exponential generating function ( egf ) " g"("z " ) which are being distributed into " n " slots and a permutation group " g " which permutes the slots , thus creating equivalence classes of configurations .
+a graph of the titration curve exhibits an inflection point at the equivalence point .
+an " r "- jet is an equivalence class under this relation , and the " r "- jet with representative formula_15 is denoted formula_16 .
+the procedure for translating to legal equivalence differs from country to country .
+is the space of equivalence classes of lie algebra extensions
+a combinatorial proof establishes the equivalence of different expressions by showing that they count the same object in different ways .
+at the english universities , students who have graduated from an american - style high school program enter at the freshman level to earn their baccalaureate equivalence from the lebanese ministry of higher education .
+a classical knot can also be considered an equivalence class of gauss diagrams under certain moves on coming from the reidemeister moves .
+and , when one considers ambient isotopy of the knots without regard to orientation , there are two distinct equivalence classes : and .
+aix/370 was released in 1990 with functional equivalence to system v release 2 and 4.3bsd as well as ibm enhancements .
+it tends slightly further in the direction of " dynamic equivalence " than those translations , but still translates hebrew poetry as poetry and reflects at least some of the characteristics of that poetry .
+one might then think to define a subobject of " x " as an equivalence class of monics " m " : x ' → " x " having the same image or range .
+the aks primality test is based upon the equivalence
+note that formula_10 does not imply formula_11 but it does imply that the " consequences " of formula_12 and formula_13 are identical ; and indeed this induces an equivalence relation .
+the end point ( similar , but not the same as the equivalence point ) refers to the point at which the indicator changes color in a colorimetric titration .
+the us army in the summer of 1974 faced the choice between the german system and their own burlington , a decision made more difficult by the fact that burlington offered , compared with steel armour , no weight advantage against ke - penetrators : the total armour system would have a rha equivalence against them of about 350 mm ( compared to about 700 mm against shaped charges ) .
+the previous intrinsic rotations equivalence is normally used to name the possible conventions of euler angles .
+given a map formula_3 , the mapping cone formula_1 is defined to be the quotient topological space of formula_5 with respect to the equivalence relation formula_6 , formula_7 on " x " .
+mathematically , free polyominoes are equivalence classes of fixed polyominoes under the group formula_4 .
+in recursion theory , these equivalence classes are called the degrees of the reducibility relation .
+examples of equivalence relations .
+because of controversies surrounding icel 's use of dynamic equivalence and gender - inclusive language , by order of joseph cardinal ratzinger , who later became pope benedict xvi , the imprimatur was revoked in 1998 by bishop anthony m. pilla .
+much of the early work establishing the convergence and equivalence of series regularized with the heat kernel and zeta function regularization methods was done by g.h. hardy and j.e. littlewood in 1916 and is based on the application of the cahen - mellin integral .
+this theory is based on principles like the equivalence principle , the general principle of relativity , the principle of general covariance , geodesic motion , local lorentz covariance ( the laws of special relativity apply locally for all inertial observers ) , and that spacetime curvature is created by stress - energy within the spacetime .
+this simplification is commonly known as octave equivalence .
+currently , the system performs five major tasks , namely , displaying equivalence and tolerance classes for an image , performing segmentation evaluation , measuring the nearness of two images , and displaying the output of processing an image using an individual probe functions .
+any two detailed configurations in the same equivalence class are related by a gauge transformation , equivalent to a shear along unphysical axes in configuration space .
+some physicists , for example asher peres and chris fuchs , seem to argue that an interpretation is nothing more than a formal equivalence between sets of rules for operating on experimental data .
+then formula_3 is an equivalence relation on formula_2 , and formula_1 induces a wellordering on the quotient formula_8 .
+however , finitely generated word metrics are unique up to bilipschitz equivalence : if formula_59 , formula_60 are two symmetric , finite generating sets for g with corresponding word metrics formula_61 , formula_62 , then there is a constant formula_63 such that for any formula_64 ,
+he noted that a freefalling observer in a closed box would not be able to detect the force of gravity ; hence , freefalling reference frames are equivalent to an inertial reference frame ( the equivalence principle ) .
+see also coset and equivalence relation .
+in 1615 , in " de recognitione œquationum " published by anderson , twenty chapters fairly repetitive , there are the relationship between roots and coefficients , equations in which the unknown is given by relation between his first and his cubic power , how to make off the second term of an equation ( or ferrari 's method for solving equations of degree 4 ) and the equivalence between equations of the third degree and knowledge of the first of four quantities continually proportional , and of the difference between the second and fourth , in order to find the second .
+it is an equivalence relation .
+abaye thus said that in connection with good deeds , the principle of measure for measure does not apply strictly with equivalence .
+all metric theories satisfy the einstein equivalence principle , which in modern geometric language states that in a very small region ( too small to exhibit measurable curvature effects ) , all the laws of physics known in special relativity are valid in " local lorentz frames " .
+this equivalence was explicitely stated in the alphonse de candolle 's " lois de la nomenclature botanique " ( 1868 ) , the precursor of the currently used " international code of botanical nomenclature " .
+comparing equivalence relations .
+" numerical equivalence " of 1-cycles is defined by intersections : two 1-cycles formula_8 and formula_9 are numerically equivalent if formula_10 for every cartier divisor formula_11 on formula_1 .
+if " z " and " x " are objects of a model category such that " z " is cofibrant and there is a weak equivalence from " z " to " x " then " z " is said to be a cofibrant replacement for " x " .
+by definition , any other " a"∞-operad has a map to " a " which is a homotopy equivalence .
+ksp0("x " ) is the ring of stable equivalence classes of quaternionic vector bundles over " x " .
+the equivalence is shown by translation in each direction of the theorems of the respective systems .
+later on , brown , douglas and fillmore observed that the fredholm index was the missing ingredient in classifying essentially normal operators up to certain natural equivalence .
+in the heegaard splitting , formula_3 bounds two different 3-manifolds ; the space of flat connections modulo gauge equivalence on each 3-manifold with boundary ( equivalently , the space of connections on formula_3 that extend over each three manifold ) is a lagrangian submanifold of the space of connections on formula_3 .
+the shape of object can be considered as a member of an equivalence class
+the informal interpretations of and are " the number halfway between 0 and 1 " and " the number halfway between −1 and 0 " respectively ; their equivalence classes are labeled 1/2 and −1/2 .
+donald burdick of the cincinnati bible college and seminary states that there are three general approaches to bible translations : ( 1 ) concordant , ( 2 ) free paraphrase , and ( 3 ) closest equivalence .
+this equivalence implies that mass should be interconvertible with other forms of energy .
+a rule of thumb equivalence from seismology used in the study of nuclear proliferation asserts that a one kiloton nuclear explosion creates a seismic signal with a magnitude of approximately 4.0 .
+pharmaceutical equivalence implies the same amount of the same active substance(s ) , in the same dosage form , for the same route of administration and meeting the same or comparable standards . "
+vandana shiva concluded : " a very convenient tool called substantial equivalence principle was cooked up to say ' let 's just treated [ sic ? ] genetically engineered organisms like conventional crops ' .
+if " f " is surjective , this topology is canonically identified with the quotient topology under the equivalence relation defined by " f " .
+the principle behind these counterintuitive projectile weight variations during flight are explained in more detail in the equivalence principle article dealing with the physics of general relativity .
+the projection of ~ is the function formula_5 defined by formula_6 which maps elements of " x " into their respective equivalence classes by ~.
+equivalence ( measure theory ) .
+together with assaf razin and robert rosenthal , kotlikoff showed in that dropping the unrealistic assumption that transfers are taken as given and permitting individuals to refuse transfers ( e.g. , refusing your mother 's offer of an extra helping of cabbage ) invalidates barro 's proposition of ricardian equivalence .
+topological conjugation defines an equivalence relation in the space of all continuous surjections of a topological space to itself , by declaring formula_8 and formula_9 to be related if they are topologically conjugate .
+in 1962 , caspar and aaron klug introduced the concept of quasi - equivalence to account for the arrangement of proteins on the surface of icosahedral virus particles .
+we denote by [ ( " m"1,"n"1 ) ] the equivalence class containing ( " m"1,"n"1 ) .
+due to their logical equivalence , stating one is effectively the same as stating the other , and where one is true , the other is also true ( likewise with falsity ) .
+for example , formula_46 then expresses the beautifully simplifying equivalence of mass and energy .
+the by menezes , oorschot and vanstone considers this equivalence probable , however , as long as the finding of the roots remains a two - part process ( 1 . roots formula_48 and formula_49 and 2 .
+if a can breed with b , and b can breed with c , it does not follow that a can breed with c – and thus does not define an equivalence relation .
+equivalence .
+in essence , the free monoid is simply the set of all words , with no equivalence relations imposed .
+in 1856 , german physicist rudolf clausius defined the " second fundamental theorem " ( the second law of thermodynamics ) in the mechanical theory of heat ( thermodynamics ) : " if two transformations which , without necessitating any other permanent change , can mutually replace one another , be called equivalent , then the generations of the quantity of heat " q " from work at the temperature " t " , has the " equivalence - value " : "
+formally , an " unordered selection " is an equivalence class
+this is supported by the general theory of relativity due to the equivalence principle that states that all accelerated reference frames are physically equivalent to a gravitational field of the same strength .
+the original scc paper ( barber , 1982 ) explored two toy theories , the first of which was rejected in that paper on the grounds of a gross violation of the equivalence principle .
+the equivalence of measurement of energy per unit area to force per unit length can be proven by dimensional analysis .
+the vanishing of the pseudometric induces an equivalence relation , called the metric identification , that converts the pseudometric space into a full - fledged metric space .
+this establishes logical equivalence .
+the cyclone , which was the equivalence of a category 4 hurricane on the saffir - simpson hurricane scale , crossed the island and struck the florida keys as a major hurricane .
+laboratory equivalence principle composition and spin tests are supported by observation of binary pulsar psr j0737 - 3039 ( , ) .
+specifically , in 1851 william thomson outlined the view , as based on recent experiments on the dynamical theory of heat , that " heat is not a substance , but a dynamical form of mechanical effect , we perceive that there must be an equivalence between mechanical work and heat , as between cause and effect . "
+a famous example is winry rockbell from " fullmetal alchemist " , who was spelled as both winry and winly by different groups due to the equivalence of the alveolar approximant and alveolar lateral approximant in japanese .
+samuel formalized the concept of an adequate equivalence relation in 1958 .
+for negative numbers , the equivalence breaks down .
+equivalence kernel .
+olive , remaining away from land masses , eventually attained the equivalence of category 5 intensity on the saffir - simpson hurricane scale .
+the equivalence of non - deterministic büchi automaton and deterministic muller automaton forms the substance of mcnaughton 's theorem .
+it is enough to take one representative per equivalence class of relation formula_10 defined as follows : formula_11 iff formula_2 and formula_3 differ at finite number of coordinates .
+the equivalence between the two definitions of hurwitz numbers ( counting ramified coverings of the sphere , or counting transitive factorizations ) is established by describing a ramified covering by its monodromy .
+conjugacy classes in the fundamental group of a path - connected topological space can be thought of as equivalence classes of free loops under free homotopy .
+the equivalence principle .
+more generally it has been shown that for any finite abstract simplicial complex " k " , there is a finite topological space " x'k " and a weak homotopy equivalence " f " : |"k"| → " x'k " where |"k"| is the geometric realization of " k " .
+formal equivalence .
+there is a conflict between the principle of free movement of labour - a cornerstone of the eu - and the right to practice osteopathy in different member states as there is cross - border equivalence in training and regulation of the profession .
+another part of the strong equivalence principle is the requirement that newton 's gravitational constant be constant in time , and have the same value everywhere in the universe .
+given some notion of equivalence ( e.g. , homeomorphism , diffeomorphism , isometry ) between
+the starting point for general relativity is the equivalence principle , which equates free fall with inertial motion .
+it was albert einstein 's concept of mass – energy equivalence ( 1905 ) that a body losing energy as radiation or heat was losing mass of amount " m " = " e"/"c"2 that resolved poincare 's paradox , without using any compensating mechanism within the ether .
+in the inner loop , all lower band completions for each of the band1 equivalence class are found and counted .
+the associated equivalence relation is defined by saying " x " ~ " y " if and only if there exists a " g " in " g " with " g"·"x " = " y " .
+the adjoint action is defined by thinking of an element of pu("n " ) as an equivalence class of elements of u("n " ) that differ by phases .
+extensions of the consort statement have been developed to give additional guidance for randomized trials with specific designs ( e.g. , cluster randomized trials , noninferiority and equivalence trials ) , data ( e.g. , harms , abstracts ) , and interventions ( e.g. , herbals medicinal intervention trials , non - pharmacologic treatment interventions ) .
+mass – energy equivalence .
+in a set - theoretic context , there is a simple structure to the general per formula_1 on formula_2 : it is an equivalence relation on the subset formula_13 .
+the table below lists the grades , the exam level and equivalence to the new national qualification exams and the scottish credit and qualifications framework ( scqf for short ) .
+intuitively , an algebraic space is a scheme modulo a " nice " equivalence relation ; the resulting category of algebraic spaces extends the category of schemes and allows to carry out several natural constructions that are needed for example in deformation theory or in the construction of moduli spaces but are not possible in the smaller category of schemes .
+in the mathematical field of combinatorics , jeu de taquin is a construction due to which defines an equivalence relation on the set of skew standard young tableaux .
+the vector space of ( equivalence classes of ) measurable functions on ( " s " , " σ " , " μ " ) is denoted " l"0("s " , " σ " , " μ " ) .
+however , the case on the valid side of the boundary is redundant , and so equivalence partitioning recommends skipping it .
+by the above equivalence , this is the same as the satisfiability of formula_35 .
+it is a form of partitioning cryptanalysis that exploits unevenness in how the cipher operates over equivalence classes ( congruence classes ) modulo " n " .
+mass - energy equivalence .
+ricardian equivalence .
+the version of maharam 's classification theorem that is most useful involves a point realization of the equivalence , and is somewhat of a folk theorem .
+equivalence of bdort and pmrt .
+lewis ' mythopoeic intent is often confused with allegory , where the characters and world of narnia would stand in direct equivalence with concepts and events from christian theology and history , but lewis repeatedly emphasized that an allegorical reading misses the point ( the mythopoeia ) of the narnia stories .
+between these models , bisimilarity is used as a semantic equivalence .
+when the vertices of a hypergraph are explicitly labeled , one has the notions of " equivalence " , and also of " equality " .
+groupoids are generalizations of groups , group actions and equivalence relations .
+such an " h " is called a homotopy from " f " to " g " , and the corresponding equivalence classes are called homotopy classes .
+note that the above derivation relies on the equivalence of inertial mass and gravitational mass .
+this construction proceeds as follows : on " r " × " s " define an equivalence relation ~ by setting ( " r"1,"s"1 ) ~ ( " r"2,"s"2 ) iff there exists " t " in " s " such that
+this equivalence - value was a precursory formulation of entropy .
+if ~ is an equivalence relation on " x " , and " p"("x " ) is a property of elements of " x " , such that whenever " x " ~ " y " , " p"("x " ) is true if " p"("y " ) is true , then the property " p " is said to be well - defined or a " class invariant " under the relation ~.
+the embedding is given by mapping " n " to the equivalence class of ( " en " , " e " ) .
+then the growth rate of the group " g " can be defined as the corresponding equivalence class of the function
+as sparse matrices lend themselves to more efficient computation than dense matrices , there has been much research focused on finding ways to minimise the bandwidth ( or directly minimise the fill in ) by applying permutations to the matrix , or other such equivalence or similarity transformations .
+these formal equivalence or literal translations have been continued with further modifications to the king james and revised versions , including the revised standard version ( 1952 ) , the new revised standard version ( 1989 ) , and the english standard version ( 2001 ) .
+action coupling mechanism offers an interesting foundation for intersubjectivity and social understanding because it provides a functional bridge between first - person information and third - person information , grounded on self - other equivalence , which allows analogical reasoning , and offers a possible , yet partial , route to understanding others .
+relation with equivalence and isomorphism .
+equivalence partitioning is a software testing technique that divides the input data of a software unit into partition of data from which test cases can be derived .
+predicates and functions of real numbers need to be defined for regular cauchy sequences and proven to be compatible with the equivalence relation .
+the equivalence principle classically and quantum mechanically .
+the set of formulae in free variables formula_41 over formula_21 up to this equivalence relation is a boolean algebra ( and is canonically isomorphic to the set of formula_21-definable subsets of formula_76 ) .
+namely , a function ( of " x " ) must be chosen within every ( or at least almost every ) equivalence class .
+logical equivalence between two propositions means that they are true together or false together .
+note that the equivalence between these three representations of the same decision - making situation makes no use of dummy variables .
+brown adhered to the principle of " essential equivalence " in the nuclear competition with the soviet union .
+using big o notation , which defines an equivalence relation on all functions .
+substantial equivalence is a starting point in the safety evaluation , rather than an endpoint of the assessment .
+consider the category whose objects are isomorphism classes of finite dimensional c*-algebras and whose morphisms are * -homomorphisms modulo unitary equivalence .
+according to the equivalence principle of general relativity , the rules of special relativity are " locally " valid in small regions of spacetime that are approximately flat .
+the elizabethan period of translation saw considerable progress beyond mere paraphrase toward an ideal of stylistic equivalence , but even to the end of this period — which actually reached to the middle of the 17th century — there was no concern for verbal accuracy .
+a partial " g "- partition of " s " is a set γ = of equivalence classes of " g "- labelled sets such that " b"1 ... , " b'k " are nonempty subsets of " s " that are pairwise disjoint .
+this would violate the strong equivalence principle that the laws of gravitation are independent of velocity and location , a principle considered fundamental by many theoretical physicists .
+in particular , this allows theorems similar to that asserting the equivalence of condition 1 and condition 2 , to hold in the context of topological spaces which do not necessarily have a neighbourhood basis about a point that is countable , or linearly ordered by inclusion .
+the proof actually shows that if " n " has greater dimension than " m " then there can be no homotopy equivalence between them .
+the equivalence follows from the definition of the inverse image .
+gottlob frege wrote about the non - equivalence between meaning and reference .
+in consequence , the joy was forced to a traffic agreement , raising its rates to equivalence with the railroad 's and limiting itself to local trade between new york and providence , rhode island .
+since taking a weight lattice is an equivalence of categories , short exact sequences of tori correspond to short exact sequences of the corresponding weight lattices .
+eötvös ' team followed this with a series of similar but more accurate experiments , as well as experiments with different types of materials and in different locations around the earth , all of which demonstrated the same equivalence in mass .
+the curriculum of these programmes is designed for equivalence , with respective similar academic programmes , offered by other statutory universities of various states .
+all the equivalent points form an equivalence class .
+specifically , source transformations are used to exploit the equivalence of a real current source and a real voltage source , such as a battery .
+the optical equivalence theorem in quantum optics says that the expectation value of any normally ordered function of creation and annihilation operators ,
+we could strengthen a6 to an equivalence formula_220 without impacting any of this , the other direction being provable from a5 , from which we see that if the antecedent of a6 does happen to be false somewhere , then the consequent " must " be false .
+this is not ' moral equivalence , ' as many like to claim without elaborating on what this term means , but rather a simple quality that infects all moral considerations , from courtroom sentencings to parental groundings .
+engineering from other institutions / universities in pakistan ( please refer to the minutes of the 10th meeting of the equivalence committee of erstwhile ugc , now hec higher education commission of pakistan ) held on november 25 , 1981 .
+the set of all such equivalence classes is denoted by " r"/"i " ; it becomes a ring , the factor ring or quotient ring of " r " modulo " i " , if one defines
+one aspect of this equivalence was also known to schrödinger who remarked that the equation named after him looked like the diffusion equation after wick rotation .
+the equivalence between matching and covering articulated in könig 's theorem allows minimum vertex covers and maximum independent sets to be computed in polynomial time for bipartite graphs , despite the np - completeness of these problems for more general graph families .
+they include : the trisection of the angle , the construction of the regular heptagon ; solving cubic equations or quadratic - quadrato and their equivalence to the problem of trisection .
+energy , matter , and information equivalence .
+in other words , if we interpret the formal structure " x " of quantum mechanics by means of a structure " y " ( via a mathematical equivalence of the two structures ) , what is the status of " y " ?
+functional equivalence .
+conformal equivalence .
+when one wishes to distinguish the study of cobordism classes from the study of cobordisms as objects in their own right , one calls the equivalence question " bordism of manifolds " , and the study of cobordisms as objects " cobordisms of manifolds " .
+equivalence relations and mathematical logic .
+equivalence relations are a ready source of examples or counterexamples .
+the equivalence class formula_100 forms a commutative group
+a one particle irreducible ( 1pi ) subgraph of a feynman graph is the subgraph induced by an equivalence class which is " not " an external vertex .
+a point of cp"n " is thus identified with an equivalence class of ( " n"+1)-tuples [ " z"0 ... ,"z'n " ] modulo nonzero complex rescaling ; the " z'i " are called homogeneous coordinates of the point .
+such principles as equivalence , dilation , rhythm and timing , all seem like second nature , and the performer may not know that she is applying them in any strict sense .
+in the systems sciences the term system equivalence is the notion that a parameter or component of a system behaves in a similar way as a parameter or component of a different system .
+most of the mathematical predictions of mirror symmetry are embedded in the physical equivalence of the a - model on " y " with the b - model on its mirror " x " .
+x inactivation is an early developmental process in mammalian females that transcriptionally silences one of the pair of x chromosomes , thus providing dosage equivalence between males and females ( see dosage compensation ) .
+independently of any time – temperature equivalence relationship .
+we say that " f " is a weak homotopy equivalence if the homomorphisms " f " * are all bijective .
+to define the " n "- th homotopy group , the base point preserving maps from an " n "- dimensional sphere ( with base point ) into a given space ( with base point ) are collected into equivalence classes , called homotopy classes .
+in a commentary in " nature " millstone " et al " argued that all gm foods should have extensive biological , toxicological and immunological tests and that the concept of substantial equivalence based solely on chemical analyzes of the components of a food should be abandoned .
+the fact that these results are exactly the same in curved spacetimes as for electrodynamics in flat minkowski spacetime is one expression of the equivalence principle .
+functionality equivalence verification is a technique used to prove that code modifications like code optimization , code restructure and dead code removal will not cause for any functionality change .
+this is in contrast to full motion video games such as " night trap " where everything was kept within the equivalence of a pg-13 rating .
+this fundamental equivalence between rotation systems and 2-cell - embeddings was first settled in a dual form by heffter and extensively used by ringel during the 1950s .
+equivalence classes induced by the kernel of the wqo .
+“ equivalence ” included , other than kanji with exactly the same shape , kanji with differences due to style , and kanji where the difference in character form is small .
+due to the equivalence of this situation with a link to multiple hubs , this difficulty can be avoided by remodelling such cases .
+the proof showing equivalence is quite easy .
+however , this criticism was rejected by wenzl , who argued that bucherer misinterpreted einstein 's equivalence hypothesis .
+for example , one construction of the hyperreal number system defines a hyperreal number as an equivalence class of sequences that are equal almost everywhere as defined by an ultrafilter .
+in 1992 the bible society , released today 's arabic version , a dynamic equivalence translation designed to be as easy to understand as possible .
+diprotic acids are of particular note in regards to titration experiments , where a ph versus titrant volume curve will clearly show two equivalence points for the acid .
+it is far more free in its structure than a dynamic equivalence translation .
+the strong equivalence principle suggests the laws of gravitation are independent of velocity and location .
+the algebraic structure of equivalence relations builds on transformation groups ; that of order relations builds on lattice theory .
+a rough calculation for lead equivalence would be to multiply the pb thickness by 2.5 ( e.g. 10 mm pb would require a 25 mm thick lead glass window )
+compatibility equivalence .
+the concept of substantial equivalence has never been properly defined ; the degree of difference between a natural food and its gm alternative before its ' substance ' ceases to be acceptably ' equivalent ' is not defined anywhere , nor has an exact definition been agreed by legislators .
+tarski asserts that the notion of identity ( as distinguished from logical equivalence ) lies outside the propositional calculus ; however , he notes that if a logic is to be of use for mathematics and the sciences it must contain a " theory " of identity .
+due to the equivalence to a thyristor , shockley diodes are no longer manufactured .
+limitations of the study include study attrition and group non - equivalence at baseline .
+this is an equivalence relation , symmetry being due to the existence of the dual isogeny .
+this definition can be extended to cw - complexes and is the basis for the concept of simple - homotopy equivalence .
+an equivalence relation .
+equivalence of definitions .
+foreign students or holders of secondary school certificates other than gcse apply through equivalence certificates .
+similarly , the reflexive transitive symmetric closure of formula_14 , denoted formula_41 ( see basic notions ) , is a congruence , meaning it is an equivalence relation ( by definition ) and it is also compatible with string concatenation .
+by design , the local trivializations formula_28 give a fibrewise equivalence between this quotient space and the fibre bundle formula_18 .
+originally developed in 1997 by ibm 's oti lab in zurich , switzerland , canoo licensed the library from ibm in 2000 and has added further developments such as java ee compatibility , near - equivalence to swing widget set , drag - and - drop functionality , and a visual editor for eclipse .
+this is the mass – energy equivalence , represented by formula_31 .
+the consular authorities will verify the equivalence of study titles and will send the translated documentation to the secretariat of the academy .
+some other new biochemical concepts that are important for understanding the substantial equivalence of a novel food or crop to an existing food or crop are metabolic profiling and protein profiling .
+4 . johnson pn : methyl salicylate / aspirin equivalence : vet hum toxicol 1985 ; 26:317 - 318
+there are other types of equivalence relations in a group , such as conjugacy , that form different classes which do not have the properties discussed here .
+it is related to , and at times equated with , theories of say 's law , ricardian equivalence , and the policy ineffectiveness proposition .
+the same value as soldner 's was calculated by einstein in 1911 based on the equivalence principle alone .
+for most equivalence problems , there are only four cases : complete reduction , involution , prolongation , and degeneracy .
+two elements of the set are considered equivalent ( with respect to the equivalence relation ) if and only if they are elements of the same partition .
+identify " h " as , elements ( possibly equivalence classes ) in " v " , whose support consists of the identity element " e " ∈ " g " , and let " p " be the projection onto this subspace .
+if the mass of the nucleus following a fusion reaction is less than the sum of the masses of the separate particles , then the difference between these two values may be emitted as a type of usable energy ( such as a gamma ray , or the kinetic energy of a beta particle ) , as described by albert einstein 's mass – energy equivalence formula , " e " = " mc"2 , where " m " is the mass loss and " c " is the speed of light .
+although the extra scalar field perturbs the gr metric , and in addition the violation of the equivalence principle perturbs the geodesics of massive particles within that space - time , it is found that the two effects cancel each other out .
+given a cw - complex " a " , consider the set of all pairs of cw - complexes " ( x , a ) " such that the inclusion of " a " into " x " is a homotopy equivalence .
+studies have also shown the perception of octave equivalence in rats ( blackwell & schlosberg , 1943 ) , human infants ( demany & armand , 1984 ) , and musicians ( allen , 1967 ) but not starlings ( cynx , 1993 ) , 4 - 9 year old children ( sergeant , 1983 ) , or nonmusicians ( allen , 1967 ) .
+in order to achieve equivalence for the ministry of education school - leaving certificate in jordan students must have passed a minimum of six igcse or o levels at grade d or above plus a minimum of two a levels at grades a to e.
+modern use has been replacing the tilde with the negation symbol ( ¬ ) for this purpose , to avoid confusion with equivalence relations .
+many properties of parametrized surfaces are actually properties of the fréchet surface , i.e. of the whole equivalence class , and not of any particular parametrization .
+for bipartite graphs , the equivalence between vertex cover and maximum matching described by könig 's theorem allows the bipartite vertex cover problem to be solved in polynomial time .
+it says , roughly speaking , that the space spanned by such curves ( up to linear equivalence ) has a one - dimensional subspace on which it is positive definite ( not uniquely determined ) , and decomposes as a direct sum of some such one - dimensional subspace , and a complementary subspace on which it is negative definite .
+the most important consequence of this equivalence principle applies to freely falling objects .
+it is an important result that for each theory " t " and for each category " c " , there is a category " r(t ) " and an equivalence
+for nondeterministic pda , equivalence is undecidable .
+again , it should be stressed that the equivalence between these three representations of the same decision - making situation makes no use of dummy variables .
+the first size homotopy group of the size pair formula_1 computed at formula_23 is defined to be the quotient set of the set of all paths from formula_15 to formula_15 in formula_26 with respect to the equivalence relation formula_27 , endowed with the operation induced by the usual composition of based loops .
+although these two mechanisms have sometimes been presented ( for example in butler lampson 's paper ) as simply row - based and column - based " implementations " of the access control matrix , this view has been criticized as drawing a misleading equivalence between systems that does not take into account dynamic behaviour .
+those problems were later solved through einstein 's mass – energy equivalence - see " the shift to relativity " .
+pyridine was originally used as the base in the karl fischer titration , but has since been largely replaced by imidazole , which is more basic , allowing for a more stable equivalence point and a faster reaction rate .
+the notion of equivalence relation on a class of morphisms is itself intrinsically second - order , which the definition of topos neatly sidesteps by explicitly defining only the notion of subobject " classifier " ω , leaving the notion of subobject of " x " as an implicit consequence characterized ( and hence namable ) by its associated morphism " f " : " x " → ω.
+nida also developed the " componential - analysis " technique , which split words into their components to help determine equivalence in translation ( e.g. " bachelor " = male + unmarried ) .
+equivalence ratio is the ratio of actual fuel air ratio to stoichiometric fuel air ratio ; it provides an intuitive way to express richer mixtures .
+if " d " is the set of cards in a standard 52-card deck , the " same - color - as " relation on " d " – which can be denoted ~c – has two equivalence classes : the sets and .
+this induces a natural equivalence relation on projections by defining " e " to be equivalent to " f " if the corresponding subspaces are equivalent , or in other words if there is a partial isometry of " h " that maps the image of " e " isometrically to the image of " f " and is an element of the von neumann algebra .
+einstein hypothesized that the similar experiences of weightless observers and inertial observers in special relativity represented a fundamental property of gravity , and he made this the cornerstone of his theory of general relativity , formalized in his equivalence principle .
+between 1911 and 1915 this idea , initially stated as the equivalence principle , was formally developed into einstein 's theory of general relativity .
+in general , cartan 's equivalence method applies to such cases .
+topological indistinguishability defines an equivalence relation on any topological space " x " .
+this toxicity rating is called the toxic equivalence factor , or tef .
+different universities have varied equivalence range , while passing grades are subject to imposed academic quality of an institution .
+equivalence of the characterizations = = .
+in other words , there is a contravariant functor that gives an equivalence between the categories .
+in the absence of heirs , whittington left £ 7,000 in his will to charity , in those days a large sum , with a modern - day equivalence of about £ 3 m .

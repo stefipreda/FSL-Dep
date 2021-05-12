@@ -1,0 +1,255 @@
+" unit origami : multidimensional transformation " japan publications april 1990 , isbn 978 - 0870408526
+there is a version of sqr that can use multidimensional databases like essbase .
+for calculating the match values statistical methods are used as for example multidimensional scaling .
+this is equivalent to a search problem in an , almost certainly , multidimensional ( multivariate ) , multi - modal space with a single ( or weighted ) objective or multiple objectives .
+the most famous of these would be the health locus of control scale and the multidimensional health locus of control scale , or mhlc ( wallston , wallston , & devellis , 1976 ; wallston , wallston , kaplan & maides , 1976 ) .
+often finding it difficult to relate to people , max is only ever at home in his own world of multidimensional physics .
+multidimensional scaling .
+similarly , modernity is a complex and multidimensional phenomenon rather than a unified and coherent phenomenon .
+data in ibm cognos tm1 is stored and represented as multidimensional cubes , with data being stored at the " leaf " level .
+essentially a spaceborne version of the multidimensional intelligence submarine . piloted by volfogg .
+multidimensional family therapy ( mdft ) .
+iq tests scores , while often summarized as a single overall number , are actually multidimensional in nature .
+as the one - dimensional dft expresses the input formula_9 as a superposition of sinusoids , the multidimensional dft expresses the input as a superposition of plane waves , or sinusoids .
+multidimensional panel data .
+multidimensional screening was introduced in 2002 and has provided insights into tumorigenesis , cell polarity , and chemical space , among others .
+also , story has nearly completed a work of philosophy entitled “ maybe , the philosophy of perhaps ” in which he explores the nature of knowledge itself and the concept of multidimensional interconnectivity .
+multidimensional versions of this method exist .
+his books on intrinsic geometry of convex bodies , hilbert 's fourth problem , multidimensional minkowski problem , and monge – ampère equation were translated to other languages and became standard in the field .
+for comparison of 2d - color histograms it is suggested calculating their correlation , because a 2d - color histogram , constructed as described above , is a random vector ( in other words , a multidimensional random value ) .
+the juneteenth festival & juried art show will be a multidimensional showcase of fine , folk , and performing arts dedicated to the preservation of the rich heritage of people of african ancestry .
+caché basic is integrated with caché objects and supports object , relational , and multidimensional access to data .
+mr. rome 's signature style is marked by lush orchestrations , interweaving multidimensional horns and strings to accentuate the sensuality of the compositions .
+everything in this multidimensional cosmos stems from the cosmic network .
+multidimensional systems .
+multidimensional central limit theorem .
+finite element method is not restricted to triangles ( or tetrahedra in 3-d , or higher order simplexes in multidimensional spaces ) , but can be defined on quadrilateral subdomains ( hexahedra , prisms , or pyramids in 3-d , and so on ) .
+the technology is quite advanced , as evidenced by blackstar 's " photon - based " ship and katana 's " fusion - drive " timeship capable of multidimensional travel .
+it can be thought of as an extension to b+-tree for multidimensional objects .
+the basic data structure in scipy is a multidimensional array provided by the numpy module .
+where his music is truly ultra - modern and quite distinctive is in its overall tone , atmosphere and musical effect , in its highly " visual " nature , and in its multidimensional purpose .
+this is in part caused by problems resolving overlapping peaks in larger proteins , but this has been alleviated by the introduction of isotope labelling and multidimensional experiments .
+data sets with more than two dimensions are typically called " multidimensional panel data " .
+a general outcome of incredulity toward structural or agential thought has been the development of multidimensional theories , most notably the action theory of talcott parsons and anthony giddens 's theory of structuration .
+the mba ( e - commerce ) programme at ims is conducted with the following primary objectives : enriching the students with interdisciplinary and multidimensional flavor to it and management .
+for bourdieu each individual occupies a position in a multidimensional " social space " ; he or she is not defined only by social class membership , but by every single kind of capital he or she can articulate through social relations .
+multidimensional scaling . variants of this algorithm , especially the recent improvements contributed in the thesis work of mukund balasubramanian ( see underlie most current
+new welfare programs have integrated the multidimensional , social risk management , and capabilities approaches into poverty alleviation .
+mtp encourages counselors to think in a " multidimensional " manner , recognizing the rich interaction between thoughts , actions , and feelings within the context of biology , interpersonal patterns , social systems , and cultural contexts .
+a panel data set is termed " multidimensional " when the phenomenon is observed over three or more dimensions .
+it was first developed by professor louis holden at north dakota state university as part of a study in how dynamic teacher / learner relationships maybe explored through multithreaded / multidimensional interfaces .
+important examples of such techniques include classical multidimensional scaling ( which is identical to pca ) , isomap ( which uses geodesic distances in the data space ) , diffusion maps ( which uses diffusion distances in the data space ) , t - sne ( which minimizes the divergence between distributions over pairs of points ) , and curvilinear component analysis .
+hyperion planning uses essbase ( a multidimensional database product sold by hyperion ) as a database and calculation engine , and includes a web - based user interface .
+the virtual machine accounts for one of the most misunderstood aspects of the product : olap data was handled as a core data type of hl , with specific syntax to accommodate multidimensional data concepts , and complete programmatic freedom to explore and utilise the data .
+in order to minimize the number of such calculations , which can be very time - consuming , multidimensional interpolation algorithm is implemented into the fitit .
+towards flexible organizations : a multidimensional design .
+ga provides a friendly api for shared - memory programming on distributed - memory computers for multidimensional arrays .
+typically , the electronic energy is obtained for each of tens of thousands of possible orientations , and these energy values are then fitted numerically to a multidimensional function .
+his research contributions in particular were not only multidimensional but far reaching as well , extending as far as the u.s. space program .
+the " ( hyper)surface " name comes from the fact that the total energy of an atom arrangement can be represented as a curve or ( multidimensional ) surface , with atomic positions as variables .
+however , the term is applied to multidimensional data as well as to univariate data and in situations where a transformation of the data values for some or all dimensions would usually be considered necessary : in the latter cases , the notion of a " central location " is retained in converting an " average " computed for the transformed data back to the original units .
+analysis of buprenorphine , a heroin substitute , demonstrated the potential utility of multidimensional lc as a low - level detection method .
+timbre has been called a " wastebasket " attribute or category , or " the psychoacoustician 's multidimensional wastebasket category for everything that can not be qualified as pitch or loudness " ; i.e. , the ' shape ' of the sound .
+qol is always multidimensional .
+the sleep - wake activity inventory ( swai ) is a subjective multidimensional questionnaire intended to measure sleepiness .
+the real - input multidimensional dft .
+smolyak found a computationally more efficient method of integrating multidimensional functions based on a univariate quadrature rule formula_7 .
+since the standard python implementation is an interpreter , mathematical algorithms often run much slower than compiled equivalents , such as those written in c. numpy addresses this problem for many numerical algorithms by providing multidimensional arrays and lots of functions and operators that operate on arrays .
+the multidimensional ability of sulforaphane both to eliminate or detoxify carcinogens and to kill cells with potential cancer - causing mutations suggests that sgs may have broader effects on developed cancer at various stages as well as prevention .
+now , if we take the summations of these vectors as being done componentwise , then the multidimensional central limit theorem states that when scaled , these converge to a multivariate normal distribution .
+that year , it also announced crosstarget , multidimensional data analysis and reporting software
+while both rolap and molap analytic tools are designed to allow analysis of data through the use of a multidimensional data model , molap differs significantly in that it requires the pre - computation and storage of information in the cube — the operation known as " processing " .
+he is credited for the development of covariance nmr , which shortens the nmr measurement time for multidimensional spectra of both solution and solid - state nmr .
+coping with ministry : development of a multidimensional measure of orientations to the demands of ministry .
+classification is often based on function with respect to the mimic ( e.g. avoiding harm ) , though other parameters can also be used , and multidimensional classifications are required to understand the full picture .
+core’ concept with other concepts , but also the nature as well as the strength of those connections ( ‘ associative distance’ in so - called multidimensional vector space ) .
+the importance of this theorem has been recognized by ludwig boltzmann who saw how to apply it to macroscopic systems ( i.e. multidimensional systems ) , in order to provide a mechanical foundation of equilibrium thermodynamics .
+this revolutionary application allows jcb authors to present multidimensional image data as they were acquired , giving them the opportunity to share data that were not possible to share previously .
+the school is a multidimensional organization with a number of parallel streams of education .
+human - animal studies ( has ) is a relatively new academic field that examines the complex and multidimensional relationships between nonhuman and human animals .
+the reason for the emergence of the multidimensional organization can be explained in multiple ways .
+in this context he has coined the concept of " zoöcide , " a term ( rhyming with " suicide " ) that is related to genocide and ecocide , but which goes beyond those ideas to speak about the manner in which contemporary capitalist society is expunging experiences of " zoë , " a " multidimensional and multiplicitous realm of indestructible being " associated with sacred relationships to nature .
+it is frequently used in engineering for making design decisions but can also be used to rank investments options , vendor options , product options or any other set of multidimensional entities .
+since august 2004 , unisoma is a commercial partner of paragon decision technologies , supplier of the algebraic modelling software aimms – advanced integrated multidimensional modelling software .
+pulitzer prize - winning architecture critic kamin gave the bridge four stars ( out of a possible four ) in his review and admires how " computers have given gehry unparalleled formal freedom " to design " the complexity of its geometry " and multidimensional curvatures .
+the multidimensional spatial theory of the electoral process .
+microstrategy 's software allows reporting and analysis of data stored in a relational database , multidimensional database , or flat data file .
+splitting multidimensional necklaces .
+after being bitten by a contaminated hulk , the earth - z sentry is trapped by giant - man in order to power up the multidimensional device owned by uatu ( the watcher ) in the blue area of the moon .
+multidimensional variants of the various dct types follow straightforwardly from the one - dimensional definitions : they are simply a separable product ( equivalently , a composition ) of dcts along each dimension .
+the united states state department released a statement saying the diplomats discussed the government of kazakhstan 's cooperation in afghanistan and iraq and expressed hope for " a multidimensional relationship with kazakhstan , which includes u.s. encouragement for continuing reforms . "
+multidimensional ( zero- to three - dimensional ) , and in steady or transient form .
+in ong 's most notable works from the 1950s onward , we could say that he is constructing a multidimensional model of western culture from its preliterate oral matrix through the development of alphabetic writing in the ancient hebrew and greek traditions to the development of the gutenberg printing press and to the more recent development of communication media that accentuate sound .
+he argues that the organized sectors that comprise u.s. latino life , the availability of these individuals is not only in critically short supply , but is occurring during a modern , information - age that demands high accessibility to multidimensional talent in order to remain competitive .
+a number of classical methods , such as principal component analysis , multidimensional scaling , factor analysis , and structural equation modeling , and their relatives , fall under the genus of " variable transformation . "
+the provides worldwide diverse and multidimensional leadership training programs that are designed to teach leadership skills and attitudes to support the development of individuals , organizations , teams , and communities .
+multidimensional databases .
+brand loyalty is viewed as multidimensional construct .
+z - order , morton - order or morton code first proposed in 1966 by g. m. morton , is a space - filling curve which is often used in computer science : due to its good locality - preserving behaviour it is used in data structures for mapping multidimensional data to one dimension .
+upon his passing , the head of the penn state electrical engineering department wrote , " dr. bose was a world renowned expert in the field of multidimensional signals and systems who brought great international visibility and prestige to our department . "
+during the 1970s , the nambassa trust developed this concept of large scale multidimensional events , which the rest of the world only began adopting some 20 years later .
+dabrowski advocated a comprehensive , multidimensional diagnosis of the person 's situation , including symptoms and developmental potentials .
+these two approaches articulated very early on in its history this kind of work ’s almost paradoxical dynamic : that one can read a monochrome either as a flat surface ( material entity or “ painting as object ” ) which represents nothing but itself , and therefore representing an ending in the evolution of illusionism in painting ( i.e. rodchenko ) ; or as a depiction of multidimensional ( infinite ) space , a fulfillment of illusionistic painting , representing a new evolution — a new beginning — in western painting ’s history ( malevich ) .
+aact is successful because it is a close - knit community promoting lifelong learning ; students are critical thinkers and problem solvers who excel in working together to tackle challenges needed to undertake multidimensional projects .
+in 1971 , kendall proposed the use of multidimensional scaling techniques for seriation problems , and this approach has also been used by some other scientists ( see baxter 2003 , pp.202–203 ) .
+a multidimensional array should not be confused with an array of references to arrays ( also known as iliffe vectors or sometimes " array of arrays " ) .
+they are multidimensional and designed to support children ’s health , nutritional , cognitive , social , and emotional abilities , enabling them to survive and thrive in later years .
+the best symphonic thinker can utilize both right and left brain hemispheres , granting a multidimensional approach to solving problems .
+even though the use of cyanide in the live fish trade is severely detrimental , one must realize that this issue is multidimensional .
+in this framework , the standard dft is seen as the fourier transform on a cyclic group , while the multidimensional dft is a fourier transform on a direct sum of cyclic groups .
+besides having fast - converging accuracy comparable to gaussian quadrature rules , clenshaw – curtis quadrature naturally leads to nested quadrature rules ( where different accuracy orders share points ) , which is important for both adaptive quadrature and multidimensional quadrature ( cubature ) .
+depending on the complexity of the relationships under consideration , the models may be multidimensional .
+peacekeeping forces were a particular concern : " recognizing the urgent need to mainstream a gender perspective into peacekeeping operations , and in this regard noting the windhoek declaration and the namibia plan of action on mainstreaming a gender perspective in multidimensional peace support operations ( s/2000/693 ) " , the council requested " the secretary - general , where appropriate , to include in his reporting to the security council , progress on gender mainstreaming throughout peacekeeping missions and all other aspects relating to women and girls " .
+these women are represented in the old testament as multidimensional human beings –
+nba.com reported that " [ w]ith his unique multidimensional talent , duncan depleted and dissected the pistons ...
+fitit xanes fitting using multidimensional interpolation approximation .
+but it was a close - run thing as the 11 - 8 favourite only got up in the dying strides to deny multidimensional ( 25 - 1 ) by a neck .
+on 29 july , the secretary - general outlined ( s/2003/769 ) a three - phased deployment of international troops to liberia , leading to a multidimensional united nations peacekeeping operation .
+when participants are asked to rate message features like how much information was false , omitted , equivocal and/or irrelevant , researchers can reasonably measure and describe such multidimensional deceptive messages .
+this object design enabled variables and whole models to reference each other with user - defined variable names , and to perform multidimensional analysis and massive , but easily editable consolidations .
+although both objects are independent of one another , the combination of them creates a multidimensional , emotional , complex product .
+in adolescence the relations between numbers and algebra can be taught , because formal operational thought allows for conception and manipulation of abstract and multidimensional concepts .
+z - order is one of the few multidimensional access methods that has found its way into commercial database systems ( oracle database 1995 , transbase 2000 ) .
+multidimensional pulse image processing of chemical structure data using pcnn has been discussed by kinser , et al ..
+intelligent multidimensional arrays .
+since nash equilibria do not normally exist when the policy space is multidimensional , john roemer introduced the concept of party - unanimity nash equilibrium ( pune ) , which can be considered a generalization of the concept of nash equilibrium in models of political competition .
+since independence in 1991 , kazakhstan has pursued what is known as the multidimensional foreign policy ( многовекторная внешняя политика ) , seeking equally good relations with two large neighbors , russia and china , and the united states and the west generally .
+multidimensional analysis .
+institute also enables students to inculcate high ethical standards , leadership qualities , capability to think in multidimensional ways and a broad understanding of the competitive business and technological environment .
+in the multidimensional case the united solutions set is much more complicated .
+general multidimensional distributions .
+a close relationship is being established with abkhazia similar to the multidimensional relationship established with cypriot turks in the east mediterranean region . "
+the volterra series , which is used to prove the volterra theorem , is a series of infinite sum of multidimensional convolutional integrals .
+however , hawks management and new coach lenny wilkens felt manning and his multidimensional skills might help the team more during the stretch run .
+this elementary example illustrates the above definition of multidimensional probability density functions in the simple case of a function of a set of two variables .
+osirix has been specifically designed for navigation and visualization of multimodality and multidimensional images : 2d viewer , 3d viewer , 4d viewer ( 3d series with temporal dimension , for example : cardiac - ct ) and 5d viewer ( 3d series with temporal and functional dimensions , for example : cardiac - pet - ct ) .
+frep was introduced in " function representation in geometric modeling : concepts , implementation and applications " as a uniform representation of multidimensional geometric objects ( shapes ) .
+any woman who wants to achieve anything has to be aggressive and tough , but the press never sees us as multidimensional .
+the diverse and individualistic lifestyles that the creative class enjoys involves active participation and experiential activities that are multidimensional .
+multidimensional arrays .
+at the core of any olap system is the concept of an olap cube ( also called a " multidimensional cube " or a " hypercube " ) .
+in probability theory , the multidimensional chebyshev 's inequality is a generalization of chebyshev 's inequality , which puts a bound on the probability of the event that a random variable differs from its expected value by more than a specified amount .
+other methods of obtaining such a fit include cubic splines , shepard interpolation , and other types of multidimensional fitting functions .
+multidimensional organizations are an answer to the new generation workers .
+if there are indeed a good number of scientists who point out that reality is multidimensional and complex , most social actors think ( and develop their strategies ) in a one - dimensional manner , generally linked to the quantitative ( money , business , success , audience share … ) and in confrontational and antagonistic terms .
+these methods all fall under the broader class of metric multidimensional scaling .
+he is skeptical that completely stabilizing the relationship can be accomplished during the tenure of one ambassador , but seeks to " lay the foundations of a relationship that is multidimensional : political , military , cultural , economic and social " .
+as described above under " intelligent arrays , analytica is an array programming language , where operations and functions generalize to work on multidimensional arrays .
+multidimensional organization .
+in multidimensional statistical inference , the value formula_7 that minimizes formula_8
+the fact - oriented approach enables multidimensional categorization .
+beyond the multidimensional data concept , palo enables multiple users to share one centralised data storage ( " single version of the truth " ) .
+in the 2000s , key concepts of attachment were incorporated into existing models of behavioural couple therapy , multidimensional family therapy and couple and family therapy .
+sammon 's projection , or sammon 's mapping is an algorithm that maps a high - dimensional space to a space of lower dimensionality ( see multidimensional scaling ) .
+" the measurement and decomposition of multidimensional inequality , " econometrica , 54 , pp . 991 - 997 ,
+his academic work includes the online publication , the text book " multidimensional analysis " , and the instruction book " zome geometry " .
+in " multidimensional nuclear magnetic resonance " there will be a sequence of pulses and , at least , one variable time period .
+toom 's english - language mathematics articles , published in journals such as the journal of statistical physics , include " non - ergodic multidimensional systems of automata , " " discrete local markov systems , " " on critical phenomena in interacting growth systems , " " , " " simple 1-dimensional systems with super - exponential relaxation time , " " tails in harnesses , " " on percolation with fibers or layers , " and " non - gibbsianness of the invariant measures of non - reversible cellular automata with totally asymmetric noise " .
+5s enables high - level specification of dls using five complementary dimensions , including : the kinds of multimedia information the dl supports ( stream model ) ; how that information is structured and organized ( structural model ) ; different multidimensional space representations as well as presentational properties and operations of dl components ( spatial model ) ; the services and behavior of the dl ( scenario model ) ; and the different communities of actors and users / managers of services that act together to carry out the dl behavior ( societal model ) .
+in signal processing of multidimensional signals , for example in computer vision , the intrinsic dimension of the signal describes how many variables are needed to represent the signal .
+an alternative to a multidimensional array structure is to use a one - dimensional array of references to arrays of one dimension less .
+many algorithms that use multidimensional arrays will scan them in a predictable order .
+balanos in one of his books has named a new type of danger , that is a multidimensional force called shadow .
+nirmal bose was elected to be a fellow of institute of electrical and electronics engineers ( ieee ) in 1981 for his contributions to multidimensional systems theory and circuits and systems education .
+while both rolap and molap analytic tools are designed to allow analysis of data through the use of a multidimensional data model , rolap differs significantly in that it does not require the pre - computation and storage of information .
+data sets to which econometric analyses are applied can be classified as time - series data , cross - sectional data , panel data , and multidimensional panel data .
+k"d - trees are a useful data structure for several applications , such as searches involving a multidimensional search key ( e.g. range searches and nearest neighbor searches ) .
+local multidimensional scaling .
+the tool may also be used to automate maintenance of sql server databases and updates to multidimensional cube data .
+this framework , presented as an " multivariate , multidimensional linkage approach " considers six main factors that impact the behavior of political leaders : personality , role , organization , tasks , values , and setting .
+similarly , a version of the iron man of 2020 appeared as one of the multidimensional " potential " avengers in " avengers forever " .
+iq tests scores , while often summarized as a single overall number , are actually multidimensional in nature .
+a vector - valued function also referred to as a vector function is a mathematical function of one or more variables whose range is a set of multidimensional vectors .
+attempted to trap volfogg within the multidimensional intelligence submarine , but was quickly repelled by the intruder destruction program installed into it by entouji .
+techniques such as multidimensional scaling and hierarchical clustering can then be used to visualize the semantic organization of the conceptual space .
+it is argued that using income as the only threshold ignores the multidimensional aspect of child poverty , which includes consumption requirements , access to resources and the ability to interact in society safely and without discrimination .
+multidimensional analogues in general are called hosotopes , with schläfli symbol ' .
+their bilateral relations are multidimensional and the united states is the principal proponent of the arab - israeli peace process .
+most basic is that due to the fall in costs of information customers start to behave in multidimensional ways in terms of sets of preferences , the way they select and buy goods and services , make use of distribution channels , etc .
+depending on the concentration of the sample , on the magnetic field of the spectrometer , and on the type of experiment , a single multidimensional nuclear magnetic resonance experiment on a protein sample may take hours or even several days to obtain suitable signal - to - noise ratio through signal averaging , and to allow for sufficient evolution of magnetization transfer through the various dimensions of the experiment .
+there are also intrinsically multidimensional fft algorithms .
+martin , together with his partners , introduced the multidimensional framework of proactive thinking as a structured approach to complement brainstorming methods in large corporations and government agencies .
+while color derives from the electromagnetic scale that corresponds to the magnitudes of energy expressed by musical pitch , in fact , the neurological occidentals by which we experience color make it seem multidimensional , while musical pitch ( not timbre , volume , or duration ) is experienced as a linear relationship ...
+they challenge historical accounts , which merely accrue dead habits of perception , and argue for a multidimensional realism with rhetorical force .
+kruskal has worked on well - quasi - orderings and multidimensional scaling .
+as stated by ellingboe , internationalization “ is an ongoing , future - oriented , multidimensional , interdisciplinary , leadership - driven vision that involves many stakeholders working to change the internal dynamics of an institution to respond and adapt appropriately to an increasingly diverse , globally focused , ever - changing external environment " .
+rose byrne portrays irene , who is perhaps the most multidimensional , yet accessible character of the dramatization .
+some people refer to analytical databases as multidimensional databases , management databases , or information databases .
+the gspc group is fully aware of a changing graph in the power business and has evolved strategically as a multidimensional highly integrated conglomerate and a leading energy enterprise .
+the main distorting factors on the input stage stems from the amplitude nonlinearity of the channel response(s ) , and in the case of a multidimensional datastream the non - ideal wavelength responses of the individual color separation filters ( most commonly a color filter array ( cfa ) ) in combination with the spectral power distribution of the scene illumination .
+for his portrayal of the pompous but nonetheless multidimensional boston aristocrat , stiers received two emmy award nominations .
+note that minimizing the difference ( usually the squared difference ) between euclidean and ideal distances between nodes is then equivalent to a metric multidimensional scaling problem .
+the expected utility theory deals with the analysis of choices among risky projects with ( possibly multidimensional ) outcomes .
+similarly , modernity is a complex and multidimensional phenomenon rather than a unified and coherent phenomenon .
+in the 2006–07 season , michálek emerged as a speedy , multidimensional player and an offensive threat , scoring 26 goals and 66 points .
+gis technologies are powerful in their ability to accommodate multimedia and multidimensional data sets , which allows for the recording and playing of oral histories and representations of abstract ecological knowledge .
+zweigert and kötz propose a different , multidimensional methodology for categorizing laws , i.e. for ordering families of laws .
+melissa moore reviewing for the school library journal praised the novel saying " history interweaves with science , social issues in both centuries are thrown in ; yet what readers will remember most is a fast - paced plot with a cliff - hanger ending and multidimensional characters who continue to inhabit their thoughts long after the book is closed .
+the index values of the resulting " multidimensional array " can be thought of as increasing in row - major order .
+the combine , also referred to as the universal union , is a fictional multidimensional empire , which serves as the primary antagonistic force in the " half - life " video game series , developed by valve corporation .
+in particular , work has been conducted toward the construction of multidimensional brain atlases seeking to promote computationally efficient representations of brain anatomy , function and physiology in a standardized 3d coordinate system .
+this also holds in the multidimensional case .
+examples of firms with a multidimensional organization are ibm , microsoft , asml ( strikwerda , 2007 ) .
+the learner is also seen as complex and multidimensional .
+molap stands for multidimensional online analytical processing .
+this fact shows that thermodynamic - like relations exist between certain mechanical quantities in multidimensional ergodic systems .
+ngl was the result of research performed during 2001 - 2004 by e. herrera looking for ways to apply function - level programming languages to bioinformatics , large scale multidimensional datawarehouses and data mining algorithms .
+alfvén 's contributions were multidimensional and also included painting and writing .
+two of the most important methods of computing gps receiver position and clock bias are ( 1 ) trilateration followed by one dimensional numerical root finding and ( 2 ) multidimensional newton - raphson calculations .
+mutual aid is better conceptualized as multidimensional with at least 10 types of processes or activities that occur amongst and between members , including : sharing data , the dialectic process , discussion of taboo topics , the all in the same boat phenomenon , developing a universal perspective , mutual support , mutual demand ( including confrontation ) , rehearsal of new skills , individual problem solving , and the strengths in numbers phenomenon ( gitterman , 2004 ; shulman , 2006 ; steinberg , 2004 ) .
+multidimensional irt models model response data hypothesized to arise from multiple traits .
+if the multidimensional database reserved storage space for every possible value , it would need to store 2,400,000,000 ( 4 × 4 × 3 × 10,000 × 5,000 ) cells .
+advancements in stage lighting technology required stage makeup to evolve beyond one over - all face color to a multidimensional craft .
+normality is a huge , multidimensional range and behavior is only disordered at the extremes . "
+protein nmr utilizes multidimensional nuclear magnetic resonance experiments to obtain information about the protein .
+the concepts of urban forms , - from the beginning responding to the power of the togetherness dimension , - result as multidimensional , intensely interactive metropolis .
+leo brady ( jan. 23 , 1917-nov . 18 , 1984 ) was a multidimensional american writer and theater artist who also achieved great success as a teacher of young playwrights .
+although essbase has been categorised as a general - purpose multidimensional database , it was originally developed to address the scalability issues associated with spreadsheets such as lotus 1 - 2 - 3 and microsoft excel .
+application of multidimensional scaling of ratings of foods for obese and normal weight individuals .
+he was responsible for not deadening the studio , keeping its multidimensional sound , thereby allowing the installations to be used for orchestral sessions , and giving the studio its trademark sound .
+in the game , players control a gyroscopic vehicle equipped with an array of multidimensional abilities .
+nested rules are also important for sparse grids in multidimensional quadrature .
+his pioneering and fundamental research contributions and the writing of numerous graduate level books have opened up new vistas in telecommunications , multidimensional filter theory and design , design of non - linear filters , multimedia neural networks and biometric applications .
+integrative treatment planning involves conducting a multidimensional survey , establishing an interactive focus on two or three dimensions , formulating a multitheoretical conceptualization , and choosing intervention strategies corresponding to focal dimensions .
+interval fem use very similar methodology in multidimensional cases [ pownuk 2004 ] .
+inayat hussain bhatti ( 1928 - 1999 ) was a multidimensional icon of pakistan .
+similarly , a multidimensional object is defined by a function of several variables f(x1 , x2 , x3 ... , xn ) .
+these concepts can be generalized for multidimensional cases on formula_25 and other continuous sample spaces .
+the virtual desktop is far superior to the traditional 2d gui or menu desktop as the multidimensional capabilities in conjunction with shared back end processing allow a user to run as many applications as they need .
+their software has found a particular niche in the analysis of dna microarray data in the field of genomics , because it can perform multidimensional analysis of fairly large data sets on an ordinary desktop computer .
+therefore , the inclusion of film and television courses ( and general film theory , storytelling and aesthetic ) will establish this link between audio and visual forms ( and perceptions ) in a multidimensional manner .
+difficulties arise due to the many complexities involved in making " multidimensional conceptualizations " that explain the way in which socially constructed categories of differentiation interact to create a social hierarchy .
+multidimensional objects look different from every angle .
+an object as a point set in multidimensional space is defined by a single continuous real - valued function of point coordinates f(x ) which is evaluated at the given point by a procedure traversing a tree structure with primitives in the leaves and operations in the nodes of the tree .
+on multidimensional surfaces one can imagine a surface where a trajectory ( i.e. a marble rolling on a surface w / o angular momentum ) might have an almost periodic motion but just does not come back to the exact same phase space location ( i.e. after one vibrational phase the geometry and momenta of the atoms of the molecule are very similar but not exactly the same ) .
+data in ibm cognos tm1 is stored and represented as multidimensional cubes , with data being stored at the " leaf " level .
+her holistic , multidimensional approach to peace research sets her apart as an important scholar and activist in multiple fields .
+weber developed a multidimensional approach to social stratification that reflects the interplay among wealth , prestige , and power .. “ weber argued that power can take a variety of forms .
+the school states its mission as " to provide education that will impart knowledge , moral and ethical values through multidimensional activities and interpersonal relationships " and its vision as " to develop human resources through education for the upliftment of society , to prepare students to face challenges and to produce students the country will be proud of . "
+they can also be specified in multidimensional color - most commonly in the three channel rgb model .
+further generalizations of undersampling for the case of signals with multiple bands are possible , and signals over multidimensional domains ( space or space - time ) and have been worked out in detail by igor kluvánek .
+a uniform approach to representation and composition , similar to the pure approach in aop , is termed multidimensional representation .
+multidimensional expressions .
+multidimensional systems or m - d systems are the necessary mathematical background for modern digital image processing with many applications in biomedicine , x - ray technology and satellite communications .
+microstrategy describes its core reporting software as having a " rolap " or " relational olap " architecture , meaning that a complex relational database can be expressed using a virtual multidimensional cube structure that can be more easily understood by business users who wish to navigate through the data .
+for multidimensional analysis .
+the multidimensional character possessed sharp comic timing and an extensive knowledge of art and literature .
+developers may view data as objects , as relational tables ( using sql ) , or as multidimensional arrays .
+using the multidimensional pain inventory ( mpi ) , a questionnare designed to assess the chronic pain patient 's psychosocial state , turk and rudy found three types of chronic pain patient : " ( a ) dysfunctional , patients who perceived the severity of their pain to be high , reported that pain interfered with much of their lives , reported a higher degree of psychological distress caused by pain , and reported low levels of activity ; ( b ) interpersonally distressed , patients with a common perception that significant others were not very supportive of their pain problems ; and ( c ) adaptive copers , patients who reported high levels of social support , relatively low levels of pain and perceived interference , and relatively high levels of activity . "
+particles thus move through a multidimensional space and eventually converge towards a point between the global best and their personal best .
+the united nations mission in chad and the central african republic , minurcat(united nations mission in the central african republic and chad ) , was established in the un security council resolution 1778 in september 25th , 2007 , which would leave a multidimensional force in chad and the central african republic ( car ) to help create security conductive to a voluntary and sustainable return of refugees .
+the process of investigation has a spiral character , as tackling the issues draws the explorer inwards towards a deeper engagement with the multidimensional character of reality "
+hplc methods can measure this compound at 40 ng / ml , compared to gc - ms at 0.5 ng / ml , but lc - ms - ms can detect buprenorphine at levels as low as 0.02 ng / ml. the sensitivity of multidimensional lc is therefore 2000 times greater than that of conventional hplc .
+the c.a.s. school sets itself apart from other schools in karachi through its multidimensional programme of studies .
+the second story , " schrödinger ’s botanist " by ian mcintire , covers a longer span of time , during which grant and the doctor have many adventures and are also accompanied by a legion ( a member of a multidimensional alien race that appears in the virgin novels " lucifer rising " and " the crystal bucephalus " ) .
+being a multidimensional work , the novel includes a whole array of characters , relationships , conflicts and encounters which have been given through non - chronological lines .
+especially " torgerson " , proposed the concept of multidimensional scaling ( first published in 1928 and finally renewed in 1958 ) for over - determined numerical problems with unknown dimensionality and heavy stochasticity or also biased variations .
+- allows multidimensional statistical analyses in regional and local systems .
+a multidimensional version of the helmholtz theorem , based on the ergodic theorem of george david birkhoff is known as generalized helmholtz theorem .
+the purpose of a colocalization coefficient is to " globally " characterize the degree of overlap between two images , usually two channels in a multidimensional microscopy image recorded at different emission wavelenghts .
+however , this was a trap , and entouji caused the multidimensional intelligence submarine 's fusion core to go critical .
+a spiritualization of the senses happened and i realized , that man , indeed , is a cosmic , multidimensional being .... "
+a multidimensional panel with four dimensions can have the form
+khulna university , in its pioneering attempt , opened this discipline in 1997 and developed a multidimensional , interdisciplinary curriculum related with science , engineering and technologies as well as socio - economy and managerial aspects of environment .
+it does this by reading values from multidimensional performance maps , using input values ( e.g. engine speed ) calculated from signals coming from sensor devices monitoring the engine .
+the patterns to be classified are usually groups of measurements or observations , defining points in an appropriate multidimensional space .

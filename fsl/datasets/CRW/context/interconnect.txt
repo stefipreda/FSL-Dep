@@ -1,0 +1,255 @@
+after meiko technology was acquired by quadrics , the elan / elite interconnect technology was developed into qsnet .
+interconnect .
+low interconnect provides network socket interface with uniform addressing mechanism .
+quadrics ' products are qsnet , a proprietary interconnect used in the some of the fastest supercomputers in the world and qsteng , a range of switches based on 10 gigabit ethernet standard .
+on november 13 , 2006 , cray announced a new system , the cray xmt , based on the mta series of machines , and expects to ship the machines in 2007 .. this system combines multi - threaded processors , as used on the original tera systems , and the seastar2 interconnect used by the xt4 .
+planar resistors are also screen printed and included in the thick film interconnect design .
+dolphin interconnect solutions was founded in 1992 as a spin - off from dolphin server technology which again was a spin - off from norsk data in 1989 .
+in addition to the computer nodes and their respective gpus , a fast enough interconnect is needed in order to shuttle data amongst the nodes .
+frame relay was used to interconnect lans or lan segments , mainly in the 1990s by large companies that had a requirement to handle heavy telecommunications traffic across wide area networks .
+molex sells over 100,000 products , including everything from electrical and fiber optic interconnect solutions to switches and application tooling .
+it was fabricated in a 0.28 µm , complementary metal – oxide – semiconductor ( cmos ) process with three levels of interconnect .
+thanks to new methods and new perspectives , historians can interconnect contributions from archaeology , numismatics , anthropology , linguistics and demography to compensate for the inadequacy of the written record .
+in a plug and play system , a device manager first performs a scan on different hardware buses , such as peripheral component interconnect ( pci ) or universal serial bus ( usb ) , to detect installed devices , then searches for the appropriate drivers .
+scsi ( small computer systems interface ) falls in the megatransfer range of data transfer rate , while newer bus architectures like the front side bus , quick path interconnect , pci express and hypertransport operate at the rate of a few gt / s .
+in 1992 , congress allowed commercial activity on nsfnet with the scientific and advanced - technology act , permitting nsfnet to interconnect with commercial networks .
+dolphin interconnect solutions develops technology for very high speed communication between servers ( mostly via the sci cache - coherent communications protocol ) .
+railtel has launched nld business by signing iuc ( interconnect ) agreement with major operators across india .
+the main role is to interconnect objects residing in non - local memory space and allowing them to perform remote calls and exchange data .
+telephone companies have well - proven formulas which predict the optimal number of trunk lines actually needed , under normal conditions , to interconnect two telephone exchanges .
+it includes an updated version of the seastar interconnect router called seastar2 , processor sockets for socket am2 opteron processors , and 240-pin unbuffered ddr2 memory .
+most of the routes act as primary roads in the less developed areas and also serve to interconnect the various villages and hamlets of the county .
+the bus was used by digital to interconnect its highest - performance computers with magnetic disk and magnetic tape storage equipment .
+the interconnect routes sequences of messages .
+the station , which is oriented east – west along 53rd street , serves two distinct subway lines that do not interconnect .
+intec was founded in the uk in 1997 to sell interconnect billing systems .
+that same year , gennum formed a second product family in video technologies for professional products , which would serve as the core revenue generator for the company in later years along with its pioneering work in the serial digital interconnect ( sdi ) standard .
+interconnect user part .
+the function of the sub - transmission system is to interconnect the bulk power system with the distribution system .
+it was fabricated in a 1.2 µm complementary metal – oxide – semiconductor ( cmos ) process with two levels of aluminium interconnect .
+with this network the nodes dynamically “ discover ” other nodes to which they can interconnect and form the network .
+however , the description generally excludes the modification to the sound using different types of interconnect cables , or the replacement of electronic components within the system components by the owners in order to customise the sound , as this would constitute diy or tweaking .
+altstetten station is a nodal point where the lines s3 , s9 , s12 and s15 of the zürich s - bahn and zürich trams interconnect .
+ow2 is devoted to developing distributed infrastructure software able to interconnect systems that are heterogeneous by nature .
+a map of the proposed route of the pipeline shows its northern terminus at the bradwood landing interconnect .
+at a lower level , it is necessary to interconnect multiple cpus with some sort of network , regardless of whether that network is printed onto a circuit board or made up of loosely - coupled devices and cables .
+global research collaboration ( grc ) drives near - term materials , interconnect , devices , design , and tools progress ; focus center research programs ( fcrp ) supports future generations of ic requirements ; and nanoelectronics research initiative ( nri ) is responsible for determining the post - cmos information element by 2020 .
+ibis interconnect modeling specification .
+moreover , many leading isps are using their fiber backbone to interconnect various pops .
+in the 1960 's , mr. borofsky 's art sought to interconnect minimalism and pop art .
+the 260c introduced a new " tiger shark " cowling , max gross weight of 3200 pounds , cowl flaps , and an aileron - rudder interconnect .
+various walking cities could interconnect with each other to form larger ' walking metropolises ' when needed , and then disperse when their concentrated power was no longer necessary .
+interconnect limited is a kenyan internet service provider ( internet service provider ) in operation since 1997 .
+uses 3d field solvers to directly convert the mask data of a cell and relevant process information into a spice netlist , back annotated with the most accurate interconnect capacitance and resistance parasitics .
+the ultra port architecture ( upa ) bus was developed by sun microsystems as a high - speed graphics card to cpu interconnect , beginning with the ultra 1 workstation in 1995 .
+headquartered in santa ana , california , itt interconnect solutions is a division of itt corporation , an $ 11.6 billion diversified high - technology engineering and manufacturing company that serves customers in more than 50 countries .
+the amba family includes amba network interconnect ( nic-301 ) , sdram and flash memory controllers ( dmc-34x , smc-35x ) , dma controllers ( dma-230 , dma-330 ) , level 2 cache controllers ( l2c-310 ) , etc .
+in the public switched telephone network , an interconnect agreement invariably involves settlement fees based on call source and destination , connection times and duration , although these fees often cancel out between operators .
+population growth in the region has revived efforts to construct two additional suburban metro lines , as well as a new streetcar system to interconnect the city 's neighborhoods .
+these stations interconnect to other stations and also serve the short distance trains connecting gwalior to nearby towns and villages .
+the die was fabricated in digital 's fourth - generation cmos process , cmos-4 , a 0.75 µm process with three layers of aluminium interconnect .
+two industries that many times interconnect are the plastic and automotive sectors .
+mr. brown developed inca ( integrated component architecture ) system in the british telecom when inca was the first interactive computational system in the world ; and headed the telecom business unit at texas instruments software ; he was a co - founder and executive director of intec telecom systems , vice president of business - development department in azure solutions and the ceo of i - conx solutions ; and advised many users in europe , asia , latin america and africa with respect to interconnect systems , their deployment and maintenance .
+via stands for " vertical interconnect access " which is a vertical electrical connection between different layers of conductors in printed circuit board design .
+the core network nodes interconnect radio access networks with other parts of the network .
+in conjunction with this project the npc was directed to build an island - wide high voltage transmission grid which would interconnect all of the island 's larger generating and distribution facilities , as well as convert the 50-hertz districts on the island 's west coast to the north american standard of 60 hertz .
+the v-11 chip set contained a total of 1,183,600 transistors spread over nine dies fabricated in digital 's zmos process , a 3.0 µm nmos process with two levels of interconnect .
+a wpan could serve to interconnect all the ordinary computing and communicating devices that many people have on their desk or carry with them today - or it could serve a more specialized purpose such as allowing the surgeon and other team members to communicate during an operation .
+dante ( delivery of advanced network technology to europe ) is a not - for - profit organisation that plans , builds and operates the international networks that interconnect the various national research and education networks in europe and surrounding regions .
+it was developed for inventory and order control management of interoffice trunk circuits that interconnect telephone switches .
+also , since interconnect and walkie - talkie calls use different networks , it is possible to receive a walkie - talkie alert while on a regular voice call -- something not possible on a traditional nextel phone .
+( 2 ) revenues and costs from interconnect and wholesale contracts ; and
+it was developed by sgi and fabricated by nec in their 0.11 µm process with eight levels of copper interconnect .
+the mdb protocol is used in vending machines to interconnect different modules ( such as bill acceptors , card readers and coin changers ) .
+the network used 200 km of standard fibre optic cable to interconnect six locations across vienna and the town of st poelten located 69 km to the west .
+each cluster interconnect provides a maximum bandwidth of 2 gb / s .
+the substrate might also be a multilayer substrate like a printed wiring board ( pwb ) designed to provide a high - density interconnect .
+the following logic families would either have been used to build up systems from functional blocks such as flip - flops , counters , and gates , or else would be used as " glue " logic to interconnect very - large scale integration devices such as memory and processors .
+some taxonomic groups ( passeriformes ) possess 7 air sacs , as the clavicular air sacs may interconnect or be fused with the cranial thoracic air sacs .
+these lines also interconnect saskpower 's grid with utilities in the united states and with atco electric in alberta and with manitoba hydro in manitoba .
+there are " cumulative " rules , where the sum ( or partial sum ) of the ratios over all interconnect layers sets the limit .
+each pe had between 64 mb and 2 gb of dram and a 6-way interconnect router with a payload bandwidth of 480 mb / s in each direction .
+it defines a new royalty - free , digital audio / video interconnect , intended to be used primarily between a computer and its display monitor , or a computer and a home - theater system .
+all networks are made up of basic hardware building blocks to interconnect network nodes , such as network interface cards ( nics ) , bridges , hubs , switches , and routers .
+digital fabricated the die in their sixth generation cmos process , cmos-6 , a 0.35 µm process with four layers of interconnect .
+at these locations , multiple carriers interconnect with one or more other carriers across a single physical port .
+however , hvdc systems make it possible to interconnect unsynchronized ac networks , and also add the possibility of controlling ac voltage and reactive power flow .
+in maximum machine 's configuration four second - level crossbars interconnect with each other , supporting in total 64 processor sockets .
+these days , a piconet is an ad - hoc computer network linking a user group of devices using bluetooth technology protocols to allow one " master " device to interconnect with up to seven active " slave " devices ( because a three - bit mac address is used ) .
+these state roads are either feeder roads that interconnect state highways together , or long entry / exit ramps to freeways ( often called " connector roads " ) .
+sites that adopt pfif may interconnect with the person finder by exporting and transmitting data or allowing their site to be scraped ; sites such as blogs and narrative accounts that are not compatible are reviewed by volunteers who key missing person information in pfif format .
+aluminium interconnect is typically used , laid out in a spiral coil pattern .
+in areas with a high concentration of the parent isotope , damage to the crystal lattice is quite extensive , and will often interconnect to form a network of radiation damaged areas . fission tracks and micro - cracks within the crystal will further extend this radiation damage network .
+in a recent chipworks reverse - engineering , it was disclosed that the trench contacts were formed as a " metal-0 " layer in tungsten serving as a local interconnect .
+in 2007 , itt cannon changed its name to itt interconnect solutions .
+griffo helped stop the new york regional interconnect ( nyri ) plan to run electricity from canada through oneida county .
+tukwila also implements intel quickpath interconnect ( qpi ) to replace the itanium bus - based architecture .
+in most cases they connect at least part of the address space in von neumann style , used for both instructions and data , usually to an ahb interconnect connecting to a dram interface and an external bus interface usable with nor flash memory .
+however , it does not nucleate on oxides , ruling out its use in all applications but copper interconnect layers .
+they also run around the county of lincolnshire to places such as skegness , boston , grantham , scunthorpe and grimsby - ( interconnect services ) also sleaford and newark .
+the interconnect protocol is defined by xmos , and is based around routing messages comprising 9-bit tokens between cores on a network .
+interconnect delay / wire delay /
+some vendors such as avaya and nortel created circuit packs or cards for their pbx systems that could interconnect their communications systems to the ip network .
+a touchstone file ( also known as an snp file after its set of file extensions ) is an ascii text file used for documenting the n - port network parameter data and noise data of linear active devices , passive filters , passive devices , or interconnect networks .
+it is fabricated by ibm in a 0.13 µm silicon on insulator ( soi ) complementary metal – oxide – semiconductor ( cmos ) process with eight layers of copper interconnect .
+its products include next generation integrated circuits for parallel optical interconnect applications intended for the computer , storage and communication industries .
+it was fabricated in a 0.35 µm complementary metal – oxide – semiconductor ( cmos ) process with six levels of interconnect .
+rapidio was developed by mercury computer systems and motorola ( now freescale ) , primarily as an upgraded interconnect for mercury 's embedded numa / cluster ( " multicomputer " ) signal processing computers .
+the r12000 was fabricated by nec and toshiba in a 0.25 µm cmos process with four levels of aluminum interconnect .
+the rs64-iii has 34 million transistors , a die size of 140 mm² , and is manufactured on the 0.22 μm cmos 7s process with six levels of copper interconnect .
+he felt that while the modules could be played individually , they are best played together as they interconnect in numerous places , and players adventuring in one module could suddenly find themselves in the other .
+transportation in metropolitan detroit is provided by a comprehensive system of transit services , airports , and an advanced network of freeways which interconnect the city and region .
+the process leading to sip actually had its origins with an application on october 15 , 1996 by sprint canada ( owned by call - net ) for an order by the crtc to northwestel to interconnect for long distance service .
+this new packet - based link protocol was called " ds - link " and later formed the basis of the ieee 1355 serial interconnect standard .
+key video processing technology includes : dcdi , madi , image scaling ( key industry patent ) , color management , lcd response time compensation , and founders of displayport interconnect technology now a vesa standard .
+hellas sat net connections are also used to interconnect public administration offices and schools in remote areas ( mostly remote islands of the aegean sea ) to the national administration network syzefxis and to the internet .
+in 1983 intel released two additional integrated circuits for the iapx 432 interconnect architecture , the 43204 bus interface unit ( biu ) and 43205 memory control unit ( mcu ) .
+interconnect with other products to perform a technical function ( the " must - fit " exception ) .
+from 2001 till his untimely death , he was responsible for all planning activities for the gsm , gprs and umts vodafone panafon core network ( design , architecture , dimensioning , ordering , rollout , interconnect , optimisation ) .
+the asic interfaces the subsystem to the turbochannel interconnect .
+the australian and new zealand systems are country specific and do not interconnect .
+in electronics , tungsten is used as an interconnect material in integrated circuits , between the silicon dioxide dielectric material and the transistors .
+it is usually used to refer to routes which interconnect different major conurbations , not used to refer to lines which connect a major city with its suburbs , though this is not a hard - and - fast distinction .
+such elektrichkas are usually high - speed , have quite few stops during travel , tickets are quite expensive and therefore such elektrichkas are usually serve as true intercity trains while cheaper ones often interconnect city and suburbans only .
+s / pdif was developed at the same time as the main standard , ebu , used to interconnect professional audio equipment in the professional audio field .
+in 1892 , cramer helped form the international divine science association , a forerunner of the international new thought alliance , which would interconnect the various new thought centers .
+different solutions were employed including one developed by focus interconnect technology ( former aptos engineers ) , which used a high aspect ratio plated copper post to provide a larger fixed standoff than was possible for a soft solder collapse joint .
+the powerpc 603 had 1.6 million transistors and was fabricated by ibm and motorola in a 0.5 µm cmos process with four levels of interconnect .
+similar to other sgi systems , the tezro used a non - blocking crossbar interconnect to connect all subsystems together .
+computer networks can also be classified according to the hardware and software technology that is used to interconnect the individual devices in the network , such as optical fiber , ethernet , wireless lan , homepna , power line communication or g.hn .
+the xswitch is an interconnect used by the xcore processor .
+the behavior of the entire cnn processor is defined by its initial conditions , the inputs , the cell interconnect ( topology and weights ) , and the cells themselves .
+gateways are widely used today in order to enable the legacy pstn phones to interconnect with the large , international h.323 networks that are presently deployed by services providers .
+hydro one has a 500 kv transmission line along with a 230 kv line that runs south to sudbury and continues all the way to toronto to interconnect with the rest of the 500 kv network in ontario .
+as voice over internet protocol ( voip ) technology matured , service providers began to interconnect voip with the public telephone network and marketed the voip service as a cheap replacement phone service .
+an individual episode of a soap opera will generally switch between several different concurrent story threads that may at times interconnect and affect one another or may run entirely independent of each other .
+analogix semiconductor develops analog and mixed - signal devices for digital media and communications interconnect applications .
+it was fabricated by digital in their fifth - generation cmos process , cmos-5 , a 0.5 µm process with four levels of aluminium interconnect .
+in 2002 intec further consolidated the interconnect billing market with acquisitions from icl and ericsson .
+powersource phones use the sprint network for interconnect ( regular voice phone calls ) and the nextel network for walkie - talkie calls .
+therefore , the figurative aspects of intelligence derive their meaning from the operative aspects of intelligence , because states can not exist independently of the transformations that interconnect them .
+the tundra acquisition is expected to strengthen the idt product portfolio of serial switching and bridging using pci express® , rapid io® and vme interconnect standards .
+mitigation strategies have been proposed , including digital interconnect cables which use dedicated clock lines so as to avoid data - dependent jitter or to obviate clock recovery altogether .
+processor – processor and processor – memory communication can be implemented in hardware in several ways , including via shared ( either multiported or multiplexed ) memory , a crossbar switch , a shared bus or an interconnect network of a myriad of topologies including star , ring , tree , hypercube , fat hypercube ( a hypercube with more than one processor at a node ) , or n - dimensional mesh .
+attaching these devices to interconnect larger areas provides for the theoretic possibility of up to 16.7 million unique paths between these devices , limited only by the device processing and memory capabilities .
+high - throughput optical interconnect technology .
+classic bridges may also interconnect using a spanning tree protocol that disables links so that the resulting local area network is a tree without loops .
+the high - speed interconnect between the cpu and cache components has been optimized to provide zero - wait state operation .
+two upstream pipelines interconnect with ko : columbia gulf transmission company and tennessee gas pipeline .
+the fpni improves on a field - programmable gate array ( fpga ) architecture by lifting the configuration bit and associated components out of the semiconductor plane and replacing them in the interconnect with nonvolatile switches , which decreases both the area and power consumption of the circuit -- while providing up to eight times the density at less cost .
+sun fire link is a memory - based interconnect , where sun mpi uses the remote shared memory ( rsm ) model for its user - level internode messaging protocol .
+two of the 345kv lines going out of the plant interconnect with first energy in ohio ( bayshore - monroe line and the majestic - monroe - allen junction line ) .
+ibm fabricated the crusoe in a 0.18 µm cmos process with five levels of copper interconnect .
+furthermore , half the usaf fighter force based in the air national guard ( ang ) are equipped with data link gear that can not interoperate with link 16 unless another platform carries a device called a " gateway " that carries both data links on - board with a computer system that can interconnect them .
+hdsl was developed in the usa , as a better technology for high - speed , synchronous circuits typically used to interconnect local exchange carrier systems , and also to carry high - speed corporate data links and voice channels , using t1 lines .
+to interconnect , companies order a patch from their cage or suite to the mmr , and then arrange for the organization running the facility to connect them together .
+it consisted of 1 million transistors and it was 50 mm2 large manufactured in a 0.5 µm , cmos process with four levels of interconnect .
+amphenol corporation ( ) is a major producer of electronic and fiber optic connectors , cable and interconnect systems .
+target disk mode is the preferred form of old - computer to new - computer interconnect used by apple 's migration assistant .
+these jumpers interconnect different logic and signal generators to produce the desired game logic and screen output components respectively .
+such transformers were originally designed to connect different telephone systems to one another while keeping their respective power supplies isolated , and are still commonly used to interconnect professional audio systems or system components .
+infomed started in 1992 as a project to interconnect the information centers and the medical libraries in cuba , and it is today a network with national reach .
+since the generator coils are at a potential of about 22 kv and water is conductive , an insulating barrier such as teflon is used to interconnect the water line and the generator high voltage windings .
+interconnect with the traditional phone system are
+it aggregates various storage bricks over infiniband rdma or tcp / ip interconnect into one large parallel network file system .
+the holes need to be drilled at the correct angle ( about 45 - 50 degrees compared to ice surface ) , and care must be taken that they interconnect .
+the " one life " lines added to the 1817 edition interconnect the senses and also connects sensation and experience of the divine with the music of the aeolian harp .
+direct client - to - client ( dcc ) is an irc - related sub - protocol enabling peers to interconnect using an irc server for handshaking in order to exchange files or perform non - relayed chats .
+the evidence suggests that the prefrontal cortex and , within that , the orbitofrontal area are stimulated and interconnect more powerfully when a child is demonstrably loved .
+stadelhofen station is a nodal point where the lines lines s3 , s5 , s6 , s7 , s9 , s12 , s15 and s16 of the zürich s - bahn , the forchbahn and zürich trams interconnect .
+if the propagation delay in a wire , pcb trace , cable , or connector is greater than 1/6 of the rise time of the digital signal , the " lumped " circuit model is no longer valid and the interconnect has to be analyzed as a transmission line .
+the stories briefly interconnect , giving the impression that all are involved in each others life and all have been affected .
+vpx retains vme ’s existing 6u and 3u form factors , supporting existing pci mezzanine card and xmc mezzanines ( pmc with high - speed serial fabric interconnect ) , and maintaining the maximum possible compatibility with vmebus .
+the greenville transmitting station provides shortwave broadcasts for u.s. government - funded , non - military , international broadcasting and serves as a standby , alternate gateway for the satellite interconnect system to use to uplink programming , should the washington , d.c. , sis gateway become unavailable .
+it is used today mostly for performance focused computer cluster applications , and there are some efforts to adapt infiniband as a " standard " interconnect between low - cost machines as well .
+digital 's star coupler was developed for use with the vax- and later alpha - based computers running digital 's vms operating system , to provide a passive , highly reliable interconnect for digital 's cluster technology .
+this dedicated bus , which had an 80 ns ( 12.5 mhz ) cycle time , contributed to the improved performance the vax 8600 had over the vax-11/780 , which accessed memory via the synchronous backplane interconnect ( sbi ) that was shared with i / o devices .
+their highpoint was in june 2003 when six out of the ten fastest supercomputers in the world were based on quadrics ' interconnect .
+cpu cards include peripheral component interconnect ( pci ) cards , modular pc cards , industry standard architecture ( isa ) cards , pci extensions for instrumentation ( pxi ) cards , embedded technology extended ( etx ) cards , and many others .
+the line is currently being extended to trenitalia 's main naples station at " piazza garibaldi " , passing through the port area where it will interconnect with the proposed line 6 at " municipio " ( town hall ) .
+mediation software performs various operation from collection to downstream distribution to modules like retail billing , interconnect settlement , business intelligence , fraud detection , revenue assurance , test call generation .
+the chips are manufactured by ibm in its 0.72 μm cmos process , which features a 0.45 μm effective channel length ; and one layer of polysilicon and four layers of metal interconnect .
+nota device consists of service nodes ( sn ) and application nodes ( an ) that communicate through logical interconnect ( in ) .
+this broad range of issues at the device and interconnect levels , including links to underlying patterning and processing technologies , is summarized in figure 1 and provides a conceptual framework for the discussion that now follows .
+after some discussion , the rbc managers agreed to " interconnect " their regional networks by peering with the universities ' janet network .
+numalink 5 is the fifth generation of the interconnect , introduced in 2009 and used in the altix uv series .
+it may be used to control video surveillance systems or to interconnect security control panels and devices such as access control card readers .
+these are designed device extraction , interconnect extraction , and parasitic device extraction .
+idt fabricated the r5000 in a process with two levels of polysilicon and three levels of aluminium interconnect .
+in addition , the company operates five business units : multek , a provider of multi - layer printed and flexible circuit boards , interconnect technologies and complex displays ; vista point technologies ( vpt ) , which offers a comprehensive range of camera module solutions ; global services , which focuses on logistics , reverse logistics and repair operations ; flexpower , a provider of semi - custom and custom power supplies and battery chargers ; and retail technical services , a field services organization for customer operations .
+the interconnect can be either a metallic or ceramic layer that sits between each individual cell .
+the most unique aspect of the system is its multicore processing node which integrates six mips64 cores , a crossbar memory controller , interconnect dma engine , gigabit ethernet and pci express controllers all on a single chip which consumes only 10 watts of power , yet has a peak floating point performance of 6 gflops .
+it is believed that , going through the same hardships can implement a common ground amongst otherwise diverse groups , and interconnect them .
+however , as opposed to " pac - man " where the object of the game is to eat pac - dots , in " munch man " the object is to interconnect individual links to form a continuous chain .
+in telecommunication in the united states , a rural radio service is a public radio service rendered by fixed stations on frequencies below 1000 mhz used to provide ( 1 ) basic exchange telecommunications radio service , which is public message communication service between a central office and subscribers located in rural areas , ( 2 ) public message communication service between landline central offices and different exchange areas to which it is impractical to interconnect by any other means , or ( 3 ) private line telephone , telegraph , or facsimile service between two or more points to which it is impractical to extend service via landline .
+each subsystem communicates with the others via a high - speed interconnect . "
+the easiest way to interconnect these systems is by attaching the correct transceiver to the aui port of the equipment that is to be connected ; for example , to connect a pc or hub with an aui port to a standard 10base - t network , attach a 10base - t transceiver ; to connect it to a lattisnet network attach a lattisnet transceiver .
+when the processors and their interconnect are all implemented on a single silicon chip , the technology is known as a multi - core microprocessor .
+this series of specifications incorporates the latest trends in high speed interconnect technologies , next generation processors , and improved reliability , availability and serviceability ( ras ) .
+the decstation 5000 systems , introduced later , improved on the lack of expansion capabilities by providing the turbochannel interconnect .
+memory interconnect / ram buses .
+superjanet4 also saw an increase in the userbase of janet with the inclusion of the further education community and the use of the superjanet4 backbone to interconnect schools ' networks .
+the town is unique for having wine cellars that interconnect below the streets of the town centre .
+numalink is a system interconnect developed by sgi for use in its distributed shared memory ccnuma computer systems .
+the city ’s largest manufacturers in terms of employment include the paul mueller company , kraft foods , hutchens industries , src holdings , loren cook company , positronic industries , regal - beloit , carlisle power transmission , solo cup , northrup grumman interconnect technologies , reckitt benckiser and 3m.
+" bigben is a cray xt3 mpp system with 2068 compute nodes linked by a custom - designed interconnect .
+isps may engage in peering , where multiple isps interconnect at peering points or internet exchange points ( ixs ) , allowing routing of data between each network , without charging one another for the data transmitted — data that would otherwise have passed through a third upstream isp , incurring charges from the upstream isp .
+electronic components : motor controllers , small - signal diodes , crystal oscillators / vcos , saw resonators , bridge rectifiers , coreless / micro motors , bluetooth modules , discrete components , image sensors , interconnect cables , rf cable assemblies , idc connectors
+the hundreds of processors on the chip send data and control messages to one another through an interconnect of reconfigurable , self - synchronizing channels , which provide both communication and synchronization .
+expanders exist to allow more complex interconnect topologies .
+maxim ’s product lines include : 1-wire and ibutton devices ; amplifiers and comparators ; analog switches and multiplexers ; audio / video ; automotive ; clock generation and distribution ; analog - to - digital converters ; digital - to - analog converters ; digital potentiometers ; analog filters ; high - frequency asics ; hot - swap and power switching ; interface and interconnect ; memories ( volatile , nonvolatile , multifunction ) ; microcontrollers ; military / aerospace ; optoelectronics ; battery and power management ; powerline networking ; protection and isolation ; real - time clocks ; storage products ; microprocessor supervisors ; t / e carrier and packetized communications ; thermal management ; voltage references ; wireless , rf , and cable .
+current generation of dual - gpu design also features an interconnect for inter - gpu communications through the implementation of a " crossfire x sideport " on each gpu , giving extra 10 gb / s inter - gpu bandwidth ( 5 gb / s each direction ) .
+in 2003 , arm introduced the 3rd generation , amba 3 , including axi to reach even higher performance interconnect and the advanced trace bus ( atb ) as part of the coresight on - chip debug and trace solution .
+on september 15 , 2006 , the state government announced the start of construction for the most important south segment , which will serve as a corridor for more than 250,000 trucks per month which must go through the city of são paulo in order to interconnect to or from the city port of santos .
+becoming more densely packed , interconnect layers are added , and analog resolution is increased .
+in october , 1962 , licklider was hired by jack ruina as director of the newly established ipto within darpa , with a mandate to interconnect the united states department of defense 's main computers at cheyenne mountain , the pentagon , and sac hq .
+the article claimed that apple had been working on the technology since 2007 , around the time that clearcurve was introduced , and that apple ceo steve jobs personally asked intel ceo paul otellini to take up development of the system as a new standard , stating that an all - optical interconnect was the only way to proceed .
+nec fabricated the r4200 in a 0.6 µm cmos process with three levels of interconnect .
+this notion stems from ansai ’s morality , cosmology , and the interconnect between the two ( all based in zhu xi ’s thought ) .
+category 7 cable ( cat 7 ) , ( iec 11801:2002 category 7/class f ) , is a cable standard for ethernet and other interconnect technologies that can be made to be backwards compatible with traditional cat 5 and cat 6 ethernet cable .
+the process has four levels of interconnect .
+cables are employed to interconnect the switches and signal conditioners .
+most modern systems use variants of the msi protocol to reduce the amount of traffic in the coherency interconnect .
+these difficulties are often a result of the layout software used to develop the interconnect .
+an ess system usually consists of a test chamber , controller , fixturing , interconnect and wiring , and a functional tester .
+the zone-3 area can also hold a special backplane to interconnect boards with signals that are not defined in the advancedtca specification .
+the solution of increasingly complicated interconnect , making dense integral equation approaches
+the notion of a bay area interconnect was developed early on as cmc expanded by doing local original cable channels on concord tv cable ch .
+at a higher level , it is necessary to interconnect processes running on those cpus with some sort of communication system .
+interconnect .
+an interconnect processing unit ( ipu ) is essentially an on - chip communication network ( noc ) with hardware and software components which jointly implement key functions of different soc programming models through a set of communication and synchronization primitives and provide low - level platform services to enable advanced features in modern heterogeneous applications on a single die .
+the digital storage systems interconnect ( dssi ) is a bus developed by digital equipment corporation for connecting storage devices and clustering vax systems .
+the office controller was envisaged as a central switch which would interconnect and create all applications and make them available to users .
+many smaller networks , or networks who are just beginning to peer , find that public peering exchange points provide an excellent way to meet and interconnect with other networks who may be open to peering with them .
+a few graphics cards still use peripheral component interconnect ( pci ) slots , but their bandwidth is so limited that they are generally used only when a pcie or agp slot is not available .
+to address this problem , private data network operators began to privately interconnect ( peer ) their networks .
+in most cases , it is more economical to interconnect multiple buildings wirelessly than it is to lay cable between them .
+under the low frequency condition , every point in an interconnect wire can be assumed to have the same voltage as every other point for any instance in time and there is no need to consider the concept of termination .
+hypertransport packets enter the interconnect in segments known as bit times .
+however many regional telephone service operators have no interconnect agreement with iridium or other satellite networks and users on these networks need to call reversed charge to a u.s .- based number .
+it features trailing edge flaps which interconnect with the ailerons and allow the entire trailing edge to operate as a flap between -9 and + 5 degrees .
+the cluster interconnect is implemented by a dma engine fabric switch .
+during the formation of bone spicules , cytoplasmic processes from osteoblasts interconnect .
+according to intel and the company 's own press release , iptronics is one of the companies that is already sampling and will produce light peak technology , which is intel 's code - name for a new high - speed optical cable technology designed to connect electronic devices to each other using optical interconnect .
+pcie devices communicate via a logical connection called an interconnect or " link " .
+previous work in this area can be found in [ 1 ] and [ 2 ] , but these do not consider many of the effects of deep - sub - micron interconnect .
+pci ( peripheral component interconnect ) was immediately put to use in servers , replacing mca and eisa as the server expansion bus of choice .
+the interconnect is formed between a host and a module .
+large three - phase autotransformers are used in electric power distribution systems , for example , to interconnect 33 kv and 66 kv sub - transmission networks .
+in mathematics , in particular numerical analysis , the feti method ( finite element tearing and interconnect ) is an iterative substructuring method for solving systems of linear equations from the finite element method for the solution of elliptic partial differential equations , in particular in computational mechanics
+interconnect buses have parity protection .
+switch and data was founded in 1998 to serve the needs of network service providers who needed neutral , efficient sites to interconnect their growing networks .
+it was to be implemented in a 0.125 μm ( sometimes referred to as 0.13 μm ) complementary metal – oxide – semiconductor ( cmos ) process with seven layers of copper interconnect , partially - depleted silicon - on - insulator ( pd - soi ) , and low - k dielectric .
+the xswitch interconnect architecture implements the media layer of the osi model .
+it consisted of 65 million transistors on a 380 mm2 die fabricated by fujitsu in their cs85 process , a 0.17 µm cmos process with six levels of copper interconnect .
+in this paper , they present the initial simulations and the first experimental characterizations of a vcsel - based point - to - point free space interconnect on distances ranging from 16 cm to 40 cm targeting bit rates up to 2.5gbps .
+mlt-3 was first introduced by cisco systems as a coding scheme for fddi copper interconnect ( tp - pmd , aka cddi ) .
+the very high density cable interconnect ( vhdci ) is a 68-pin connector that was introduced in the spi-3 document of scsi-3 .
+it is based on the assumptions that surplus water in some rivers can be diverted to deficit rivers by creating a network of canals to interconnect the rivers .
+although power wires are not designed for networking applications , new technologies like power line communication allows these wires to also be used to interconnect home computers , peripherals or other networked consumer products .
+a special t - connected transformer arrangement invented by scott ( " scott t " ) interfaces between resolver and synchro data formats ; it was invented to interconnect two - phase ac power with three - phase power , but can also be used for precision applications .
+ac transmission lines can only interconnect synchronized ac networks that oscillate at the same frequency and in phase .
+the antenna basically is a metal interconnect , i.e. , a conductor like polysilicon or metal , that is not electrically connected to silicon or grounded , during the processing steps of the wafer .
+cmos-6 has a 0.35 µm feature size , a 0.25 µm effective channel length but for use with the sa-110 , only three levels of aluminium interconnect .
+other associated standards have added hot - swapping ( plug - and - play ) in " vme64x " , smaller ' ip ' cards that plug into a single vmebus card , and various interconnect standards for linking vme systems together .
+initially , the new company focussed on the development potential of the cs-2 's processor interconnect technology .
