@@ -29,12 +29,12 @@ ax2.plot(x_log, y_log, linewidth=3)
 ax2.set_xlabel(xlabel='Log(Rank)', labelpad=20)
 ax2.set_ylabel(ylabel="Log(Frequency)", labelpad=20)
 
-"""
+
 for rank in range(5):
     label = x[rank]
     plt.annotate(label,  # this is the text
                  (rank + 1, y[rank]),  # this is the point to label
                  xytext=(0, 10),  # distance from text to points (x,y)
                  ha='left')  # horizontal alignment can be left, right or center
-"""
+
 plt.show()

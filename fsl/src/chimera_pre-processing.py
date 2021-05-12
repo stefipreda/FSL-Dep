@@ -19,9 +19,7 @@ for line in reader:
                 writer.write(word.lower())
                 if i < len(words) -1:
                     writer.write(" ")
-
     if not odd:
         double_concept = tokens[4]
         writer.write(double_concept + '\n')
-
     odd = not odd

@@ -1,30 +1,20 @@
-from nltk.corpus import stopwords
 from abc import ABC
 import numpy as np
 import spacy
-import pickle
-import gensim.downloader
-import dynet as dy
-
-from fsl.src.evaluation_dn import Evaluation_DN
-from fsl.src.evaluation_crw import Evaluation_CRW
-from fsl.src.evaluation_chimera import Evaluation_Chimera
-
-stop_words = set(stopwords.words('english'))
-
 
 class BackgroundModel():
-    def __init__(self, embeddings, dim):
+    def __init__(self, embeddings, dim, name):
         self.emb = embeddings
         self.dim = dim
-
+        self.name = name
 
 class FSLModel(ABC):
-    def __init__(self, background_model, stop_words):
+    def __init__(self, background_model, stop_words, name):
         self.background_model = background_model
         self.stop_words = stop_words
+        self.name = name
 
-    # contexts is a vector of sentences!
+    # contexts must be a vector of sentences!
     def get_vector(self, word, contexts):
         pass
 
@@ -120,57 +110,4 @@ class ALaCarteModel(FSLModel):
         context_vectors = [self.background_model[x] for sentence in contexts for x in sentence.split() if
                            x != word and x != "___" and x in self.background_model and x not in self.stop_words]
         return self.A.dot(np.zeros(self.background_model.vector_size) + sum(context_vectors))
-
-
-vocab_size = pickle.load(open("../../vocab_size_down_500.p", "rb"))
-labels_size = pickle.load(open("../../labels_size.p", "rb"))
-vocab = pickle.load(open("../../vocab_down_500.p", "rb"))
-
-dim = 100
-# Initialize parameters:
-m = dy.ParameterCollection()
-
-# Input embeddings:
-E = m.add_lookup_parameters((vocab_size, dim))
-
-# Output embeddings:
-O = m.add_lookup_parameters((vocab_size, dim))
-
-# Dependency matrices:
-T = m.add_lookup_parameters((labels_size, dim, dim))
-
-m.populate("../../dm_model_complete")
-
-embeddings = {}
-
-for word in vocab.keys():
-    idx = vocab[word]
-    emb = np.concatenate((E[idx].npvalue(), O[idx].npvalue()))
-    embeddings[word] = emb
-
-dependency_model = BackgroundModel(embeddings, 2*dim)
-
-"""
-word2vec = gensim.downloader.load('word2vec-google-news-300')
-embeddings = {}
-for word in vocab.keys():
-    if word in word2vec.vocab:
-        emb = word2vec[word]
-        embeddings[word] = emb
-word2vec_model = BackgroundModel(embeddings, 300)
-
-"""
-additive_model = AdditiveModel(dependency_model, stop_words)
-dependency_additive_model = DependencyAdditiveModel(dependency_model, stop_words)
-
-print("Data gathered.")
-print("Everything ok.")
-#evaluator = Evaluation_Chimera(dependency_additive_model)
-#evaluator.evaluate()
-
-print("CRW")
-for count in [2, 4]:
-    print("Number of Context Sentences : {}".format(count))
-    evaluator = Evaluation_CRW(dependency_additive_model, count)
-    evaluator.evaluate()
 

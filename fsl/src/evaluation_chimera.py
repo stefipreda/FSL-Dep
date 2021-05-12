@@ -46,7 +46,8 @@ class Evaluation_Chimera:
                 next_sentence = i + 1
 
     def evaluate(self):
-        print("Evaluating Chimera for additive model:")
+        print("Evaluating Chimera for {} model with {} background {}".
+              format(self.fsl_model.name, self.fsl_model.background_model.name))
         for sent_count in [2, 4, 6]:
             scores = []
             for hybrid in self.human_scores.keys():
@@ -62,5 +63,4 @@ class Evaluation_Chimera:
                               ]
                 if fsl_scores:
                     scores.append(spearmanr(human_scores, fsl_scores)[0])
-
             print("Spearman for {} context sentences: {}".format(sent_count, np.mean(scores)))

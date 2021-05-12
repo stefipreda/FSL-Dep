@@ -31,8 +31,8 @@ class Evaluation_DN:
     def run_trial_return_ranks(self):
         ranks = []
         for nonce in self.nonces.keys():
-            #if self.show_summary:
-                #print(nonce)
+            if self.show_summary:
+                print(nonce)
             sentence = self.nonces[nonce]
             nonce_vec = self.fsl_model.get_vector(nonce, [sentence])
             if nonce in self.fsl_model.background_model.emb.keys():
@@ -53,7 +53,8 @@ class Evaluation_DN:
         return 1 + count_closer
 
     def evaluate(self):
-        print("Evaluating DN for additive model")
+        print("Evaluating DN for {} model with {} background {}".
+              format(self.fsl_model.name, self.fsl_model.background_model.name))
         ranks = self.run_trial_return_ranks()
         mrr = sum([1 / r for r in ranks]) / len(ranks)
         median = np.median(ranks)

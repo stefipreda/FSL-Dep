@@ -35,7 +35,8 @@ class Evaluation_CRW:
                 self.contexts[rare_word].append(contexts[idx])
 
     def evaluate(self):
-        print("Evaluating CRW for additive model:")
+        print("Evaluating CRW for {} model with {} background {}".
+              format(self.fsl_model.name, self.fsl_model.background_model.name))
         true_sims = []
         new_sims = []
         for rare_word in self.contexts.keys():
