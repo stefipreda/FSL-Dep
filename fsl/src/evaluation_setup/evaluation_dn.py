@@ -9,8 +9,8 @@ def similarity(word_vec1, word_vec2):
 class Evaluation_DN:
     def __init__(self, fsl_model, show):
         self.fsl_model = fsl_model
-        self.data_path_train = '../datasets/DN/n2v.definitional.dataset.train.txt'
-        self.data_path_test = '../datasets/DN/n2v.definitional.dataset.test.txt'
+        self.data_path_train = '../../datasets/DN/n2v.definitional.dataset.train.txt'
+        self.data_path_test = '../../datasets/DN/n2v.definitional.dataset.test.txt'
         self.nonces = {}
         self.show_summary = show
 

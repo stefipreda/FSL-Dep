@@ -10,9 +10,8 @@ import numpy as np
 import gensim.downloader
 from nltk.corpus import stopwords
 from fsl.src.fsl_models import BackgroundModel, AdditiveModel, DependencyAdditiveModel
-from fsl.src.evaluation_dn import Evaluation_DN
-from fsl.src.evaluation_crw import Evaluation_CRW
-from fsl.src.evaluation_chimera import Evaluation_Chimera
+from fsl.src.evaluation_setup.evaluation_crw import Evaluation_CRW
+from fsl.src.evaluation_setup.evaluation_chimera import Evaluation_Chimera
 
 vocab_size = pickle.load(open("../../vocab_size_down_500.p", "rb"))
 labels_size = pickle.load(open("../../labels_size.p", "rb"))

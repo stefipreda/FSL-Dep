@@ -13,7 +13,7 @@ class Evaluation_CRW:
     def __init__(self, fsl_model, sentences_cnt):
         self.fsl_model = fsl_model
         self.sentences_cnt = sentences_cnt
-        self.data_path = '../datasets/CRW'
+        self.data_path = '../../datasets/CRW'
 
         self.true_similarities = {}
         reader = open(self.data_path + "/CRW-562.txt", "r")
